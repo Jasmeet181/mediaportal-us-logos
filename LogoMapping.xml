@@ -1,0 +1,7330 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <!-- ******************************************************************** -->
+  <TV>
+    <Channel>
+      <Item Name="247">
+        <Satellite />
+      </Item>
+      <File>247.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3ABN Latino">
+        <Satellite />
+      </Item>
+      <File>3ABN Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3ABN Network">
+        <Satellite />
+      </Item>
+      <File>3ABN Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3ABN Proclaim!">
+        <Satellite />
+      </Item>
+      <File>3ABN Proclaim!.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="4SD">
+        <Satellite />
+      </Item>
+      <File>4SD.png</File>
+    </Channel>
+	<Channel>
+      <Item Name="52MX">
+        <Satellite />
+      </Item>
+      <File>52MX.png</File>
+    </Channel>
+	<Channel>
+	  <Item Name="5StarMax HD">
+        <Satellite />
+      </Item>
+	  <File>5StarMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="5StarMax">
+        <Satellite />
+      </Item>
+      <File>5StarMax.png</File>
+    </Channel>
+	<Channel>
+	  <Item Name="A&E HD">
+	    <Satellite />
+	  </Item>
+	  <File>A&amp;E HD.png</File>
+	</Channel>
+    <Channel>
+      <Item Name="A&E">
+        <Satellite />
+      </Item>
+      <File>A&amp;E.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AAG TV">
+        <Satellite />
+      </Item>
+      <File>AAG TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aaj Tak">
+        <Satellite />
+      </Item>
+      <File>Aaj Tak.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AAJ USA">
+        <Satellite />
+      </Item>
+      <File>AAJ USA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aapka Colors">
+        <Satellite />
+      </Item>
+      <File>Aapka Colors.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC Family HD">
+        <Satellite />
+      </Item>
+      <File>ABC Family HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC Family">
+        <Satellite />
+      </Item>
+      <File>ABC Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC HD">
+        <Satellite />
+      </Item>
+      <File>ABC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABC">
+        <Satellite />
+      </Item>
+      <File>ABC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ABP News">
+        <Satellite />
+      </Item>
+      <File>ABP News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Abu Dhabi TV">
+        <Satellite />
+      </Item>
+      <File>Abu Dhabi TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AccuWeather Channel">
+        <Satellite />
+      </Item>
+      <File>AccuWeather Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ActionMax HD">
+        <Satellite />
+      </Item>
+      <File>ActionMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ActionMax">
+        <Satellite />
+      </Item>
+      <File>ActionMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aditya TV">
+        <Satellite />
+      </Item>
+      <File>Aditya TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adult Swim">
+        <Satellite />
+      </Item>
+      <File>Adult Swim.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Africa Box Office">
+        <Satellite />
+      </Item>
+      <File>Africa Box Office.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Afrotainment Music">
+        <Satellite />
+      </Item>
+      <File>Afrotainment Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Afrotainment">
+        <Satellite />
+      </Item>
+      <File>Afrotainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AIT">
+        <Satellite />
+      </Item>
+      <File>AIT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aksyon">
+        <Satellite />
+      </Item>
+      <File>Aksyon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Ahly TV">
+        <Satellite />
+      </Item>
+      <File>Al Ahly TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Arabiya">
+        <Satellite />
+      </Item>
+      <File>Al Arabiya.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Hayat Cinema">
+        <Satellite />
+      </Item>
+      <File>Al Hayat Cinema.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Hayat">
+        <Satellite />
+      </Item>
+      <File>Al Hayat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Jazeera America">
+        <Satellite />
+      </Item>
+      <File>Al Jazeera America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Jazeera">
+        <Satellite />
+      </Item>
+      <File>Al Jazeera.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Al Yawm">
+        <Satellite />
+      </Item>
+      <File>Al Yawm.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Almavision">
+        <Satellite />
+      </Item>
+      <File>Almavision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Alpha ETC Punjabi">
+        <Satellite />
+      </Item>
+      <File>Alpha ETC Punjabi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Alpha Sat">
+        <Satellite />
+      </Item>
+      <File>Alpha Sat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Altitude">
+        <Satellite />
+      </Item>
+      <File>Altitude.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Amazing Facts TV">
+        <Satellite />
+      </Item>
+      <File>Amazing Facts TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AMC HD">
+        <Satellite />
+      </Item>
+      <File>AMC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AMC">
+        <Satellite />
+      </Item>
+      <File>AMC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Amedia">
+        <Satellite />
+      </Item>
+      <File>Amedia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="America One">
+        <Satellite />
+      </Item>
+      <File>America One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="American Heroes Channel">
+        <Satellite />
+      </Item>
+      <File>American Heroes Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Americas Auction Network">
+        <Satellite />
+      </Item>
+      <File>Americas Auction Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AMGTV">
+        <Satellite />
+      </Item>
+      <File>AMGTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Angel One">
+        <Satellite />
+      </Item>
+      <File>Angel One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Angel Two">
+        <Satellite />
+      </Item>
+      <File>Angel Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Anhui TV">
+        <Satellite />
+      </Item>
+      <File>Anhui TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Animal Planet HD">
+        <Satellite />
+      </Item>
+      <File>Animal Planet HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Animal Planet">
+        <Satellite />
+      </Item>
+      <File>Animal Planet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Anime Network">
+        <Satellite />
+      </Item>
+      <File>Anime Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Antenna Satellite">
+        <Satellite />
+      </Item>
+      <File>Antenna Satellite.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Antenna TV">
+        <Satellite />
+      </Item>
+      <File>Antenna TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Arizona NewsChannel">
+        <Satellite />
+      </Item>
+      <File>Arizona NewsChannel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ART America">
+        <Satellite />
+      </Item>
+      <File>ART America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ART Movies">
+        <Satellite />
+      </Item>
+      <File>ART Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ARTN">
+        <Satellite />
+      </Item>
+      <File>ARTN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ARY Musik">
+        <Satellite />
+      </Item>
+      <File>ARY Musik.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ARY Zauq">
+        <Satellite />
+      </Item>
+      <File>ARY Zauq.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Aspire">
+        <Satellite />
+      </Item>
+      <File>Aspire.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ATN Bangla">
+        <Satellite />
+      </Item>
+      <File>ATN Bangla.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ATV Home">
+        <Satellite />
+      </Item>
+      <File>ATV Home.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Audience Network">
+        <Satellite />
+      </Item>
+      <File>Audience Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="AWE">
+        <Satellite />
+      </Item>
+      <File>AWE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Axs TV">
+        <Satellite />
+      </Item>
+      <File>Axs TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Azteca America">
+        <Satellite />
+      </Item>
+      <File>Azteca America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="B4U Movies">
+        <Satellite />
+      </Item>
+      <File>B4U Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="B4U Music">
+        <Satellite />
+      </Item>
+      <File>B4U Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BabyFirst TV">
+        <Satellite />
+      </Item>
+      <File>BabyFirst TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BabyTV">
+        <Satellite />
+      </Item>
+      <File>BabyTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Band International">
+        <Satellite />
+      </Item>
+      <File>Band International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Band News">
+        <Satellite />
+      </Item>
+      <File>Band News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bandamax">
+        <Satellite />
+      </Item>
+      <File>Bandamax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BanglaVision">
+        <Satellite />
+      </Item>
+      <File>BanglaVision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bay News 9">
+        <Satellite />
+      </Item>
+      <File>Bay News 9.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC America HD">
+        <Satellite />
+      </Item>
+      <File>BBC America HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC America">
+        <Satellite />
+      </Item>
+      <File>BBC America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Arabic">
+        <Satellite />
+      </Item>
+      <File>BBC Arabic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC World">
+        <Satellite />
+      </Item>
+      <File>BBC World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Beijing TV">
+        <Satellite />
+      </Item>
+      <File>Beijing TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BeIN Sport HD">
+        <Satellite />
+      </Item>
+      <File>BeIN Sport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BeIN Sport">
+        <Satellite />
+      </Item>
+      <File>BeIN Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BeIN Sports en Espanol">
+        <Satellite />
+      </Item>
+      <File>BeIN Sports en Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Benfica TV">
+        <Satellite />
+      </Item>
+      <File>Benfica TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BET Gospel">
+        <Satellite />
+      </Item>
+      <File>BET Gospel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BET HD">
+        <Satellite />
+      </Item>
+      <File>BET HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BET Hip-Hop">
+        <Satellite />
+      </Item>
+      <File>BET Hip-Hop.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BET">
+        <Satellite />
+      </Item>
+      <File>BET.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Big Magic International">
+        <Satellite />
+      </Item>
+      <File>Big Magic International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Big Screen Preview Network">
+        <Satellite />
+      </Item>
+      <File>Big Screen Preview Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bio HD">
+        <Satellite />
+      </Item>
+      <File>Bio HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bio">
+        <Satellite />
+      </Item>
+      <File>Bio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BizTV">
+        <Satellite />
+      </Item>
+      <File>BizTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bloomberg HD">
+        <Satellite />
+      </Item>
+      <File>Bloomberg HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bloomberg">
+        <Satellite />
+      </Item>
+      <File>Bloomberg.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Blue Highway TV">
+        <Satellite />
+      </Item>
+      <File>Blue Highway TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Blue Ridge Communications HD">
+        <Satellite />
+      </Item>
+      <File>Blue Ridge Communications HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bohemia Visual Music">
+        <Satellite />
+      </Item>
+      <File>Bohemia Visual Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BON TV">
+        <Satellite />
+      </Item>
+      <File>BON TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Boomerang">
+        <Satellite />
+      </Item>
+      <File>Boomerang.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bostel">
+        <Satellite />
+      </Item>
+      <File>Bostel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bounce TV">
+        <Satellite />
+      </Item>
+      <File>Bounce TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bravo HD">
+        <Satellite />
+      </Item>
+      <File>Bravo HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bravo">
+        <Satellite />
+      </Item>
+      <File>Bravo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Brazzers TV">
+        <Satellite />
+      </Item>
+      <File>Brazzers TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bright House Sports Network">
+        <Satellite />
+      </Item>
+      <File>Bright House Sports Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BTN HD">
+        <Satellite />
+      </Item>
+      <File>BTN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BTN">
+        <Satellite />
+      </Item>
+      <File>BTN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BYUtv">
+        <Satellite />
+      </Item>
+      <File>BYUtv.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN HD">
+        <Satellite />
+      </Item>
+      <File>C-SPAN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN">
+        <Satellite />
+      </Item>
+      <File>C-SPAN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN2 HD">
+        <Satellite />
+      </Item>
+      <File>C-SPAN2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN2">
+        <Satellite />
+      </Item>
+      <File>C-SPAN2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN3 HD">
+        <Satellite />
+      </Item>
+      <File>C-SPAN3 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="C-SPAN3">
+        <Satellite />
+      </Item>
+      <File>C-SPAN3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CamTV">
+        <Satellite />
+      </Item>
+      <File>CamTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cars.TV">
+        <Satellite />
+      </Item>
+      <File>Cars.TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cartoon Network HD">
+        <Satellite />
+      </Item>
+      <File>Cartoon Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cartoon Network">
+        <Satellite />
+      </Item>
+      <File>Cartoon Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Casa Club TV">
+        <Satellite />
+      </Item>
+      <File>Casa Club TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CatholicTV">
+        <Satellite />
+      </Item>
+      <File>CatholicTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBeebies HD">
+        <Satellite />
+      </Item>
+      <File>CBeebies HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBeebies">
+        <Satellite />
+      </Item>
+      <File>CBeebies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS HD">
+        <Satellite />
+      </Item>
+      <File>CBS HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS Sports Network HD">
+        <Satellite />
+      </Item>
+      <File>CBS Sports Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS Sports Network">
+        <Satellite />
+      </Item>
+      <File>CBS Sports Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CBS">
+        <Satellite />
+      </Item>
+      <File>CBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV Entertainment">
+        <Satellite />
+      </Item>
+      <File>CCTV Entertainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV Opera">
+        <Satellite />
+      </Item>
+      <File>CCTV Opera.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-4">
+        <Satellite />
+      </Item>
+      <File>CCTV-4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-9">
+        <Satellite />
+      </Item>
+      <File>CCTV-9.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-E">
+        <Satellite />
+      </Item>
+      <File>CCTV-E.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-News">
+        <Satellite />
+      </Item>
+      <File>CCTV-News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Centric">
+        <Satellite />
+      </Item>
+      <File>Centric.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CentroamericaTV">
+        <Satellite />
+      </Item>
+      <File>CentroamericaTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CGN TV">
+        <Satellite />
+      </Item>
+      <File>CGN TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel 1 Russian">
+        <Satellite />
+      </Item>
+      <File>Channel 1 Russian.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel i">
+        <Satellite />
+      </Item>
+      <File>Channel i.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel V">
+        <Satellite />
+      </Item>
+      <File>Channel V.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Chicago Access Network Television">
+        <Satellite />
+      </Item>
+      <File>Chicago Access Network Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Chicagoland Television">
+        <Satellite />
+      </Item>
+      <File>Chicagoland Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Chiller">
+        <Satellite />
+      </Item>
+      <File>Chiller.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="China Movie Channel">
+        <Satellite />
+      </Item>
+      <File>China Movie Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Chongqing International">
+        <Satellite />
+      </Item>
+      <File>Chongqing International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Christian Television Network">
+        <Satellite />
+      </Item>
+      <File>Christian Television Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Church Channel">
+        <Satellite />
+      </Item>
+      <File>Church Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cine Bangla">
+        <Satellite />
+      </Item>
+      <File>Cine Bangla.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cine Mexicano">
+        <Satellite />
+      </Item>
+      <File>Cine Mexicano.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinelatino">
+        <Satellite />
+      </Item>
+      <File>Cinelatino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinemax HD">
+        <Satellite />
+      </Item>
+      <File>Cinemax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinemax">
+        <Satellite />
+      </Item>
+      <File>Cinemax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinemoi">
+        <Satellite />
+      </Item>
+      <File>Cinemoi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Classic Arts Showcase">
+        <Satellite />
+      </Item>
+      <File>Classic Arts Showcase.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cloo">
+        <Satellite />
+      </Item>
+      <File>Cloo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CMT HD">
+        <Satellite />
+      </Item>
+      <File>CMT HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CMT Pure Country">
+        <Satellite />
+      </Item>
+      <File>CMT Pure Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CMT">
+        <Satellite />
+      </Item>
+      <File>CMT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNBC HD">
+        <Satellite />
+      </Item>
+      <File>CNBC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNBC World">
+        <Satellite />
+      </Item>
+      <File>CNBC World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNBC">
+        <Satellite />
+      </Item>
+      <File>CNBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNN en Espanol">
+        <Satellite />
+      </Item>
+      <File>CNN en Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNN International">
+        <Satellite />
+      </Item>
+      <File>CNN International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CNN">
+        <Satellite />
+      </Item>
+      <File>CNN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comcast Hometown Network">
+        <Satellite />
+      </Item>
+      <File>Comcast Hometown Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comcast Network">
+        <Satellite />
+      </Item>
+      <File>Comcast Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comcast SportsNet Plus">
+        <Satellite />
+      </Item>
+      <File>Comcast SportsNet Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comedy Central HD">
+        <Satellite />
+      </Item>
+      <File>Comedy Central HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comedy.TV HD">
+        <Satellite />
+      </Item>
+      <File>Comedy.TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Concert TV">
+        <Satellite />
+      </Item>
+      <File>Concert TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cooking Channel HD">
+        <Satellite />
+      </Item>
+      <File>Cooking Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cooking Channel">
+        <Satellite />
+      </Item>
+      <File>Cooking Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Corner Store TV">
+        <Satellite />
+      </Item>
+      <File>Corner Store TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cornerstone TeleVision">
+        <Satellite />
+      </Item>
+      <File>Cornerstone TeleVision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cox Sports Television">
+        <Satellite />
+      </Item>
+      <File>Cox Sports Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cozi TV">
+        <Satellite />
+      </Item>
+      <File>Cozi TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Create">
+        <Satellite />
+      </Item>
+      <File>Create.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Investigation HD">
+        <Satellite />
+      </Item>
+      <File>Crime and Investigation HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Investigation">
+        <Satellite />
+      </Item>
+      <File>Crime and Investigation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crossings TV">
+        <Satellite />
+      </Item>
+      <File>Crossings TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Bay Area">
+        <Satellite />
+      </Item>
+      <File>CSN Bay Area.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN California">
+        <Satellite />
+      </Item>
+      <File>CSN California.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Chicago">
+        <Satellite />
+      </Item>
+      <File>CSN Chicago.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Houston">
+        <Satellite />
+      </Item>
+      <File>CSN Houston.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Mid Atlantic">
+        <Satellite />
+      </Item>
+      <File>CSN Mid Atlantic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN New England">
+        <Satellite />
+      </Item>
+      <File>CSN New England.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Northwest">
+        <Satellite />
+      </Item>
+      <File>CSN Northwest.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CSN Philadelphia">
+        <Satellite />
+      </Item>
+      <File>CSN Philadelphia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CTC">
+        <Satellite />
+      </Item>
+      <File>CTC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CTS">
+        <Satellite />
+      </Item>
+      <File>CTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CUNY TV">
+        <Satellite />
+      </Item>
+      <File>CUNY TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CW">
+        <Satellite />
+      </Item>
+      <File>CW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CYRTV">
+        <Satellite />
+      </Item>
+      <File>CYRTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Da Ai 2 TV">
+        <Satellite />
+      </Item>
+      <File>Da Ai 2 TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Da Ai TV">
+        <Satellite />
+      </Item>
+      <File>Da Ai TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Daystar">
+        <Satellite />
+      </Item>
+      <File>Daystar.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="De Pelicula Clasico">
+        <Satellite />
+      </Item>
+      <File>De Pelicula Clasico.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="De Pelicula HD">
+        <Satellite />
+      </Item>
+      <File>De Pelicula HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="De Pelicula">
+        <Satellite />
+      </Item>
+      <File>De Pelicula.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Destination America HD">
+        <Satellite />
+      </Item>
+      <File>Destination America HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Destination America">
+        <Satellite />
+      </Item>
+      <File>Destination America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Detsky Kids">
+        <Satellite />
+      </Item>
+      <File>Detsky Kids.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DFH Network">
+        <Satellite />
+      </Item>
+      <File>DFH Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery en Espanol">
+        <Satellite />
+      </Item>
+      <File>Discovery en Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Familia">
+        <Satellite />
+      </Item>
+      <File>Discovery Familia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Fit and Health">
+        <Satellite />
+      </Item>
+      <File>Discovery Fit and Health.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery HD Showcase">
+        <Satellite />
+      </Item>
+      <File>Discovery HD Showcase.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery HD">
+        <Satellite />
+      </Item>
+      <File>Discovery HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery">
+        <Satellite />
+      </Item>
+      <File>Discovery.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney Channel HD">
+        <Satellite />
+      </Item>
+      <File>Disney Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney Channel">
+        <Satellite />
+      </Item>
+      <File>Disney Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney Junior HD">
+        <Satellite />
+      </Item>
+      <File>Disney Junior HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney Junior">
+        <Satellite />
+      </Item>
+      <File>Disney Junior.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney XD HD">
+        <Satellite />
+      </Item>
+      <File>Disney XD HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Disney XD">
+        <Satellite />
+      </Item>
+      <File>Disney XD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DIY Network HD">
+        <Satellite />
+      </Item>
+      <File>DIY Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DIY Network">
+        <Satellite />
+      </Item>
+      <File>DIY Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DiyaTV">
+        <Satellite />
+      </Item>
+      <File>DiyaTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dominican View">
+        <Satellite />
+      </Item>
+      <File>Dominican View.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dragon TV">
+        <Satellite />
+      </Item>
+      <File>Dragon TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dream 2">
+        <Satellite />
+      </Item>
+      <File>Dream 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dunya News">
+        <Satellite />
+      </Item>
+      <File>Dunya News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DW Amerika">
+        <Satellite />
+      </Item>
+      <File>DW Amerika.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="E! HD">
+        <Satellite />
+      </Item>
+      <File>E! HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="E!">
+        <Satellite />
+      </Item>
+      <File>E!.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EAS">
+        <Satellite />
+      </Item>
+      <File>EAS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ebru TV">
+        <Satellite />
+      </Item>
+      <File>Ebru TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ecuavisa">
+        <Satellite />
+      </Item>
+      <File>Ecuavisa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="El Rey Network">
+        <Satellite />
+      </Item>
+      <File>El Rey Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Action HD">
+        <Satellite />
+      </Item>
+      <File>Encore Action HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Action">
+        <Satellite />
+      </Item>
+      <File>Encore Action.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Black HD">
+        <Satellite />
+      </Item>
+      <File>Encore Black HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Black">
+        <Satellite />
+      </Item>
+      <File>Encore Black.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Classic">
+        <Satellite />
+      </Item>
+      <File>Encore Classic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Espanol">
+        <Satellite />
+      </Item>
+      <File>Encore Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Family">
+        <Satellite />
+      </Item>
+      <File>Encore Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore HD">
+        <Satellite />
+      </Item>
+      <File>Encore HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Suspense">
+        <Satellite />
+      </Item>
+      <File>Encore Suspense.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore Westerns">
+        <Satellite />
+      </Item>
+      <File>Encore Westerns.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Encore">
+        <Satellite />
+      </Item>
+      <File>Encore.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Epix 2">
+        <Satellite />
+      </Item>
+      <File>Epix 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Epix 3">
+        <Satellite />
+      </Item>
+      <File>Epix 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Epix Drive In">
+        <Satellite />
+      </Item>
+      <File>Epix Drive In.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EPIX HD">
+        <Satellite />
+      </Item>
+      <File>EPIX HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ERT World">
+        <Satellite />
+      </Item>
+      <File>ERT World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ES.TV">
+        <Satellite />
+      </Item>
+      <File>ES.TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESC-1">
+        <Satellite />
+      </Item>
+      <File>ESC-1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN Buzzer Beater">
+        <Satellite />
+      </Item>
+      <File>ESPN Buzzer Beater.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN Classic">
+        <Satellite />
+      </Item>
+      <File>ESPN Classic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN Deportes HD">
+        <Satellite />
+      </Item>
+      <File>ESPN Deportes HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN Deportes">
+        <Satellite />
+      </Item>
+      <File>ESPN Deportes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN Full Court">
+        <Satellite />
+      </Item>
+      <File>ESPN Full Court.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN GamePlan">
+        <Satellite />
+      </Item>
+      <File>ESPN GamePlan.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN HD">
+        <Satellite />
+      </Item>
+      <File>ESPN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN News">
+        <Satellite />
+      </Item>
+      <File>ESPN News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN PPV">
+        <Satellite />
+      </Item>
+      <File>ESPN PPV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN U HD">
+        <Satellite />
+      </Item>
+      <File>ESPN U HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN U">
+        <Satellite />
+      </Item>
+      <File>ESPN U.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN">
+        <Satellite />
+      </Item>
+      <File>ESPN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN2 HD">
+        <Satellite />
+      </Item>
+      <File>ESPN2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPN2">
+        <Satellite />
+      </Item>
+      <File>ESPN2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Esquire Network HD">
+        <Satellite />
+      </Item>
+      <File>Esquire Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Esquire Network">
+        <Satellite />
+      </Item>
+      <File>Esquire Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Estrella TV">
+        <Satellite />
+      </Item>
+      <File>Estrella TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ET China">
+        <Satellite />
+      </Item>
+      <File>ET China.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ET Drama">
+        <Satellite />
+      </Item>
+      <File>ET Drama.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ET Financial News">
+        <Satellite />
+      </Item>
+      <File>ET Financial News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ET Global">
+        <Satellite />
+      </Item>
+      <File>ET Global.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ET News">
+        <Satellite />
+      </Item>
+      <File>ET News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ETV Bangla">
+        <Satellite />
+      </Item>
+      <File>ETV Bangla.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ETV Kannada">
+        <Satellite />
+      </Item>
+      <File>ETV Kannada.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ETV Marathi">
+        <Satellite />
+      </Item>
+      <File>ETV Marathi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ETV Telugu">
+        <Satellite />
+      </Item>
+      <File>ETV Telugu.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurochannel">
+        <Satellite />
+      </Item>
+      <File>Eurochannel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Euronews">
+        <Satellite />
+      </Item>
+      <File>Euronews.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EWTN">
+        <Satellite />
+      </Item>
+      <File>EWTN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Exitos TV">
+        <Satellite />
+      </Item>
+      <File>Exitos TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Express Entertainment">
+        <Satellite />
+      </Item>
+      <File>Express Entertainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Express News">
+        <Satellite />
+      </Item>
+      <File>Express News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FamilyNet">
+        <Satellite />
+      </Item>
+      <File>FamilyNet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fashion TV">
+        <Satellite />
+      </Item>
+      <File>Fashion TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fearnet HD">
+        <Satellite />
+      </Item>
+      <File>Fearnet HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fearnet">
+        <Satellite />
+      </Item>
+      <File>Fearnet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FETV">
+        <Satellite />
+      </Item>
+      <File>FETV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fight Now TV">
+        <Satellite />
+      </Item>
+      <File>Fight Now TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FiOS1">
+        <Satellite />
+      </Item>
+      <File>FiOS1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="First Nations Experience">
+        <Satellite />
+      </Item>
+      <File>First Nations Experience.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Flix">
+        <Satellite />
+      </Item>
+      <File>Flix.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Florida Channel">
+        <Satellite />
+      </Item>
+      <File>Florida Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Food Network Asia">
+        <Satellite />
+      </Item>
+      <File>Food Network Asia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Food Network HD">
+        <Satellite />
+      </Item>
+      <File>Food Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Food Network">
+        <Satellite />
+      </Item>
+      <File>Food Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Formosa TV">
+        <Satellite />
+      </Item>
+      <File>Formosa TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FOROtv">
+        <Satellite />
+      </Item>
+      <File>FOROtv.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Business Channel">
+        <Satellite />
+      </Item>
+      <File>Fox Business Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Business HD">
+        <Satellite />
+      </Item>
+      <File>Fox Business HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox College Sports">
+        <Satellite />
+      </Item>
+      <File>Fox College Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox CT News">
+        <Satellite />
+      </Item>
+      <File>Fox CT News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Deportes">
+        <Satellite />
+      </Item>
+      <File>Fox Deportes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox HD">
+        <Satellite />
+      </Item>
+      <File>Fox HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Life HD">
+        <Satellite />
+      </Item>
+      <File>Fox Life HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Life">
+        <Satellite />
+      </Item>
+      <File>Fox Life.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox News Channel HD">
+        <Satellite />
+      </Item>
+      <File>Fox News Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox News Channel">
+        <Satellite />
+      </Item>
+      <File>Fox News Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Soccer Plus HD">
+        <Satellite />
+      </Item>
+      <File>Fox Soccer Plus HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Soccer Plus">
+        <Satellite />
+      </Item>
+      <File>Fox Soccer Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports 1">
+        <Satellite />
+      </Item>
+      <File>Fox Sports 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports 2">
+        <Satellite />
+      </Item>
+      <File>Fox Sports 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Arizona HD">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Arizona HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Arizona">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Arizona.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Carolinas">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Carolinas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Detroit HD">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Detroit HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Detroit">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Detroit.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Florida">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Florida.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Indiana">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Indiana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Kansas City">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Kansas City.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Midwest">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Midwest.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Networks">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Networks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports New Orleans">
+        <Satellite />
+      </Item>
+      <File>Fox Sports New Orleans.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports North">
+        <Satellite />
+      </Item>
+      <File>Fox Sports North.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Ohio">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Ohio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Oklahoma">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Oklahoma.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Prime Ticket">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Prime Ticket.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports San Diego">
+        <Satellite />
+      </Item>
+      <File>Fox Sports San Diego.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports South">
+        <Satellite />
+      </Item>
+      <File>Fox Sports South.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Southwest">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Southwest.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Tennessee">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Tennessee.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports West">
+        <Satellite />
+      </Item>
+      <File>Fox Sports West.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Wisconsin">
+        <Satellite />
+      </Item>
+      <File>Fox Sports Wisconsin.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox">
+        <Satellite />
+      </Item>
+      <File>Fox.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24">
+        <Satellite />
+      </Item>
+      <File>France 24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Free Speech TV">
+        <Satellite />
+      </Item>
+      <File>Free Speech TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Frost Great Outdoors">
+        <Satellite />
+      </Item>
+      <File>Frost Great Outdoors.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fujian Straits TV">
+        <Satellite />
+      </Item>
+      <File>Fujian Straits TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Funimation Channel">
+        <Satellite />
+      </Item>
+      <File>Funimation Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FUSE HD">
+        <Satellite />
+      </Item>
+      <File>FUSE HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FUSE">
+        <Satellite />
+      </Item>
+      <File>FUSE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fusion">
+        <Satellite />
+      </Item>
+      <File>Fusion.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Future TV">
+        <Satellite />
+      </Item>
+      <File>Future TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FX HD">
+        <Satellite />
+      </Item>
+      <File>FX HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FX">
+        <Satellite />
+      </Item>
+      <File>FX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FXM">
+        <Satellite />
+      </Item>
+      <File>FXM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FXX HD">
+        <Satellite />
+      </Item>
+      <File>FXX HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FXX">
+        <Satellite />
+      </Item>
+      <File>FXX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="G4 HD">
+        <Satellite />
+      </Item>
+      <File>G4 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="G4">
+        <Satellite />
+      </Item>
+      <File>G4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Galavision HD">
+        <Satellite />
+      </Item>
+      <File>Galavision HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Galavision">
+        <Satellite />
+      </Item>
+      <File>Galavision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GBH Kids">
+        <Satellite />
+      </Item>
+      <File>GBH Kids.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GEB America">
+        <Satellite />
+      </Item>
+      <File>GEB America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gem Shopping Network">
+        <Satellite />
+      </Item>
+      <File>Gem Shopping Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gemini Comedy">
+        <Satellite />
+      </Item>
+      <File>Gemini Comedy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gemini Movies">
+        <Satellite />
+      </Item>
+      <File>Gemini Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gemini TV">
+        <Satellite />
+      </Item>
+      <File>Gemini TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GEO News">
+        <Satellite />
+      </Item>
+      <File>GEO News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GEO TV">
+        <Satellite />
+      </Item>
+      <File>GEO TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="German Kino Plus">
+        <Satellite />
+      </Item>
+      <File>German Kino Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GET Punjabi">
+        <Satellite />
+      </Item>
+      <File>GET Punjabi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GetTV">
+        <Satellite />
+      </Item>
+      <File>GetTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GMA Life TV">
+        <Satellite />
+      </Item>
+      <File>GMA Life TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GMA Pinoy TV">
+        <Satellite />
+      </Item>
+      <File>GMA Pinoy TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="God Channel">
+        <Satellite />
+      </Item>
+      <File>God Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gods Learning Channel">
+        <Satellite />
+      </Item>
+      <File>Gods Learning Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Golf Channel">
+        <Satellite />
+      </Item>
+      <File>Golf Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GolTV">
+        <Satellite />
+      </Item>
+      <File>GolTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Good Life Israel">
+        <Satellite />
+      </Item>
+      <File>Good Life Israel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Gpunjab Newstime">
+        <Satellite />
+      </Item>
+      <File>Gpunjab Newstime.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Great American Country HD">
+        <Satellite />
+      </Item>
+      <File>Great American Country HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Great American Country">
+        <Satellite />
+      </Item>
+      <File>Great American Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Greek Cinema">
+        <Satellite />
+      </Item>
+      <File>Greek Cinema.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GSN HD">
+        <Satellite />
+      </Item>
+      <File>GSN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GSN">
+        <Satellite />
+      </Item>
+      <File>GSN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Guangdong Southern TV">
+        <Satellite />
+      </Item>
+      <File>Guangdong Southern TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="H2 HD">
+        <Satellite />
+      </Item>
+      <File>H2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="H2">
+        <Satellite />
+      </Item>
+      <File>H2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hallmark Movie Channel HD">
+        <Satellite />
+      </Item>
+      <File>Hallmark Movie Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hallmark Movie Channel">
+        <Satellite />
+      </Item>
+      <File>Hallmark Movie Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Harmony Channel">
+        <Satellite />
+      </Item>
+      <File>Harmony Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Comedy HD">
+        <Satellite />
+      </Item>
+      <File>HBO Comedy HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Comedy">
+        <Satellite />
+      </Item>
+      <File>HBO Comedy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Family HD">
+        <Satellite />
+      </Item>
+      <File>HBO Family HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Family">
+        <Satellite />
+      </Item>
+      <File>HBO Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO HD">
+        <Satellite />
+      </Item>
+      <File>HBO HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Latino HD">
+        <Satellite />
+      </Item>
+      <File>HBO Latino HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Latino">
+        <Satellite />
+      </Item>
+      <File>HBO Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Signature HD">
+        <Satellite />
+      </Item>
+      <File>HBO Signature HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Signature">
+        <Satellite />
+      </Item>
+      <File>HBO Signature.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Zone HD">
+        <Satellite />
+      </Item>
+      <File>HBO Zone HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO Zone">
+        <Satellite />
+      </Item>
+      <File>HBO Zone.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO">
+        <Satellite />
+      </Item>
+      <File>HBO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO2 HD">
+        <Satellite />
+      </Item>
+      <File>HBO2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HBO2">
+        <Satellite />
+      </Item>
+      <File>HBO2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HDNet Movies">
+        <Satellite />
+      </Item>
+      <File>HDNet Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Headlines Today">
+        <Satellite />
+      </Item>
+      <File>Headlines Today.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Heartland">
+        <Satellite />
+      </Item>
+      <File>Heartland.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hekayat">
+        <Satellite />
+      </Item>
+      <File>Hekayat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Here TV">
+        <Satellite />
+      </Item>
+      <File>Here TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HGTV HD">
+        <Satellite />
+      </Item>
+      <File>HGTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HGTV">
+        <Satellite />
+      </Item>
+      <File>HGTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History en Espanol">
+        <Satellite />
+      </Item>
+      <File>History en Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History HD">
+        <Satellite />
+      </Item>
+      <File>History HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History">
+        <Satellite />
+      </Item>
+      <File>History.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HITN">
+        <Satellite />
+      </Item>
+      <File>HITN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HLN HD">
+        <Satellite />
+      </Item>
+      <File>HLN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HLN">
+        <Satellite />
+      </Item>
+      <File>HLN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hope Channel">
+        <Satellite />
+      </Item>
+      <File>Hope Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Horse Racing TV">
+        <Satellite />
+      </Item>
+      <File>Horse Racing TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HSN HD">
+        <Satellite />
+      </Item>
+      <File>HSN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HSN">
+        <Satellite />
+      </Item>
+      <File>HSN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HSN2">
+        <Satellite />
+      </Item>
+      <File>HSN2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="HTV Musica">
+        <Satellite />
+      </Item>
+      <File>HTV Musica.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hub Network HD">
+        <Satellite />
+      </Item>
+      <File>Hub Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hub Network">
+        <Satellite />
+      </Item>
+      <File>Hub Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hunan Satellite TV">
+        <Satellite />
+      </Item>
+      <File>Hunan Satellite TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hustler HD">
+        <Satellite />
+      </Item>
+      <File>Hustler HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hustler TV">
+        <Satellite />
+      </Item>
+      <File>Hustler TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ICN">
+        <Satellite />
+      </Item>
+      <File>ICN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="IFC">
+        <Satellite />
+      </Item>
+      <File>IFC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ImaginAsian">
+        <Satellite />
+      </Item>
+      <File>ImaginAsian.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Impact Network">
+        <Satellite />
+      </Item>
+      <File>Impact Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Impact Television">
+        <Satellite />
+      </Item>
+      <File>Impact Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="In Country Television">
+        <Satellite />
+      </Item>
+      <File>In Country Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Indieplex">
+        <Satellite />
+      </Item>
+      <File>Indieplex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Inmigrante TV">
+        <Satellite />
+      </Item>
+      <File>Inmigrante TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="INSP">
+        <Satellite />
+      </Item>
+      <File>INSP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Investigation Discovery HD">
+        <Satellite />
+      </Item>
+      <File>Investigation Discovery HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Investigation Discovery">
+        <Satellite />
+      </Item>
+      <File>Investigation Discovery.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ion Life">
+        <Satellite />
+      </Item>
+      <File>Ion Life.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ion Television">
+        <Satellite />
+      </Item>
+      <File>Ion Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="IsraKids">
+        <Satellite />
+      </Item>
+      <File>IsraKids.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ITV Gold">
+        <Satellite />
+      </Item>
+      <File>ITV Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jaya Max">
+        <Satellite />
+      </Item>
+      <File>Jaya Max.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jaya Plus">
+        <Satellite />
+      </Item>
+      <File>Jaya Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jaya TV">
+        <Satellite />
+      </Item>
+      <File>Jaya TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="JCTV">
+        <Satellite />
+      </Item>
+      <File>JCTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="JET TV International">
+        <Satellite />
+      </Item>
+      <File>JET TV International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jewelry Television">
+        <Satellite />
+      </Item>
+      <File>Jewelry Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jewish Life Television">
+        <Satellite />
+      </Item>
+      <File>Jewish Life Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jiangsu International Channel">
+        <Satellite />
+      </Item>
+      <File>Jiangsu International Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="JMovies">
+        <Satellite />
+      </Item>
+      <File>JMovies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Juicy">
+        <Satellite />
+      </Item>
+      <File>Juicy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jus One">
+        <Satellite />
+      </Item>
+      <File>Jus One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jus Punjabi">
+        <Satellite />
+      </Item>
+      <File>Jus Punjabi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Justice Central">
+        <Satellite />
+      </Item>
+      <File>Justice Central.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KABC">
+        <Satellite />
+      </Item>
+      <File>KABC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kairali TV">
+        <Satellite />
+      </Item>
+      <File>Kairali TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kalaignar TV">
+        <Satellite />
+      </Item>
+      <File>Kalaignar TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kapatid">
+        <Satellite />
+      </Item>
+      <File>Kapatid.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KARE">
+        <Satellite />
+      </Item>
+      <File>KARE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBCW">
+        <Satellite />
+      </Item>
+      <File>KBCW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBS World HD">
+        <Satellite />
+      </Item>
+      <File>KBS World HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBS World">
+        <Satellite />
+      </Item>
+      <File>KBS World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KCBS">
+        <Satellite />
+      </Item>
+      <File>KCBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KCET">
+        <Satellite />
+      </Item>
+      <File>KCET.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KCNC">
+        <Satellite />
+      </Item>
+      <File>KCNC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KCSM">
+        <Satellite />
+      </Item>
+      <File>KCSM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KDTV">
+        <Satellite />
+      </Item>
+      <File>KDTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KDVR">
+        <Satellite />
+      </Item>
+      <File>KDVR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KEMO">
+        <Satellite />
+      </Item>
+      <File>KEMO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KFSF">
+        <Satellite />
+      </Item>
+      <File>KFSF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KGO">
+        <Satellite />
+      </Item>
+      <File>KGO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KICU">
+        <Satellite />
+      </Item>
+      <File>KICU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kids and Teens TV">
+        <Satellite />
+      </Item>
+      <File>Kids and Teens TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kino Europa">
+        <Satellite />
+      </Item>
+      <File>Kino Europa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kino Polska">
+        <Satellite />
+      </Item>
+      <File>Kino Polska.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Kiran TV">
+        <Satellite />
+      </Item>
+      <File>Kiran TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KMGH">
+        <Satellite />
+      </Item>
+      <File>KMGH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KMTP">
+        <Satellite />
+      </Item>
+      <File>KMTP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KMVT">
+        <Satellite />
+      </Item>
+      <File>KMVT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KNBC">
+        <Satellite />
+      </Item>
+      <File>KNBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KNTV">
+        <Satellite />
+      </Item>
+      <File>KNTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KO-AM TV">
+        <Satellite />
+      </Item>
+      <File>KO-AM TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KOFY">
+        <Satellite />
+      </Item>
+      <File>KOFY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KPIX">
+        <Satellite />
+      </Item>
+      <File>KPIX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KQED Plus">
+        <Satellite />
+      </Item>
+      <File>KQED Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KQED">
+        <Satellite />
+      </Item>
+      <File>KQED.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KRCB">
+        <Satellite />
+      </Item>
+      <File>KRCB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KRON">
+        <Satellite />
+      </Item>
+      <File>KRON.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSBW DT2">
+        <Satellite />
+      </Item>
+      <File>KSBW DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSBW">
+        <Satellite />
+      </Item>
+      <File>KSBW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSTP">
+        <Satellite />
+      </Item>
+      <File>KSTP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSTS">
+        <Satellite />
+      </Item>
+      <File>KSTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTLA">
+        <Satellite />
+      </Item>
+      <File>KTLA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTLN">
+        <Satellite />
+      </Item>
+      <File>KTLN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTNC">
+        <Satellite />
+      </Item>
+      <File>KTNC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTSF">
+        <Satellite />
+      </Item>
+      <File>KTSF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTTV">
+        <Satellite />
+      </Item>
+      <File>KTTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTV">
+        <Satellite />
+      </Item>
+      <File>KTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTVU">
+        <Satellite />
+      </Item>
+      <File>KTVU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUBE-TV">
+        <Satellite />
+      </Item>
+      <File>KUBE-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUSA">
+        <Satellite />
+      </Item>
+      <File>KUSA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KWGN">
+        <Satellite />
+      </Item>
+      <File>KWGN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KYW">
+        <Satellite />
+      </Item>
+      <File>KYW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Familia Cosmo">
+        <Satellite />
+      </Item>
+      <File>La Familia Cosmo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="La Familia Network">
+        <Satellite />
+      </Item>
+      <File>La Familia Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LATV">
+        <Satellite />
+      </Item>
+      <File>LATV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Leased Access">
+        <Satellite />
+      </Item>
+      <File>Leased Access.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LeSEA">
+        <Satellite />
+      </Item>
+      <File>LeSEA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Life OK">
+        <Satellite />
+      </Item>
+      <File>Life OK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Lifetime HD">
+        <Satellite />
+      </Item>
+      <File>Lifetime HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Lifetime Real Women">
+        <Satellite />
+      </Item>
+      <File>Lifetime Real Women.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Lifetime">
+        <Satellite />
+      </Item>
+      <File>Lifetime.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Link-TV">
+        <Satellite />
+      </Item>
+      <File>Link-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Liquidation Channel">
+        <Satellite />
+      </Item>
+      <File>Liquidation Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Live Well Network">
+        <Satellite />
+      </Item>
+      <File>Live Well Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LLBN">
+        <Satellite />
+      </Item>
+      <File>LLBN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LMN HD">
+        <Satellite />
+      </Item>
+      <File>LMN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LMN">
+        <Satellite />
+      </Item>
+      <File>LMN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Logo TV">
+        <Satellite />
+      </Item>
+      <File>Logo TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Longhorn Network">
+        <Satellite />
+      </Item>
+      <File>Longhorn Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Luxe TV">
+        <Satellite />
+      </Item>
+      <File>Luxe TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Maa Gold">
+        <Satellite />
+      </Item>
+      <File>Maa Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Maa Movies">
+        <Satellite />
+      </Item>
+      <File>Maa Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Maa Music">
+        <Satellite />
+      </Item>
+      <File>Maa Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Maa TV">
+        <Satellite />
+      </Item>
+      <File>Maa TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Maasranga Television">
+        <Satellite />
+      </Item>
+      <File>Maasranga Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MASN 2">
+        <Satellite />
+      </Item>
+      <File>MASN 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MASN HD">
+        <Satellite />
+      </Item>
+      <File>MASN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MASN">
+        <Satellite />
+      </Item>
+      <File>MASN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MASN2 HD">
+        <Satellite />
+      </Item>
+      <File>MASN2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MavTV HD">
+        <Satellite />
+      </Item>
+      <File>MavTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MavTV">
+        <Satellite />
+      </Item>
+      <File>MavTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MaxLatino HD">
+        <Satellite />
+      </Item>
+      <File>MaxLatino HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MaxLatino">
+        <Satellite />
+      </Item>
+      <File>MaxLatino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mazhavil Manorama">
+        <Satellite />
+      </Item>
+      <File>Mazhavil Manorama.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MBC MASR">
+        <Satellite />
+      </Item>
+      <File>MBC MASR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MBC">
+        <Satellite />
+      </Item>
+      <File>MBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MBC3">
+        <Satellite />
+      </Item>
+      <File>MBC3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MBCDR">
+        <Satellite />
+      </Item>
+      <File>MBCDR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mediaset Italia">
+        <Satellite />
+      </Item>
+      <File>Mediaset Italia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mega TV">
+        <Satellite />
+      </Item>
+      <File>Mega TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mega">
+        <Satellite />
+      </Item>
+      <File>Mega.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MeTV">
+        <Satellite />
+      </Item>
+      <File>MeTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mexicanal">
+        <Satellite />
+      </Item>
+      <File>Mexicanal.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MGM HD">
+        <Satellite />
+      </Item>
+      <File>MGM HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MH1">
+        <Satellite />
+      </Item>
+      <File>MH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MHz Networks">
+        <Satellite />
+      </Item>
+      <File>MHz Networks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MHz WorldView">
+        <Satellite />
+      </Item>
+      <File>MHz WorldView.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Midco Sports Network">
+        <Satellite />
+      </Item>
+      <File>Midco Sports Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Military History Channel">
+        <Satellite />
+      </Item>
+      <File>Military History Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MiND">
+        <Satellite />
+      </Item>
+      <File>MiND.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Minnesota Channel">
+        <Satellite />
+      </Item>
+      <File>Minnesota Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MLB Extra Innings">
+        <Satellite />
+      </Item>
+      <File>MLB Extra Innings.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MLB Network HD">
+        <Satellite />
+      </Item>
+      <File>MLB Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MLB Network">
+        <Satellite />
+      </Item>
+      <File>MLB Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MLS Direct Kick">
+        <Satellite />
+      </Item>
+      <File>MLS Direct Kick.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MoreMax HD">
+        <Satellite />
+      </Item>
+      <File>MoreMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MoreMax">
+        <Satellite />
+      </Item>
+      <File>MoreMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MovieMax HD">
+        <Satellite />
+      </Item>
+      <File>MovieMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MovieMax">
+        <Satellite />
+      </Item>
+      <File>MovieMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Movieplex">
+        <Satellite />
+      </Item>
+      <File>Movieplex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Movies Ok">
+        <Satellite />
+      </Item>
+      <File>Movies Ok.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Movies">
+        <Satellite />
+      </Item>
+      <File>Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSG 2">
+        <Satellite />
+      </Item>
+      <File>MSG 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSG HD">
+        <Satellite />
+      </Item>
+      <File>MSG HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSG Plus HD">
+        <Satellite />
+      </Item>
+      <File>MSG Plus HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSG Plus">
+        <Satellite />
+      </Item>
+      <File>MSG Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSG">
+        <Satellite />
+      </Item>
+      <File>MSG.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSNBC HD">
+        <Satellite />
+      </Item>
+      <File>MSNBC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MSNBC">
+        <Satellite />
+      </Item>
+      <File>MSNBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV HD">
+        <Satellite />
+      </Item>
+      <File>MTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Hits">
+        <Satellite />
+      </Item>
+      <File>MTV Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV India">
+        <Satellite />
+      </Item>
+      <File>MTV India.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Jams">
+        <Satellite />
+      </Item>
+      <File>MTV Jams.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Tres">
+        <Satellite />
+      </Item>
+      <File>MTV Tres.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV U">
+        <Satellite />
+      </Item>
+      <File>MTV U.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV">
+        <Satellite />
+      </Item>
+      <File>MTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV2 HD">
+        <Satellite />
+      </Item>
+      <File>MTV2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV2">
+        <Satellite />
+      </Item>
+      <File>MTV2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Multimedios Television">
+        <Satellite />
+      </Item>
+      <File>Multimedios Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mun2">
+        <Satellite />
+      </Item>
+      <File>Mun2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MundoFox">
+        <Satellite />
+      </Item>
+      <File>MundoFox.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Murr TV">
+        <Satellite />
+      </Item>
+      <File>Murr TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Christian Television">
+        <Satellite />
+      </Item>
+      <File>My Christian Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Destination.TV">
+        <Satellite />
+      </Item>
+      <File>My Destination.TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Family TV">
+        <Satellite />
+      </Item>
+      <File>My Family TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My German TV+">
+        <Satellite />
+      </Item>
+      <File>My German TV+.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My German TV">
+        <Satellite />
+      </Item>
+      <File>My German TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Network HD">
+        <Satellite />
+      </Item>
+      <File>My Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Network">
+        <Satellite />
+      </Item>
+      <File>My Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="My Sports Germany">
+        <Satellite />
+      </Item>
+      <File>My Sports Germany.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Myx TV">
+        <Satellite />
+      </Item>
+      <File>Myx TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NASA TV">
+        <Satellite />
+      </Item>
+      <File>NASA TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo Mundo">
+        <Satellite />
+      </Item>
+      <File>Nat Geo Mundo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo Wild HD">
+        <Satellite />
+      </Item>
+      <File>Nat Geo Wild HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo Wild">
+        <Satellite />
+      </Item>
+      <File>Nat Geo Wild.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nat Geo">
+        <Satellite />
+      </Item>
+      <File>Nat Geo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBA League Pass">
+        <Satellite />
+      </Item>
+      <File>NBA League Pass.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBA TV HD">
+        <Satellite />
+      </Item>
+      <File>NBA TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBA TV">
+        <Satellite />
+      </Item>
+      <File>NBA TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBC HD">
+        <Satellite />
+      </Item>
+      <File>NBC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBC">
+        <Satellite />
+      </Item>
+      <File>NBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBCSN HD">
+        <Satellite />
+      </Item>
+      <File>NBCSN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBCSN">
+        <Satellite />
+      </Item>
+      <File>NBCSN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBN">
+        <Satellite />
+      </Item>
+      <File>NBN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NDTV 24x7">
+        <Satellite />
+      </Item>
+      <File>NDTV 24x7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NDTV Good Times">
+        <Satellite />
+      </Item>
+      <File>NDTV Good Times.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NECN">
+        <Satellite />
+      </Item>
+      <File>NECN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NESN HD">
+        <Satellite />
+      </Item>
+      <File>NESN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NESN Plus">
+        <Satellite />
+      </Item>
+      <File>NESN Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NESN">
+        <Satellite />
+      </Item>
+      <File>NESN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="New Greek TV">
+        <Satellite />
+      </Item>
+      <File>New Greek TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="New Tang Dynasty Television">
+        <Satellite />
+      </Item>
+      <File>New Tang Dynasty Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="New Television">
+        <Satellite />
+      </Item>
+      <File>New Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="News 12 Networks">
+        <Satellite />
+      </Item>
+      <File>News 12 Networks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="News 13">
+        <Satellite />
+      </Item>
+      <File>News 13.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="News 9 Now">
+        <Satellite />
+      </Item>
+      <File>News 9 Now.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="News Channel 8">
+        <Satellite />
+      </Item>
+      <File>News Channel 8.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="News on 6 Now">
+        <Satellite />
+      </Item>
+      <File>News on 6 Now.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NewsWatch 15">
+        <Satellite />
+      </Item>
+      <File>NewsWatch 15.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NFL Network Redzone">
+        <Satellite />
+      </Item>
+      <File>NFL Network Redzone.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NFL Network">
+        <Satellite />
+      </Item>
+      <File>NFL Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NFL Sunday Ticket">
+        <Satellite />
+      </Item>
+      <File>NFL Sunday Ticket.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NHK World Premium">
+        <Satellite />
+      </Item>
+      <File>NHK World Premium.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NHK World">
+        <Satellite />
+      </Item>
+      <File>NHK World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NHL Center Ice">
+        <Satellite />
+      </Item>
+      <File>NHL Center Ice.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NHL Network HD">
+        <Satellite />
+      </Item>
+      <File>NHL Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NHL Network">
+        <Satellite />
+      </Item>
+      <File>NHL Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nick 2">
+        <Satellite />
+      </Item>
+      <File>Nick 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nick Jr.">
+        <Satellite />
+      </Item>
+      <File>Nick Jr..png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nickelodeon HD">
+        <Satellite />
+      </Item>
+      <File>Nickelodeon HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nickelodeon">
+        <Satellite />
+      </Item>
+      <File>Nickelodeon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nicktoons">
+        <Satellite />
+      </Item>
+      <File>Nicktoons.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nile Drama">
+        <Satellite />
+      </Item>
+      <File>Nile Drama.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NJTV">
+        <Satellite />
+      </Item>
+      <File>NJTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Northwest Cable News">
+        <Satellite />
+      </Item>
+      <File>Northwest Cable News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Now BNC">
+        <Satellite />
+      </Item>
+      <File>Now BNC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Now HaiRun">
+        <Satellite />
+      </Item>
+      <File>Now HaiRun.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Now TV International">
+        <Satellite />
+      </Item>
+      <File>Now TV International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NRB Network">
+        <Satellite />
+      </Item>
+      <File>NRB Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NTV Bangla">
+        <Satellite />
+      </Item>
+      <File>NTV Bangla.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nuestra Tele">
+        <Satellite />
+      </Item>
+      <File>Nuestra Tele.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NuvoTV">
+        <Satellite />
+      </Item>
+      <File>NuvoTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NY1">
+        <Satellite />
+      </Item>
+      <File>NY1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NYCTV">
+        <Satellite />
+      </Item>
+      <File>NYCTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="One America News Network">
+        <Satellite />
+      </Item>
+      <File>One America News Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="One World Sports">
+        <Satellite />
+      </Item>
+      <File>One World Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ONTV">
+        <Satellite />
+      </Item>
+      <File>ONTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OSN Ya Hala">
+        <Satellite />
+      </Item>
+      <File>OSN Ya Hala.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OTV">
+        <Satellite />
+      </Item>
+      <File>OTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Oui TV">
+        <Satellite />
+      </Item>
+      <File>Oui TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Outdoor Channel HD">
+        <Satellite />
+      </Item>
+      <File>Outdoor Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Outdoor Channel">
+        <Satellite />
+      </Item>
+      <File>Outdoor Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OuterMax HD">
+        <Satellite />
+      </Item>
+      <File>OuterMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OuterMax">
+        <Satellite />
+      </Item>
+      <File>OuterMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Outside Television">
+        <Satellite />
+      </Item>
+      <File>Outside Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ovation">
+        <Satellite />
+      </Item>
+      <File>Ovation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OWN HD">
+        <Satellite />
+      </Item>
+      <File>OWN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="OWN">
+        <Satellite />
+      </Item>
+      <File>OWN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Oxygen HD">
+        <Satellite />
+      </Item>
+      <File>Oxygen HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Oxygen">
+        <Satellite />
+      </Item>
+      <File>Oxygen.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pac-12">
+        <Satellite />
+      </Item>
+      <File>Pac-12.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pacvia TV">
+        <Satellite />
+      </Item>
+      <File>Pacvia TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Palladia">
+        <Satellite />
+      </Item>
+      <File>Palladia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pasiones">
+        <Satellite />
+      </Item>
+      <File>Pasiones.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PBJ">
+        <Satellite />
+      </Item>
+      <File>PBJ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PBS HD">
+        <Satellite />
+      </Item>
+      <File>PBS HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PBS">
+        <Satellite />
+      </Item>
+      <File>PBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Peace TV">
+        <Satellite />
+      </Item>
+      <File>Peace TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PEG TV">
+        <Satellite />
+      </Item>
+      <File>PEG TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pentagon Channel">
+        <Satellite />
+      </Item>
+      <File>Pentagon Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pets.TV">
+        <Satellite />
+      </Item>
+      <File>Pets.TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PFC">
+        <Satellite />
+      </Item>
+      <File>PFC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pheonix North America">
+        <Satellite />
+      </Item>
+      <File>Pheonix North America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Phoenix InfoNews">
+        <Satellite />
+      </Item>
+      <File>Phoenix InfoNews.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pittsburgh Cable News Channel">
+        <Satellite />
+      </Item>
+      <File>Pittsburgh Cable News Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pivot">
+        <Satellite />
+      </Item>
+      <File>Pivot.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PixL HD">
+        <Satellite />
+      </Item>
+      <File>PixL HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PixL">
+        <Satellite />
+      </Item>
+      <File>PixL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Playboy TV en Espanol">
+        <Satellite />
+      </Item>
+      <File>Playboy TV en Espanol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Playboy TV">
+        <Satellite />
+      </Item>
+      <File>Playboy TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Polsat 2">
+        <Satellite />
+      </Item>
+      <File>Polsat 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Polska Muzyka">
+        <Satellite />
+      </Item>
+      <File>Polska Muzyka.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Polvision">
+        <Satellite />
+      </Item>
+      <File>Polvision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Prayer Channel">
+        <Satellite />
+      </Item>
+      <File>Prayer Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ProSiebenSAT.1Welt">
+        <Satellite />
+      </Item>
+      <File>ProSiebenSAT.1Welt.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PTC Punjabi">
+        <Satellite />
+      </Item>
+      <File>PTC Punjabi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="PTV Global">
+        <Satellite />
+      </Item>
+      <File>PTV Global.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Punch TV">
+        <Satellite />
+      </Item>
+      <File>Punch TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pursuit Channel">
+        <Satellite />
+      </Item>
+      <File>Pursuit Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Qubo">
+        <Satellite />
+      </Item>
+      <File>Qubo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QVC HD">
+        <Satellite />
+      </Item>
+      <File>QVC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QVC Plus">
+        <Satellite />
+      </Item>
+      <File>QVC Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QVC">
+        <Satellite />
+      </Item>
+      <File>QVC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Racetrack Television Network">
+        <Satellite />
+      </Item>
+      <File>Racetrack Television Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rai Italia">
+        <Satellite />
+      </Item>
+      <File>Rai Italia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rai News24">
+        <Satellite />
+      </Item>
+      <File>Rai News24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rai Premium">
+        <Satellite />
+      </Item>
+      <File>Rai Premium.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rain">
+        <Satellite />
+      </Item>
+      <File>Rain.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Real Hip Hop Network">
+        <Satellite />
+      </Item>
+      <File>Real Hip Hop Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Reality Kings TV">
+        <Satellite />
+      </Item>
+      <File>Reality Kings TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Recipe.TV">
+        <Satellite />
+      </Item>
+      <File>Recipe.TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Record International">
+        <Satellite />
+      </Item>
+      <File>Record International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Reelz Channel">
+        <Satellite />
+      </Item>
+      <File>Reelz Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Religia TV">
+        <Satellite />
+      </Item>
+      <File>Religia TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Retirement Living">
+        <Satellite />
+      </Item>
+      <File>Retirement Living.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Retro TV">
+        <Satellite />
+      </Item>
+      <File>Retro TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Retroplex">
+        <Satellite />
+      </Item>
+      <File>Retroplex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Revolt">
+        <Satellite />
+      </Item>
+      <File>Revolt.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RFD-TV">
+        <Satellite />
+      </Item>
+      <File>RFD-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ritmoson Latino">
+        <Satellite />
+      </Item>
+      <File>Ritmoson Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rocks TV">
+        <Satellite />
+      </Item>
+      <File>Rocks TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Root Sports">
+        <Satellite />
+      </Item>
+      <File>Root Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rotana America">
+        <Satellite />
+      </Item>
+      <File>Rotana America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RT">
+        <Satellite />
+      </Item>
+      <File>RT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RTP Internacional">
+        <Satellite />
+      </Item>
+      <File>RTP Internacional.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Russian Illuzion">
+        <Satellite />
+      </Item>
+      <File>Russian Illuzion.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sahara One">
+        <Satellite />
+      </Item>
+      <File>Sahara One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sahara Samay">
+        <Satellite />
+      </Item>
+      <File>Sahara Samay.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Saudi Sport 1">
+        <Satellite />
+      </Item>
+      <File>Saudi Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS">
+        <Satellite />
+      </Item>
+      <File>SBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Science Channel HD">
+        <Satellite />
+      </Item>
+      <File>Science Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Science Channel">
+        <Satellite />
+      </Item>
+      <File>Science Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SEC Network">
+        <Satellite />
+      </Item>
+      <File>SEC Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SET Asia">
+        <Satellite />
+      </Item>
+      <File>SET Asia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SETI">
+        <Satellite />
+      </Item>
+      <File>SETI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shalom TV">
+        <Satellite />
+      </Item>
+      <File>Shalom TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shenzhen TV">
+        <Satellite />
+      </Item>
+      <File>Shenzhen TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ShopHQ">
+        <Satellite />
+      </Item>
+      <File>ShopHQ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shorts HD">
+        <Satellite />
+      </Item>
+      <File>Shorts HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime 2 HD">
+        <Satellite />
+      </Item>
+      <File>Showtime 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime 2">
+        <Satellite />
+      </Item>
+      <File>Showtime 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Beyond">
+        <Satellite />
+      </Item>
+      <File>Showtime Beyond.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Extreme">
+        <Satellite />
+      </Item>
+      <File>Showtime Extreme.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Family Zone">
+        <Satellite />
+      </Item>
+      <File>Showtime Family Zone.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime HD">
+        <Satellite />
+      </Item>
+      <File>Showtime HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Next">
+        <Satellite />
+      </Item>
+      <File>Showtime Next.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Showcase">
+        <Satellite />
+      </Item>
+      <File>Showtime Showcase.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime Women">
+        <Satellite />
+      </Item>
+      <File>Showtime Women.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showtime">
+        <Satellite />
+      </Item>
+      <File>Showtime.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SIC International">
+        <Satellite />
+      </Item>
+      <File>SIC International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SIC Noticias">
+        <Satellite />
+      </Item>
+      <File>SIC Noticias.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sino TV">
+        <Satellite />
+      </Item>
+      <File>Sino TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SinoVision">
+        <Satellite />
+      </Item>
+      <File>SinoVision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sirippoli">
+        <Satellite />
+      </Item>
+      <File>Sirippoli.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Link TV-2">
+        <Satellite />
+      </Item>
+      <File>Sky Link TV-2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Link TV">
+        <Satellite />
+      </Item>
+      <File>Sky Link TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Smile of a Child TV">
+        <Satellite />
+      </Item>
+      <File>Smile of a Child TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Smithsonian Channel HD">
+        <Satellite />
+      </Item>
+      <File>Smithsonian Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Smithsonian Channel">
+        <Satellite />
+      </Item>
+      <File>Smithsonian Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sonlife">
+        <Satellite />
+      </Item>
+      <File>Sonlife.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony AATH">
+        <Satellite />
+      </Item>
+      <File>Sony AATH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Max">
+        <Satellite />
+      </Item>
+      <File>Sony Max.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Mix">
+        <Satellite />
+      </Item>
+      <File>Sony Mix.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Sab">
+        <Satellite />
+      </Item>
+      <File>Sony Sab.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sorpresa">
+        <Satellite />
+      </Item>
+      <File>Sorpresa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Soul of the South Network">
+        <Satellite />
+      </Item>
+      <File>Soul of the South Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Soundtrack Channel">
+        <Satellite />
+      </Item>
+      <File>Soundtrack Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spike HD">
+        <Satellite />
+      </Item>
+      <File>Spike HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spike TV">
+        <Satellite />
+      </Item>
+      <File>Spike TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sportsman Channel">
+        <Satellite />
+      </Item>
+      <File>Sportsman Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SportsNet NY HD">
+        <Satellite />
+      </Item>
+      <File>SportsNet NY HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SportsNet NY">
+        <Satellite />
+      </Item>
+      <File>SportsNet NY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SportSouth">
+        <Satellite />
+      </Item>
+      <File>SportSouth.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SportsTime Ohio">
+        <Satellite />
+      </Item>
+      <File>SportsTime Ohio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sprout">
+        <Satellite />
+      </Item>
+      <File>Sprout.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="STAR Chinese Movies Legend">
+        <Satellite />
+      </Item>
+      <File>STAR Chinese Movies Legend.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Chinese Movies">
+        <Satellite />
+      </Item>
+      <File>Star Chinese Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Chinese">
+        <Satellite />
+      </Item>
+      <File>Star Chinese.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Gold HD">
+        <Satellite />
+      </Item>
+      <File>Star Gold HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Gold">
+        <Satellite />
+      </Item>
+      <File>Star Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Plus HD">
+        <Satellite />
+      </Item>
+      <File>Star Plus HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Plus">
+        <Satellite />
+      </Item>
+      <File>Star Plus.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Vijay">
+        <Satellite />
+      </Item>
+      <File>Star Vijay.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Cinema HD">
+        <Satellite />
+      </Item>
+      <File>Starz Cinema HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Cinema">
+        <Satellite />
+      </Item>
+      <File>Starz Cinema.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Comedy HD">
+        <Satellite />
+      </Item>
+      <File>Starz Comedy HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Comedy">
+        <Satellite />
+      </Item>
+      <File>Starz Comedy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Edge HD">
+        <Satellite />
+      </Item>
+      <File>Starz Edge HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Edge">
+        <Satellite />
+      </Item>
+      <File>Starz Edge.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz HD">
+        <Satellite />
+      </Item>
+      <File>Starz HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz InBlack HD">
+        <Satellite />
+      </Item>
+      <File>Starz InBlack HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz InBlack">
+        <Satellite />
+      </Item>
+      <File>Starz InBlack.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Kids and Family HD">
+        <Satellite />
+      </Item>
+      <File>Starz Kids and Family HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz Kids and Family">
+        <Satellite />
+      </Item>
+      <File>Starz Kids and Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Starz">
+        <Satellite />
+      </Item>
+      <File>Starz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sun Music">
+        <Satellite />
+      </Item>
+      <File>Sun Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sun Sports">
+        <Satellite />
+      </Item>
+      <File>Sun Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sun TV">
+        <Satellite />
+      </Item>
+      <File>Sun TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Suncoast News Network">
+        <Satellite />
+      </Item>
+      <File>Suncoast News Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SundanceTV HD">
+        <Satellite />
+      </Item>
+      <File>SundanceTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SundanceTV">
+        <Satellite />
+      </Item>
+      <File>SundanceTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Surya TV">
+        <Satellite />
+      </Item>
+      <File>Surya TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tai Seng Sat TV">
+        <Satellite />
+      </Item>
+      <File>Tai Seng Sat TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tapesh TV">
+        <Satellite />
+      </Item>
+      <File>Tapesh TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tara Muzik">
+        <Satellite />
+      </Item>
+      <File>Tara Muzik.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TBN Enlace">
+        <Satellite />
+      </Item>
+      <File>TBN Enlace.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TBN Russia">
+        <Satellite />
+      </Item>
+      <File>TBN Russia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TBN">
+        <Satellite />
+      </Item>
+      <File>TBN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TBS HD">
+        <Satellite />
+      </Item>
+      <File>TBS HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TBS">
+        <Satellite />
+      </Item>
+      <File>TBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TCT Network HD">
+        <Satellite />
+      </Item>
+      <File>TCT Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TCT Network">
+        <Satellite />
+      </Item>
+      <File>TCT Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeenNick">
+        <Satellite />
+      </Item>
+      <File>TeenNick.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tele Vida Abundante">
+        <Satellite />
+      </Item>
+      <File>Tele Vida Abundante.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeLe-Romantica">
+        <Satellite />
+      </Item>
+      <File>TeLe-Romantica.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Telecare">
+        <Satellite />
+      </Item>
+      <File>Telecare.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Telefe">
+        <Satellite />
+      </Item>
+      <File>Telefe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeleFormula">
+        <Satellite />
+      </Item>
+      <File>TeleFormula.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeleHit">
+        <Satellite />
+      </Item>
+      <File>TeleHit.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Telemundo">
+        <Satellite />
+      </Item>
+      <File>Telemundo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeleSur">
+        <Satellite />
+      </Item>
+      <File>TeleSur.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tempo Networks">
+        <Satellite />
+      </Item>
+      <File>Tempo Networks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tennis Channel HD">
+        <Satellite />
+      </Item>
+      <File>Tennis Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tennis Channel">
+        <Satellite />
+      </Item>
+      <File>Tennis Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TFC">
+        <Satellite />
+      </Item>
+      <File>TFC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Africa Channel">
+        <Satellite />
+      </Item>
+      <File>The Africa Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The California Channel">
+        <Satellite />
+      </Item>
+      <File>The California Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Israeli Network">
+        <Satellite />
+      </Item>
+      <File>The Israeli Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Ski Channel">
+        <Satellite />
+      </Item>
+      <File>The Ski Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Walk TV">
+        <Satellite />
+      </Item>
+      <File>The Walk TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Weather Channel HD">
+        <Satellite />
+      </Item>
+      <File>The Weather Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Weather Channel">
+        <Satellite />
+      </Item>
+      <File>The Weather Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Word Network">
+        <Satellite />
+      </Item>
+      <File>The Word Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Worship Network">
+        <Satellite />
+      </Item>
+      <File>The Worship Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TheBlaze">
+        <Satellite />
+      </Item>
+      <File>TheBlaze.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TheCoolTV">
+        <Satellite />
+      </Item>
+      <File>TheCoolTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="This TV">
+        <Satellite />
+      </Item>
+      <File>This TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ThrillerMax HD">
+        <Satellite />
+      </Item>
+      <File>ThrillerMax HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ThrillerMax">
+        <Satellite />
+      </Item>
+      <File>ThrillerMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Times Now">
+        <Satellite />
+      </Item>
+      <File>Times Now.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TiVi5MONDE">
+        <Satellite />
+      </Item>
+      <File>TiVi5MONDE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TL Novelas">
+        <Satellite />
+      </Item>
+      <File>TL Novelas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TLC HD">
+        <Satellite />
+      </Item>
+      <File>TLC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TLC">
+        <Satellite />
+      </Item>
+      <File>TLC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TMC HD">
+        <Satellite />
+      </Item>
+      <File>TMC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TMC Xtra">
+        <Satellite />
+      </Item>
+      <File>TMC Xtra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TMC">
+        <Satellite />
+      </Item>
+      <File>TMC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TNT HD">
+        <Satellite />
+      </Item>
+      <File>TNT HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TNT">
+        <Satellite />
+      </Item>
+      <File>TNT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Total Living Network">
+        <Satellite />
+      </Item>
+      <File>Total Living Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TouchVision">
+        <Satellite />
+      </Item>
+      <File>TouchVision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Trace Urban">
+        <Satellite />
+      </Item>
+      <File>Trace Urban.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travel Channel HD">
+        <Satellite />
+      </Item>
+      <File>Travel Channel HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travel Channel">
+        <Satellite />
+      </Item>
+      <File>Travel Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TruTV HD">
+        <Satellite />
+      </Item>
+      <File>TruTV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TruTV">
+        <Satellite />
+      </Item>
+      <File>TruTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TTV">
+        <Satellite />
+      </Item>
+      <File>TTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tuff TV">
+        <Satellite />
+      </Item>
+      <File>Tuff TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV 1000 Russian Kino">
+        <Satellite />
+      </Item>
+      <File>TV 1000 Russian Kino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Asia HD">
+        <Satellite />
+      </Item>
+      <File>TV Asia HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Asia">
+        <Satellite />
+      </Item>
+      <File>TV Asia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Brasil Internacional">
+        <Satellite />
+      </Item>
+      <File>TV Brasil Internacional.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Chile">
+        <Satellite />
+      </Item>
+      <File>TV Chile.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Colombia">
+        <Satellite />
+      </Item>
+      <File>TV Colombia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Dominicana">
+        <Satellite />
+      </Item>
+      <File>TV Dominicana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Globo">
+        <Satellite />
+      </Item>
+      <File>TV Globo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Japan HD">
+        <Satellite />
+      </Item>
+      <File>TV Japan HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Japan">
+        <Satellite />
+      </Item>
+      <File>TV Japan.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Land HD">
+        <Satellite />
+      </Item>
+      <File>TV Land HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Land">
+        <Satellite />
+      </Item>
+      <File>TV Land.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Mundial">
+        <Satellite />
+      </Item>
+      <File>TV Mundial.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV One">
+        <Satellite />
+      </Item>
+      <File>TV One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Sport">
+        <Satellite />
+      </Item>
+      <File>TV Sport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Venezuela">
+        <Satellite />
+      </Item>
+      <File>TV Venezuela.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV5 News">
+        <Satellite />
+      </Item>
+      <File>TV5 News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV5MONDE">
+        <Satellite />
+      </Item>
+      <File>TV5MONDE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV9">
+        <Satellite />
+      </Item>
+      <File>TV9.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVB Jade">
+        <Satellite />
+      </Item>
+      <File>TVB Jade.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVB Vietnam">
+        <Satellite />
+      </Item>
+      <File>TVB Vietnam.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVB1">
+        <Satellite />
+      </Item>
+      <File>TVB1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVB2">
+        <Satellite />
+      </Item>
+      <File>TVB2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVB8">
+        <Satellite />
+      </Item>
+      <File>TVB8.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVBe">
+        <Satellite />
+      </Item>
+      <File>TVBe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVBS">
+        <Satellite />
+      </Item>
+      <File>TVBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVC+ Latino">
+        <Satellite />
+      </Item>
+      <File>TVC+ Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVCI">
+        <Satellite />
+      </Item>
+      <File>TVCI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVE Internacional">
+        <Satellite />
+      </Item>
+      <File>TVE Internacional.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVG Network">
+        <Satellite />
+      </Item>
+      <File>TVG Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVGN HD">
+        <Satellite />
+      </Item>
+      <File>TVGN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVGN">
+        <Satellite />
+      </Item>
+      <File>TVGN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVI">
+        <Satellite />
+      </Item>
+      <File>TVI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tvida Vision">
+        <Satellite />
+      </Item>
+      <File>Tvida Vision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVK">
+        <Satellite />
+      </Item>
+      <File>TVK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVK2">
+        <Satellite />
+      </Item>
+      <File>TVK2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVN International">
+        <Satellite />
+      </Item>
+      <File>TVN International.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVN24">
+        <Satellite />
+      </Item>
+      <File>TVN24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVP Info">
+        <Satellite />
+      </Item>
+      <File>TVP Info.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TWC Deportes">
+        <Satellite />
+      </Item>
+      <File>TWC Deportes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TWC News">
+        <Satellite />
+      </Item>
+      <File>TWC News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TWC SportsNet">
+        <Satellite />
+      </Item>
+      <File>TWC SportsNet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TXCN">
+        <Satellite />
+      </Item>
+      <File>TXCN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="U Too">
+        <Satellite />
+      </Item>
+      <File>U Too.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UANetwork TV">
+        <Satellite />
+      </Item>
+      <File>UANetwork TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UBN">
+        <Satellite />
+      </Item>
+      <File>UBN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Udaya TV">
+        <Satellite />
+      </Item>
+      <File>Udaya TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UND Sports Network">
+        <Satellite />
+      </Item>
+      <File>UND Sports Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="UniMas">
+        <Satellite />
+      </Item>
+      <File>UniMas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Unity Broadcasting Network">
+        <Satellite />
+      </Item>
+      <File>Unity Broadcasting Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Universal HD">
+        <Satellite />
+      </Item>
+      <File>Universal HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Universal Sports">
+        <Satellite />
+      </Item>
+      <File>Universal Sports.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="University of California Television">
+        <Satellite />
+      </Item>
+      <File>University of California Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="University of Washington Television">
+        <Satellite />
+      </Item>
+      <File>University of Washington Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Univision Deportes 2">
+        <Satellite />
+      </Item>
+      <File>Univision Deportes 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Univision Deportes">
+        <Satellite />
+      </Item>
+      <File>Univision Deportes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Univision HD">
+        <Satellite />
+      </Item>
+      <File>Univision HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Univision tlnovelas">
+        <Satellite />
+      </Item>
+      <File>Univision tlnovelas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Univision">
+        <Satellite />
+      </Item>
+      <File>Univision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Untamed Sports TV">
+        <Satellite />
+      </Item>
+      <File>Untamed Sports TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Up TV">
+        <Satellite />
+      </Item>
+      <File>Up TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="USA Network HD">
+        <Satellite />
+      </Item>
+      <File>USA Network HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="USA Network">
+        <Satellite />
+      </Item>
+      <File>USA Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VBS">
+        <Satellite />
+      </Item>
+      <File>VBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Veria Living">
+        <Satellite />
+      </Item>
+      <File>Veria Living.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1 Classic">
+        <Satellite />
+      </Item>
+      <File>VH1 Classic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1 HD">
+        <Satellite />
+      </Item>
+      <File>VH1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1 Soul">
+        <Satellite />
+      </Item>
+      <File>VH1 Soul.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1">
+        <Satellite />
+      </Item>
+      <File>VH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Video Rola">
+        <Satellite />
+      </Item>
+      <File>Video Rola.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vien Thao TV">
+        <Satellite />
+      </Item>
+      <File>Vien Thao TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ViendoMovies">
+        <Satellite />
+      </Item>
+      <File>ViendoMovies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VME Kids">
+        <Satellite />
+      </Item>
+      <File>VME Kids.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VME">
+        <Satellite />
+      </Item>
+      <File>VME.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Volksmusik TV">
+        <Satellite />
+      </Item>
+      <File>Volksmusik TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VSky Entertainment">
+        <Satellite />
+      </Item>
+      <File>VSky Entertainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VSky Movies">
+        <Satellite />
+      </Item>
+      <File>VSky Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WABC">
+        <Satellite />
+      </Item>
+      <File>WABC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WAPA-TV">
+        <Satellite />
+      </Item>
+      <File>WAPA-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WAVY">
+        <Satellite />
+      </Item>
+      <File>WAVY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBAL">
+        <Satellite />
+      </Item>
+      <File>WBAL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBBM">
+        <Satellite />
+      </Item>
+      <File>WBBM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBFF">
+        <Satellite />
+      </Item>
+      <File>WBFF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBIN-TV">
+        <Satellite />
+      </Item>
+      <File>WBIN-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBOC">
+        <Satellite />
+      </Item>
+      <File>WBOC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBOCDT2">
+        <Satellite />
+      </Item>
+      <File>WBOCDT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBPH">
+        <Satellite />
+      </Item>
+      <File>WBPH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WBZ">
+        <Satellite />
+      </Item>
+      <File>WBZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCAU">
+        <Satellite />
+      </Item>
+      <File>WCAU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCAXDT2">
+        <Satellite />
+      </Item>
+      <File>WCAXDT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCBS">
+        <Satellite />
+      </Item>
+      <File>WCBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCCO">
+        <Satellite />
+      </Item>
+      <File>WCCO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCCT">
+        <Satellite />
+      </Item>
+      <File>WCCT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCFE">
+        <Satellite />
+      </Item>
+      <File>WCFE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCIU">
+        <Satellite />
+      </Item>
+      <File>WCIU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCVB">
+        <Satellite />
+      </Item>
+      <File>WCVB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCVBDT2">
+        <Satellite />
+      </Item>
+      <File>WCVBDT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCVE">
+        <Satellite />
+      </Item>
+      <File>WCVE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCVW">
+        <Satellite />
+      </Item>
+      <File>WCVW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDCA">
+        <Satellite />
+      </Item>
+      <File>WDCA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDCW HD">
+        <Satellite />
+      </Item>
+      <File>WDCW HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDCW">
+        <Satellite />
+      </Item>
+      <File>WDCW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDIV">
+        <Satellite />
+      </Item>
+      <File>WDIV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WE tv HD">
+        <Satellite />
+      </Item>
+      <File>WE tv HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WE tv">
+        <Satellite />
+      </Item>
+      <File>WE tv.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Weather Scan">
+        <Satellite />
+      </Item>
+      <File>Weather Scan.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WeatherNation TV">
+        <Satellite />
+      </Item>
+      <File>WeatherNation TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WENH">
+        <Satellite />
+      </Item>
+      <File>WENH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WETA UK">
+        <Satellite />
+      </Item>
+      <File>WETA UK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WETA">
+        <Satellite />
+      </Item>
+      <File>WETA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WETK">
+        <Satellite />
+      </Item>
+      <File>WETK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFDC">
+        <Satellite />
+      </Item>
+      <File>WFDC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFFF">
+        <Satellite />
+      </Item>
+      <File>WFFF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFLA-TV">
+        <Satellite />
+      </Item>
+      <File>WFLA-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFLD">
+        <Satellite />
+      </Item>
+      <File>WFLD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFMZ">
+        <Satellite />
+      </Item>
+      <File>WFMZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFUT">
+        <Satellite />
+      </Item>
+      <File>WFUT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFXT">
+        <Satellite />
+      </Item>
+      <File>WFXT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGAL">
+        <Satellite />
+      </Item>
+      <File>WGAL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGBH">
+        <Satellite />
+      </Item>
+      <File>WGBH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGBO">
+        <Satellite />
+      </Item>
+      <File>WGBO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGCB">
+        <Satellite />
+      </Item>
+      <File>WGCB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGN America">
+        <Satellite />
+      </Item>
+      <File>WGN America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGN">
+        <Satellite />
+      </Item>
+      <File>WGN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGNT">
+        <Satellite />
+      </Item>
+      <File>WGNT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHDH">
+        <Satellite />
+      </Item>
+      <File>WHDH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHME">
+        <Satellite />
+      </Item>
+      <File>WHME.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHP-DT2">
+        <Satellite />
+      </Item>
+      <File>WHP-DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHP">
+        <Satellite />
+      </Item>
+      <File>WHP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHRO EDU">
+        <Satellite />
+      </Item>
+      <File>WHRO EDU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHRO KID">
+        <Satellite />
+      </Item>
+      <File>WHRO KID.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHRO">
+        <Satellite />
+      </Item>
+      <File>WHRO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHTM-DT2">
+        <Satellite />
+      </Item>
+      <File>WHTM-DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHTM">
+        <Satellite />
+      </Item>
+      <File>WHTM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHUT">
+        <Satellite />
+      </Item>
+      <File>WHUT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHYY ARTS">
+        <Satellite />
+      </Item>
+      <File>WHYY ARTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHYY">
+        <Satellite />
+      </Item>
+      <File>WHYY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Willow Cricket HD">
+        <Satellite />
+      </Item>
+      <File>Willow Cricket HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Willow Cricket">
+        <Satellite />
+      </Item>
+      <File>Willow Cricket.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WITF">
+        <Satellite />
+      </Item>
+      <File>WITF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJAL">
+        <Satellite />
+      </Item>
+      <File>WJAL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJAR">
+        <Satellite />
+      </Item>
+      <File>WJAR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJLA-WX">
+        <Satellite />
+      </Item>
+      <File>WJLA-WX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJLA">
+        <Satellite />
+      </Item>
+      <File>WJLA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJYS">
+        <Satellite />
+      </Item>
+      <File>WJYS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WJZ">
+        <Satellite />
+      </Item>
+      <File>WJZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WKAQ">
+        <Satellite />
+      </Item>
+      <File>WKAQ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLIW">
+        <Satellite />
+      </Item>
+      <File>WLIW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLNE">
+        <Satellite />
+      </Item>
+      <File>WLNE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLNY">
+        <Satellite />
+      </Item>
+      <File>WLNY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLPD-CD">
+        <Satellite />
+      </Item>
+      <File>WLPD-CD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLS">
+        <Satellite />
+      </Item>
+      <File>WLS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLVI">
+        <Satellite />
+      </Item>
+      <File>WLVI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLVT">
+        <Satellite />
+      </Item>
+      <File>WLVT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLWC">
+        <Satellite />
+      </Item>
+      <File>WLWC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WLYH">
+        <Satellite />
+      </Item>
+      <File>WLYH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMAQ">
+        <Satellite />
+      </Item>
+      <File>WMAQ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMAR">
+        <Satellite />
+      </Item>
+      <File>WMAR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMBC">
+        <Satellite />
+      </Item>
+      <File>WMBC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMCN">
+        <Satellite />
+      </Item>
+      <File>WMCN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMDO">
+        <Satellite />
+      </Item>
+      <File>WMDO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMDT DT2">
+        <Satellite />
+      </Item>
+      <File>WMDT DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMDT">
+        <Satellite />
+      </Item>
+      <File>WMDT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMPT 2">
+        <Satellite />
+      </Item>
+      <File>WMPT 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMPT">
+        <Satellite />
+      </Item>
+      <File>WMPT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMUR Me">
+        <Satellite />
+      </Item>
+      <File>WMUR Me.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMUR">
+        <Satellite />
+      </Item>
+      <File>WMUR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNAC DT2">
+        <Satellite />
+      </Item>
+      <File>WNAC DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNAC">
+        <Satellite />
+      </Item>
+      <File>WNAC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNET">
+        <Satellite />
+      </Item>
+      <File>WNET.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNEU">
+        <Satellite />
+      </Item>
+      <File>WNEU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNJU">
+        <Satellite />
+      </Item>
+      <File>WNJU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNNE">
+        <Satellite />
+      </Item>
+      <File>WNNE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNUV">
+        <Satellite />
+      </Item>
+      <File>WNUV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNYE">
+        <Satellite />
+      </Item>
+      <File>WNYE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNYJ66">
+        <Satellite />
+      </Item>
+      <File>WNYJ66.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WNYW">
+        <Satellite />
+      </Item>
+      <File>WNYW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WOCK-CD">
+        <Satellite />
+      </Item>
+      <File>WOCK-CD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="World Fishing Network">
+        <Satellite />
+      </Item>
+      <File>World Fishing Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="World Harvest TV">
+        <Satellite />
+      </Item>
+      <File>World Harvest TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="World">
+        <Satellite />
+      </Item>
+      <File>World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPCH">
+        <Satellite />
+      </Item>
+      <File>WPCH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPHL">
+        <Satellite />
+      </Item>
+      <File>WPHL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPIX">
+        <Satellite />
+      </Item>
+      <File>WPIX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPMT">
+        <Satellite />
+      </Item>
+      <File>WPMT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPRI">
+        <Satellite />
+      </Item>
+      <File>WPRI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPSG">
+        <Satellite />
+      </Item>
+      <File>WPSG.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPTZ-HD">
+        <Satellite />
+      </Item>
+      <File>WPTZ-HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPTZDT">
+        <Satellite />
+      </Item>
+      <File>WPTZDT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPVI">
+        <Satellite />
+      </Item>
+      <File>WPVI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPWR">
+        <Satellite />
+      </Item>
+      <File>WPWR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPXI Me">
+        <Satellite />
+      </Item>
+      <File>WPXI Me.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WPXI">
+        <Satellite />
+      </Item>
+      <File>WPXI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRC">
+        <Satellite />
+      </Item>
+      <File>WRC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRIC">
+        <Satellite />
+      </Item>
+      <File>WRIC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRIW">
+        <Satellite />
+      </Item>
+      <File>WRIW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRLH DT2">
+        <Satellite />
+      </Item>
+      <File>WRLH DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRLH">
+        <Satellite />
+      </Item>
+      <File>WRLH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WRNN">
+        <Satellite />
+      </Item>
+      <File>WRNN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WSBE">
+        <Satellite />
+      </Item>
+      <File>WSBE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WSBK">
+        <Satellite />
+      </Item>
+      <File>WSBK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WSNS">
+        <Satellite />
+      </Item>
+      <File>WSNS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTKR">
+        <Satellite />
+      </Item>
+      <File>WTKR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTTG">
+        <Satellite />
+      </Item>
+      <File>WTTG.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTTW">
+        <Satellite />
+      </Item>
+      <File>WTTW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTVE">
+        <Satellite />
+      </Item>
+      <File>WTVE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTVR">
+        <Satellite />
+      </Item>
+      <File>WTVR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTVZ">
+        <Satellite />
+      </Item>
+      <File>WTVZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTXF">
+        <Satellite />
+      </Item>
+      <File>WTXF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUHF">
+        <Satellite />
+      </Item>
+      <File>WUHF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUNI">
+        <Satellite />
+      </Item>
+      <File>WUNI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUPV">
+        <Satellite />
+      </Item>
+      <File>WUPV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUSA">
+        <Satellite />
+      </Item>
+      <File>WUSA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUTB">
+        <Satellite />
+      </Item>
+      <File>WUTB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUTF">
+        <Satellite />
+      </Item>
+      <File>WUTF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUVP">
+        <Satellite />
+      </Item>
+      <File>WUVP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WVBT">
+        <Satellite />
+      </Item>
+      <File>WVBT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WVEC">
+        <Satellite />
+      </Item>
+      <File>WVEC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WVNY">
+        <Satellite />
+      </Item>
+      <File>WVNY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WVVH">
+        <Satellite />
+      </Item>
+      <File>WVVH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWBT">
+        <Satellite />
+      </Item>
+      <File>WWBT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWJ">
+        <Satellite />
+      </Item>
+      <File>WWJ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWOR">
+        <Satellite />
+      </Item>
+      <File>WWOR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWSI">
+        <Satellite />
+      </Item>
+      <File>WWSI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WXFT">
+        <Satellite />
+      </Item>
+      <File>WXFT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WXTV">
+        <Satellite />
+      </Item>
+      <File>WXTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WXYZ">
+        <Satellite />
+      </Item>
+      <File>WXYZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WYCC">
+        <Satellite />
+      </Item>
+      <File>WYCC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WYIN">
+        <Satellite />
+      </Item>
+      <File>WYIN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WZDC">
+        <Satellite />
+      </Item>
+      <File>WZDC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WZME">
+        <Satellite />
+      </Item>
+      <File>WZME.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Xcite">
+        <Satellite />
+      </Item>
+      <File>Xcite.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Xiamen TV">
+        <Satellite />
+      </Item>
+      <File>Xiamen TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Xtsy">
+        <Satellite />
+      </Item>
+      <File>Xtsy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="YES HD">
+        <Satellite />
+      </Item>
+      <File>YES HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="YES">
+        <Satellite />
+      </Item>
+      <File>YES.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Yoyo TV">
+        <Satellite />
+      </Item>
+      <File>Yoyo TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Business">
+        <Satellite />
+      </Item>
+      <File>Zee Business.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Cinema">
+        <Satellite />
+      </Item>
+      <File>Zee Cinema.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Kannada">
+        <Satellite />
+      </Item>
+      <File>Zee Kannada.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Marathi">
+        <Satellite />
+      </Item>
+      <File>Zee Marathi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Smile">
+        <Satellite />
+      </Item>
+      <File>Zee Smile.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Telugu">
+        <Satellite />
+      </Item>
+      <File>Zee Telugu.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee TV HD">
+        <Satellite />
+      </Item>
+      <File>Zee TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee TV">
+        <Satellite />
+      </Item>
+      <File>Zee TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zhejiang TV">
+        <Satellite />
+      </Item>
+      <File>Zhejiang TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zing">
+        <Satellite />
+      </Item>
+      <File>Zing.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zoom">
+        <Satellite />
+      </Item>
+      <File>Zoom.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zuus Country">
+        <Satellite />
+      </Item>
+      <File>Zuus Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zuus Latino">
+        <Satellite />
+      </Item>
+      <File>Zuus Latino.png</File>
+    </Channel>
+  </TV>
+  <!-- ******************************************************************** -->
+  <Radio>
+    <Channel>
+      <Item Name="Antenna Radio">
+        <Satellite />
+      </Item>
+      <File>Antenna Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ART Music Radio">
+        <Satellite />
+      </Item>
+      <File>ART Music Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ART Zikr Radio">
+        <Satellite />
+      </Item>
+      <File>ART Zikr Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dish CD">
+        <Satellite />
+      </Item>
+      <File>Dish CD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dish Music">
+        <Satellite />
+      </Item>
+      <File>Dish Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DWLS">
+        <Satellite />
+      </Item>
+      <File>DWLS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DZBB">
+        <Satellite />
+      </Item>
+      <File>DZBB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  80s">
+        <Satellite />
+      </Item>
+      <File>Music Choice  80s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  90s">
+        <Satellite />
+      </Item>
+      <File>Music Choice  90s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Blues">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Blues.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Classic Alternative">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Classic Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Classic Country">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Classic Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Classic Rock">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Classic Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Classical Masterpieces">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Classical Masterpieces.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Contemporary Christian">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Contemporary Christian.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Hip Hop Classics">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Hip Hop Classics.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice  Todays Country">
+        <Satellite />
+      </Item>
+      <File>Music Choice  Todays Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice 70s">
+        <Satellite />
+      </Item>
+      <File>Music Choice 70s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Adult Alternative">
+        <Satellite />
+      </Item>
+      <File>Music Choice Adult Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Alternative">
+        <Satellite />
+      </Item>
+      <File>Music Choice Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Dance Electronica">
+        <Satellite />
+      </Item>
+      <File>Music Choice Dance Electronica.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Easy Listening">
+        <Satellite />
+      </Item>
+      <File>Music Choice Easy Listening.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Hip Hop RB">
+        <Satellite />
+      </Item>
+      <File>Music Choice Hip Hop RB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Hitlist">
+        <Satellite />
+      </Item>
+      <File>Music Choice Hitlist.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Jazz">
+        <Satellite />
+      </Item>
+      <File>Music Choice Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Kidz Only">
+        <Satellite />
+      </Item>
+      <File>Music Choice Kidz Only.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Light Classical">
+        <Satellite />
+      </Item>
+      <File>Music Choice Light Classical.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Mexicana">
+        <Satellite />
+      </Item>
+      <File>Music Choice Mexicana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice MixTape">
+        <Satellite />
+      </Item>
+      <File>Music Choice MixTape.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Musica Urbana">
+        <Satellite />
+      </Item>
+      <File>Music Choice Musica Urbana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Party Favorites">
+        <Satellite />
+      </Item>
+      <File>Music Choice Party Favorites.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Pop Hits">
+        <Satellite />
+      </Item>
+      <File>Music Choice Pop Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Pop Latino">
+        <Satellite />
+      </Item>
+      <File>Music Choice Pop Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Rap">
+        <Satellite />
+      </Item>
+      <File>Music Choice Rap.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice RB Souls">
+        <Satellite />
+      </Item>
+      <File>Music Choice RB Souls.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Reggae">
+        <Satellite />
+      </Item>
+      <File>Music Choice Reggae.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Retro Rock">
+        <Satellite />
+      </Item>
+      <File>Music Choice Retro Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Singers and Swing">
+        <Satellite />
+      </Item>
+      <File>Music Choice Singers and Swing.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Smooth Jazz">
+        <Satellite />
+      </Item>
+      <File>Music Choice Smooth Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Soft Rock">
+        <Satellite />
+      </Item>
+      <File>Music Choice Soft Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Solid Gold Oldies">
+        <Satellite />
+      </Item>
+      <File>Music Choice Solid Gold Oldies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Sound Scapes">
+        <Satellite />
+      </Item>
+      <File>Music Choice Sound Scapes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Sounds of the Seasons">
+        <Satellite />
+      </Item>
+      <File>Music Choice Sounds of the Seasons.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Stage and Screen">
+        <Satellite />
+      </Item>
+      <File>Music Choice Stage and Screen.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Throw Back Jamz">
+        <Satellite />
+      </Item>
+      <File>Music Choice Throw Back Jamz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Toddler Tunes">
+        <Satellite />
+      </Item>
+      <File>Music Choice Toddler Tunes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Tropicales">
+        <Satellite />
+      </Item>
+      <File>Music Choice Tropicales.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice True Country">
+        <Satellite />
+      </Item>
+      <File>Music Choice True Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice">
+        <Satellite />
+      </Item>
+      <File>Music Choice.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NOAA Weather Radio">
+        <Satellite />
+      </Item>
+      <File>NOAA Weather Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio France Internationale">
+        <Satellite />
+      </Item>
+      <File>Radio France Internationale.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Italia Anni 60">
+        <Satellite />
+      </Item>
+      <File>Radio Italia Anni 60.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Italia">
+        <Satellite />
+      </Item>
+      <File>Radio Italia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rai Italia">
+        <Satellite />
+      </Item>
+      <File>Rai Italia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rythmos Radio">
+        <Satellite />
+      </Item>
+      <File>Rythmos Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 20s on 20">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 20s on 20.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 40s on 4">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 40s on 4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 50s on 5">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 50s on 5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 60s on 6">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 60s on 6.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 70s on 7">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 70s on 7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 80s on 8">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 80s on 8.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM 90s on 9">
+        <Satellite />
+      </Item>
+      <File>SiriusXM 90s on 9.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Aguila">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Aguila.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Alt Nation">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Alt Nation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Area">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Area.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM BackSpin">
+        <Satellite />
+      </Item>
+      <File>SiriusXM BackSpin.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM BB King Bluesville">
+        <Satellite />
+      </Item>
+      <File>SiriusXM BB King Bluesville.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Bluegrass Junction">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Bluegrass Junction.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM BPM">
+        <Satellite />
+      </Item>
+      <File>SiriusXM BPM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Caliente">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Caliente.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Caricia">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Caricia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Chill">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Chill.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Classic Rewind">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Classic Rewind.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Classic Vinyl">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Classic Vinyl.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Deep Tracks">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Deep Tracks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM E Street Radio">
+        <Satellite />
+      </Item>
+      <File>SiriusXM E Street Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Elvis Radio">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Elvis Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM enLighten">
+        <Satellite />
+      </Item>
+      <File>SiriusXM enLighten.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Escape">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Escape.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Faction">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Faction.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM First Wave">
+        <Satellite />
+      </Item>
+      <File>SiriusXM First Wave.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Flow Nacion">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Flow Nacion.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Hair Nation">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Hair Nation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Heart and Soul">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Heart and Soul.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Hip Hop Nation">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Hip Hop Nation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Hits 1">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Hits 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Jam On">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Jam On.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM La Kueva">
+        <Satellite />
+      </Item>
+      <File>SiriusXM La Kueva.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM La Mezcla">
+        <Satellite />
+      </Item>
+      <File>SiriusXM La Mezcla.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Latidos">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Latidos.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Liquid Metal">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Liquid Metal.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Lithium">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Lithium.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Love">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Love.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Luna">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Luna.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Margaritaville">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Margaritaville.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Met Opera Radio">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Met Opera Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Octane">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Octane.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM On Broadway">
+        <Satellite />
+      </Item>
+      <File>SiriusXM On Broadway.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Outlaw Country">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Outlaw Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Ozzys Boneyard">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Ozzys Boneyard.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Pops">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Pops.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Praise">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Praise.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Prime Country">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Prime Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Real Jazz">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Real Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Rumbon">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Rumbon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Shade 45">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Shade 45.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Siriusly Sinatra">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Siriusly Sinatra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Soultown">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Soultown.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Spa">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Spa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Studio 54 Radio">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Studio 54 Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Symphony Hall">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Symphony Hall.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Blend">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Blend.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Bridge">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Bridge.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Coffee House">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Coffee House.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Grateful Dead">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Grateful Dead.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Heat">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Heat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Highway">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Highway.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Joint">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Joint.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Loft">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Loft.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Message">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Message.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Pulse">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Pulse.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM The Spectrum">
+        <Satellite />
+      </Item>
+      <File>SiriusXM The Spectrum.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM U">
+        <Satellite />
+      </Item>
+      <File>SiriusXM U.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Underground Garage">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Underground Garage.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Viva">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Viva.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Watercolors">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Watercolors.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SiriusXM Willies Roadhouse">
+        <Satellite />
+      </Item>
+      <File>SiriusXM Willies Roadhouse.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Super Sport FM">
+        <Satellite />
+      </Item>
+      <File>Super Sport FM.png</File>
+    </Channel>
+  </Radio>
+  <!-- ******************************************************************** -->
+</Mappings>
