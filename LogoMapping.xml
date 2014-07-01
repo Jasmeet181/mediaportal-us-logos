@@ -591,6 +591,12 @@
       <File>BizTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Blackbelt TV">
+        <Satellite />
+      </Item>
+      <File>Blackbelt TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Bloomberg HD">
         <Satellite />
       </Item>
@@ -1705,6 +1711,24 @@
         <Satellite />
       </Item>
       <File>FamilyNet.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fashion One HD">
+        <Satellite />
+      </Item>
+      <File>Fashion One HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fashion One">
+        <Satellite />
+      </Item>
+      <File>Fashion One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fashion TV HD">
+        <Satellite />
+      </Item>
+      <File>Fashion TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fashion TV">
@@ -3747,6 +3771,12 @@
       <File>Nick 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nick Jr. HD">
+        <Satellite />
+      </Item>
+      <File>Nick Jr. HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nick Jr.">
         <Satellite />
       </Item>
@@ -4785,6 +4815,18 @@
       <File>TBS.png</File>
     </Channel>
     <Channel>
+      <Item Name="TCM HD">
+        <Satellite />
+      </Item>
+      <File>TCM HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TCM">
+        <Satellite />
+      </Item>
+      <File>TCM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TCT Network HD">
         <Satellite />
       </Item>
@@ -5455,6 +5497,12 @@
         <Satellite />
       </Item>
       <File>USA Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VasalloVision">
+        <Satellite />
+      </Item>
+      <File>VasalloVision.png</File>
     </Channel>
     <Channel>
       <Item Name="VBS">
@@ -6499,6 +6547,12 @@
         <Satellite />
       </Item>
       <File>YES.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Youtoo TV">
+        <Satellite />
+      </Item>
+      <File>Youtoo TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Yoyo TV">
