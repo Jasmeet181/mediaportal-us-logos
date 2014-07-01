@@ -32,17 +32,17 @@
       </Item>
       <File>4SD.png</File>
     </Channel>
-	<Channel>
+    <Channel>
       <Item Name="52MX">
         <Satellite />
       </Item>
       <File>52MX.png</File>
     </Channel>
-	<Channel>
-	  <Item Name="5StarMax HD">
+    <Channel>
+      <Item Name="5StarMax HD">
         <Satellite />
       </Item>
-	  <File>5StarMax HD.png</File>
+      <File>5StarMax HD.png</File>
     </Channel>
     <Channel>
       <Item Name="5StarMax">
@@ -50,17 +50,17 @@
       </Item>
       <File>5StarMax.png</File>
     </Channel>
-	<Channel>
-	  <Item Name="A&E HD">
-	    <Satellite />
-	  </Item>
-	  <File>A&amp;E HD.png</File>
-	</Channel>
+     <Channel>
+      <Item Name="A&E HD">
+        <Satellite />
+      </Item>
+      <File>A and E HD.png</File>
+    </Channel>
     <Channel>
       <Item Name="A&E">
         <Satellite />
       </Item>
-      <File>A&amp;E.png</File>
+      <File>A and E.png</File>
     </Channel>
     <Channel>
       <Item Name="AAG TV">
@@ -463,6 +463,12 @@
         <Satellite />
       </Item>
       <File>Bandamax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bang U TV">
+        <Satellite />
+      </Item>
+      <File>Bang U TV.png</File>
     </Channel>
     <Channel>
       <Item Name="BanglaVision">
@@ -3297,6 +3303,12 @@
       <File>MLS Direct Kick.png</File>
     </Channel>
     <Channel>
+      <Item Name="Mofos">
+        <Satellite />
+      </Item>
+      <File>Mofos.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MoreMax HD">
         <Satellite />
       </Item>
@@ -3985,6 +3997,12 @@
         <Satellite />
       </Item>
       <File>Pentagon Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Penthouse TV">
+        <Satellite />
+      </Item>
+      <File>Penthouse TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Pets.TV">
@@ -4869,6 +4887,12 @@
       <File>The California Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="The Erotic Network">
+        <Satellite />
+      </Item>
+      <File>The Erotic Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Israeli Network">
         <Satellite />
       </Item>
@@ -5623,6 +5647,12 @@
         <Satellite />
       </Item>
       <File>WCIU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WCIU-DT5">
+        <Satellite />
+      </Item>
+      <File>WCIU-DT5.png</File>
     </Channel>
     <Channel>
       <Item Name="WCVB">
