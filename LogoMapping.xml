@@ -171,6 +171,12 @@
       <File>Afrotainment.png</File>
     </Channel>
     <Channel>
+      <Item Name="Arirang">
+        <Satellite />
+      </Item>
+      <File>Arirang.png</File>
+    </Channel>
+    <Channel>
       <Item Name="AIT">
         <Satellite />
       </Item>
@@ -271,6 +277,12 @@
         <Satellite />
       </Item>
       <File>Amedia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="America CV">
+        <Satellite />
+      </Item>
+      <File>America CV.png</File>
     </Channel>
     <Channel>
       <Item Name="America One">
@@ -421,6 +433,30 @@
         <Satellite />
       </Item>
       <File>Azteca America.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Azteca Siete HD">
+        <Satellite />
+      </Item>
+      <File>Azteca Siete HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Azteca Siete">
+        <Satellite />
+      </Item>
+      <File>Azteca Siete.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Azteca Trece HD">
+        <Satellite />
+      </Item>
+      <File>Azteca Trece HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Azteca Trece">
+        <Satellite />
+      </Item>
+      <File>Azteca Trece.png</File>
     </Channel>
     <Channel>
       <Item Name="B4U Movies">
@@ -729,10 +765,40 @@
       <File>C-SPAN3.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cadenatres">
+        <Satellite />
+      </Item>
+      <File>Cadenatres.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CamTV">
         <Satellite />
       </Item>
       <File>CamTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Canal 5">
+        <Satellite />
+      </Item>
+      <File>Canal 5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Canal 58">
+        <Satellite />
+      </Item>
+      <File>Canal 58.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Canal de las Estrellas">
+        <Satellite />
+      </Item>
+      <File>Canal de las Estrellas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Caribevision">
+        <Satellite />
+      </Item>
+      <File>Caribevision.png</File>
     </Channel>
     <Channel>
       <Item Name="Cars.TV">
@@ -1683,6 +1749,12 @@
       <File>Euronews.png</File>
     </Channel>
     <Channel>
+      <Item Name="EWTN HD">
+        <Satellite />
+      </Item>
+      <File>EWTN HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EWTN">
         <Satellite />
       </Item>
@@ -1759,6 +1831,12 @@
         <Satellite />
       </Item>
       <File>Fight Now TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FilmOn">
+        <Satellite />
+      </Item>
+      <File>FilmOn.png</File>
     </Channel>
     <Channel>
       <Item Name="FiOS1">
@@ -2215,6 +2293,12 @@
         <Satellite />
       </Item>
       <File>GMA Pinoy TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GoAnimate TV">
+        <Satellite />
+      </Item>
+      <File>GoAnimate TV.png</File>
     </Channel>
     <Channel>
       <Item Name="God Channel">
@@ -2883,6 +2967,12 @@
       <File>KO-AM TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="KOCE">
+        <Satellite />
+      </Item>
+      <File>KOCE.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KOFY">
         <Satellite />
       </Item>
@@ -3201,6 +3291,22 @@
       <File>Mazhavil Manorama.png</File>
     </Channel>
     <Channel>
+      <Item Name="MBC America">
+        <Satellite />
+      </Item>
+      <File>MBC America.png</File>
+    </Channel>
+      <Item Name="MBC Drama HD">
+        <Satellite />
+      </Item>
+      <File>MBC Drama HD.png</File>
+    </Channel>
+      <Item Name="MBC Every 1">
+        <Satellite />
+      </Item>
+      <File>MBC Every 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MBC MASR">
         <Satellite />
       </Item>
@@ -3219,10 +3325,22 @@
       <File>MBC3.png</File>
     </Channel>
     <Channel>
+      <Item Name="MBCD">
+        <Satellite />
+      </Item>
+      <File>MBCD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MBCDR">
         <Satellite />
       </Item>
       <File>MBCDR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Me Too">
+        <Satellite />
+      </Item>
+      <File>Me Too.png</File>
     </Channel>
     <Channel>
       <Item Name="Mediaset Italia">
@@ -3283,6 +3401,12 @@
         <Satellite />
       </Item>
       <File>Midco Sports Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Milenio Television">
+        <Satellite />
+      </Item>
+      <File>Milenio Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Military History Channel">
@@ -4125,6 +4249,18 @@
       <File>ProSiebenSAT.1Welt.png</File>
     </Channel>
     <Channel>
+      <Item Name="Proyecto 40 HD">
+        <Satellite />
+      </Item>
+      <File>Proyecto 40 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Proyecto 40">
+        <Satellite />
+      </Item>
+      <File>Proyecto 40.png</File>
+    </Channel>
+    <Channel>
       <Item Name="PTC Punjabi">
         <Satellite />
       </Item>
@@ -4467,6 +4603,12 @@
       <File>Sino TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sino22">
+        <Satellite />
+      </Item>
+      <File>Sino22.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SinoVision">
         <Satellite />
       </Item>
@@ -4507,6 +4649,12 @@
         <Satellite />
       </Item>
       <File>Smithsonian Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Son Broadcasting Network">
+        <Satellite />
+      </Item>
+      <File>Son Broadcasting Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Sonlife">
@@ -4791,6 +4939,12 @@
       <File>TBN Enlace.png</File>
     </Channel>
     <Channel>
+      <Item Name="TBN HD">
+        <Satellite />
+      </Item>
+      <File>TBN HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TBN Russia">
         <Satellite />
       </Item>
@@ -4881,6 +5035,12 @@
       <File>TeleHit.png</File>
     </Channel>
     <Channel>
+      <Item Name="Telemax">
+        <Satellite />
+      </Item>
+      <File>Telemax.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Telemundo">
         <Satellite />
       </Item>
@@ -4891,6 +5051,12 @@
         <Satellite />
       </Item>
       <File>TeleSur.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Televisa">
+        <Satellite />
+      </Item>
+      <File>Televisa.png</File>
     </Channel>
     <Channel>
       <Item Name="Tempo Networks">
@@ -5125,6 +5291,12 @@
         <Satellite />
       </Item>
       <File>TV 1000 Russian Kino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV Alabanza">
+        <Satellite />
+      </Item>
+      <File>TV Alabanza.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Asia HD">
@@ -5949,10 +6121,16 @@
       <File>WHYY ARTS.png</File>
     </Channel>
     <Channel>
-      <Item Name="WHYY">
+      <Item Name="WIIH-CD">
         <Satellite />
       </Item>
-      <File>WHYY.png</File>
+      <File>WIIH-CD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Willow Cricket HD">
+        <Satellite />
+      </Item>
+      <File>Willow Cricket HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Willow Cricket HD">
@@ -5967,10 +6145,22 @@
       <File>Willow Cricket.png</File>
     </Channel>
     <Channel>
+      <Item Name="WIN TV">
+        <Satellite />
+      </Item>
+      <File>WIN TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WITF">
         <Satellite />
       </Item>
       <File>WITF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WIWU-CD">
+        <Satellite />
+      </Item>
+      <File>WIWU-CD.png</File>
     </Channel>
     <Channel>
       <Item Name="WJAL">
@@ -6463,6 +6653,12 @@
         <Satellite />
       </Item>
       <File>WWJ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWME-CA">
+        <Satellite />
+      </Item>
+      <File>WWME-CA.png</File>
     </Channel>
     <Channel>
       <Item Name="WWOR">
