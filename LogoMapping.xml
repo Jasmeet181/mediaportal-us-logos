@@ -5137,6 +5137,12 @@
       <File>The Word Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="The Works">
+        <Satellite />
+      </Item>
+      <File>The Works.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Worship Network">
         <Satellite />
       </Item>
