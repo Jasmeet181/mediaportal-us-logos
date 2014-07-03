@@ -177,7 +177,7 @@
       <File>Afrotainment.png</File>
     </Channel>
     <Channel>
-      <Item Name="Arirang">
+      <Item Name="KBC-TV 13.2 (KBC)">
         <Satellite />
       </Item>
       <File>Arirang.png</File>
@@ -237,7 +237,7 @@
       <File>Al Yawm.png</File>
     </Channel>
     <Channel>
-      <Item Name="Almavision">
+      <Item Name="ALMAVIS">
         <Satellite />
       </Item>
       <File>Almavision.png</File>
@@ -291,7 +291,7 @@
       <File>America CV.png</File>
     </Channel>
     <Channel>
-      <Item Name="America One">
+      <Item Name="WSPY-DT">
         <Satellite />
       </Item>
       <File>America One.png</File>
@@ -357,7 +357,7 @@
       <File>Antenna Satellite.png</File>
     </Channel>
     <Channel>
-      <Item Name="Antenna TV">
+      <Item Name="Antenna">
         <Satellite />
       </Item>
       <File>Antenna TV.png</File>
@@ -435,7 +435,7 @@
       <File>Axs TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Azteca America">
+      <Item Name="Azteca">
         <Satellite />
       </Item>
       <File>Azteca America.png</File>
@@ -981,7 +981,7 @@
       <File>Christian Television Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Church Channel">
+      <Item Name="WWTO-D2">
         <Satellite />
       </Item>
       <File>Church Channel.png</File>
@@ -1155,7 +1155,10 @@
       <File>Cox Sports Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cozi TV">
+      <Item Name="Cozi-TV">
+        <Satellite />
+      </Item>
+      <Item Name="Cozi">
         <Satellite />
       </Item>
       <File>Cozi TV.png</File>
@@ -1275,7 +1278,7 @@
       <File>Da Ai TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Daystar">
+      <Item Name="WDCI-LD">
         <Satellite />
       </Item>
       <File>Daystar.png</File>
@@ -1683,7 +1686,7 @@
       <File>Esquire Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Estrella TV">
+      <Item Name="WESV-LP">
         <Satellite />
       </Item>
       <File>Estrella TV.png</File>
@@ -1767,7 +1770,7 @@
       <File>EWTN.png</File>
     </Channel>
     <Channel>
-      <Item Name="Exitos TV">
+      <Item Name="Exitos">
         <Satellite />
       </Item>
       <File>Exitos TV.png</File>
@@ -1851,7 +1854,10 @@
       <File>FiOS1.png</File>
     </Channel>
     <Channel>
-      <Item Name="First Nations Experience">
+      <Item Name="FNX">
+        <Satellite />
+      </Item>
+      <Item Name="WYCC-SD">
         <Satellite />
       </Item>
       <File>First Nations Experience.png</File>
@@ -2286,6 +2292,9 @@
       <Item Name="GetTV">
         <Satellite />
       </Item>
+      <Item Name="GetTV (GetTV  )">
+        <Satellite />
+      </Item>
       <File>GetTV.png</File>
     </Channel>
     <Channel>
@@ -2691,7 +2700,7 @@
       <File>Indieplex.png</File>
     </Channel>
     <Channel>
-      <Item Name="Inmigrante TV">
+      <Item Name="SOLIS">
         <Satellite />
       </Item>
       <File>Inmigrante TV.png</File>
@@ -2715,13 +2724,13 @@
       <File>Investigation Discovery.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ion Life">
+      <Item Name="IONLife">
         <Satellite />
       </Item>
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ion Television">
+      <Item Name="WCPX ION (ION)">
         <Satellite />
       </Item>
       <File>Ion Television.png</File>
@@ -2757,19 +2766,13 @@
       <File>Jaya TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="JCTV">
-        <Satellite />
-      </Item>
-      <File>JCTV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="JET TV International">
         <Satellite />
       </Item>
       <File>JET TV International.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jewelry Television">
+      <Item Name="JTV">
         <Satellite />
       </Item>
       <File>Jewelry Television.png</File>
@@ -2791,6 +2794,12 @@
         <Satellite />
       </Item>
       <File>JMovies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WWTO-D3">
+        <Satellite />
+      </Item>
+      <File>JUCE TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Juicy">
@@ -2859,7 +2868,7 @@
       <File>KBS World HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="KBS World">
+      <Item Name="KBS">
         <Satellite />
       </Item>
       <File>KBS World.png</File>
@@ -3063,12 +3072,6 @@
       <File>KSTS.png</File>
     </Channel>
     <Channel>
-      <Item Name="KTCA">
-        <Satellite />
-      </Item>
-      <File>KTCA.png</File>
-    </Channel>
-    <Channel>
       <Item Name="KTLA">
         <Satellite />
       </Item>
@@ -3159,7 +3162,7 @@
       <File>Leased Access.png</File>
     </Channel>
     <Channel>
-      <Item Name="LeSEA">
+      <Item Name="WHNW-DT">
         <Satellite />
       </Item>
       <File>LeSEA.png</File>
@@ -3201,7 +3204,7 @@
       <File>Liquidation Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Live Well Network">
+      <Item Name="Livwell">
         <Satellite />
       </Item>
       <File>Live Well Network.png</File>
@@ -3373,7 +3376,7 @@
       <File>MBCDR.png</File>
     </Channel>
     <Channel>
-      <Item Name="Me Too">
+      <Item Name="WCIU-TV, Chicago (MeToo)">
         <Satellite />
       </Item>
       <File>Me Too.png</File>
@@ -3427,7 +3430,7 @@
       <File>MHz Networks.png</File>
     </Channel>
     <Channel>
-      <Item Name="MHz WorldView">
+      <Item Name="MHz">
         <Satellite />
       </Item>
       <File>MHz WorldView.png</File>
@@ -3455,12 +3458,6 @@
         <Satellite />
       </Item>
       <File>MiND.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Minnesota Channel">
-        <Satellite />
-      </Item>
-      <File>Minnesota Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="MLB Extra Innings">
@@ -3529,7 +3526,7 @@
       <File>Movies Ok.png</File>
     </Channel>
     <Channel>
-      <Item Name="Movies">
+      <Item Name="Movies!">
         <Satellite />
       </Item>
       <File>Movies.png</File>
@@ -3655,7 +3652,13 @@
       <File>Murr TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="My Christian Television">
+      <Item Name="MCTV">
+        <Satellite />
+      </Item>
+      <Item Name="My Christian Television (MCTV)">
+        <Satellite />
+      </Item>
+      <Item Name="PRISM2">
         <Satellite />
       </Item>
       <File>My Christian Television.png</File>
@@ -4171,7 +4174,7 @@
       <File>PBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="Peace TV">
+      <Item Name="PeaceTV">
         <Satellite />
       </Item>
       <File>Peace TV.png</File>
@@ -4267,7 +4270,7 @@
       <File>Polska Muzyka.png</File>
     </Channel>
     <Channel>
-      <Item Name="Polvision">
+      <Item Name="Polvisn">
         <Satellite />
       </Item>
       <File>Polvision.png</File>
@@ -4321,7 +4324,7 @@
       <File>Pursuit Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Qubo">
+      <Item Name="WCPX qubo (qubo)">
         <Satellite />
       </Item>
       <File>Qubo.png</File>
@@ -4675,7 +4678,7 @@
       <File>SMB-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Smile of a Child TV">
+      <Item Name="WWTO-D5">
         <Satellite />
       </Item>
       <File>Smile of a Child TV.png</File>
@@ -4699,7 +4702,16 @@
       <File>Son Broadcasting Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sonlife">
+      <Item Name="PRISM">
+        <Satellite />
+      </Item>
+      <Item Name="PRISM">
+        <Satellite />
+      </Item>
+      <Item Name="PRISM multi-cultural channel (PRISM)">
+        <Satellite />
+      </Item>
+      <Item Name="SBN">
         <Satellite />
       </Item>
       <File>Sonlife.png</File>
@@ -4735,7 +4747,10 @@
       <File>Sorpresa.png</File>
     </Channel>
     <Channel>
-      <Item Name="Soul of the South Network">
+      <Item Name="WOCK 13.5 (WOCK-LD)">
+        <Satellite />
+      </Item>
+      <Item Name="WOCK-LD">
         <Satellite />
       </Item>
       <File>Soul of the South Network.png</File>
@@ -4975,7 +4990,7 @@
       <File>Tara Muzik.png</File>
     </Channel>
     <Channel>
-      <Item Name="TBN Enlace">
+      <Item Name="WWTO-D4">
         <Satellite />
       </Item>
       <File>TBN Enlace.png</File>
@@ -4993,7 +5008,7 @@
       <File>TBN Russia.png</File>
     </Channel>
     <Channel>
-      <Item Name="TBN">
+      <Item Name="WWTO-D1">
         <Satellite />
       </Item>
       <File>TBN.png</File>
@@ -5047,7 +5062,7 @@
       <File>Tele Vida Abundante.png</File>
     </Channel>
     <Channel>
-      <Item Name="TeLe-Romantica">
+      <Item Name="TLR">
         <Satellite />
       </Item>
       <File>TeLe-Romantica.png</File>
@@ -5179,7 +5194,7 @@
       <File>The Word Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="The Works">
+      <Item Name="WOCH-CD (WOCH-1)">
         <Satellite />
       </Item>
       <File>The Works.png</File>
@@ -5197,7 +5212,10 @@
       <File>TheBlaze.png</File>
     </Channel>
     <Channel>
-      <Item Name="TheCoolTV">
+      <Item Name="WOCK">
+        <Satellite />
+      </Item>
+      <Item Name="WOCK 13.4 (WOCK)">
         <Satellite />
       </Item>
       <File>TheCoolTV.png</File>
@@ -5287,10 +5305,34 @@
       <File>Total Living Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="TouchVision">
+      <Item Name="WMEU-LD CHICAGO (TOUCH)">
         <Satellite />
       </Item>
       <File>TouchVision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TPT 2">
+        <Satellite />
+      </Item>
+      <File>TPT 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TPT MN">
+        <Satellite />
+      </Item>
+      <File>TPT MN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TPT Wx">
+        <Satellite />
+      </Item>
+      <File>TPT Wx.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TPTLife">
+        <Satellite />
+      </Item>
+      <File>TPTLife.png</File>
     </Channel>
     <Channel>
       <Item Name="Trace Urban">
@@ -5497,7 +5539,7 @@
       <File>TVBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVC+ Latino">
+      <Item Name="TVC+">
         <Satellite />
       </Item>
       <File>TVC+ Latino.png</File>
@@ -5599,7 +5641,13 @@
       <File>TXCN.png</File>
     </Channel>
     <Channel>
-      <Item Name="U Too">
+      <Item Name="UToo">
+        <Satellite />
+      </Item>
+      <Item Name="WCIU-TV, Chicago (UToo)">
+        <Satellite />
+      </Item>
+      <Item Name="WMEU-LD CHICAGO (UToo HD)">
         <Satellite />
       </Item>
       <File>U Too.png</File>
@@ -5731,7 +5779,10 @@
       <File>VBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="Veria Living">
+      <Item Name="13.3 Ve">
+        <Satellite />
+      </Item>
+      <Item Name="WOCK-LD 13.3 (13.3 Ve)">
         <Satellite />
       </Item>
       <File>Veria Living.png</File>
@@ -5785,7 +5836,7 @@
       <File>VME Kids.png</File>
     </Channel>
     <Channel>
-      <Item Name="VME">
+      <Item Name="WTTW-CR">
         <Satellite />
       </Item>
       <File>VME.png</File>
@@ -5807,6 +5858,12 @@
         <Satellite />
       </Item>
       <File>VSky Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="W40CN-D">
+        <Satellite />
+      </Item>
+      <File>W40CN-D.png</File>
     </Channel>
     <Channel>
       <Item Name="WABC">
@@ -5833,7 +5890,7 @@
       <File>WBAL.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBBM">
+      <Item Name="WBBM-DT">
         <Satellite />
       </Item>
       <File>WBBM.png</File>
@@ -5911,13 +5968,19 @@
       <File>WCFE.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCIU">
+      <Item Name="WCIU-TV">
+        <Satellite />
+      </Item>
+      <Item Name="WCIU-TV, Chicago (WCIU-HD)">
         <Satellite />
       </Item>
       <File>WCIU.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCIU-DT5">
+      <Item Name="WCIU-TV, Chicago (Bounce)">
+        <Satellite />
+      </Item>
+      <Item Name="WWME-LD, Chicago (Bounce)">
         <Satellite />
       </Item>
       <File>WCIU-DT5.png</File>
@@ -6085,7 +6148,10 @@
       <File>WGBH.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGBO">
+      <Item Name="Univision Chicago (WGBODT )">
+        <Satellite />
+      </Item>
+      <Item Name="WGBODT">
         <Satellite />
       </Item>
       <File>WGBO.png</File>
@@ -6103,7 +6169,7 @@
       <File>WGN America.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGN">
+      <Item Name="WGN CW">
         <Satellite />
       </Item>
       <File>WGN.png</File>
@@ -6301,7 +6367,7 @@
       <File>WLPD-CD.png</File>
     </Channel>
     <Channel>
-      <Item Name="WLS">
+      <Item Name="WLS-HD">
         <Satellite />
       </Item>
       <File>WLS.png</File>
@@ -6331,7 +6397,7 @@
       <File>WLYH.png</File>
     </Channel>
     <Channel>
-      <Item Name="WMAQ">
+      <Item Name="NBC5">
         <Satellite />
       </Item>
       <File>WMAQ.png</File>
@@ -6457,7 +6523,13 @@
       <File>WNYW.png</File>
     </Channel>
     <Channel>
-      <Item Name="WOCK-CD">
+      <Item Name="MundoFox 13.1 (WOCKMF)">
+        <Satellite />
+      </Item>
+      <Item Name="MundoFx (MundoFX)">
+        <Satellite />
+      </Item>
+      <Item Name="WOCKMF">
         <Satellite />
       </Item>
       <File>WOCK-CD.png</File>
@@ -6535,7 +6607,7 @@
       <File>WPVI.png</File>
     </Channel>
     <Channel>
-      <Item Name="WPWR">
+      <Item Name="WPWR-TV">
         <Satellite />
       </Item>
       <File>WPWR.png</File>
@@ -6601,7 +6673,7 @@
       <File>WSBK.png</File>
     </Channel>
     <Channel>
-      <Item Name="WSNS">
+      <Item Name="WSNS HD">
         <Satellite />
       </Item>
       <File>WSNS.png</File>
@@ -6619,10 +6691,22 @@
       <File>WTTG.png</File>
     </Channel>
     <Channel>
-      <Item Name="WTTW">
+      <Item Name="WTTW-HD">
         <Satellite />
       </Item>
       <File>WTTW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTTW-CR">
+        <Satellite />
+      </Item>
+      <File>WTTW-CR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WTTW-PR">
+        <Satellite />
+      </Item>
+      <File>WTTW-PR.png</File>
     </Channel>
     <Channel>
       <Item Name="WTVE">
@@ -6733,7 +6817,13 @@
       <File>WWJ.png</File>
     </Channel>
     <Channel>
-      <Item Name="WWME-CA">
+      <Item Name="WCIU-TV, Chicago (MeTV)">
+        <Satellite />
+      </Item>
+      <Item Name="WWME-LD, Chicago (23.3)">
+        <Satellite />
+      </Item>
+      <Item Name="WWME-LD, Chicago (MeTV)">
         <Satellite />
       </Item>
       <File>WWME-CA.png</File>
@@ -6751,7 +6841,16 @@
       <File>WWSI.png</File>
     </Channel>
     <Channel>
-      <Item Name="WXFT">
+      <Item Name="WXFT-HD">
+        <Satellite />
+      </Item>
+      <Item Name="WXFT-HD Telefutura Chicago (WXFT-HD)">
+        <Satellite />
+      </Item>
+      <Item Name="WXFT-SD">
+        <Satellite />
+      </Item>
+      <Item Name="WXFT-SD Telefutura Chicago (WXFT-SD)">
         <Satellite />
       </Item>
       <File>WXFT.png</File>
@@ -6769,16 +6868,22 @@
       <File>WXYZ.png</File>
     </Channel>
     <Channel>
-      <Item Name="WYCC">
+      <Item Name="WYCC-HD">
         <Satellite />
       </Item>
       <File>WYCC.png</File>
     </Channel>
     <Channel>
-      <Item Name="WYIN">
+      <Item Name="WYIN-D1">
         <Satellite />
       </Item>
       <File>WYIN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WYIN-D3">
+        <Satellite />
+      </Item>
+      <File>WYIN-D3.png</File>
     </Channel>
     <Channel>
       <Item Name="WZDC">
