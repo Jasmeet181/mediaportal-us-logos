@@ -12,6 +12,12 @@
       <Item Name="3ABN Latino">
         <Satellite />
       </Item>
+      <File>3ABN Dare to Dream.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3ABN Dare to Dream">
+        <Satellite />
+      </Item>
       <File>3ABN Latino.png</File>
     </Channel>
     <Channel>
@@ -2565,6 +2571,18 @@
       <File>HLN.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hmong TV Network">
+        <Satellite />
+      </Item>
+      <File>Hmong TV Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hmong USA TV">
+        <Satellite />
+      </Item>
+      <File>Hmong USA TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Hope Channel">
         <Satellite />
       </Item>
@@ -2937,6 +2955,12 @@
       <File>KMGH.png</File>
     </Channel>
     <Channel>
+      <Item Name="KMSP">
+        <Satellite />
+      </Item>
+      <File>KMSP.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KMTP">
         <Satellite />
       </Item>
@@ -3009,16 +3033,22 @@
       <File>KRON.png</File>
     </Channel>
     <Channel>
-      <Item Name="KSBW DT2">
+      <Item Name="KSBW-DT2">
         <Satellite />
       </Item>
-      <File>KSBW DT2.png</File>
+      <File>KSBW-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="KSBW">
         <Satellite />
       </Item>
       <File>KSBW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSTC">
+        <Satellite />
+      </Item>
+      <File>KSTC.png</File>
     </Channel>
     <Channel>
       <Item Name="KSTP">
@@ -3031,6 +3061,12 @@
         <Satellite />
       </Item>
       <File>KSTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTCA">
+        <Satellite />
+      </Item>
+      <File>KTCA.png</File>
     </Channel>
     <Channel>
       <Item Name="KTLA">
@@ -4633,6 +4669,12 @@
       <File>Sky Link TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="SMB-TV">
+        <Satellite />
+      </Item>
+      <File>SMB-TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Smile of a Child TV">
         <Satellite />
       </Item>
@@ -5815,10 +5857,10 @@
       <File>WBOC.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBOCDT2">
+      <Item Name="WBOC-DT2">
         <Satellite />
       </Item>
-      <File>WBOCDT2.png</File>
+      <File>WBOC-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WBPH">
@@ -5839,10 +5881,10 @@
       <File>WCAU.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCAXDT2">
+      <Item Name="WCAX-DT2">
         <Satellite />
       </Item>
-      <File>WCAXDT2.png</File>
+      <File>WCAX-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WCBS">
@@ -5887,10 +5929,10 @@
       <File>WCVB.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCVBDT2">
+      <Item Name="WCVB-DT2">
         <Satellite />
       </Item>
-      <File>WCVBDT2.png</File>
+      <File>WCVB-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WCVE">
@@ -6005,6 +6047,18 @@
         <Satellite />
       </Item>
       <File>WFMZ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFTC">
+        <Satellite />
+      </Item>
+      <File>WFTC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WFTC-DT4">
+        <Satellite />
+      </Item>
+      <File>WFTC-DT4.png</File>
     </Channel>
     <Channel>
       <Item Name="WFUT">
@@ -6125,6 +6179,18 @@
         <Satellite />
       </Item>
       <File>WHYY ARTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Wisconsin Channel">
+        <Satellite />
+      </Item>
+      <File>Wisconsin Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Wisconsin Public Television">
+        <Satellite />
+      </Item>
+      <File>Wisconsin Public Television.png</File>
     </Channel>
     <Channel>
       <Item Name="WIIH-CD">
@@ -6295,10 +6361,10 @@
       <File>WMDO.png</File>
     </Channel>
     <Channel>
-      <Item Name="WMDT DT2">
+      <Item Name="WMDT-DT2">
         <Satellite />
       </Item>
-      <File>WMDT DT2.png</File>
+      <File>WMDT-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WMDT">
@@ -6331,10 +6397,10 @@
       <File>WMUR.png</File>
     </Channel>
     <Channel>
-      <Item Name="WNAC DT2">
+      <Item Name="WNAC-DT2">
         <Satellite />
       </Item>
-      <File>WNAC DT2.png</File>
+      <File>WNAC-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WNAC">
@@ -6457,10 +6523,10 @@
       <File>WPTZ-HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="WPTZDT">
+      <Item Name="WPTZ-DT2">
         <Satellite />
       </Item>
-      <File>WPTZDT.png</File>
+      <File>WPTZ-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WPVI">
@@ -6505,10 +6571,10 @@
       <File>WRIW.png</File>
     </Channel>
     <Channel>
-      <Item Name="WRLH DT2">
+      <Item Name="WRLH-DT2">
         <Satellite />
       </Item>
-      <File>WRLH DT2.png</File>
+      <File>WRLH-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WRLH">
@@ -6581,6 +6647,12 @@
         <Satellite />
       </Item>
       <File>WTXF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WUCW">
+        <Satellite />
+      </Item>
+      <File>WUCW.png</File>
     </Channel>
     <Channel>
       <Item Name="WUHF">
