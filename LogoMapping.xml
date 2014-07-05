@@ -968,7 +968,7 @@
     </Channel>
     <Channel>
       <Item Name="Chiller">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Chiller.png</File>
     </Channel>
@@ -994,6 +994,9 @@
       <Item Name="WWTO-D2">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="Church Channel">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <File>Church Channel.png</File>
     </Channel>
     <Channel>
@@ -1004,7 +1007,7 @@
     </Channel>
     <Channel>
       <Item Name="Cine Mexicano">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Cine Mexicano.png</File>
     </Channel>
@@ -1045,7 +1048,10 @@
       <File>Cloo.png</File>
     </Channel>
     <Channel>
-      <Item Name="CMT HD">
+      <Item Name="CMT HD (East)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CMT HD (West)">
         <Provider />
       </Item>
       <File>CMT HD.png</File>
@@ -1088,7 +1094,7 @@
     </Channel>
     <Channel>
       <Item Name="CNN International">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>CNN International.png</File>
     </Channel>
@@ -1117,14 +1123,17 @@
       <File>Comcast SportsNet Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Comedy Central HD">
+      <Item Name="Comedy Central HD (East)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="Comedy Central HD (West)">
         <Provider />
       </Item>
       <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Comedy.TV HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Comedy.TV HD.png</File>
     </Channel>
@@ -1165,6 +1174,9 @@
       <File>Cox Sports Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cozi TV">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="Cozi-TV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -1174,20 +1186,20 @@
       <File>Cozi TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Create">
-        <Provider />
+      <Item Name="GBX-CREAT-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Create.png</File>
     </Channel>
     <Channel>
-      <Item Name="Crime and Investigation HD">
+      <Item Name="Crime & Investigation HD">
         <Provider />
       </Item>
       <File>Crime and Investigation HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Crime and Investigation">
-        <Provider />
+      <Item Name="Crime & Investigation">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Crime and Investigation.png</File>
     </Channel>
@@ -1222,14 +1234,35 @@
       <File>CSN Houston.png</File>
     </Channel>
     <Channel>
-      <Item Name="CSN Mid Atlantic">
-        <Provider />
+      <Item Name="CSN MidAtlantic (BM)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSN MidAtlantic (DC)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSN MidAtlantic (Norfolk)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSN MidAtlantic (Richmond)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="Mid Atlantic Sports Net">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>CSN Mid Atlantic.png</File>
     </Channel>
     <Channel>
-      <Item Name="CSN New England">
-        <Provider />
+      <Item Name="CSN New England (Boston)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSN New England HD (Boston)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSN New England (Providence)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CSNNE">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>CSN New England.png</File>
     </Channel>
@@ -1343,7 +1376,7 @@
     </Channel>
     <Channel>
       <Item Name="Discovery Familia">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Discovery Familia.png</File>
     </Channel>
@@ -1361,7 +1394,7 @@
     </Channel>
     <Channel>
       <Item Name="Discovery HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Discovery HD.png</File>
     </Channel>
@@ -1427,7 +1460,7 @@
     </Channel>
     <Channel>
       <Item Name="Dominican View">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Dominican View.png</File>
     </Channel>
@@ -1451,7 +1484,7 @@
     </Channel>
     <Channel>
       <Item Name="DW Amerika">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>DW Amerika.png</File>
     </Channel>
@@ -1469,7 +1502,7 @@
     </Channel>
     <Channel>
       <Item Name="EAS">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>EAS.png</File>
     </Channel>
@@ -1498,8 +1531,11 @@
       <File>Encore Action HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Action">
+      <Item Name="Encore Action HD">
         <Provider />
+      </Item>
+      <Item Name="Encore Action West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore Action.png</File>
     </Channel>
@@ -1510,14 +1546,14 @@
       <File>Encore Black HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Black">
-        <Provider />
+      <Item Name="Encore Black West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore Black.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Classic">
-        <Provider />
+      <Item Name="Encore Classic West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore Classic.png</File>
     </Channel>
@@ -1535,19 +1571,19 @@
     </Channel>
     <Channel>
       <Item Name="Encore HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Suspense">
-        <Provider />
+      <Item Name="Encore Suspense West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore Suspense.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Westerns">
-        <Provider />
+      <Item Name="Encore Westerns West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Encore Westerns.png</File>
     </Channel>
@@ -1577,9 +1613,12 @@
     </Channel>
     <Channel>
       <Item Name="EPIX HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
-      <File>EPIX HD.png</File>
+      <Item Name="EPIX SD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>EPIX.png</File>
     </Channel>
     <Channel>
       <Item Name="ERT World">
@@ -1588,8 +1627,8 @@
       <File>ERT World.png</File>
     </Channel>
     <Channel>
-      <Item Name="ES.TV">
-        <Provider />
+      <Item Name="ES.TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>ES.TV.png</File>
     </Channel>
@@ -1600,8 +1639,8 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN Buzzer Beater">
-        <Provider />
+      <Item Name="ESPN Buzzer Beater HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>ESPN Buzzer Beater.png</File>
     </Channel>
@@ -1619,7 +1658,7 @@
     </Channel>
     <Channel>
       <Item Name="ESPN Deportes">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>ESPN Deportes.png</File>
     </Channel>
@@ -1648,8 +1687,23 @@
       <File>ESPN News.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN PPV">
-        <Provider />
+      <Item Name="ESPN PPV1">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="ESPN PPV2">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="ESPN PPV3">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="ESPN PPV4">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="ESPN PPV5">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="ESPN PPV6">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>ESPN PPV.png</File>
     </Channel>
@@ -1696,6 +1750,9 @@
       <File>Esquire Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Estrella (WPIX -DT)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="WESV-LP">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -1858,8 +1915,8 @@
       <File>FilmOn.png</File>
     </Channel>
     <Channel>
-      <Item Name="FiOS1">
-        <Provider />
+      <Item Name="FiOS TV 1">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>FiOS1.png</File>
     </Channel>
@@ -1873,8 +1930,8 @@
       <File>First Nations Experience.png</File>
     </Channel>
     <Channel>
-      <Item Name="Flix">
-        <Provider />
+      <Item Name="Flix West">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Flix.png</File>
     </Channel>
@@ -1892,7 +1949,7 @@
     </Channel>
     <Channel>
       <Item Name="Food Network HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Food Network HD.png</File>
     </Channel>
@@ -1916,7 +1973,7 @@
     </Channel>
     <Channel>
       <Item Name="Fox Business Channel">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Fox Business Channel.png</File>
     </Channel>
@@ -1933,14 +1990,8 @@
       <File>Fox College Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox CT News">
-        <Provider />
-      </Item>
-      <File>Fox CT News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Fox Deportes">
-        <Provider />
+      <Item Name="Fox Deportes (English)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Fox Deportes.png</File>
     </Channel>
@@ -1958,7 +2009,7 @@
     </Channel>
     <Channel>
       <Item Name="Fox Life">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Fox Life.png</File>
     </Channel>
@@ -1982,7 +2033,7 @@
     </Channel>
     <Channel>
       <Item Name="Fox Soccer Plus">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Fox Soccer Plus.png</File>
     </Channel>
@@ -2161,14 +2212,14 @@
       <File>Funimation Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="FUSE HD">
-        <Provider />
+      <Item Name="FUSE (HD)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>FUSE HD.png</File>
     </Channel>
     <Channel>
       <Item Name="FUSE">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>FUSE.png</File>
     </Channel>
@@ -2239,8 +2290,8 @@
       <File>Galavision.png</File>
     </Channel>
     <Channel>
-      <Item Name="GBH Kids">
-        <Provider />
+      <Item Name="GBH-KIDS-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>GBH Kids.png</File>
     </Channel>
@@ -2338,8 +2389,8 @@
       <File>Gods Learning Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Golf Channel">
-        <Provider />
+      <Item Name="Golf HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Golf Channel.png</File>
     </Channel>
@@ -2416,8 +2467,8 @@
       <File>Hallmark Movie Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hallmark Movie Channel">
-        <Provider />
+      <Item Name="Hallmark Movie Channel SD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Hallmark Movie Channel.png</File>
     </Channel>
@@ -2435,7 +2486,7 @@
     </Channel>
     <Channel>
       <Item Name="HBO Comedy">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>HBO Comedy.png</File>
     </Channel>
@@ -2536,14 +2587,14 @@
       <File>Hekayat.png</File>
     </Channel>
     <Channel>
-      <Item Name="Here TV">
-        <Provider />
+      <Item Name="Here-TV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Here TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="HGTV HD">
-        <Provider />
+      <Item Name="Home & Garden TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>HGTV HD.png</File>
     </Channel>
@@ -2554,14 +2605,14 @@
       <File>HGTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="History en Espanol">
-        <Provider />
+      <Item Name="History Channel Espanol">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>History en Espanol.png</File>
     </Channel>
     <Channel>
       <Item Name="History HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>History HD.png</File>
     </Channel>
@@ -2573,7 +2624,7 @@
     </Channel>
     <Channel>
       <Item Name="HITN">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>HITN.png</File>
     </Channel>
@@ -2615,7 +2666,7 @@
     </Channel>
     <Channel>
       <Item Name="HSN HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>HSN HD.png</File>
     </Channel>
@@ -2674,8 +2725,8 @@
       <File>ICN.png</File>
     </Channel>
     <Channel>
-      <Item Name="IFC">
-        <Provider />
+      <Item Name="IFC (HD)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>IFC.png</File>
     </Channel>
@@ -2704,8 +2755,8 @@
       <File>In Country Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="Indieplex">
-        <Provider />
+      <Item Name="Starz! Indie">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Indieplex.png</File>
     </Channel>
@@ -2723,7 +2774,7 @@
     </Channel>
     <Channel>
       <Item Name="Investigation Discovery HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Investigation Discovery HD.png</File>
     </Channel>
@@ -2734,12 +2785,18 @@
       <File>Investigation Discovery.png</File>
     </Channel>
     <Channel>
+      <Item Name="ION Life">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="IONLife">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="ION-WBPX HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="WCPX ION (ION)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -2782,6 +2839,9 @@
       <File>JET TV International.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jewelry">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="JTV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -2805,11 +2865,21 @@
       </Item>
       <File>JMovies.png</File>
     </Channel>
+
     <Channel>
-      <Item Name="WWTO-D3">
-        <Provider>Chicago, Illinois OTA</Provider>
+
+      <Item Name="JCTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
+
+      <Item Name="WWTO-D3">
+
+        <Provider>Chicago, Illinois OTA</Provider>
+
+      </Item>
+
       <File>JUCE TV.png</File>
+
     </Channel>
     <Channel>
       <Item Name="Juicy">
@@ -2825,7 +2895,7 @@
     </Channel>
     <Channel>
       <Item Name="Jus Punjabi">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Jus Punjabi.png</File>
     </Channel>
@@ -3143,13 +3213,16 @@
     </Channel>
     <Channel>
       <Item Name="KYW">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="KYW-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>KYW.png</File>
     </Channel>
     <Channel>
       <Item Name="La Familia Cosmo">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>La Familia Cosmo.png</File>
     </Channel>
@@ -3160,14 +3233,18 @@
       <File>La Familia Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="LATV DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="LATV">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>LATV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Leased Access">
-        <Provider />
+      <Item Name="Leased_Access_499">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Leased Access.png</File>
     </Channel>
@@ -3227,7 +3304,7 @@
     </Channel>
     <Channel>
       <Item Name="LMN HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>LMN HD.png</File>
     </Channel>
@@ -3244,8 +3321,8 @@
       <File>Logo TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Longhorn Network">
-        <Provider />
+      <Item Name="Longhorn Network SD (National)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Longhorn Network.png</File>
     </Channel>
@@ -3287,7 +3364,7 @@
     </Channel>
     <Channel>
       <Item Name="MASN 2">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MASN 2.png</File>
     </Channel>
@@ -3299,7 +3376,7 @@
     </Channel>
     <Channel>
       <Item Name="MASN">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MASN.png</File>
     </Channel>
@@ -3399,7 +3476,7 @@
     </Channel>
     <Channel>
       <Item Name="Mega TV">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Mega TV.png</File>
     </Channel>
@@ -3459,7 +3536,7 @@
     </Channel>
     <Channel>
       <Item Name="Military History Channel">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Military History Channel.png</File>
     </Channel>
@@ -3477,13 +3554,13 @@
     </Channel>
     <Channel>
       <Item Name="MLB Network HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MLB Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MLB Network">
-        <Provider />
+      <Item Name="MLB Network SD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MLB Network.png</File>
     </Channel>
@@ -3543,13 +3620,13 @@
     </Channel>
     <Channel>
       <Item Name="MSG 2">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MSG 2.png</File>
     </Channel>
     <Channel>
       <Item Name="MSG HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MSG HD.png</File>
     </Channel>
@@ -3561,19 +3638,22 @@
     </Channel>
     <Channel>
       <Item Name="MSG Plus">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="MSG Plus 2">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MSG Plus.png</File>
     </Channel>
     <Channel>
       <Item Name="MSG">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MSG.png</File>
     </Channel>
     <Channel>
-      <Item Name="MSNBC HD">
-        <Provider />
+      <Item Name="MSNBC  HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MSNBC HD.png</File>
     </Channel>
@@ -3584,8 +3664,8 @@
       <File>MSNBC.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV HD">
-        <Provider />
+      <Item Name="MTV HD (East)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MTV HD.png</File>
     </Channel>
@@ -3615,7 +3695,7 @@
     </Channel>
     <Channel>
       <Item Name="MTV U">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>MTV U.png</File>
     </Channel>
@@ -3662,8 +3742,11 @@
       <File>Murr TV.png</File>
     </Channel>
     <Channel>
+
       <Item Name="MCTV">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <Item Name="My Christian Television (MCTV)">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -3674,8 +3757,8 @@
       <File>My Christian Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="My Destination.TV">
-        <Provider />
+      <Item Name="My Destination.TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>My Destination.TV.png</File>
     </Channel>
@@ -3705,7 +3788,10 @@
     </Channel>
     <Channel>
       <Item Name="My Network">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="My Network-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>My Network.png</File>
     </Channel>
@@ -3735,15 +3821,21 @@
     </Channel>
     <Channel>
       <Item Name="Nat Geo Wild HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Nat Geo Wild HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo Wild">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Nat Geo Wild.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="National Geo HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>Nat Geo HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo">
@@ -3759,13 +3851,13 @@
     </Channel>
     <Channel>
       <Item Name="NBA TV HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NBA TV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBA TV">
-        <Provider />
+      <Item Name="NBA TV Barker">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NBA TV.png</File>
     </Channel>
@@ -3813,25 +3905,28 @@
     </Channel>
     <Channel>
       <Item Name="NECN">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NECN.png</File>
     </Channel>
     <Channel>
-      <Item Name="NESN HD">
-        <Provider />
+      <Item Name="NESN HD (Boston)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NESN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NESN Plus">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NESN Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="NESN">
-        <Provider />
+      <Item Name="NESN (Boston)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="NESN (Providence)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NESN.png</File>
     </Channel>
@@ -3873,7 +3968,7 @@
     </Channel>
     <Channel>
       <Item Name="News Channel 8">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>News Channel 8.png</File>
     </Channel>
@@ -3890,14 +3985,17 @@
       <File>NewsWatch 15.png</File>
     </Channel>
     <Channel>
-      <Item Name="NFL Network Redzone">
-        <Provider />
+      <Item Name="NFL Red Zone HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="NFL Red Zone SD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NFL Network Redzone.png</File>
     </Channel>
     <Channel>
-      <Item Name="NFL Network">
-        <Provider />
+      <Item Name="NFL Network HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NFL Network.png</File>
     </Channel>
@@ -3927,13 +4025,13 @@
     </Channel>
     <Channel>
       <Item Name="NHL Network HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NHL Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NHL Network">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NHL Network.png</File>
     </Channel>
@@ -3956,8 +4054,8 @@
       <File>Nick Jr..png</File>
     </Channel>
     <Channel>
-      <Item Name="Nickelodeon HD">
-        <Provider />
+      <Item Name="Nick HD (East)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Nickelodeon HD.png</File>
     </Channel>
@@ -3980,8 +4078,11 @@
       <File>Nile Drama.png</File>
     </Channel>
     <Channel>
-      <Item Name="NJTV">
-        <Provider />
+      <Item Name="NJTV HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="NJTV SD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NJTV.png</File>
     </Channel>
@@ -4154,8 +4255,8 @@
       <File>Pacvia TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Palladia">
-        <Provider />
+      <Item Name="Palladia HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Palladia.png</File>
     </Channel>
@@ -4172,8 +4273,8 @@
       <File>PBJ.png</File>
     </Channel>
     <Channel>
-      <Item Name="PBS HD">
-        <Provider />
+      <Item Name="PBS HDTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>PBS HD.png</File>
     </Channel>
@@ -4190,8 +4291,83 @@
       <File>Peace TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="PEG TV">
-        <Provider />
+      <Item Name="local_PEG_1980">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_1981">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_1982">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_21">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_22">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_24">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_26">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_27">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_28">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_29">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_30">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_31">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_32">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_33">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_34">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_35">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_36">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_37">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_38">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_39">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_40">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_41">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_42">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_43">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_45">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="local_PEG_47">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>PEG TV.png</File>
     </Channel>
@@ -4208,8 +4384,8 @@
       <File>Penthouse TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Pets.TV">
-        <Provider />
+      <Item Name="Pets.TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Pets.TV.png</File>
     </Channel>
@@ -4221,7 +4397,7 @@
     </Channel>
     <Channel>
       <Item Name="Pheonix North America">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Pheonix North America.png</File>
     </Channel>
@@ -4296,7 +4472,7 @@
         <Provider />
       </Item>
       <File>ProSiebenSAT.1Welt.png</File>
-    </Channel>
+        <Provider>New York City, New York FIOS</Provider>
     <Channel>
       <Item Name="Proyecto 40 HD">
         <Provider />
@@ -4334,6 +4510,8 @@
       <File>Pursuit Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="ION QUBO">
+        <Provider>New York City, New York FIOS</Provider>
       <Item Name="WCPX qubo (qubo)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -4400,8 +4578,8 @@
       <File>Reality Kings TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Recipe.TV">
-        <Provider />
+      <Item Name="Recipe.TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Recipe.TV.png</File>
     </Channel>
@@ -4425,7 +4603,7 @@
     </Channel>
     <Channel>
       <Item Name="Retirement Living">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Retirement Living.png</File>
     </Channel>
@@ -4436,8 +4614,8 @@
       <File>Retro TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Retroplex">
-        <Provider />
+      <Item Name="Starz! Retro">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Retroplex.png</File>
     </Channel>
@@ -4515,13 +4693,13 @@
     </Channel>
     <Channel>
       <Item Name="SBS">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>SBS.png</File>
     </Channel>
     <Channel>
       <Item Name="Science Channel HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Science Channel HD.png</File>
     </Channel>
@@ -4539,7 +4717,7 @@
     </Channel>
     <Channel>
       <Item Name="SET Asia">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>SET Asia.png</File>
     </Channel>
@@ -4580,26 +4758,26 @@
       <File>Showtime 2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime 2">
-        <Provider />
+      <Item Name="Showtime Too W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Beyond">
-        <Provider />
+      <Item Name="Showtime Beyond W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Beyond.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Extreme">
-        <Provider />
+      <Item Name="Showtime Extreme W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Extreme.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Family Zone">
-        <Provider />
+      <Item Name="Showtime Family Zone W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Family Zone.png</File>
     </Channel>
@@ -4610,20 +4788,20 @@
       <File>Showtime HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Next">
-        <Provider />
+      <Item Name="Showtime Next W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Next.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Showcase">
-        <Provider />
+      <Item Name="Showtime Showcase W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Women">
-        <Provider />
+      <Item Name="Showtime Women W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Showtime Women.png</File>
     </Channel>
@@ -4647,7 +4825,7 @@
     </Channel>
     <Channel>
       <Item Name="Sino TV">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Sino TV.png</File>
     </Channel>
@@ -4695,13 +4873,13 @@
     </Channel>
     <Channel>
       <Item Name="Smithsonian Channel HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Smithsonian Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Smithsonian Channel">
-        <Provider />
+      <Item Name="Smithsonian Channel SD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Smithsonian Channel.png</File>
     </Channel>
@@ -4718,8 +4896,11 @@
       <Item Name="PRISM multi-cultural channel (PRISM)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+
       <Item Name="SBN">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <File>Sonlife.png</File>
     </Channel>
@@ -4769,8 +4950,8 @@
       <File>Soundtrack Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Spike HD">
-        <Provider />
+      <Item Name="Spike HD (east)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Spike HD.png</File>
     </Channel>
@@ -4788,13 +4969,19 @@
     </Channel>
     <Channel>
       <Item Name="SportsNet NY HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="SportsNet NY HD 5-7">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>SportsNet NY HD.png</File>
     </Channel>
     <Channel>
       <Item Name="SportsNet NY">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="SportsNet NY (OOM)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>SportsNet NY.png</File>
     </Channel>
@@ -4811,8 +4998,8 @@
       <File>SportsTime Ohio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sprout">
-        <Provider />
+      <Item Name="PBS Kids Sprout">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Sprout.png</File>
     </Channel>
@@ -5076,7 +5263,7 @@
     </Channel>
     <Channel>
       <Item Name="Telecare">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Telecare.png</File>
     </Channel>
@@ -5196,7 +5383,7 @@
     </Channel>
     <Channel>
       <Item Name="The Word Network">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>The Word Network.png</File>
     </Channel>
@@ -5265,7 +5452,7 @@
     </Channel>
     <Channel>
       <Item Name="TLC HD">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TLC HD.png</File>
     </Channel>
@@ -5282,14 +5469,14 @@
       <File>TMC HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TMC Xtra">
-        <Provider />
+      <Item Name="TMC Xtra W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TMC Xtra.png</File>
     </Channel>
     <Channel>
-      <Item Name="TMC">
-        <Provider />
+      <Item Name="TMC W">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TMC.png</File>
     </Channel>
@@ -5403,7 +5590,7 @@
     </Channel>
     <Channel>
       <Item Name="TV Asia">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TV Asia.png</File>
     </Channel>
@@ -5433,7 +5620,7 @@
     </Channel>
     <Channel>
       <Item Name="TV Globo">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TV Globo.png</File>
     </Channel>
@@ -5469,7 +5656,7 @@
     </Channel>
     <Channel>
       <Item Name="TV One">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TV One.png</File>
     </Channel>
@@ -5504,8 +5691,8 @@
       <File>TV9.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVB Jade">
-        <Provider />
+      <Item Name="TVBe Jade">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TVB Jade.png</File>
     </Channel>
@@ -5535,7 +5722,7 @@
     </Channel>
     <Channel>
       <Item Name="TVBe">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>TVBe.png</File>
     </Channel>
@@ -5684,8 +5871,8 @@
       <File>UND Sports Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="UniMas">
-        <Provider />
+      <Item Name="Telefutura">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>UniMas.png</File>
     </Channel>
@@ -5696,8 +5883,8 @@
       <File>Unity Broadcasting Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Universal HD">
-        <Provider />
+      <Item Name="Universal HDTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Universal HD.png</File>
     </Channel>
@@ -5762,8 +5949,8 @@
       <File>Up TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="USA Network HD">
-        <Provider />
+      <Item Name="USA HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>USA Network HD.png</File>
     </Channel>
@@ -5801,8 +5988,8 @@
       <File>VH1 Classic.png</File>
     </Channel>
     <Channel>
-      <Item Name="VH1 HD">
-        <Provider />
+      <Item Name="VH1 HD (East)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>VH1 HD.png</File>
     </Channel>
@@ -5869,17 +6056,36 @@
       </Item>
       <File>VSky Movies.png</File>
     </Channel>
+
     <Channel>
+
       <Item Name="W40CN-D">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
+
       <File>W40CN-D.png</File>
+
     </Channel>
+
     <Channel>
+
       <Item Name="WABC">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
+      <Item Name="WABC-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WABC2 -Plus">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WABC3 -Now">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+
       <File>WABC.png</File>
+
     </Channel>
     <Channel>
       <Item Name="WAPA-TV">
@@ -5888,14 +6094,23 @@
       <File>WAPA-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WAVY">
-        <Provider />
+      <Item Name="WAVY (NBC)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WAVY HD (NBC)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WAVY.png</File>
     </Channel>
     <Channel>
       <Item Name="WBAL">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBAL-DTV">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBAL-WEATHER_PLUS">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBAL.png</File>
     </Channel>
@@ -5907,13 +6122,16 @@
     </Channel>
     <Channel>
       <Item Name="WBFF">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBFF-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBFF.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBIN-TV">
-        <Provider />
+      <Item Name="My-WBIN-TV 50 HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBIN-TV.png</File>
     </Channel>
@@ -6020,8 +6238,8 @@
       <File>WCVW.png</File>
     </Channel>
     <Channel>
-      <Item Name="WDCA">
-        <Provider />
+      <Item Name="MY-WDCA">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WDCA.png</File>
     </Channel>
@@ -6032,8 +6250,8 @@
       <File>WDCW HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="WDCW">
-        <Provider />
+      <Item Name="WBDC-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WDCW.png</File>
     </Channel>
@@ -6158,11 +6376,17 @@
       <File>WGBH.png</File>
     </Channel>
     <Channel>
+
       <Item Name="Univision Chicago (WGBODT )">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
+
       <Item Name="WGBODT">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <File>WGBO.png</File>
     </Channel>
@@ -6383,8 +6607,11 @@
       <File>WLS.png</File>
     </Channel>
     <Channel>
-      <Item Name="WLVI">
-        <Provider />
+      <Item Name="CW WLVI">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CW WLVI-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLVI.png</File>
     </Channel>
@@ -6509,8 +6736,11 @@
       <File>WNNE.png</File>
     </Channel>
     <Channel>
-      <Item Name="WNUV">
-        <Provider />
+      <Item Name="CW WNUV">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CW WNUV-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNUV.png</File>
     </Channel>
@@ -6557,8 +6787,8 @@
       <File>World Harvest TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="World">
-        <Provider />
+      <Item Name="GBX-WORLD-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>World.png</File>
     </Channel>
@@ -6575,8 +6805,11 @@
       <File>WPHL.png</File>
     </Channel>
     <Channel>
-      <Item Name="WPIX">
-        <Provider />
+      <Item Name="CW WPIX">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="CW WPIX-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WPIX.png</File>
     </Channel>
@@ -6689,6 +6922,12 @@
       <File>WSNS.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox CT News">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>WTIC.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WTKR">
         <Provider />
       </Item>
@@ -6773,8 +7012,8 @@
       <File>WUSA.png</File>
     </Channel>
     <Channel>
-      <Item Name="WUTB">
-        <Provider />
+      <Item Name="My-WUTB">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WUTB.png</File>
     </Channel>
@@ -6851,14 +7090,19 @@
       <File>WWSI.png</File>
     </Channel>
     <Channel>
+
       <Item Name="WXFT-HD">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <Item Name="WXFT-HD Telefutura Chicago (WXFT-HD)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <Item Name="WXFT-SD">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <Item Name="WXFT-SD Telefutura Chicago (WXFT-SD)">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -6889,11 +7133,17 @@
       </Item>
       <File>WYIN.png</File>
     </Channel>
+
     <Channel>
+
       <Item Name="WYIN-D3">
+
         <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
+
       <File>WYIN-D3.png</File>
+
     </Channel>
     <Channel>
       <Item Name="WZDC">
@@ -7277,8 +7527,8 @@
       <File>Music Choice Solid Gold Oldies.png</File>
     </Channel>
     <Channel>
-      <Item Name="Music Choice Sound Scapes">
-        <Provider />
+      <Item Name="MC: Soundscape">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Music Choice Sound Scapes.png</File>
     </Channel>
@@ -7295,8 +7545,8 @@
       <File>Music Choice Stage and Screen.png</File>
     </Channel>
     <Channel>
-      <Item Name="Music Choice Throw Back Jamz">
-        <Provider />
+      <Item Name="MC: Throwback Jamz">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Music Choice Throw Back Jamz.png</File>
     </Channel>
