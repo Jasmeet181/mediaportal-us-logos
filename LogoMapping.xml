@@ -1183,10 +1183,25 @@
       <Item Name="Cozi">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="WMFP">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <File>Cozi TV.png</File>
     </Channel>
     <Channel>
       <Item Name="GBX-CREAT-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WCVE 2">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WCVW 2">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WETA CRTE">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WLIW Create">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Create.png</File>
@@ -1637,6 +1652,12 @@
         <Provider />
       </Item>
       <File>ESC-1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Escape">
+        <Provider />
+      </Item>
+      <File>Escape.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN Buzzer Beater HD">
@@ -2431,6 +2452,12 @@
       <File>Greek Cinema.png</File>
     </Channel>
     <Channel>
+      <Item Name="Grit">
+        <Provider />
+      </Item>
+      <File>Grit.png</File>
+    </Channel>
+    <Channel>
       <Item Name="GSN HD">
         <Provider />
       </Item>
@@ -2797,8 +2824,29 @@
       <Item Name="ION-WBPX HD">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
+      <Item Name="WBPX">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="WCPX ION (ION)">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="WPPX">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPXN">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPXN-DT30">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPXQ ION HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPXV">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPXW">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Ion Television.png</File>
     </Channel>
@@ -3520,6 +3568,12 @@
       <Item Name="MHz">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="WNVC">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNVT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <File>MHz WorldView.png</File>
     </Channel>
     <Channel>
@@ -4082,6 +4136,15 @@
         <Provider>New York City, New York FIOS</Provider>
       </Item>
       <Item Name="NJTV SD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNJN-2">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNJT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNJT-HD">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>NJTV.png</File>
@@ -5202,6 +5265,12 @@
       <File>TBN Russia.png</File>
     </Channel>
     <Channel>
+      <Item Name="WGTW">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHRE (TBN)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="WWTO-D1">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -5874,6 +5943,12 @@
       <Item Name="Telefutura">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
+      <Item Name="WFTY">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WFTY HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <File>UniMas.png</File>
     </Channel>
     <Channel>
@@ -6024,6 +6099,12 @@
       <File>ViendoMovies.png</File>
     </Channel>
     <Channel>
+      <Item Name="VIETV">
+        <Provider />
+      </Item>
+      <File>VIETV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="VME Kids">
         <Provider />
       </Item>
@@ -6031,6 +6112,9 @@
     </Channel>
     <Channel>
       <Item Name="13 VME">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WMPT V-me">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
       <Item Name="WTTW-VM">
@@ -6136,32 +6220,47 @@
       <File>WBIN-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBOC">
-        <Provider />
+      <Item Name="WBOC CBS">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBOC CBS DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBOC HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBOC.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBOC-DT2">
-        <Provider />
+      <Item Name="WBOC Fox">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBOC Fox DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBOC-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WBPH">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBPH.png</File>
     </Channel>
     <Channel>
       <Item Name="WBZ">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WBZ-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WBZ.png</File>
     </Channel>
     <Channel>
       <Item Name="WCAU">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WCAU-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCAU.png</File>
     </Channel>
@@ -6173,7 +6272,10 @@
     </Channel>
     <Channel>
       <Item Name="WCBS">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WCBS-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCBS.png</File>
     </Channel>
@@ -6184,8 +6286,8 @@
       <File>WCCO.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCCT">
-        <Provider />
+      <Item Name="WCCT (CW)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCCT.png</File>
     </Channel>
@@ -6215,7 +6317,10 @@
     </Channel>
     <Channel>
       <Item Name="WCVB">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WCVB-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCVB.png</File>
     </Channel>
@@ -6226,19 +6331,22 @@
       <File>WCVB-DT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCVE">
-        <Provider />
+      <Item Name="WCVE (PBS)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCVE.png</File>
     </Channel>
     <Channel>
-      <Item Name="WCVW">
-        <Provider />
+      <Item Name="WCVW (PBS)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WCVW.png</File>
     </Channel>
     <Channel>
       <Item Name="MY-WDCA">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WDCA-DTV">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WDCA.png</File>
@@ -6262,8 +6370,8 @@
       <File>WDIV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WE tv HD">
-        <Provider />
+      <Item Name="WE TV (HD)">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WE tv HD.png</File>
     </Channel>
@@ -6275,7 +6383,7 @@
     </Channel>
     <Channel>
       <Item Name="Weather Scan">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>Weather Scan.png</File>
     </Channel>
@@ -6287,7 +6395,7 @@
     </Channel>
     <Channel>
       <Item Name="WENH">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WENH.png</File>
     </Channel>
@@ -6299,7 +6407,10 @@
     </Channel>
     <Channel>
       <Item Name="WETA">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WETA-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WETA.png</File>
     </Channel>
@@ -6311,7 +6422,7 @@
     </Channel>
     <Channel>
       <Item Name="WFDC">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WFDC.png</File>
     </Channel>
@@ -6335,7 +6446,7 @@
     </Channel>
     <Channel>
       <Item Name="WFMZ">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WFMZ.png</File>
     </Channel>
@@ -6359,7 +6470,10 @@
     </Channel>
     <Channel>
       <Item Name="WFXT">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WFXT-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WFXT.png</File>
     </Channel>
@@ -6371,7 +6485,10 @@
     </Channel>
     <Channel>
       <Item Name="WGBH">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WGBH-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WGBH.png</File>
     </Channel>
@@ -6389,6 +6506,15 @@
 
       </Item>
       <File>WGBO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGBX 44-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WGBX 44-HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>WGBX.png</File>
     </Channel>
     <Channel>
       <Item Name="WGCB">
@@ -6409,14 +6535,17 @@
       <File>WGN.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGNT">
+      <Item Name="WGNT (CW)">
         <Provider />
       </Item>
       <File>WGNT.png</File>
     </Channel>
     <Channel>
       <Item Name="WHDH">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHDH-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHDH.png</File>
     </Channel>
@@ -6440,19 +6569,22 @@
     </Channel>
     <Channel>
       <Item Name="WHRO EDU">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHRO EDU.png</File>
     </Channel>
     <Channel>
       <Item Name="WHRO KID">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHRO KID.png</File>
     </Channel>
     <Channel>
-      <Item Name="WHRO">
-        <Provider />
+      <Item Name="WHRO (PBS)">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHRO HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHRO.png</File>
     </Channel>
@@ -6470,15 +6602,30 @@
     </Channel>
     <Channel>
       <Item Name="WHUT">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHUT-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHUT.png</File>
     </Channel>
     <Channel>
-      <Item Name="WHYY ARTS">
-        <Provider />
+      <Item Name="WHYY ARTS HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WHYY ARTS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDPB">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHYY">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WHYY-HD">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>WHYY.png</File>
     </Channel>
     <Channel>
       <Item Name="Wisconsin Channel">
@@ -6536,13 +6683,16 @@
     </Channel>
     <Channel>
       <Item Name="WJAL">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WJAL.png</File>
     </Channel>
     <Channel>
       <Item Name="WJAR">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WJAR-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WJAR.png</File>
     </Channel>
@@ -6554,7 +6704,10 @@
     </Channel>
     <Channel>
       <Item Name="WJLA">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WJLA-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WJLA.png</File>
     </Channel>
@@ -6566,7 +6719,10 @@
     </Channel>
     <Channel>
       <Item Name="WJZ">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WJZ-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WJZ.png</File>
     </Channel>
@@ -6578,19 +6734,25 @@
     </Channel>
     <Channel>
       <Item Name="WLIW">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WLIW-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLIW.png</File>
     </Channel>
     <Channel>
       <Item Name="WLNE">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WLNE-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLNE.png</File>
     </Channel>
     <Channel>
       <Item Name="WLNY">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLNY.png</File>
     </Channel>
@@ -6613,17 +6775,23 @@
       <Item Name="CW WLVI-DTV">
         <Provider>New York City, New York FIOS</Provider>
       </Item>
+      <Item Name="WLVI-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <File>WLVI.png</File>
     </Channel>
     <Channel>
       <Item Name="WLVT">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLVT.png</File>
     </Channel>
     <Channel>
       <Item Name="WLWC">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WLWC-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WLWC.png</File>
     </Channel>
@@ -6641,49 +6809,58 @@
     </Channel>
     <Channel>
       <Item Name="WMAR">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WMAR-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMAR.png</File>
     </Channel>
     <Channel>
-      <Item Name="WMBC">
-        <Provider />
+      <Item Name="WMBC-63">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMBC.png</File>
     </Channel>
     <Channel>
       <Item Name="WMCN">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMCN.png</File>
     </Channel>
     <Channel>
-      <Item Name="WMDO">
-        <Provider />
+      <Item Name="WMDT CW DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMDO.png</File>
     </Channel>
     <Channel>
       <Item Name="WMDT-DT2">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMDT-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WMDT">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMDT.png</File>
     </Channel>
     <Channel>
       <Item Name="WMPT 2">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMPT 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="WCPB">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
       <Item Name="WMPT">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WMPT-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMPT.png</File>
     </Channel>
@@ -6695,37 +6872,61 @@
     </Channel>
     <Channel>
       <Item Name="WMUR">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WMUR HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WMUR.png</File>
     </Channel>
     <Channel>
-      <Item Name="WNAC-DT2">
-        <Provider />
+      <Item Name="WNAC My TV">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNAC My TV HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNAC-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WNAC">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNAC-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNAC.png</File>
     </Channel>
     <Channel>
+      <Item Name="WNBC">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNBC-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <File>WNBC.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WNET">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNET-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNET.png</File>
     </Channel>
     <Channel>
       <Item Name="WNEU">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNEU.png</File>
     </Channel>
     <Channel>
       <Item Name="WNJU">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNJU-47 HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNJU.png</File>
     </Channel>
@@ -6746,7 +6947,10 @@
     </Channel>
     <Channel>
       <Item Name="WNYE">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNYE-25 HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNYE.png</File>
     </Channel>
@@ -6758,7 +6962,10 @@
     </Channel>
     <Channel>
       <Item Name="WNYW">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WNYW-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WNYW.png</File>
     </Channel>
@@ -6776,7 +6983,7 @@
     </Channel>
     <Channel>
       <Item Name="World Fishing Network">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>World Fishing Network.png</File>
     </Channel>
@@ -6800,7 +7007,13 @@
     </Channel>
     <Channel>
       <Item Name="WPHL">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPHL-DT">
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPHL-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WPHL.png</File>
     </Channel>
@@ -6821,13 +7034,19 @@
     </Channel>
     <Channel>
       <Item Name="WPRI">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPRI-DT">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WPRI.png</File>
     </Channel>
     <Channel>
       <Item Name="WPSG">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPSG-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WPSG.png</File>
     </Channel>
@@ -6845,7 +7064,10 @@
     </Channel>
     <Channel>
       <Item Name="WPVI">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WPVI-HD">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WPVI.png</File>
     </Channel>
@@ -6869,7 +7091,10 @@
     </Channel>
     <Channel>
       <Item Name="WRC">
-        <Provider />
+        <Provider>New York City, New York FIOS</Provider>
+      </Item>
+      <Item Name="WRC-DTV">
+        <Provider>New York City, New York FIOS</Provider>
       </Item>
       <File>WRC.png</File>
     </Channel>
@@ -7098,6 +7323,12 @@
       </Item>
       <Item Name="WXFT-HD Telefutura Chicago (WXFT-HD)">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+
+      <Item Name="WXFT-SD">
+
+        <Provider>Chicago, Illinois OTA</Provider>
+
       </Item>
       <Item Name="WXFT-SD">
 
