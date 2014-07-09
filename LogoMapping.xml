@@ -3,19 +3,19 @@
   <!-- ******************************************************************** -->
   <TV>
     <Channel>
-      <Item Name="247">
+      <Item Name="24/7">
         <Provider />
       </Item>
       <File>247.png</File>
     </Channel>
     <Channel>
-      <Item Name="3ABN Latino">
+      <Item Name="3ABN Dare to Dream">
         <Provider />
       </Item>
       <File>3ABN Dare to Dream.png</File>
     </Channel>
     <Channel>
-      <Item Name="3ABN Dare to Dream">
+      <Item Name="3ABN Latino">
         <Provider />
       </Item>
       <File>3ABN Latino.png</File>
@@ -3163,21 +3163,14 @@
       </Item>
       <File>JMovies.png</File>
     </Channel>
-
     <Channel>
-
       <Item Name="JCTV">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-
       <Item Name="WWTO-D3">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
-
       <File>JUCE TV.png</File>
-
     </Channel>
     <Channel>
       <Item Name="Juicy">
@@ -8106,7 +8099,7 @@
       <File>Music Choice Hip Hop Classics.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC HIP-HOP/R&B">
+      <Item Name="MC HIP-HOP/R&amp;B">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Hip Hop RB.png</File>
@@ -8178,7 +8171,7 @@
       <File>Music Choice Rap.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC R&B SOUL">
+      <Item Name="MC R&amp;B SOUL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice RB Souls.png</File>
@@ -8196,7 +8189,7 @@
       <File>Music Choice Retro Rock.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC SINGERS &  SWING">
+      <Item Name="MC SINGERS &amp;  SWING">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Singers and Swing.png</File>
@@ -8235,7 +8228,7 @@
       <File>Music Choice Sounds of the Seasons.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC STAGE &  SCREEN">
+      <Item Name="MC STAGE &amp;  SCREEN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Stage and Screen.png</File>
