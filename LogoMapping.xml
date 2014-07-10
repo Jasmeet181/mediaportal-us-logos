@@ -45,13 +45,13 @@
       <File>52MX.png</File>
     </Channel>
     <Channel>
-      <Item Name="5 STAR HD">
+      <Item Name="MAX 5 STAR HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>5StarMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="5 StarMAX E">
+      <Item Name="5 MAX  5 StarMAX E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>5StarMax.png</File>
@@ -59,12 +59,14 @@
      <Channel>
       <Item Name="A&amp;E HD">
         <Provider>New York City, New York FiOS</Provider>
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="A&amp;EHD  A&amp;E HD">
+        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>A and E HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="A&amp;E">
+      <Item Name="A&amp;E    A&amp;E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>A and E.png</File>
@@ -94,13 +96,13 @@
       <File>Aapka Colors.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABC Family HD">
+      <Item Name="FAMHD  ABC Family HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ABC Family HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Family">
+      <Item Name="FAM    FAMILY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ABC Family.png</File>
@@ -118,8 +120,8 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
-      <Item Name="ABP News">
-        <Provider />
+      <Item Name="SNEWS  STAR INDIA NEWS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ABP News.png</File>
     </Channel>
@@ -136,13 +138,13 @@
       <File>AccuWeather Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Action Max HD">
+      <Item Name="MAXA HD ACTION MAX HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ActionMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ActionMAX E">
+      <Item Name="AMAX   ActionMAX EE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ActionMax.png</File>
@@ -220,7 +222,7 @@
       <File>Al Hayat.png</File>
     </Channel>
     <Channel>
-      <Item Name="Al Jazeera America">
+      <Item Name="AJAM    Al Jazeera America">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Al Jazeera America.png</File>
@@ -271,13 +273,13 @@
       <Item Name="AMC (HD)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="AMC HD">
+      <Item Name="AMCHD  AMC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>AMC HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="AMC">
+      <Item Name="AMC    AMC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>AMC.png</File>
@@ -301,8 +303,8 @@
       <File>America One.png</File>
     </Channel>
     <Channel>
-      <Item Name="American Heroes Channel">
-        <Provider />
+      <Item Name="MILI   Military Channel">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>American Heroes Channel.png</File>
     </Channel>
@@ -337,14 +339,14 @@
       <File>Anhui TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Animal Planet HD">
+      <Item Name="APHD   ANIMAL PLANET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Animal Planet HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Animal Planet">
-        <Provider />
+      <Item Name="ANIMP  ANIMAL PLANET">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Animal Planet.png</File>
     </Channel>
@@ -409,7 +411,7 @@
       <File>ARY Zauq.png</File>
     </Channel>
     <Channel>
-      <Item Name="Aspire TV">
+      <Item Name="ASPRE   ASPIRE TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Aspire.png</File>
@@ -442,7 +444,7 @@
       <File>AWE.png</File>
     </Channel>
     <Channel>
-      <Item Name="Axs TV HD">
+      <Item Name="AXS TV  AXIS TV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Axs TV.png</File>
@@ -490,7 +492,7 @@
       <File>B4U Music.png</File>
     </Channel>
     <Channel>
-      <Item Name="Baby First TV Americas">
+      <Item Name="BABY   Baby First TV Americas">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Baby First TV Americas Spanish">
@@ -541,13 +543,13 @@
       <File>Bay News 9.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC America HD">
+      <Item Name="BBCAM  BBC AMERICA HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BBC America HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC America">
+      <Item Name="BBC    BBC America">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BBC America.png</File>
@@ -562,7 +564,7 @@
       <Item Name="BBC World">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="BBC World News">
+      <Item Name="BBC WORLD NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BBC World.png</File>
@@ -574,7 +576,7 @@
       <File>Beijing TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="BeIN Sport (ESP)">
+      <Item Name="BeIN    BeIN Sport (ESP)">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BeIN Sport en Espanol.png</File>
@@ -616,7 +618,7 @@
       <File>BET Hip-Hop.png</File>
     </Channel>
     <Channel>
-      <Item Name="BET">
+      <Item Name="BET    BET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BET.png</File>
@@ -634,13 +636,13 @@
       <File>Big Screen Preview Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="BIOGRAPHY HD">
+      <Item Name="BIOHD BIOGRAPHY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Bio HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Biography">
+      <Item Name="BIO    Biography">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Bio.png</File>
@@ -664,7 +666,7 @@
       <File>Bloomberg HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bloomberg">
+      <Item Name="BLOOM  BLOOMBERG">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Bloomberg.png</File>
@@ -712,13 +714,13 @@
       <File>Bounce TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bravo HD">
+      <Item Name="BRAVO HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Bravo HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bravo">
+      <Item Name="BRAVO  BRAVO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Bravo.png</File>
@@ -736,7 +738,7 @@
       <File>Bright House Sports Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="BIG TEN HI DEFINITION">
+      <Item Name="B10HD  BIG TEN HI DEFINITION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="BTN HD">
@@ -745,7 +747,7 @@
       <File>BTN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Big Ten Standard Definition">
+      <Item Name="BIG10  Big Ten Standard Definition">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="BTN">
@@ -757,22 +759,28 @@
       <Item Name="BTN 2">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="XTRA1  BIG TEN XTRA 1">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="XTRA2  BIG TEN XTRA 2">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>BTN.png</File>
     </Channel>
     <Channel>
-      <Item Name="BRIGHAM YOUNG UNIV">
+      <Item Name="BYUTV    BRIGHAM YOUNG UNIV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>BYUtv.png</File>
     </Channel>
     <Channel>
       <Item Name="CSPAN-1HD">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="C-SPAN">
+      <Item Name="CSPAN  C-SPAN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN.png</File>
@@ -784,7 +792,7 @@
       <File>C-SPAN2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="C-SPAN 2">
+      <Item Name="CSPN2  C-SPAN 2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN2.png</File>
@@ -796,7 +804,7 @@
       <File>C-SPAN3 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="C-SPAN 3">
+      <Item Name="CSPN3  C-SPAN 3">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN3.png</File>
@@ -862,14 +870,14 @@
       <File>Cars.TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cartoon Network HD">
-        <Provider />
+      <Item Name="TOON HD CARTOON HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Cartoon Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cartoon Network">
-        <Provider />
+      <Item Name="TOON   CARTOON">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Cartoon Network.png</File>
     </Channel>
@@ -883,7 +891,7 @@
       <Item Name="Boston Catholic">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Catholic TV Detroit">
+      <Item Name="CTND   Catholic TV Detroit">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CatholicTV.png</File>
@@ -907,10 +915,10 @@
       <File>CBeebies.png</File>
     </Channel>
     <Channel>
-      <Item Name="CBET 9 CBC">
+      <Item Name="CBET   CBET 9 CBC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="CBET HD">
+      <Item Name="CBETD     CBET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CBET.png</File>
@@ -922,7 +930,7 @@
       <File>CBS HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="CBS COLLEGE SPORTS HD">
+      <Item Name="CBS CS HD CBS COLLEGE SPORTS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CBS Sports Network HD.png</File>
@@ -931,7 +939,7 @@
       <Item Name="CBS Sports Ntwk">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="CBS COLLEGE SPORTS TELEVISION">
+      <Item Name="CBS C  CBS COLLEGE SPORTS TELEVISION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CBS Sports Network.png</File>
@@ -1088,19 +1096,19 @@
       <File>Cinelatino.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cinemax E HDTV">
+      <Item Name="MAXHD  Cinemax E HDTV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Max West HD">
+      <Item Name="MAXW HD MAX WEST HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Cinemax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cinemax E">
+      <Item Name="MAX-E  Cinemax E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Cinemax W">
+      <Item Name="MAX-W  Cinemax W">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Cinemax.png</File>
@@ -1133,13 +1141,13 @@
       <File>CMT HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="CMT Pure">
+      <Item Name="CMTP   CMT PURE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CMT Pure Country.png</File>
     </Channel>
     <Channel>
-      <Item Name="CMT">
+      <Item Name="CMT    CMT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CMT.png</File>
@@ -1157,7 +1165,7 @@
       <File>CNBC World.png</File>
     </Channel>
     <Channel>
-      <Item Name="CNBC">
+      <Item Name="CNBC   CNBC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CNBC.png</File>
@@ -1169,7 +1177,7 @@
       <File>CNN en Espanol.png</File>
     </Channel>
     <Channel>
-      <Item Name="CNNHD">
+      <Item Name="CNNHD  CNN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CNN HD.png</File>
@@ -1181,8 +1189,8 @@
       <File>CNN International.png</File>
     </Channel>
     <Channel>
-      <Item Name="CNN">
-        <Provider />
+      <Item Name="CNN    CNN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CNN.png</File>
     </Channel>
@@ -1208,13 +1216,13 @@
       <Item Name="Comedy Central HD (East)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Comedy HD">
+      <Item Name="COM HD  COMEDY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Comedy Cen">
+      <Item Name="COM    COMEDY CEN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Comedy Central.png</File>
@@ -1232,7 +1240,7 @@
       <File>Concert TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cooking Ch HD">
+      <Item Name="COOKD  COOKING CH HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Cooking Channel HD.png</File>
@@ -1292,8 +1300,14 @@
       <Item Name="WETA CRTE">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="WGTE-C WGTE CREATE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="WLIW Create">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WTVS3  WTVS3 PBS3 CREATE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Create.png</File>
     </Channel>
@@ -1304,8 +1318,10 @@
       <File>Crime and Investigation HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Crime &amp; Investigation">
+      <Item Name="C&amp;I    CRIME &amp; INVESTIGATION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Crime &amp; Investigation">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Crime and Investigation.png</File>
@@ -1317,7 +1333,7 @@
       <File>Crossings TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="COMCAST SPORTSNET BAY">
+      <Item Name="CSNB   COMCAST SPORTSNET BAY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CSN Bay Area.png</File>
@@ -1329,7 +1345,7 @@
       <File>CSN California.png</File>
     </Channel>
     <Channel>
-      <Item Name="COMCAST SPORTS NET CHICAGO">
+      <Item Name="CSNC    COMCAST SPORTS NET CHICAGO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CSN Chicago.png</File>
@@ -1359,7 +1375,7 @@
       <File>CSN Mid Atlantic.png</File>
     </Channel>
     <Channel>
-      <Item Name="COMCAST SPORTSNET NE">
+      <Item Name="CSNE   COMCAST SPORTSNET NE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="CSN New England (Boston)">
@@ -1395,7 +1411,7 @@
       <File>CTC.png</File>
     </Channel>
     <Channel>
-      <Item Name="Citi TV">
+      <Item Name="CTN    Citi TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>CTN.png</File>
@@ -1437,7 +1453,7 @@
       <File>Da Ai TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Daystar">
+      <Item Name="DSTAR  Daystar">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="WDCI-LD">
@@ -1467,13 +1483,13 @@
       <File>De Pelicula.png</File>
     </Channel>
     <Channel>
-      <Item Name="Destination America HD">
+      <Item Name="DAM HD DESTIONATION AMERICA HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Destination America HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Destination America">
+      <Item Name="DAM    DESTIONATION AMERICA">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Destination America.png</File>
@@ -1491,7 +1507,7 @@
       <File>DFH Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="DISC ESPANOL">
+      <Item Name="DSCES  DISC ESPANOL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Discovery en Espanol.png</File>
@@ -1519,25 +1535,28 @@
     </Channel>
     <Channel>
       <Item Name="Discovery HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+    <Channel>
+      <Item Name="DSCHD  Discovery HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Discovery HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery">
+      <Item Name="DSC    DISCOVERY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Discovery.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disney Channel HD">
+      <Item Name="DISHD  DISNEY CHANNEL HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Disney Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disney">
+      <Item Name="DIS    DISNEY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Disney Channel.png</File>
@@ -1549,31 +1568,31 @@
       <File>Disney Junior HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disney Jr">
+      <Item Name="DISJr   Disney Jr">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Disney Junior.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disney XD HD">
+      <Item Name="DISX HD DISNEY XD HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Disney XD HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disney XD">
+      <Item Name="DISXD  Disney XD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DIY HD">
+      <Item Name="DIYHD  DIY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>DIY Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DIY">
+      <Item Name="DIY    DIY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>DIY Network.png</File>
@@ -1621,7 +1640,7 @@
       <File>E! HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="E!">
+      <Item Name="E!     E!">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>E!.png</File>
@@ -1660,7 +1679,7 @@
       <File>Encore Action HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Action E">
+      <Item Name="ENCR5  Encore Action E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Encore Action West">
@@ -1675,7 +1694,7 @@
       <File>Encore Black HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Black (East)">
+      <Item Name="ENCRB    Encore Black (East)">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Encore Black West">
@@ -1684,7 +1703,7 @@
       <File>Encore Black.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Classic (East)">
+      <Item Name="ENCRC    Encore Classic (East)">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Encore Classic West">
@@ -1699,7 +1718,7 @@
       <File>Encore Espanol.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore WAM E">
+      <Item Name="ENCR6  Encore WAM E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Encore Family.png</File>
@@ -1712,7 +1731,7 @@
       <File>Encore HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Mystery E">
+      <Item Name="ENCR4  Encore Mystery E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Encore Suspense West">
@@ -1721,7 +1740,7 @@
       <File>Encore Suspense.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore Western E">
+      <Item Name="ENCR7  Encore Western E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Encore Westerns West">
@@ -1730,7 +1749,7 @@
       <File>Encore Westerns.png</File>
     </Channel>
     <Channel>
-      <Item Name="Encore E">
+      <Item Name="ENCR1  Encore E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Encore.png</File>
@@ -1793,7 +1812,7 @@
       <File>ESPN Buzzer Beater.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN Classic">
+      <Item Name="ESPNC  ESPN CLASSIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN Classic.png</File>
@@ -1805,7 +1824,7 @@
       <File>ESPN Deportes HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN Dep">
+      <Item Name="ESPNDEP">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="ESPN Deportes">
@@ -1826,22 +1845,22 @@
       <File>ESPN GamePlan.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN Goal Line">
+      <Item Name="ESPNG   ESPN GOAL LINE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN Goal Line.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN HD">
+      <Item Name="ESPND  ESPN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPNews">
+      <Item Name="ESPNN  ESPNews">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN News HD">
+      <Item Name=">ESPNN HD ESPN NEWS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN News.png</File>
@@ -1865,22 +1884,22 @@
       <Item Name="ESPN PPV6">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="ESPN SPPV1">
+      <Item Name="EPPV1  ESPN SPPV1">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN SPPV2">
+      <Item Name="EPPV2  ESPN SPPV2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN SPPV3">
+      <Item Name="EPPV3  ESPN SPPV3">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN SPPV4">
+      <Item Name="EPPV4  ESPN SPPV4">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN SPPV1">
+      <Item Name="EPPV5  ESPN SPPV5">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="ESPN SPPV6">
+      <Item Name="EPPV6  ESPN SPPV6">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN PPV.png</File>
@@ -1892,25 +1911,25 @@
       <File>ESPN U HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN U">
+      <Item Name="ESPNU  ESPN U">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN U.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN">
+      <Item Name="ESPN   ESPN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN2HD">
+      <Item Name="ES2HD  ESPN2HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ESPN2">
+      <Item Name="ESPN2  ESPN2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ESPN2.png</File>
@@ -2009,7 +2028,7 @@
       <File>EWTN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="EWTN">
+      <Item Name="EWTN   EWTN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="EWTNESP">
@@ -2072,8 +2091,8 @@
       <File>Fearnet HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fearnet">
-        <Provider />
+      <Item Name="FEAR   FEARNET ON-DEMAND">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fearnet.png</File>
     </Channel>
@@ -2111,7 +2130,7 @@
       <File>First Nations Experience.png</File>
     </Channel>
     <Channel>
-      <Item Name="Flix E">
+      <Item Name="FLIXe  Flix E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Flix West">
@@ -2133,13 +2152,15 @@
     </Channel>
     <Channel>
       <Item Name="Food Network HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="FOODD  FOOD NETWORK HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Food Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Food">
+      <Item Name="FOOD   TV FOOD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Food Network.png</File>
@@ -2158,25 +2179,27 @@
     </Channel>
     <Channel>
       <Item Name="Fox Business Channel">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="FBN    FOX BUSINESS CHANNEL">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Business Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Business HD">
+      <Item Name="FOX BUSINESS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Business HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="FOX SP NET ATLANTIC">
+      <Item Name="FCSA   FOX SP NET ATLANTIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="FOX SP NET CENTRAL">
+      <Item Name="FCSC   FOX SP NET CENTRAL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="FOX SP NET PACIFIC">
+      <Item Name="FCSP   FOX SP NET PACIFIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox College Sports.png</File>
@@ -2210,13 +2233,13 @@
       <File>Fox Life.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox News HD">
+      <Item Name="FNHD   Fox News HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox News Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox News">
+      <Item Name="FNC    FOX NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox News Channel.png</File>
@@ -2231,16 +2254,16 @@
       <Item Name="Fox Soccer Plus">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="FS+">
+      <Item Name="FS+    FOX SPORTS NET BASE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Soccer Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports 1">
+      <Item Name="FS1____Fox Sports 1">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Fox Sports 1 HD">
+      <Item Name="FS1HD__Fox Sports 1 HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Sports 1.png</File>
@@ -2270,13 +2293,13 @@
       <File>Fox Sports Carolinas.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports Detroit HD">
-        <Provider />
+      <Item Name="FSNHD  Fox Sports Network HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Sports Detroit HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports Detroit">
+      <Item Name="FSN    FOX SPORTS DETROIT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Sports Detroit.png</File>
@@ -2336,7 +2359,7 @@
       <File>Fox Sports Oklahoma.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sportsnet Prime Ticket">
+      <Item Name="PRIME   FOX SPORTSNET PRIME TICKET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Sports Prime Ticket.png</File>
@@ -2417,15 +2440,17 @@
       <Item Name="FUSE (HD)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="FUSE HD">
+      <Item Name="FUSE HD FUSE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>FUSE HD.png</File>
     </Channel>
     <Channel>
       <Item Name="FUSE">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="FUSE   FUSE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>FUSE.png</File>
     </Channel>
@@ -2442,19 +2467,19 @@
       <File>Future TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="FX Network HD">
+      <Item Name="FXHD   FX Network HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>FX HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="F/X">
+      <Item Name="FX     F/X">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>FX.png</File>
     </Channel>
     <Channel>
-      <Item Name="FX Movie Channel">
+      <Item Name="FXM    FX MOVIE CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>FXM.png</File>
@@ -2490,7 +2515,7 @@
       <File>Galavision HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Galavision">
+      <Item Name="Gala  Galavision">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Galavision.png</File>
@@ -2565,13 +2590,13 @@
       <File>GetTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="GMA Life TV">
+      <Item Name="GMAL  GMA LIFE TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>GMA Life TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="GMA Pinoy TV">
+      <Item Name="GMA   GMA PINOY TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>GMA Pinoy TV.png</File>
@@ -2595,11 +2620,13 @@
       <File>Gods Learning Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Golf">
+      <Item Name="GOLF   GOLF">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="GOLFHD Golf HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Golf HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Golf Channel.png</File>
@@ -2635,7 +2662,7 @@
       <File>Great American Country HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="GAC">
+      <Item Name="GAC    GAC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Great American Country.png</File>
@@ -2653,13 +2680,13 @@
       <File>Grit.png</File>
     </Channel>
     <Channel>
-      <Item Name="GSN HD">
+      <Item Name="GSNHD  GSN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>GSN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="GAMESHOW NETWORK">
+      <Item Name="GSN    GAMESHOW NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>GSN.png</File>
@@ -2683,25 +2710,25 @@
       <File>H2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hallmark HD">
+      <Item Name="HALLMARK HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Hallmark Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hallmark">
+      <Item Name="HLMRK  HALLMARK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Hallmark Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hallmark Movies HD">
+      <Item Name="HALLMARK MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Hallmark Movie Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hallmark Movie Channel">
+      <Item Name="HMC    HALLMARK MOVIE CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Hallmark Movie Channel SD">
@@ -2716,7 +2743,7 @@
       <File>Harmony Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Comdey HD">
+      <Item Name="HBOC HD HBO COMDEY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Comedy HD.png</File>
@@ -2725,7 +2752,7 @@
       <Item Name="HBO Comedy">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="HBO Comedy E">
+      <Item Name="HBOCM  HBO Comedy E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Comedy.png</File>
@@ -2737,49 +2764,52 @@
       <File>HBO Family HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Family E">
+      <Item Name="HBOFE  HBO Family E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Family.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO E HDTV">
+      <Item Name="HBOHD  HBO E HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="HBOW HD HBO WEST HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Latino HD">
+      <Item Name="HBOL HD HBO LATINO HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Latino HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Latino E">
+      <Item Name="HBOLE  HBO Latino E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Latino.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Signature HD">
+      <Item Name="HBOS HD  HBO SIGNATURE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Signature HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Signature E">
+      <Item Name="HBOSE  HBO Signature E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Signature.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Zone HD">
+      <Item Name="HBOZ HD HBO ZONE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Zone HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Zone E">
+      <Item Name="HBOZN  HBO Zone E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO Zone.png</File>
@@ -2788,19 +2818,22 @@
       <Item Name="HBO E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="HBO W">
+      <Item Name="HBOE   HBO E">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="HBO-W  HBO W">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Plus HD">
+      <Item Name="HBO PLUS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HBO Plus E">
+      <Item Name="HBOPL  HBO Plus E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HBO2.png</File>
@@ -2836,7 +2869,7 @@
       <File>Here TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="HGTV HD">
+      <Item Name="HGTVD  HGTV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Home &amp; Garden TV HD">
@@ -2845,8 +2878,8 @@
       <File>HGTV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="HGTV">
-        <Provider />
+      <Item Name="HGTV   HOME GARD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HGTV.png</File>
     </Channel>
@@ -2854,7 +2887,7 @@
       <Item Name="History Channel Espanol">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="History Esp">
+      <Item Name="HIST ESP">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>History en Espanol.png</File>
@@ -2863,13 +2896,13 @@
       <Item Name="History HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="History Channel HD">
+      <Item Name="HISTD  History Channel HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>History HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="History">
+      <Item Name="HIST   HISTORY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>History.png</File>
@@ -2888,7 +2921,7 @@
       <File>HLN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="CNN Head">
+      <Item Name="HN     CNN HEAD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HLN.png</File>
@@ -2926,8 +2959,10 @@
     </Channel>
     <Channel>
       <Item Name="HSN">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="HSN    HSN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HSN.png</File>
     </Channel>
@@ -2944,13 +2979,13 @@
       <File>HTV Musica.png</File>
     </Channel>
     <Channel>
-      <Item Name="Hub HD">
+      <Item Name="HUBHD  HUB HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Hub Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="The Hub">
+      <Item Name="HUB   THE HUB">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Hub Network.png</File>
@@ -2980,13 +3015,13 @@
       <File>ICN.png</File>
     </Channel>
     <Channel>
-      <Item Name="Analog Ind Film Channel">
+      <Item Name="IFC    Analog Ind Film Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="IFC (HD)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="INTERNATIONAL FILM HD">
+      <Item Name="IFC HD  INTERNATIONAL FILM HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>IFC.png</File>
@@ -2998,7 +3033,10 @@
       <File>ImaginAsian.png</File>
     </Channel>
     <Channel>
-      <Item Name="Impact">
+      <Item Name="IMPACT">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WLPC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Impact Network.png</File>
@@ -3016,9 +3054,8 @@
       <File>In Country Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="INDIEPLEX">
+      <Item Name="INDIE  INDIEPLEX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
-        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="Starz! Indie">
         <Provider>New York City, New York FiOS</Provider>
@@ -3032,7 +3069,7 @@
       <File>Inmigrante TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Inspiration Ntwk">
+      <Item Name="INSP   Inspiration Ntwk">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>INSP.png</File>
@@ -3047,7 +3084,7 @@
       <File>Investigation Discovery HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ID DISCOVERY INVESTIGAT">
+      <Item Name="ID     ID DISCOVERY INVESTIGAT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Investigation Discovery.png</File>
@@ -3062,7 +3099,7 @@
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
-      <Item Name="ION Television">
+      <Item Name="ION    ION Television">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="ION-WBPX HD">
@@ -3086,7 +3123,7 @@
       <Item Name="WPXQ ION HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="WPXD HD">
+      <Item Name="ION-HD        WPXD HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="WPXV">
@@ -3137,7 +3174,7 @@
       <Item Name="Jewelry">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Jewelry TV">
+      <Item Name="JWLTV  JEWELRY TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="JTV">
@@ -3173,7 +3210,7 @@
       <File>JUCE TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Juicy">
+      <Item Name="JUICY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Juicy.png</File>
@@ -3555,7 +3592,7 @@
       <File>Life OK.png</File>
     </Channel>
     <Channel>
-      <Item Name="Lifetime HD">
+      <Item Name="LIFE HD  LIFETIME HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Lifetime HD.png</File>
@@ -3567,7 +3604,7 @@
       <File>Lifetime Real Women.png</File>
     </Channel>
     <Channel>
-      <Item Name="Lifetime">
+      <Item Name="LIFE   LIFETIME">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Lifetime.png</File>
@@ -3579,7 +3616,7 @@
       <File>Link-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Liquidation">
+      <Item Name="LC     LIQUIDATION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Liquidation Channel.png</File>
@@ -3588,7 +3625,7 @@
       <Item Name="Livwell">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
-      <Item Name="WXYZ RETRO">
+      <Item Name="LWN 7  WXYZ RETRO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Live Well Network.png</File>
@@ -3600,7 +3637,7 @@
       <File>LLBN.png</File>
     </Channel>
     <Channel>
-      <Item Name="LIFETIME MOVIES HD">
+      <Item Name="LMN HD LIFETIME MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="LMN HD">
@@ -3609,13 +3646,13 @@
       <File>LMN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="LIFETIME MOVIE NETWORK">
+      <Item Name="LMN    LIFETIME MOVIE NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>LMN.png</File>
     </Channel>
     <Channel>
-      <Item Name="Logo">
+      <Item Name="LOGO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Logo TV.png</File>
@@ -3705,7 +3742,7 @@
       <File>MaxLatino HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Max Latino">
+      <Item Name="MAX LATINO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MaxLatino.png</File>
@@ -3807,7 +3844,7 @@
       <File>MGM HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Comads">
+      <Item Name="COMADS">
         <Provider />
       </Item>
       <File>MGTV.png</File>
@@ -3849,7 +3886,7 @@
       <File>Milenio Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="Military Hisory Ch">
+      <Item Name="MHC   MILITARY HISORY CH">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Military History Channel.png</File>
@@ -3870,7 +3907,7 @@
       <File>MLB Extra Innings.png</File>
     </Channel>
     <Channel>
-      <Item Name="MLB HD">
+      <Item Name="MLBHD    MLB HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="MLB Network HD">
@@ -3879,7 +3916,7 @@
       <File>MLB Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Major League Baseball Network">
+      <Item Name="MLBN   Major League Baseball Network">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="MLB Network SD">
@@ -3906,7 +3943,7 @@
       <File>MoreMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MoreMax E">
+      <Item Name="MMX-E  MoreMAX E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MoreMax.png</File>
@@ -3918,13 +3955,13 @@
       <File>MovieMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MovieMax">
+      <Item Name="MOVIEMAX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MovieMax.png</File>
     </Channel>
     <Channel>
-      <Item Name="ENCORE MOVIE PLEX">
+      <Item Name="PLEX   ENCORE MOVIE PLEX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Movieplex.png</File>
@@ -3939,7 +3976,7 @@
       <Item Name="Movies!">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
-      <Item Name="WJBK Movies">
+      <Item Name="Movie   WJBK Movies">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Movies.png</File>
@@ -3987,7 +4024,7 @@
       <File>MSNBC HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MSNBC">
+      <Item Name="MSNBC  MSNBC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MSNBC.png</File>
@@ -4002,7 +4039,7 @@
       <File>MTV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV Hits">
+      <Item Name="MTVH   MTV HITS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MTV Hits.png</File>
@@ -4014,13 +4051,13 @@
       <File>MTV India.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV Jams">
+      <Item Name="MTVJ   MTV JAMS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MTV Jams.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV 3">
+      <Item Name="MTV TR3S   MTV3">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MTV Tres.png</File>
@@ -4029,10 +4066,13 @@
       <Item Name="MTV U">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="U of M TV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>MTV U.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV">
+      <Item Name="MTV    MTV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MTV.png</File>
@@ -4044,7 +4084,7 @@
       <File>MTV2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV 2">
+      <Item Name="MTV2   MTV 2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MTV2.png</File>
@@ -4056,7 +4096,7 @@
       <File>Multimedios Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="607 Telemundo 2">
+      <Item Name="Mun2   607 Telemundo 2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Mun2.png</File>
@@ -4155,7 +4195,7 @@
       <Item Name="Nat Geo Wild HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="NatGo Wild HD">
+      <Item Name="NGEOWILDHD   NATGO WILD HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nat Geo Wild HD.png</File>
@@ -4164,20 +4204,22 @@
       <Item Name="Nat Geo Wild">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="NatGeo Wild">
+      <Item Name="NATGEO WILD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nat Geo Wild.png</File>
     </Channel>
     <Channel>
       <Item Name="National Geo HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="NGCHD  NATIONAL GEO HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nat Geo HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nat Geographic">
+      <Item Name="NGEO   National Geographic">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider />
       </Item>
@@ -4190,14 +4232,16 @@
       <File>NBA League Pass.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBA TV HD">
+      <Item Name="NBA HD NBA TV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="NBA TV HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>NBA TV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBATV">
+      <Item Name="NBATV  NBATV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="NBA TV Barker">
@@ -4218,13 +4262,13 @@
       <File>NBC.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBC Sports HD">
+      <Item Name="NBCSP  NBC Sports HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>NBCSN HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="NBC Sports">
+      <Item Name="NBCSP  NBC Sports">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>NBCSN.png</File>
@@ -4347,6 +4391,10 @@
       <File>NFL Network Redzone.png</File>
     </Channel>
     <Channel>
+      <Item Name="NFL    NFL Channel">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+    <Channel>
       <Item Name="NFLHD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -4390,13 +4438,15 @@
     </Channel>
     <Channel>
       <Item Name="NHL Network">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="NHLTV  NHL Network">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>NHL Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick Too">
+      <Item Name="NICK2  Nick Too">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nick 2.png</File>
@@ -4408,13 +4458,13 @@
       <File>Nick Jr. HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick Jr">
+      <Item Name="NicJr   Nick Jr">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nick Jr..png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick HD">
+      <Item Name="NICK HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Nick HD (East)">
@@ -4423,13 +4473,13 @@
       <File>Nickelodeon HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nickelodeon">
-        <Provider />
+      <Item Name="NIK    NICK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick Toons">
+      <Item Name="NTOON  NICK TOONS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Nicktoons.png</File>
@@ -4555,13 +4605,13 @@
       <File>Oui TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Outdoor Ch HD">
+      <Item Name="OUTHD  OUTDOOR CH HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Outdoor Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Outdoor Channel">
+      <Item Name="OUTCN  OUTDOOR CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Outdoor Channel.png</File>
@@ -4573,13 +4623,13 @@
       <File>OuterMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="OuterMax E">
+      <Item Name="OMAX   OuterMax E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>OuterMax.png</File>
     </Channel>
     <Channel>
-      <Item Name="Outside TV">
+      <Item Name="OUTD    OUTSIDE TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Outside Television.png</File>
@@ -4609,7 +4659,7 @@
       <File>Oxygen HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Oxygen">
+      <Item Name="OXGN   OXYGEN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Oxygen.png</File>
@@ -4811,7 +4861,7 @@
       <File>Playboy TV en Espanol.png</File>
     </Channel>
     <Channel>
-      <Item Name="Playboy PPV">
+      <Item Name="PLAY   Playboy PPV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Playboy TV.png</File>
@@ -4905,8 +4955,10 @@
     </Channel>
     <Channel>
       <Item Name="QVC">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="QVC    QVC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>QVC.png</File>
     </Channel>
@@ -4947,6 +4999,12 @@
       <File>Real Hip Hop Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Real XX.5">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Real.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Reality Kings TV">
         <Provider />
       </Item>
@@ -4965,7 +5023,7 @@
       <File>Record International.png</File>
     </Channel>
     <Channel>
-      <Item Name="Reelz Channel">
+      <Item Name="REELZ  Reelz Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Reelz Channel.png</File>
@@ -4980,7 +5038,7 @@
       <Item Name="Retirement Living">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Retirement Living TV">
+      <Item Name="RLTV   Retirement Living TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Retirement Living.png</File>
@@ -4992,7 +5050,7 @@
       <File>Retro TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Retroplex">
+      <Item Name="RETRO  RETROPLEX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Starz! Retro">
@@ -5001,8 +5059,8 @@
       <File>Retroplex.png</File>
     </Channel>
     <Channel>
-      <Item Name="Revolt">
-        <Provider />
+      <Item Name=" Revolt">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Revolt.png</File>
     </Channel>
@@ -5079,7 +5137,7 @@
       <File>SBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery Science HD">
+      <Item Name="SCIHD  Discovery Science HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Science Channel HD">
@@ -5088,8 +5146,8 @@
       <File>Science Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Science Channel">
-        <Provider />
+      <Item Name="SCI    DISCOVERY SCIENCE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Science Channel.png</File>
     </Channel>
@@ -5103,7 +5161,7 @@
       <Item Name="SET Asia">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="SONY TV (aka SET ASIA)">
+      <Item Name="HINDI  SONY TV (aka SET ASIA)">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>SET Asia.png</File>
@@ -5127,7 +5185,7 @@
       <File>Shenzhen TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="SHOP HQ">
+      <Item Name="SHOPHQ    SHOP HQ">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="WWDP">
@@ -5142,13 +5200,13 @@
       <File>Shorts HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime 2 HD">
+      <Item Name="SHOW2 HD SHOWTIME 2 HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Showtime 2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Too E">
+      <Item Name="SHOTe  Showtime Too E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Showtime Too W">
@@ -5157,7 +5215,7 @@
       <File>Showtime 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Beyond E">
+      <Item Name="SHOBe  Showtime Beyond E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Showtime Beyond W">
@@ -5166,10 +5224,10 @@
       <File>Showtime Beyond.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime Extreme E">
+      <Item Name="SHOXe  Showtime Extreme E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Showtime Extreme HD">
+      <Item Name="SHOWX HD SHOWTIME EXTREME HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Showtime Extreme W">
@@ -5184,7 +5242,7 @@
       <File>Showtime Family Zone.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime E HDTV">
+      <Item Name="SHOHD  Showtime E HDTV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Showtime HD.png</File>
@@ -5196,10 +5254,10 @@
       <File>Showtime Next.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime 3 E">
+      <Item Name="SHOCe  Showtime 3 E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Showtime Showcase HD">
+      <Item Name="SHOWTIME SHOWCASE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Showtime Showcase W">
@@ -5214,7 +5272,7 @@
       <File>Showtime Women.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showtime E">
+      <Item Name="SHOe   Showtime E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Showtime.png</File>
@@ -5283,7 +5341,7 @@
       <Item Name="Smithsonian Channel HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Smithsonian HD">
+      <Item Name="SMITHSONIAN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Smithsonian Channel HD.png</File>
@@ -5292,7 +5350,7 @@
       <Item Name="Smithsonian Channel SD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Smithsonian SD">
+      <Item Name="SMITHSONIAN SD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Smithsonian Channel.png</File>
@@ -5364,7 +5422,7 @@
       <File>Soundtrack Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Spike HD">
+      <Item Name="SPIKE HD SPIKE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Spike HD (east)">
@@ -5373,16 +5431,16 @@
       <File>Spike HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Spike TV">
+      <Item Name="SPIKE  SPIKE TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Spike TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sportsman Channel">
+      <Item Name="SPCHN  Sportsman Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Sportsman Channel HD">
+      <Item Name="SPTMANHD  SPORTSMAN CHANNEL HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Sportsman Channel.png</File>
@@ -5397,7 +5455,7 @@
       <File>SportsNet NY HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="COMCAST SPORTNET NY">
+      <Item Name="CSNY   COMCAST SPORTNET NY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="SportsNet NY">
@@ -5424,7 +5482,7 @@
       <Item Name="PBS Kids Sprout">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="Sprout">
+      <Item Name="SPROUT  SPROUT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Sprout HD">
@@ -5457,7 +5515,7 @@
       <File>Star Gold HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star India Gold">
+      <Item Name="SGOLD  STAR INDIA GOLD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Star Gold.png</File>
@@ -5469,8 +5527,8 @@
       <File>Star Plus HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star Plus">
-        <Provider />
+      <Item Name="SPLUS  STAR INDIA PLUS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Star Plus.png</File>
     </Channel>
@@ -5487,37 +5545,37 @@
       <File>Starz Cinema HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! Cinema E">
+      <Item Name="STRZ5  STARZ! CINEMA E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Cinema.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz Comedy HD">
+      <Item Name="STARZ COMEDY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Comedy HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! Comedy">
+      <Item Name="STRZ6  STARZ! COMEDY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Comedy.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz Edge HD">
+      <Item Name="STARZ EDGE HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Edge HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! Edg">
+      <Item Name="STRZ2  STARZ! EDG">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Edge.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! E HD">
+      <Item Name="STZ1H  STARZ! E HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz HD.png</File>
@@ -5529,25 +5587,25 @@
       <File>Starz InBlack HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! Blk E">
+      <Item Name="STRZ3  Starz! BLK E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz InBlack.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz Kids HD">
+      <Item Name="STARZ KIDS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Kids and Family HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! Family E">
+      <Item Name="STRZ4  STARZ! FAMILY E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz Kids and Family.png</File>
     </Channel>
     <Channel>
-      <Item Name="Starz! E">
+      <Item Name="STRZ1  STARZ! E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Starz.png</File>
@@ -5559,7 +5617,7 @@
       <File>Sun Music.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sun Sports">
+      <Item Name="SUN   SUN SPORTS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Sun Sports.png</File>
@@ -5583,7 +5641,7 @@
       <File>SundanceTV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sundance E">
+      <Item Name="SUNDe  Sundance E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>SundanceTV.png</File>
@@ -5595,13 +5653,13 @@
       <File>Surya TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="SCI-FI">
+      <Item Name="SCIFI  SCI-FI">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Syfy.png</File>
     </Channel>
     <Channel>
-      <Item Name="SCIFI HD">
+      <Item Name="SCFHD  SCIFI HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Syfy HD.png</File>
@@ -5625,6 +5683,9 @@
       <File>Tara Muzik.png</File>
     </Channel>
     <Channel>
+      <Item Name="TBN Enlace">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="WWTO-D4">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -5643,6 +5704,9 @@
       <File>TBN Russia.png</File>
     </Channel>
     <Channel>
+      <Item Name="TBN    TRINITY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="WGTW">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -5655,26 +5719,26 @@
       <File>TBN.png</File>
     </Channel>
     <Channel>
-      <Item Name="TBS HD">
-        <Provider />
+      <Item Name="TBSHD  TBS HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TBS HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TBS">
-        <Provider />
+      <Item Name="TBS    TBS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="TCM HD">
-        <Provider />
+      <Item Name="TCM EAST HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TCM HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TCM">
-        <Provider />
+      <Item Name="TCM    TURNER CLASSIC MOVIES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TCM.png</File>
     </Channel>
@@ -5685,14 +5749,14 @@
       <File>TCT Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TCT Network">
-        <Provider />
+      <Item Name="WDWO">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TCT Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="TeenNick">
-        <Provider />
+      <Item Name="TNCK    Teen Nick">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TeenNick.png</File>
     </Channel>
@@ -5716,19 +5780,19 @@
     </Channel>
     <Channel>
       <Item Name="Telefe">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Telefe.png</File>
     </Channel>
     <Channel>
-      <Item Name="TeleFormula">
-        <Provider />
+      <Item Name="TeleForm">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TeleFormula.png</File>
     </Channel>
     <Channel>
       <Item Name="TeleHit">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TeleHit.png</File>
     </Channel>
@@ -5739,8 +5803,11 @@
       <File>Telemax.png</File>
     </Channel>
     <Channel>
-      <Item Name="Telemundo">
-        <Provider />
+      <Item Name="TLMUN  TELEMUNDO">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Telemundo West">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Telemundo.png</File>
     </Channel>
@@ -5763,20 +5830,20 @@
       <File>Tempo Networks.png</File>
     </Channel>
     <Channel>
-      <Item Name="Tennis Channel HD">
-        <Provider />
+      <Item Name="TENNIS CH HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Tennis Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Tennis Channel">
-        <Provider />
+      <Item Name="TTC    TENNIS TELEVISION CHANNEL">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Tennis Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="TFC">
-        <Provider />
+      <Item Name="TFC   (FILIPINO CH)">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TFC.png</File>
     </Channel>
@@ -5793,7 +5860,10 @@
       <File>The California Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="PENTHOUSE+ THE EROTIC NETWORK">
+      <Item Name="PENT+    PENTHOUSE+ THE EROTIC NETWORK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="TEN+">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>The Erotic Network.png</File>
@@ -5817,20 +5887,23 @@
       <File>The Walk TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="The Weather Channel HD">
-        <Provider />
+      <Item Name="TWC HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>The Weather Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="The Weather Channel">
-        <Provider />
+      <Item Name="TWC    TWC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>The Weather Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="The Word Network">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WORD   The Word">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>The Word Network.png</File>
     </Channel>
@@ -5862,6 +5935,9 @@
       <File>TheCoolTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="THIS   This Network">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="This TV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -5874,8 +5950,8 @@
       <File>ThrillerMax HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ThrillerMax">
-        <Provider />
+      <Item Name="TMAX   ThrillerMAX E">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ThrillerMax.png</File>
     </Channel>
@@ -5901,41 +5977,50 @@
       <Item Name="TLC HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="TLCHD  TLC HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>TLC HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TLC">
-        <Provider />
+      <Item Name="TLC    TLC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TLC.png</File>
     </Channel>
     <Channel>
       <Item Name="TMC HD">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TMC HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="TMCXe  TMC Xtra E">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="TMC Xtra W">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>TMC Xtra.png</File>
     </Channel>
     <Channel>
+      <Item Name="TMCe   TMC E">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="TMC W">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>TMC.png</File>
     </Channel>
     <Channel>
-      <Item Name="TNT HD">
-        <Provider />
+      <Item Name="TNTHD  TNT HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TNT HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TNT">
-        <Provider />
+      <Item Name="TNT    TNT">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TNT.png</File>
     </Channel>
@@ -5982,26 +6067,26 @@
       <File>Trace Urban.png</File>
     </Channel>
     <Channel>
-      <Item Name="Travel Channel HD">
-        <Provider />
+      <Item Name="TRVLHD TRAVEL HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Travel Channel HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Travel Channel">
-        <Provider />
+      <Item Name="TRAVL  TRAVEL">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Travel Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="TruTV HD">
-        <Provider />
+      <Item Name="TRU_TV EAST HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TruTV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TruTV">
-        <Provider />
+      <Item Name="truTV  TRUTV/COURT TV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TruTV.png</File>
     </Channel>
@@ -6036,7 +6121,7 @@
       <File>TV Asia HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Asia">
+      <Item Name="ASIA   TV ASIA">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="TV Asia">
@@ -6052,19 +6137,19 @@
     </Channel>
     <Channel>
       <Item Name="TV Chile">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Chile.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Colombia">
-        <Provider />
+      <Item Name="TV Colombi">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Colombia.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Dominicana">
-        <Provider />
+      <Item Name="TV Domin">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Dominicana.png</File>
     </Channel>
@@ -6081,8 +6166,8 @@
       <File>TV Japan HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Japan">
-        <Provider />
+      <Item Name="TVJPN  TV JAPAN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Japan.png</File>
     </Channel>
@@ -6093,8 +6178,8 @@
       <File>TV Land HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Land">
-        <Provider />
+      <Item Name="TVLND  TVLAND">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Land.png</File>
     </Channel>
@@ -6108,6 +6193,12 @@
       <Item Name="TV One">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="TV ONE HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="TVONE  TV ONE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>TV One.png</File>
     </Channel>
     <Channel>
@@ -6117,8 +6208,8 @@
       <File>TV Sport.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Venezuela">
-        <Provider />
+      <Item Name="TV Venezue">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TV Venezuela.png</File>
     </Channel>
@@ -6195,14 +6286,14 @@
       <File>TVCI.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVE Internacional">
-        <Provider />
+      <Item Name="TVE INTL  TVEA1">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TVE Internacional.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVG Network">
-        <Provider />
+      <Item Name="TVGN   TVGUIDE NETWORK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TVG Network.png</File>
     </Channel>
@@ -6324,6 +6415,9 @@
       <Item Name="Telefutura">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="UniMais East">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="WFTY">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -6342,11 +6436,14 @@
       <Item Name="Universal HDTV">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="UHD    Universal HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>Universal HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Universal Sports">
-        <Provider />
+      <Item Name="Universal Sports (WADL2)">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Universal Sports.png</File>
     </Channel>
@@ -6387,8 +6484,8 @@
       <File>Univision tlnovelas.png</File>
     </Channel>
     <Channel>
-      <Item Name="Univision">
-        <Provider />
+      <Item Name="UNIV   NewUnivision">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Univision.png</File>
     </Channel>
@@ -6399,8 +6496,11 @@
       <File>Untamed Sports TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Up TV">
-        <Provider />
+      <Item Name="UP">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="UP HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Up TV.png</File>
     </Channel>
@@ -6408,11 +6508,14 @@
       <Item Name="USA HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="USAHD  USA Network HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <File>USA Network HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="USA Network">
-        <Provider />
+      <Item Name="USA    USA">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>USA Network.png</File>
     </Channel>
@@ -6429,6 +6532,12 @@
       <File>VBS.png</File>
     </Channel>
     <Channel>
+      <Item Name="VELOCITY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Velocity.png</File>
+    </Channel>
+    <Channel>
       <Item Name="13.3 Ve">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -6438,32 +6547,35 @@
       <File>Veria Living.png</File>
     </Channel>
     <Channel>
-      <Item Name="VH1 Classic">
-        <Provider />
+      <Item Name="VH1CR  VH1 Classic">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>VH1 Classic.png</File>
     </Channel>
     <Channel>
+      <Item Name="VH1 HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="VH1 HD (East)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>VH1 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="VH1 Soul">
-        <Provider />
+      <Item Name="VH1SO  VH1 Soul">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>VH1 Soul.png</File>
     </Channel>
     <Channel>
-      <Item Name="VH1">
-        <Provider />
+      <Item Name="VH1    VH1">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>VH1.png</File>
     </Channel>
     <Channel>
       <Item Name="Video Rola">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Video Rola.png</File>
     </Channel>
@@ -6474,8 +6586,8 @@
       <File>Vien Thao TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="ViendoMovies">
-        <Provider />
+      <Item Name="VENE   Vene Movies">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>ViendoMovies.png</File>
     </Channel>
@@ -6521,21 +6633,13 @@
       </Item>
       <File>VSky Movies.png</File>
     </Channel>
-
     <Channel>
-
       <Item Name="W40CN-D">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
-
       <File>W40CN-D.png</File>
-
     </Channel>
-
     <Channel>
-
       <Item Name="WABC">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -6548,13 +6652,17 @@
       <Item Name="WABC3 -Now">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-
       <File>WABC.png</File>
-
     </Channel>
     <Channel>
-      <Item Name="WAPA-TV">
-        <Provider />
+      <Item Name="WADL   WADL 38 IND">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WADL.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WAPA AMER">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WAPA-TV.png</File>
     </Channel>
@@ -6695,6 +6803,11 @@
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>WCIU-DT5.png</File>
+    </Channel>    <Channel>
+      <Item Name="WCMZ   28 PBS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WCMU.png</File>
     </Channel>
     <Channel>
       <Item Name="WCVB">
@@ -6745,26 +6858,36 @@
       <File>WDCW.png</File>
     </Channel>
     <Channel>
-      <Item Name="WDIV">
-        <Provider />
+      <Item Name="WDIV   WDIV 4 NBC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+    <Channel>
+      <Item Name="WDIV NBC-D 4 NBC HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WDIV.png</File>
     </Channel>
     <Channel>
+      <Item Name="WEHD  WOMEN ENTERTAINMENT HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="WE TV (HD)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>WE tv HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="WE tv">
-        <Provider />
+      <Item Name="WE     WE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WE tv.png</File>
     </Channel>
     <Channel>
       <Item Name="Weather Scan">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WTHSN  Weatherscan">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Weather Scan.png</File>
     </Channel>
@@ -6904,8 +7027,11 @@
       <File>WGCB.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGN America">
-        <Provider />
+      <Item Name="WGN    WGN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WGN HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WGN America.png</File>
     </Channel>
@@ -6920,6 +7046,21 @@
         <Provider />
       </Item>
       <File>WGNT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGTE-F WGTE FAMILY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WGTE Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGTE   WGTE-30 PBS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WGTE-D WGTE HD">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WGTE.png</File>
     </Channel>
     <Channel>
       <Item Name="WHDH">
@@ -7078,6 +7219,12 @@
       <File>WJAR.png</File>
     </Channel>
     <Channel>
+      <Item Name="WJBK FOX-D  2 FOX HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WJBK.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WJLA-WX">
         <Provider />
       </Item>
@@ -7114,7 +7261,10 @@
       <File>WKAQ.png</File>
     </Channel>
     <Channel>
-      <Item Name="WKBD CW HD">
+      <Item Name="WKBD   WKBD 50 UPN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="CW HD 236  WKBD CW HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WKBD.png</File>
@@ -7267,7 +7417,10 @@
       <File>WMUR.png</File>
     </Channel>
     <Channel>
-      <Item Name="WMYD HD TV 20">
+      <Item Name="WMYD   WMYD TV20">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="MYD-D 235  WMYD HD TV 20">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WMYD.png</File>
@@ -7375,6 +7528,9 @@
       <File>WOCK-CD.png</File>
     </Channel>
     <Channel>
+      <Item Name="WFN    WORLD FISHING NETWORK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
       <Item Name="World Fishing Network">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -7389,6 +7545,9 @@
     <Channel>
       <Item Name="GBX-WORLD-DT">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WTVS2  WTVS 56 PBS SDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>World.png</File>
     </Channel>
@@ -7615,6 +7774,14 @@
       <File>WTVR.png</File>
     </Channel>
     <Channel>
+      <Item Name="WTVS   WTVS 56 PBS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WTVS-D  WTVS 56 PBS HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>WTVS.png</File>
+    </Channel>
       <Item Name="WTVZ">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -7734,8 +7901,11 @@
       <File>WWBT-DT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="WWJ">
-        <Provider />
+      <Item Name="WWJ    WWJ 62 CBS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WWJ CBS-D  62 CBS HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WWJ.png</File>
     </Channel>
@@ -7802,13 +7972,16 @@
       <File>WXTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WXYZ">
-        <Provider />
+      <Item Name="WXYZ   WXYZ 7 ABC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WXYZ ABC-D  7 ABC HDTV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WXYZ.png</File>
     </Channel>
     <Channel>
-      <Item Name="WXYZ BOUNCE">
+      <Item Name="BNCE    WXYZ BOUNCE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WXYZ-DT2.png</File>
@@ -7856,14 +8029,20 @@
       <File>Xcite.png</File>
     </Channel>
     <Channel>
+      <Item Name="XF3D    XFINITY 3D">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Xfinity 3D.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Xiamen TV">
         <Provider />
       </Item>
       <File>Xiamen TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Xtsy">
-        <Provider />
+      <Item Name="XTSY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Xtsy.png</File>
     </Channel>
@@ -7934,7 +8113,7 @@
       <File>Zee TV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Zee TV">
+      <Item Name="ZEETV  ZEETV">
         <Provider />
       </Item>
       <File>Zee TV.png</File>
@@ -8015,37 +8194,37 @@
       <File>DZBB.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC70'S">
+      <Item Name="MC70'S   --  MC70'S">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice 70s.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC 80'S">
+      <Item Name="MC80'S   --  MC 80'S">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice 80s.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC90'S">
+      <Item Name="MC90'S   --  MC90'S">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice 90s.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC ADULT ALTERNATIVE">
+      <Item Name="MCADTAL  --  MC ADULT ALTERNATIVE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Adult Alternative.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC ALTERNATIVE">
+      <Item Name="MCALTER  --  MC ALTERNATIVE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Alternative.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC BLUES">
+      <Item Name="MCBLUES --  MC BLUES">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Blues.png</File>
@@ -8057,79 +8236,79 @@
       <File>Music Choice Classic Alternative.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC CLASSIC COUNTRY">
+      <Item Name="MCCLASC --  MC CLASSIC COUNTRY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Classic Country.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC CLASSIC ROCK">
+      <Item Name="MCCLROK  --  MC CLASSIC ROCK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Classic Rock.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC CLASSICAL MASTERP">
+      <Item Name="MCCLSMA --  MC CLASSICAL MASTERP">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Classical Masterpieces.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC CONTEMP CHRISTIAN">
+      <Item Name="MCCONTC --  MC CONTEMP CHRISTIAN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Contemporary Christian.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC DANCE/ELECTRON">
+      <Item Name="MCDAN/EL  --  MC DANCE/ELECTRON">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Dance Electronica.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC EASY LISTENING">
+      <Item Name="MCEASYL --  MC EASY LISTENING">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Easy Listening.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC HIP-HOP CLASSIC">
+      <Item Name="MCHIPHC  --  MC HIP-HOP CLASSIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Hip Hop Classics.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC HIP-HOP/R&amp;B">
+      <Item Name="MCHIPHR  --  MC HIP-HOP/R&amp;B">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Hip Hop RB.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC HIT LIST">
+      <Item Name="MCHITLS  --  MC HIT LIST">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Hitlist.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC JAZZ">
+      <Item Name="MCJAZZ  -- MC JAZZ">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Jazz.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC KIDZ ONLY!">
+      <Item Name="MCKIDSZ --  MC KIDZ ONLY!">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Kidz Only.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC LIGHT CLASSICAL">
+      <Item Name="MCLTCLA --  MC LIGHT CLASSICAL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Light Classical.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC MEXICANA">
+      <Item Name="MCMEXIC --  MC MEXICANA">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Mexicana.png</File>
@@ -8141,61 +8320,61 @@
       <File>Music Choice MixTape.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC MUSICA URBANA">
+      <Item Name="MCMUSUR --  MC MUSICA URBANA">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Musica Urbana.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC PARTY FAVORITES">
+      <Item Name="MCPARYF  --  MC PARTY FAVORITES">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Party Favorites.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC POP HITS">
+      <Item Name="MCPOPHT  --  MC POP HITS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Pop Hits.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC POP LATINO">
+      <Item Name="MCPOPLA --  MC POP LATINO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Pop Latino.png</File>
     </Channel>
     <Channel>
-      <Item Name="Music Choice Rap">
-        <Provider />
+      <Item Name="MCRAP   --  MC RAP">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Rap.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC R&amp;B SOUL">
+      <Item Name="MCR&amp;BCL --   MC R&amp;B CLASSICS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice RB Souls.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC REGGAE">
+      <Item Name="MCREGAE  --  MC REGGAE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Reggae.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC ROCK">
+      <Item Name="MCROCK  -- MC ROCK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Retro Rock.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC SINGERS &amp;  SWING">
+      <Item Name="MCSINGS --  MC SINGERS &amp;  SWING">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Singers and Swing.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC SMOOTH JAZZ">
+      <Item Name="MCSMTHJ --  MC SMOOTH JAZZ">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Smooth Jazz.png</File>
@@ -8213,7 +8392,7 @@
       <File>Music Choice Solid Gold Oldies.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC SOUNDSCAPE">
+      <Item Name="MCSOUNS --  MC SOUNDSCAPE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="MC: Soundscape">
@@ -8222,19 +8401,19 @@
       <File>Music Choice Sound Scapes.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC SOUNDS OF THE SEASON">
+      <Item Name="MCSOUND --  MC SOUNDS OF THE SEASON">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Sounds of the Seasons.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC STAGE &amp;  SCREEN">
+      <Item Name="MCSTASC --  MC STAGE &amp;  SCREEN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Stage and Screen.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC THROWBACK">
+      <Item Name="MCTHROW  --  MC THROWBACK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="MC: Throwback Jamz">
@@ -8243,19 +8422,19 @@
       <File>Music Choice Throw Back Jamz.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC TODAYS COUNTRY">
+      <Item Name="MCTODAC --  MC TODAYS COUNTRY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Todays Country.png</File>
     </Channel>
     <Channel>
-      <Item Name="MCTODDLER TUNES">
+      <Item Name="MCTODDL --  MCTODDLER TUNES">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Toddler Tunes.png</File>
     </Channel>
     <Channel>
-      <Item Name="MC TROPICALES">
+      <Item Name="MCTROPC -- MC TROPICALES">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Music Choice Tropicales.png</File>
