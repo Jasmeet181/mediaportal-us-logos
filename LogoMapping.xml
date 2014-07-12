@@ -397,6 +397,9 @@
       <Item Name="Antenna">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="KSTC DT2 - Antenna TV">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <File>Antenna TV.png</File>
     </Channel>
     <Channel>
@@ -1462,6 +1465,9 @@
       <Item Name="GBX-CREAT-DT">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="KAWB-DT4 - PBS (Create)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="WCVE 2">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -2402,6 +2408,9 @@
     <Channel>
       <Item Name="FNX">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="KAWB-DT - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="WYCC-SD">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -3543,6 +3552,7 @@
       </Item>
       <File>Infinito.png</File>
     </Channel>
+    <Channel>
       <Item Name="SOLIS">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -3594,6 +3604,12 @@
       </Item>
       <Item Name="ION-WBPX HD">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KPXM - ION">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KPXM DT HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="WBPX">
         <Provider>New York City, New York FiOS</Provider>
@@ -3703,6 +3719,7 @@
     <Channel>
       <Item Name="Juicy">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Juicy Movies">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3752,8 +3769,20 @@
       <File>Kapatid.png</File>
     </Channel>
     <Channel>
-      <Item Name="KARE">
-        <Provider />
+      <Item Name="KARE - NBC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KARE-HD - NBC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KARE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KAWB - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KAWB-DT5 - TPT Plus">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KARE.png</File>
     </Channel>
@@ -3762,6 +3791,24 @@
         <Provider />
       </Item>
       <File>KBCW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBJR - NBC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KBJR NBC HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KBJR NBC Weather">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KBJR.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBJR-DT2 MYTV">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KBJR-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="KBS World HD">
@@ -3794,10 +3841,31 @@
       <File>KCNC.png</File>
     </Channel>
     <Channel>
+      <Item Name="KCPM - MyTV">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KCPM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KCSM">
         <Provider />
       </Item>
       <File>KCSM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KDLH - CBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KDLH CBS HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KDLH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KDLHDT2 CW+">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KDLH-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="KDTV">
@@ -3812,10 +3880,22 @@
       <File>KDVR.png</File>
     </Channel>
     <Channel>
+      <Item Name="KELO - CBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KELO.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KEMO">
         <Provider />
       </Item>
       <File>KEMO.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KEYC - CBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KCPM.png</File>
     </Channel>
     <Channel>
       <Item Name="KFSF">
@@ -3866,8 +3946,8 @@
       <File>KMGH.png</File>
     </Channel>
     <Channel>
-      <Item Name="KMSP">
-        <Provider />
+      <Item Name="KMSP - FOX">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KMSP.png</File>
     </Channel>
@@ -3920,6 +4000,15 @@
       <File>KPIX.png</File>
     </Channel>
     <Channel>
+      <Item Name="KQDS - FOX">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KQDS HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KQDS.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KQED Plus">
         <Provider />
       </Item>
@@ -3956,14 +4045,32 @@
       <File>KSBW.png</File>
     </Channel>
     <Channel>
-      <Item Name="KSTC">
-        <Provider />
+      <Item Name="KSFY - ABC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KSFY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KSTC - IND">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KSTCDT1-HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KSTC.png</File>
     </Channel>
     <Channel>
-      <Item Name="KSTP">
-        <Provider />
+      <Item Name="KRWF - ABC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KSAX - ABC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KSTP - ABC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KSTP-DT - ABC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KSTP.png</File>
     </Channel>
@@ -4028,10 +4135,43 @@
       <File>KUSA.png</File>
     </Channel>
     <Channel>
+      <Item Name="KVLY - NBC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KVLY HD - NBC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KVLY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KVRR - FOX">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KVRR HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KVLY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KWCM - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KWCM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KWGN">
         <Provider />
       </Item>
       <File>KWGN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KXJB - CBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KXJB-DT - CBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>KXJB.png</File>
     </Channel>
     <Channel>
       <Item Name="KYW">
@@ -4045,6 +4185,9 @@
     <Channel>
       <Item Name="La Familia Cosmo">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="La Familia Cosmovision">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>La Familia Cosmo.png</File>
     </Channel>
@@ -4089,6 +4232,9 @@
       <Item Name="LIFE HD  LIFETIME HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="Lifetime HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <File>Lifetime HD.png</File>
     </Channel>
     <Channel>
@@ -4100,6 +4246,9 @@
     <Channel>
       <Item Name="LIFE   LIFETIME">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Lifetime">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Lifetime.png</File>
     </Channel>
@@ -4116,6 +4265,9 @@
       <File>Liquidation Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="KSTP-DT2 - Live Well">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="Livwell">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -4134,12 +4286,18 @@
       <Item Name="LMN HD LIFETIME MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="Lifetime Movie Network HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="LMN HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>LMN HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Lifetime Movie Network">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="LMN    LIFETIME MOVIE NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -4148,6 +4306,7 @@
     <Channel>
       <Item Name="LOGO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Logo TV.png</File>
     </Channel>
@@ -4226,6 +4385,7 @@
     <Channel>
       <Item Name="Mav TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>MavTV.png</File>
     </Channel>
@@ -4320,8 +4480,8 @@
       <File>Mega.png</File>
     </Channel>
     <Channel>
-      <Item Name="MeTV">
-        <Provider />
+      <Item Name="KSTC DT3 - Me TV">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>MeTV.png</File>
     </Channel>
@@ -4800,6 +4960,7 @@
       </Item>
       <File>NECN.png</File>
     </Channel>
+    <Channel>
       <Item Name="NEO CRICKET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -5204,6 +5365,12 @@
       <File>PBS HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="KAWB-DT3 - PBS (Kids)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>PBS Kids.png</File>
+    </Channel>
+    <Channel>
       <Item Name="PBS">
         <Provider />
       </Item>
@@ -5385,6 +5552,18 @@
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>Polvision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KFME - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KFME-DT - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KFME-DT4-PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Prairie Public Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Prayer Channel">
@@ -6437,6 +6616,12 @@
       <File>TheCoolTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="KSTC DT4 -This TV">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KVLY - DT2(ThisTV)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="THIS   This Network">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -6542,26 +6727,38 @@
       <File>TouchVision.png</File>
     </Channel>
     <Channel>
-      <Item Name="TPT 2">
-        <Provider />
+      <Item Name="KTCA - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KTCA-DT- PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KTCI - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>TPT 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="TPT MN">
-        <Provider />
+      <Item Name="KAWB-DT6 - PBS (MN)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KFME-DT3 - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KTCA DT2 PBS (MN)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>TPT MN.png</File>
     </Channel>
     <Channel>
-      <Item Name="TPT Wx">
-        <Provider />
+      <Item Name="KTCA-DT4 - PBS (WX)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>TPT Wx.png</File>
     </Channel>
     <Channel>
-      <Item Name="TPTLife">
-        <Provider />
+      <Item Name="KTCA-DT3 - PBS (Life)">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>TPTLife.png</File>
     </Channel>
@@ -7466,8 +7663,8 @@
       <File>WFMZ.png</File>
     </Channel>
     <Channel>
-      <Item Name="WFTC">
-        <Provider />
+      <Item Name="KMSP-DT - FOX">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>WFTC.png</File>
     </Channel>
@@ -8056,6 +8253,9 @@
     <Channel>
       <Item Name="GBX-WORLD-DT">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KFME-DT2 - PBS">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="WTVS2  WTVS 56 PBS SDTV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
