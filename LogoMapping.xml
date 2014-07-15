@@ -2803,10 +2803,22 @@
       <File>Fox Sports Florida.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Indiana HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Indiana HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports Indiana">
         <Provider />
       </Item>
       <File>Fox Sports Indiana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Kansas City HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Kansas City HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports Kansas City">
