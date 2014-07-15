@@ -2755,6 +2755,12 @@
       <File>Fox Sports Arizona.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Carolinas HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Carolinas HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports Carolinas">
         <Provider />
       </Item>
@@ -2767,10 +2773,28 @@
       <File>Fox Sports Detroit HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Detroit Plus">
+        <Provider />
+      </Item>
+      <File>Fox Sports Detroit Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FSN    FOX SPORTS DETROIT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Fox Sports Detroit.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Florida HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Florida HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Florida Plus">
+        <Provider />
+      </Item>
+      <File>Fox Sports Florida Plus.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports Florida">
@@ -2791,6 +2815,12 @@
       <File>Fox Sports Kansas City.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Midwest HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Midwest HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports Midwest">
         <Provider />
       </Item>
@@ -2809,6 +2839,15 @@
       <File>Fox Sports New Orleans.png</File>
     </Channel>
     <Channel>
+      <Item Name="824 FSNo1HD">
+        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+      </Item>
+      <Item Name="FSN North HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Fox Sports North HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports North Plus">
         <Provider />
       </Item>
@@ -2818,22 +2857,28 @@
       <Item Name="28 FSNo1">
         <Provider>Minneapolis, Minnesota Milhouse</Provider>
       </Item>
-      <Item Name="824 FSNo1HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
-      </Item>
       <Item Name="FSN North">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
-      <Item Name="FSN North HD">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
       <File>Fox Sports North.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Ohio HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Ohio HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports Ohio">
         <Provider />
       </Item>
       <File>Fox Sports Ohio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Oklahoma HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Oklahoma HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports Oklahoma">
@@ -2848,10 +2893,28 @@
       <File>Fox Sports Prime Ticket.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports San Diego HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports San Diego HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports San Diego">
         <Provider />
       </Item>
       <File>Fox Sports San Diego.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports South HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports South HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports South Plus">
+        <Provider />
+      </Item>
+      <File>Fox Sports South Plus.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports South">
@@ -2860,16 +2923,40 @@
       <File>Fox Sports South.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Southwest HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Southwest HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports Southwest Plus">
+        <Provider />
+      </Item>
+      <File>Fox Sports Southwest Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports Southwest">
         <Provider />
       </Item>
       <File>Fox Sports Southwest.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports Tennessee HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports Tennessee HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fox Sports Tennessee">
         <Provider />
       </Item>
       <File>Fox Sports Tennessee.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports West HD">
+        <Provider />
+      </Item>
+      <File>Fox Sports West HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports West">
@@ -2881,6 +2968,9 @@
       <Item Name="FSN HD WI">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <File>Fox Sports Wisconsin HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FSN North WI">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
