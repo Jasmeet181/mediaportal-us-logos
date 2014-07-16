@@ -1932,7 +1932,7 @@
       <File>DIY Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="DiyaTV">
+      <Item Name="Diya TV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>DiyaTV.png</File>
@@ -2195,12 +2195,10 @@
     <Channel>
       <Item Name="ESPN Deportes">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="ESPNDEP">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <Item Name="ESPN Deportes">
-        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>ESPN Deportes.png</File>
     </Channel>
@@ -5473,9 +5471,6 @@
       <File>NewsWatch 15.png</File>
     </Channel>
     <Channel>
-      <Item Name="NFL Red Zone">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
       <Item Name="NFL Red Zone HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5485,6 +5480,7 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="NFL Red Zone">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>NFL Network Redzone.png</File>
@@ -7768,7 +7764,7 @@
       <Item Name="TVGN   TVGUIDE NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="TV Guide HD">
+      <Item Name="TV Guide">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>TVGN.png</File>
@@ -9268,6 +9264,12 @@
       <File>WRIW.png</File>
     </Channel>
     <Channel>
+      <Item Name="WRJK-LD">
+        <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <File>WRJK-LD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WRLH-DT2">
         <Provider />
       </Item>
@@ -9311,6 +9313,9 @@
     </Channel>
     <Channel>
       <Item Name="WSNS HD">
+        <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="WSNS 454 N Columbus Drive Chicago, IL 60611 312-836-5555 (Exitos )">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>WSNS.png</File>
@@ -9554,25 +9559,14 @@
       <File>WWSI.png</File>
     </Channel>
     <Channel>
-
       <Item Name="WXFT-HD">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
       <Item Name="WXFT-HD Telefutura Chicago (WXFT-HD)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
-
       <Item Name="WXFT-SD">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
-      </Item>
-      <Item Name="WXFT-SD">
-
-        <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
       <Item Name="WXFT-SD Telefutura Chicago (WXFT-SD)">
         <Provider>Chicago, Illinois OTA</Provider>
