@@ -427,6 +427,9 @@
       <Item Name="KSTC DT2 - Antenna TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="WPMT-DT2">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
       <File>Antenna TV.png</File>
     </Channel>
     <Channel>
@@ -1522,8 +1525,8 @@
       <File>Corner Store TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cornerstone TeleVision">
-        <Provider />
+      <Item Name="WO7DP">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>Cornerstone TeleVision.png</File>
     </Channel>
@@ -4623,6 +4626,9 @@
       <Item Name="LWN 7  WXYZ RETRO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="WLYH-DT2">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
       <File>Live Well Network.png</File>
     </Channel>
     <Channel>
@@ -7304,6 +7310,9 @@
       <Item Name="This TV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="WGAL-DT2">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
       <File>This TV.png</File>
     </Channel>
     <Channel>
@@ -8567,8 +8576,8 @@
       <File>WFXT.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGAL">
-        <Provider />
+      <Item Name="WGAL-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WGAL.png</File>
     </Channel>
@@ -8582,17 +8591,11 @@
       <File>WGBH.png</File>
     </Channel>
     <Channel>
-
       <Item Name="Univision Chicago (WGBODT )">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
-
       <Item Name="WGBODT">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
       <File>WGBO.png</File>
     </Channel>
@@ -8606,10 +8609,16 @@
       <File>WGBX.png</File>
     </Channel>
     <Channel>
-      <Item Name="WGCB">
-        <Provider />
+      <Item Name="WGCB-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WGCB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WGCB-DT2">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
+      <File>WGCB-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="16 WGNAmer">
@@ -8670,13 +8679,13 @@
     </Channel>
     <Channel>
       <Item Name="WHP-DT2">
-        <Provider />
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WHP-DT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="WHP">
-        <Provider />
+      <Item Name="WHP-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WHP.png</File>
     </Channel>
@@ -8703,13 +8712,16 @@
     </Channel>
     <Channel>
       <Item Name="WHTM-DT2">
-        <Provider />
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WHTM-DT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="WHTM">
-        <Provider />
+      <Item Name="WHTM-DT3">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
+      <Item Name="WHTM-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WHTM.png</File>
     </Channel>
@@ -8789,8 +8801,8 @@
       <File>WIN TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WITF">
-        <Provider />
+      <Item Name="WITF-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WITF.png</File>
     </Channel>
@@ -8930,8 +8942,8 @@
       <File>WLWC.png</File>
     </Channel>
     <Channel>
-      <Item Name="WLYH">
-        <Provider />
+      <Item Name="WLYH-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WLYH.png</File>
     </Channel>
@@ -9183,8 +9195,11 @@
       <File>WPIX.png</File>
     </Channel>
     <Channel>
-      <Item Name="WPMT">
-        <Provider />
+      <Item Name="WPMT-DT3">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
+      <Item Name="WPMT-HD">
+        <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WPMT.png</File>
     </Channel>
