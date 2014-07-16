@@ -3900,6 +3900,12 @@
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="WCPX Shop (Shop)">
+        <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <File>Ion Media Networks.png</File>
+    </Channel>
+    <Channel>
       <Item Name="13 KPXM">
         <Provider>Minneapolis, Minnesota Milhouse</Provider>
       </Item>
@@ -9315,7 +9321,7 @@
       <Item Name="WSNS HD">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
-      <Item Name="WSNS 454 N Columbus Drive Chicago, IL 60611 312-836-5555 (Exitos )">
+      <Item Name="WSNS454 N Columbus DriveChicago, IL 60611312-836-5555 (Exitos )">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>WSNS.png</File>
