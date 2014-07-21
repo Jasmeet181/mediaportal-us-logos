@@ -4880,20 +4880,17 @@
       <File>MH1.png</File>
     </Channel>
     <Channel>
-      <Item Name="MHz Networks">
-        <Provider />
+      <Item Name="WNVC">
+        <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WNVT">
+        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>MHz Networks.png</File>
     </Channel>
     <Channel>
       <Item Name="MHz">
         <Provider>Chicago, Illinois OTA</Provider>
-      </Item>
-      <Item Name="WNVC">
-        <Provider>New York City, New York FiOS</Provider>
-      </Item>
-      <Item Name="WNVT">
-        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>MHz WorldView.png</File>
     </Channel>
@@ -5356,6 +5353,9 @@
     <Channel>
       <Item Name="NBC WeatherPlus">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="WBAL-WEATHER_PLUS">
+        <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>NBC Weather Plus.png</File>
     </Channel>
@@ -8212,9 +8212,6 @@
       <Item Name="WBAL-DTV">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="WBAL-WEATHER_PLUS">
-        <Provider>New York City, New York FiOS</Provider>
-      </Item>
       <File>WBAL.png</File>
     </Channel>
     <Channel>
@@ -9636,17 +9633,11 @@
       </Item>
       <File>WYIN.png</File>
     </Channel>
-
     <Channel>
-
       <Item Name="WYIN-D3">
-
         <Provider>Chicago, Illinois OTA</Provider>
-
       </Item>
-
       <File>WYIN-D3.png</File>
-
     </Channel>
     <Channel>
       <Item Name="WZDC">
