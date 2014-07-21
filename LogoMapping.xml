@@ -352,6 +352,12 @@
       <File>American Heroes Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="American Sports Network">
+        <Provider />
+      </Item>
+      <File>American Sports Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Americas Auction Network">
         <Provider />
       </Item>
