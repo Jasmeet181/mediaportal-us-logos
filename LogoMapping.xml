@@ -292,6 +292,12 @@
       <File>Altitude.png</File>
     </Channel>
     <Channel>
+      <Item Name="Altitude 2">
+        <Provider />
+      </Item>
+      <File>Altitude 2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Amazing Facts TV">
         <Provider />
       </Item>
@@ -1183,16 +1189,16 @@
       <File>CGN TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Channel 1 Russian">
-        <Provider>New York City, New York FiOS</Provider>
-      </Item>
-      <File>Channel 1 Russian.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Channel i">
         <Provider />
       </Item>
       <File>Channel i.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel 1 Russian">
+        <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <File>Channel One Russia.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel V">
