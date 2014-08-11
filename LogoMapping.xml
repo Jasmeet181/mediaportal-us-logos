@@ -58,7 +58,7 @@
     </Channel>
      <Channel>
       <Item Name="795 AETVHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="A&amp;E HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -71,7 +71,7 @@
     </Channel>
     <Channel>
       <Item Name="31 AETV">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="A&amp;E">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -107,7 +107,7 @@
     </Channel>
     <Channel>
       <Item Name="732 ABCFHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ABC Family HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -119,7 +119,7 @@
     </Channel>
     <Channel>
       <Item Name="36 ABCF">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ABC Family">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -305,7 +305,7 @@
     </Channel>
     <Channel>
       <Item Name="862 AMCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="AMC (HD)">
         <Provider>New York City, New York FiOS</Provider>
@@ -320,7 +320,7 @@
     </Channel>
     <Channel>
       <Item Name="57 AMC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="AMC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -395,7 +395,7 @@
     </Channel>
     <Channel>
       <Item Name="765 APLHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Animal Planet HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -407,7 +407,7 @@
     </Channel>
     <Channel>
       <Item Name="35 APL">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Animal Planet">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -431,7 +431,7 @@
     </Channel>
     <Channel>
       <Item Name="387 KSTCDT2">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Antenna">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -632,7 +632,7 @@
     </Channel>
     <Channel>
       <Item Name="120 BBCA">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="BBC America">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -729,7 +729,7 @@
     </Channel>
     <Channel>
       <Item Name="774 BIOHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Biography HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -819,7 +819,7 @@
     </Channel>
     <Channel>
       <Item Name="749 BravoHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Bravo HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -829,7 +829,7 @@
     </Channel>
     <Channel>
       <Item Name="64 Bravo">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Bravo - East">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -853,7 +853,7 @@
     </Channel>
     <Channel>
       <Item Name="822 BIGNMHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="B10HD  BIG TEN HI DEFINITION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1030,7 +1030,7 @@
     </Channel>
     <Channel>
       <Item Name="733 ToonHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Cartoon Network HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1042,7 +1042,7 @@
     </Channel>
     <Channel>
       <Item Name="43 Toon">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Cartoon Network">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1351,7 +1351,7 @@
     </Channel>
     <Channel>
       <Item Name="868 CMTHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CMT HD (East)">
         <Provider>New York City, New York FiOS</Provider>
@@ -1382,7 +1382,7 @@
     </Channel>
     <Channel>
       <Item Name="792 CNBCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNBC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1398,7 +1398,7 @@
     </Channel>
     <Channel>
       <Item Name="44 CNBC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNBC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1419,7 +1419,7 @@
     </Channel>
     <Channel>
       <Item Name="752 CNNHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1438,7 +1438,7 @@
     </Channel>
     <Channel>
       <Item Name="34 CNN">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1474,7 +1474,7 @@
     </Channel>
     <Channel>
       <Item Name="754 CCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Comedy Central HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1489,7 +1489,7 @@
     </Channel>
     <Channel>
       <Item Name="53 Comedy">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Comedy Central">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1513,7 +1513,7 @@
     </Channel>
     <Channel>
       <Item Name="761 CookHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="COOKD  COOKING CH HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1778,7 +1778,7 @@
     </Channel>
     <Channel>
       <Item Name="760 DESTHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="DAM HD DESTIONATION AMERICA HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1842,7 +1842,7 @@
     </Channel>
     <Channel>
       <Item Name="791 DSCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Discovery HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1855,7 +1855,7 @@
     </Channel>
     <Channel>
       <Item Name="47 DSC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="DSC    DISCOVERY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1867,7 +1867,7 @@
     </Channel>
     <Channel>
       <Item Name="748 DisnHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="DISHD  DISNEY CHANNEL HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1879,7 +1879,7 @@
     </Channel>
     <Channel>
       <Item Name="58 DISN">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="DIS    DISNEY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1906,7 +1906,7 @@
     </Channel>
     <Channel>
       <Item Name="734 DISNXDH">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Disney XD HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1927,7 +1927,7 @@
     </Channel>
     <Channel>
       <Item Name="759 DIYHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="DIY HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1984,7 +1984,7 @@
     </Channel>
     <Channel>
       <Item Name="743 EHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="E! HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1993,7 +1993,7 @@
     </Channel>
     <Channel>
       <Item Name="54 E">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="E!     E!">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2243,7 +2243,7 @@
     </Channel>
     <Channel>
       <Item Name="800 ESPNHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2324,7 +2324,7 @@
     </Channel>
     <Channel>
       <Item Name="29 ESPN">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2336,7 +2336,7 @@
     </Channel>
     <Channel>
       <Item Name="801 ESPN2HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN 2 HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2348,7 +2348,7 @@
     </Channel>
     <Channel>
       <Item Name="30 ESPN2">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN2">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2588,7 +2588,7 @@
     </Channel>
     <Channel>
       <Item Name="763 FoodHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Food Network HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2601,7 +2601,7 @@
     </Channel>
     <Channel>
       <Item Name="61 Food">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FOOD   TV FOOD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2697,7 +2697,7 @@
     </Channel>
     <Channel>
       <Item Name="751 FNCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FNHD   Fox News HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2709,7 +2709,7 @@
     </Channel>
     <Channel>
       <Item Name="26 FNC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FNC    FOX NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2865,7 +2865,7 @@
     </Channel>
     <Channel>
       <Item Name="824 FSNo1HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FSN North HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2880,7 +2880,7 @@
     </Channel>
     <Channel>
       <Item Name="28 FSNo1">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FSN North">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3045,7 +3045,7 @@
     </Channel>
     <Channel>
       <Item Name="878 FUSEHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FUSE HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3082,7 +3082,7 @@
     </Channel>
     <Channel>
       <Item Name="753 FXHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FX HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3094,7 +3094,7 @@
     </Channel>
     <Channel>
       <Item Name="71 FX">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FX">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3106,7 +3106,7 @@
     </Channel>
     <Channel>
       <Item Name="306 FXM">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FXM    FX MOVIE CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3131,7 +3131,7 @@
     </Channel>
     <Channel>
       <Item Name="844 G4HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <File>G4 HD.png</File>
     </Channel>
@@ -3348,7 +3348,7 @@
     </Channel>
     <Channel>
       <Item Name="768 H2HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="H2 HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3365,7 +3365,7 @@
     </Channel>
     <Channel>
       <Item Name="747 HallHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Hallmark HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3384,7 +3384,7 @@
     </Channel>
     <Channel>
       <Item Name="863 HallMHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Hallmark Movie HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3573,7 +3573,7 @@
     </Channel>
     <Channel>
       <Item Name="762 HGTVD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HGTV HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3588,7 +3588,7 @@
     </Channel>
     <Channel>
       <Item Name="55 HGTV">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HGTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3612,7 +3612,7 @@
     </Channel>
     <Channel>
       <Item Name="796 HstryHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="History Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3627,7 +3627,7 @@
     </Channel>
     <Channel>
       <Item Name="48 History">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HIST   HISTORY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3646,7 +3646,7 @@
     </Channel>
     <Channel>
       <Item Name="730 HLNHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HEADLINE NEWS EAST HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3658,7 +3658,7 @@
     </Channel>
     <Channel>
       <Item Name="32 HLN">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNN Headline News">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3768,7 +3768,7 @@
     </Channel>
     <Channel>
       <Item Name="854 IFCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="IFC    Analog Ind Film Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3876,7 +3876,7 @@
     </Channel>
     <Channel>
       <Item Name="181 INSP">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="INSP   Inspiration Ntwk">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3922,10 +3922,10 @@
     </Channel>
     <Channel>
       <Item Name="13 KPXM">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="787 KPXMDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ION">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4101,10 +4101,10 @@
     </Channel>
     <Channel>
       <Item Name="11 KARE">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="781 KAREDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KARE - NBC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4284,10 +4284,10 @@
     </Channel>
     <Channel>
       <Item Name="789 KMSPDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="9 KMSP">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KMSP - FOX">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4398,10 +4398,10 @@
     </Channel>
     <Channel>
       <Item Name="17 KSTC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="788 KSTCDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KSTC - IND">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4413,10 +4413,10 @@
     </Channel>
     <Channel>
       <Item Name="5 KSTP">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="785 KSTPDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KRWF - ABC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4479,6 +4479,12 @@
         <Provider />
       </Item>
       <File>KTVU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTXA">
+        <Provider />
+      </Item>
+      <File>KTXA.png</File>
     </Channel>
     <Channel>
       <Item Name="KUBE-TV">
@@ -4588,7 +4594,7 @@
     </Channel>
     <Channel>
       <Item Name="750 LifeHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="LIFE HD  LIFETIME HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -4606,7 +4612,7 @@
     </Channel>
     <Channel>
       <Item Name="27 Life">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="LIFE   LIFETIME">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -4651,7 +4657,7 @@
     </Channel>
     <Channel>
       <Item Name="864 LMNHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="LMN HD LIFETIME MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -4851,7 +4857,7 @@
     </Channel>
     <Channel>
       <Item Name="386 KSTCDT3">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KSTC DT3 - Me TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5010,7 +5016,7 @@
     </Channel>
     <Channel>
       <Item Name="388 WFTCDT4">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Movies!">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -5022,6 +5028,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Movies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MPTV">
+        <Provider />
+      </Item>
+      <File>MPTV.png</File>
     </Channel>
     <Channel>
       <Item Name="MSG 2">
@@ -5058,7 +5070,7 @@
     </Channel>
     <Channel>
       <Item Name="728 MSNBCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MSNBC  HD">
         <Provider>New York City, New York FiOS</Provider>
@@ -5071,7 +5083,7 @@
     </Channel>
     <Channel>
       <Item Name="45 MSNBC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MSNBC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5092,7 +5104,7 @@
     </Channel>
     <Channel>
       <Item Name="745 MTVHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MTV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5150,7 +5162,7 @@
     </Channel>
     <Channel>
       <Item Name="39 MTV">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5162,7 +5174,7 @@
     </Channel>
     <Channel>
       <Item Name="875 MTV2HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MTV2 HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5171,7 +5183,7 @@
     </Channel>
     <Channel>
       <Item Name="76 MTV2">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="MTV2">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5300,7 +5312,7 @@
     </Channel>
     <Channel>
       <Item Name="766 NGCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="National Geo HD">
         <Provider>New York City, New York FiOS</Provider>
@@ -5315,7 +5327,7 @@
     </Channel>
     <Channel>
       <Item Name="66 NGC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="National Geographic">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5585,7 +5597,7 @@
     </Channel>
     <Channel>
       <Item Name="100 NICJR">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="NicJr   Nick Jr">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5597,7 +5609,7 @@
     </Channel>
     <Channel>
       <Item Name="735 NikHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="NICK HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5612,7 +5624,7 @@
     </Channel>
     <Channel>
       <Item Name="59 NIK">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Nickelodeon - East">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5624,7 +5636,7 @@
     </Channel>
     <Channel>
       <Item Name="106 NIKTON">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Nicktoons Network">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5804,7 +5816,7 @@
     </Channel>
     <Channel>
       <Item Name="741 OWNHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="OWN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5819,7 +5831,7 @@
     </Channel>
     <Channel>
       <Item Name="742 OxygnHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Oxygen HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -6353,7 +6365,7 @@
     </Channel>
     <Channel>
       <Item Name="756 SCIHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="SCIHD  Discovery Science HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -6680,7 +6692,7 @@
     </Channel>
     <Channel>
       <Item Name="847 SpikeHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Spike HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -6695,7 +6707,7 @@
     </Channel>
     <Channel>
       <Item Name="33 SpikeTV">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Spike TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -6962,7 +6974,7 @@
     </Channel>
     <Channel>
       <Item Name="49 Syfy">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="SCIFI  SCI-FI">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -6974,7 +6986,7 @@
     </Channel>
     <Channel>
       <Item Name="755 SyfyHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="SCFHD  SCIFI HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -7043,7 +7055,7 @@
     </Channel>
     <Channel>
       <Item Name="767 TBSHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TBS HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7055,7 +7067,7 @@
     </Channel>
     <Channel>
       <Item Name="15 TBS">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7076,7 +7088,7 @@
     </Channel>
     <Channel>
       <Item Name="56 TCM">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TCM    TURNER CLASSIC MOVIES">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -7100,7 +7112,7 @@
     </Channel>
     <Channel>
       <Item Name="104 TNCK">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TeenNick">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7247,7 +7259,7 @@
     </Channel>
     <Channel>
       <Item Name="798 WeathHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TWC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -7257,7 +7269,7 @@
     </Channel>
     <Channel>
       <Item Name="51 Weath">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TWC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7308,7 +7320,7 @@
     </Channel>
     <Channel>
       <Item Name="385 KSTCDT4">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KSTC DT4 -This TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7362,7 +7374,7 @@
     </Channel>
     <Channel>
       <Item Name="764 TLCHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TLC HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7375,7 +7387,7 @@
     </Channel>
     <Channel>
       <Item Name="42 TLC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TLC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7387,7 +7399,7 @@
     </Channel>
     <Channel>
       <Item Name="861 TCMHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TMC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -7426,7 +7438,7 @@
     </Channel>
     <Channel>
       <Item Name="797 TNTHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TNTHD  TNT HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -7438,7 +7450,7 @@
     </Channel>
     <Channel>
       <Item Name="40 TNT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TNT">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7462,10 +7474,10 @@
     </Channel>
     <Channel>
       <Item Name="2 KTCA">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="782 KTCADT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="KTCA - PBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7513,7 +7525,7 @@
     </Channel>
     <Channel>
       <Item Name="758 TravHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Travel Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7525,7 +7537,7 @@
     </Channel>
     <Channel>
       <Item Name="67 Trav">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Travel Channel">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7537,7 +7549,7 @@
     </Channel>
     <Channel>
       <Item Name="772 TruTVHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TruTV HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7549,7 +7561,7 @@
     </Channel>
     <Channel>
       <Item Name="37 TruTV">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TruTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7645,10 +7657,10 @@
     </Channel>
     <Channel>
       <Item Name="731 TVLandH">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="731 TVLandHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TV Land HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -7657,7 +7669,7 @@
     </Channel>
     <Channel>
       <Item Name="41 TVLand">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TV Land">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8011,7 +8023,7 @@
     </Channel>
     <Channel>
       <Item Name="757 USAHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="USA HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8024,7 +8036,7 @@
     </Channel>
     <Channel>
       <Item Name="46 USA">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="USA">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8064,7 +8076,7 @@
     </Channel>
     <Channel>
       <Item Name="38 VH1">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="VH1CR  VH1 Classic">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -8076,7 +8088,7 @@
     </Channel>
     <Channel>
       <Item Name="871 VH1HD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="VH1 HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -8242,6 +8254,12 @@
       <File>WBIN-TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="WBME-CD">
+        <Provider />
+      </Item>
+      <File>WBME-CD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WBOC CBS">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -8303,10 +8321,10 @@
     </Channel>
     <Channel>
       <Item Name="4 WCCO">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="784 WCCODT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WCCO - CBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8434,6 +8452,18 @@
       <File>WDIV.png</File>
     </Channel>
     <Channel>
+      <Item Name="WDJT">
+        <Provider />
+      </Item>
+      <File>WDJT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WDJT-DT3">
+        <Provider />
+      </Item>
+      <File>WDJT-DT3.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WDSE - PBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -8450,7 +8480,7 @@
     </Channel>
     <Channel>
       <Item Name="739 WEHD">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WEHD  WOMEN ENTERTAINMENT HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -8465,7 +8495,7 @@
     </Channel>
     <Channel>
       <Item Name="63 WE">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WE     WE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -8550,10 +8580,10 @@
     </Channel>
     <Channel>
       <Item Name="10 WFTC">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="780 WFTCDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WFTC - MyTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8631,7 +8661,7 @@
     </Channel>
     <Channel>
       <Item Name="16 WGNAmer">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WGN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -8814,6 +8844,18 @@
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WITF.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WITI">
+        <Provider />
+      </Item>
+      <File>WITI.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WITI-DT2">
+        <Provider />
+      </Item>
+      <File>WITI-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WIWU-CD">
@@ -9435,10 +9477,10 @@
     </Channel>
     <Channel>
       <Item Name="23 WUCW">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="783 WUCWDT">
-        <Provider>Minneapolis, Minnesota Milhouse</Provider>
+        <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="WUCW - CW">
         <Provider>Minneapolis, Minnesota Charter</Provider>
