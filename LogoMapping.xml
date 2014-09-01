@@ -436,6 +436,9 @@
       <Item Name="Antenna">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="KIAHDT2 (ATV)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <Item Name="KSTC DT2 - Antenna TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -1561,6 +1564,9 @@
       <Item Name="Cozi">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="KTMDDT3 (COZI-TV)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <Item Name="WMFP">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -1572,6 +1578,9 @@
       </Item>
       <Item Name="KAWB-DT4 - PBS (Create)">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="KUHTDT2">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="WCVE 2">
         <Provider>New York City, New York FiOS</Provider>
@@ -2181,8 +2190,8 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Escape">
-        <Provider />
+      <Item Name="KXLNDT (ESCAPE )">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>Escape.png</File>
     </Channel>
@@ -3223,6 +3232,9 @@
       <Item Name="GetTV (GetTV  )">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="KFTHDT2 (GETTV)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <File>GetTV.png</File>
     </Channel>
     <Channel>
@@ -3317,8 +3329,8 @@
       <File>Greek Cinema.png</File>
     </Channel>
     <Channel>
-      <Item Name="Grit">
-        <Provider />
+      <Item Name="KFTHDT3 (Grit SD)">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>Grit.png</File>
     </Channel>
@@ -3936,6 +3948,9 @@
       <Item Name="ION-WBPX HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="KPXBDT (ION)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <Item Name="KPXM - ION">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -4041,6 +4056,9 @@
       <Item Name="JCTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KETHDT3 (JUCE)">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="WWTO-D3">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -4247,6 +4265,24 @@
       <File>KGO.png</File>
     </Channel>
     <Channel>
+      <Item Name="KHOUDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KHOU.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KHOUDT2">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KHOU-DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KIAHDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KIAH.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KICU">
         <Provider />
       </Item>
@@ -4340,6 +4376,12 @@
       <File>KOFY.png</File>
     </Channel>
     <Channel>
+      <Item Name="KPRCDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KPRC.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KPIX">
         <Provider />
       </Item>
@@ -4371,6 +4413,12 @@
         <Provider />
       </Item>
       <File>KRCB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KRIVDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KRIV.png</File>
     </Channel>
     <Channel>
       <Item Name="KRON">
@@ -4457,6 +4505,12 @@
       <File>KTNC.png</File>
     </Channel>
     <Channel>
+      <Item Name="KTRKDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KTRK.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTSF">
         <Provider />
       </Item>
@@ -4487,10 +4541,34 @@
       <File>KTXA.png</File>
     </Channel>
     <Channel>
-      <Item Name="KUBE-TV">
-        <Provider />
+      <Item Name="KTXHDT ">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KTXH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUBEDT">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>KUBE-TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUBE-DT4">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KUBEDT4 (MeTV).png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUHTDT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KUHT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUHTDT4 (SIS)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KUHT-DT4.png</File>
     </Channel>
     <Channel>
       <Item Name="KUSA">
@@ -4640,6 +4718,9 @@
       </Item>
       <Item Name="Livwell">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="KTRKDT2 (LIVWELL)">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="LWN 7  WXYZ RETRO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5017,6 +5098,9 @@
     <Channel>
       <Item Name="388 WFTCDT4">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="KTXDT2 (Movies!)">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="Movies!">
         <Provider>Chicago, Illinois OTA</Provider>
