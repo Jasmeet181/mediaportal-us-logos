@@ -737,27 +737,6 @@
       <File>Big Screen Preview Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="774 BIOHD">
-        <Provider>Minneapolis, Minnesota Charter SD</Provider>
-      </Item>
-      <Item Name="Biography HD">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="BIOHD BIOGRAPHY HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Bio HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Biography">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="BIO    Biography">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Bio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BizTV">
         <Provider />
       </Item>
@@ -3146,6 +3125,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>FXX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FYI">
+        <Provider />
+      </Item>
+      <File>FYI.png</File>
     </Channel>
     <Channel>
       <Item Name="844 G4HD">
