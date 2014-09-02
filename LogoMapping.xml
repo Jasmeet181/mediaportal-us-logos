@@ -142,6 +142,12 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
+      <Item Name="African Broadcasting Network (ABN TV)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>ABN TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="SNEWS  STAR INDIA NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -1753,6 +1759,9 @@
       <Item Name="DSTAR  Daystar">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="KLJT-DT (KLJT)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <Item Name="WDCI-LD">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -3172,8 +3181,8 @@
       <File>GBH Kids.png</File>
     </Channel>
     <Channel>
-      <Item Name="GEB America">
-        <Provider />
+      <Item Name="Golden Eagle Broadca (Golden )">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>GEB America.png</File>
     </Channel>
@@ -4418,6 +4427,9 @@
       <Item Name="KRIVDT">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
+      <Item Name="KRIV-DT">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
       <File>KRIV.png</File>
     </Channel>
     <Channel>
@@ -4593,6 +4605,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KVLY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KVVV TV 15.8 (KVVV 15)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>KVVV.png</File>
     </Channel>
     <Channel>
       <Item Name="KWCM - PBS">
@@ -5104,6 +5122,7 @@
       </Item>
       <Item Name="Movies!">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="Movie   WJBK Movies">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5290,8 +5309,8 @@
       <File>Mun2.png</File>
     </Channel>
     <Channel>
-      <Item Name="MundoFox">
-        <Provider />
+      <Item Name="Mundo Fox (MundoFX)">
+        <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>MundoFox.png</File>
     </Channel>
@@ -8104,6 +8123,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Up TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Urban Television Network (UTN)">
+        <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <File>Urban Television Network.png</File>
     </Channel>
     <Channel>
       <Item Name="757 USAHD">
