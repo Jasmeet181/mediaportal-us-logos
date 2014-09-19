@@ -4550,10 +4550,10 @@
       <File>KUBE-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="KUBE-DT4">
+      <Item Name="KUBEDT4 (MeTV)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
-      <File>KUBEDT4 (MeTV).png</File>
+      <File>KUBE-DT4.png</File>
     </Channel>
     <Channel>
       <Item Name="KUHTDT">
@@ -8908,12 +8908,6 @@
         <Provider />
       </Item>
       <File>WIIH-CD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Willow Cricket HD">
-        <Provider />
-      </Item>
-      <File>Willow Cricket HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Willow Cricket HD">
