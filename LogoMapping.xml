@@ -4589,7 +4589,7 @@
       <Item Name="KVRR HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
-      <File>KVLY.png</File>
+      <File>KVRR.png</File>
     </Channel>
     <Channel>
       <Item Name="KVVV TV 15.8 (KVVV 15)">
@@ -5864,7 +5864,7 @@
       <Item Name="OUTHD  OUTDOOR CH HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="NOutdoor Channel HD">
+      <Item Name="Outdoor Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Outdoor Channel HD.png</File>
