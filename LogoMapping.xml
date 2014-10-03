@@ -220,8 +220,8 @@
       <File>Afrotainment.png</File>
     </Channel>
     <Channel>
-      <Item Name="KBC-TV 13.2 (KBC)">
-        <Provider>Chicago, Illinois OTA</Provider>
+      <Item Name="Arirang">
+        <Provider />
       </Item>
       <File>Arirang.png</File>
     </Channel>
@@ -444,6 +444,9 @@
     <Channel>
       <Item Name="387 KSTCDT2">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="Ant TV">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="Antenna">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -2202,6 +2205,9 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
+      <Item Name="19-4 KUVS.4">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <Item Name="KXLNDT (ESCAPE )">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
@@ -2397,6 +2403,12 @@
       </Item>
       <Item Name="Estrella (WPIX -DT)">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KTNC-SA">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <Item Name="KTNC-SF">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="WESV-LP">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -3253,6 +3265,9 @@
       <Item Name="KFTHDT2 (GETTV)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
+      <Item Name="KTFK.3 ">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <File>GetTV.png</File>
     </Channel>
     <Channel>
@@ -3347,6 +3362,9 @@
       <File>Greek Cinema.png</File>
     </Channel>
     <Channel>
+      <Item Name="64-4 KTFK.4">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <Item Name="KFTHDT3 (Grit SD)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
@@ -3736,6 +3754,7 @@
       </Item>
       <Item Name="HSN">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="HSN    HSN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3942,13 +3961,19 @@
       <Item Name="IONLife">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="KSPX ION Life">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="KSPX Shop">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <Item Name="WCPX Shop (Shop)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
-      <File>Ion Media Networks.png</File>
+      <File>Ion Media Networks.png</File><!-- Use for Ion Shop -->
     </Channel>
     <Channel>
       <Item Name="13 KPXM">
@@ -3959,6 +3984,7 @@
       </Item>
       <Item Name="ION">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="ION    ION Television">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -4157,7 +4183,13 @@
       <Item Name="KAWB-DT5 - TPT Plus">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
-      <File>KARE.png</File>
+      <File>KAWE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBC-TV 13.2 (KBC)">
+        <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <File>KBC TV.png</File>
     </Channel>
     <Channel>
       <Item Name="KBCW">
@@ -4220,10 +4252,28 @@
       <File>KCPM.png</File>
     </Channel>
     <Channel>
+      <Item Name="KCRA-TV">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KCRA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KCRA-DT2">
+        <Provider />
+      </Item>
+      <File>KCRA-DT2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KCSM">
         <Provider />
       </Item>
       <File>KCSM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TLMD">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KCSO-LD.png</File>
     </Channel>
     <Channel>
       <Item Name="KDLH - CBS">
@@ -4331,6 +4381,12 @@
       <File>Kiran TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="KMAX-DT">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KMAX.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KMGH">
         <Provider />
       </Item>
@@ -4394,6 +4450,12 @@
       <File>KOFY.png</File>
     </Channel>
     <Channel>
+      <Item Name="KOVR-DT">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KOVR.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KPRCDT">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
@@ -4404,6 +4466,12 @@
         <Provider />
       </Item>
       <File>KPIX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KQCA">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KQCA.png</File>
     </Channel>
     <Channel>
       <Item Name="KQDS - FOX">
@@ -4508,6 +4576,15 @@
       <File>KSTS.png</File>
     </Channel>
     <Channel>
+      <Item Name="KTFK-DT">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <Item Name="KTFK.2 ">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KTFK.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTLA">
         <Provider />
       </Item>
@@ -4550,8 +4627,8 @@
       <File>KTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="KTVU">
-        <Provider />
+      <Item Name="KTVU-HD">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <File>KTVU.png</File>
     </Channel>
@@ -4566,6 +4643,12 @@
         <Provider>Houston, Texas OTA</Provider>
       </Item>
       <File>KTXH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTXL-TV">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KTXL.png</File>
     </Channel>
     <Channel>
       <Item Name="KUBEDT">
@@ -4596,6 +4679,33 @@
         <Provider />
       </Item>
       <File>KUSA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUVS-DT">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <Item Name="KUVS.2 ">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KUVS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUVS.3 ">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KUVS-DT3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KVIEHD">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KVIE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KVIE2">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KVIE2.png</File>
     </Channel>
     <Channel>
       <Item Name="KVLY - NBC">
@@ -4641,6 +4751,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>KXJB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KXTV-DT">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <File>KXTV.png</File>
     </Channel>
     <Channel>
       <Item Name="KYW">
@@ -4754,6 +4870,9 @@
     <Channel>
       <Item Name="KSTP-DT2 - Live Well">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="LiveWel">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="Livwell">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -4981,6 +5100,9 @@
       </Item>
       <Item Name="KSTC DT3 - Me TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="ME TV">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="WDIO DT2">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5269,6 +5391,7 @@
       </Item>
       <Item Name="Tr3s">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <File>MTV Tres.png</File>
     </Channel>
@@ -6285,6 +6408,9 @@
     <Channel>
       <Item Name="ION QUBO">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KSPX qubo">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="WCPX qubo (qubo)">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -7464,6 +7590,9 @@
       <Item Name="WOCH-CD (WOCH-1)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="Works">
+        <Provider>Sacramento, California OTA</Provider>
+      </Item>
       <File>The Works.png</File>
     </Channel>
     <Channel>
@@ -7505,6 +7634,9 @@
       </Item>
       <Item Name="This TV">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="THIS-TV">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="WGAL-DT2">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
@@ -8362,6 +8494,9 @@
     <Channel>
       <Item Name="13 VME">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KVIEVme">
+        <Provider>Sacramento, California OTA</Provider>
       </Item>
       <Item Name="WMPT V-me">
         <Provider>New York City, New York FiOS</Provider>
