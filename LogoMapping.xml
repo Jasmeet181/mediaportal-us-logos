@@ -34,7 +34,7 @@
     </Channel>
     <Channel>
       <Item Name="4CNC TV Central Carolina Community College">
-        <Provider>Sanford, North Carolina</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>4CNC.png</File>
     </Channel>
@@ -62,6 +62,18 @@
       </Item>
       <File>5StarMax.png</File>
     </Channel>
+    <Channel>
+      <Item Name="88Films">
+        <Provider />
+      </Item>
+      <File>88Films.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="88TV">
+        <Provider />
+      </Item>
+      <File>88TV.png</File>
+    </Channel>
      <Channel>
       <Item Name="795 AETVHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
@@ -69,6 +81,7 @@
       <Item Name="A&amp;E HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="A&amp;EHD  A&amp;E HD">
         <Provider>New York City, New York FiOS</Provider>
@@ -81,6 +94,7 @@
       </Item>
       <Item Name="A&amp;E">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="A&amp;E    A&amp;E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -112,11 +126,18 @@
       <File>Aapka Colors.png</File>
     </Channel>
     <Channel>
+      <Item Name="ANC">
+        <Provider />
+      </Item>
+      <File>ABS-CBN News Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="732 ABCFHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ABC Family HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="FAMHD  ABC Family HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -324,6 +345,7 @@
       </Item>
       <Item Name="AMC HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="AMCHD  AMC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -336,6 +358,7 @@
       </Item>
       <Item Name="AMC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="AMC    AMC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -411,6 +434,7 @@
       </Item>
       <Item Name="Animal Planet HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="APHD   ANIMAL PLANET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -423,6 +447,7 @@
       </Item>
       <Item Name="Animal Planet">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="ANIMP  ANIMAL PLANET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -540,6 +565,7 @@
     <Channel>
       <Item Name="AXS TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="AXS TV  AXIS TV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -547,14 +573,17 @@
       <File>Axs TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="AYM Sports">
-        <Provider />
+      <Item Name="AYM Sports SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>AYM Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="Azteca">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="Azteca America SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Azteca America.png</File>
     </Channel>
@@ -604,8 +633,8 @@
       <File>BabyFirst TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="BabyTV">
-        <Provider />
+      <Item Name="Baby TV SAP SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>BabyTV.png</File>
     </Channel>
@@ -624,6 +653,9 @@
     <Channel>
       <Item Name="Bandamax">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="Bandamax SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Banda Max">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -652,6 +684,9 @@
       <Item Name="BBCAM  BBC AMERICA HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="BBC America HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>BBC America HD.png</File>
     </Channel>
     <Channel>
@@ -660,6 +695,7 @@
       </Item>
       <Item Name="BBC America">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="BBC    BBC America">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -678,6 +714,10 @@
       </Item>
       <Item Name="BBC WORLD NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="BBC World News HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>BBC World.png</File>
     </Channel>
@@ -721,6 +761,7 @@
       <Item Name="BET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>BET HD.png</File>
     </Channel>
@@ -733,6 +774,7 @@
     <Channel>
       <Item Name="BET">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="BET    BET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -766,12 +808,14 @@
     <Channel>
       <Item Name="Bloomberg HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Bloomberg HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Bloomberg">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="BLOOM  BLOOMBERG">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -805,6 +849,7 @@
     <Channel>
       <Item Name="Boomerang">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Boomerang.png</File>
     </Channel>
@@ -827,12 +872,16 @@
       <Item Name="Bravo HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Bravo HD.png</File>
     </Channel>
     <Channel>
       <Item Name="64 Bravo">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="Bravo">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Bravo - East">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -855,6 +904,12 @@
       <File>Bright House Sports Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bro Channel">
+        <Provider />
+      </Item>
+      <File>Bro Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="822 BIGNMHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
@@ -870,6 +925,9 @@
     <Channel>
       <Item Name="BIG10  Big Ten Standard Definition">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Big 10 Network">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="BTN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -926,6 +984,7 @@
     <Channel>
       <Item Name="CSPAN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CSPAN-1HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -936,20 +995,24 @@
       <Item Name="CSPAN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="CSPAN1">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="CSPAN  C-SPAN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN.png</File>
     </Channel>
     <Channel>
-      <Item Name="C-SPAN2 HD">
-        <Provider />
+      <Item Name="CSPAN 2 HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>C-SPAN2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CSPAN2">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CSPN2  C-SPAN 2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -957,19 +1020,26 @@
       <File>C-SPAN2.png</File>
     </Channel>
     <Channel>
-      <Item Name="C-SPAN3 HD">
-        <Provider />
+      <Item Name="CSPAN 3 HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>C-SPAN3 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CSPAN 3">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CSPN3  C-SPAN 3">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>C-SPAN3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cable Noticias SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <File>Cable Noticias.png</File>
     </Channel>
     <Channel>
       <Item Name="Cadenatres">
@@ -988,6 +1058,12 @@
         <Provider />
       </Item>
       <File>CamTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Canal 22 Internacional">
+        <Provider />
+      </Item>
+      <File>Canal 22 Internacional.png</File>
     </Channel>
     <Channel>
       <Item Name="Canal 5">
@@ -1026,6 +1102,12 @@
       <File>Caracol TV Internacional.png</File>
     </Channel>
     <Channel>
+      <Item Name="Carousel">
+        <Provider />
+      </Item>
+      <File>Carousel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Caribevision">
         <Provider />
       </Item>
@@ -1041,6 +1123,9 @@
       <Item Name="733 ToonHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="Cartoon HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="Cartoon Network HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -1052,6 +1137,9 @@
     <Channel>
       <Item Name="43 Toon">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="Cartoon">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Cartoon Network">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1115,6 +1203,7 @@
     <Channel>
       <Item Name="CBS Sports Network HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CBS CS HD CBS COLLEGE SPORTS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1124,6 +1213,7 @@
     <Channel>
       <Item Name="CBS Sports Network">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CBS Sports Ntwk">
         <Provider>New York City, New York FiOS</Provider>
@@ -1171,8 +1261,8 @@
       <File>CCTV-E.png</File>
     </Channel>
     <Channel>
-      <Item Name="CCTV-News">
-        <Provider />
+      <Item Name="KICUSD2">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>CCTV-News.png</File>
     </Channel>
@@ -1182,12 +1272,16 @@
       </Item>
       <Item Name="Centric">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Centric.png</File>
     </Channel>
     <Channel>
       <Item Name="CentroAmericana">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="CentroAmerica TV SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>CentroamericaTV.png</File>
     </Channel>
@@ -1273,6 +1367,12 @@
       <File>Christian Television Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Christian Television System">
+        <Provider />
+      </Item>
+      <File>Christian Television System.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Chung Tien Television">
         <Provider />
       </Item>
@@ -1289,6 +1389,18 @@
       <File>Church Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cin Estelar">
+        <Provider />
+      </Item>
+      <File>Cin Estelar.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cine Nostalgia">
+        <Provider />
+      </Item>
+      <File>Cine Nostalgia.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Cine Bangla">
         <Provider />
       </Item>
@@ -1301,8 +1413,15 @@
       <Item Name="Cine Mexicano">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Cine Mexicano.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cinema One Global">
+        <Provider />
+      </Item>
+      <File>Cinema One Global.png</File>
     </Channel>
     <Channel>
       <Item Name="Cine Sony">
@@ -1316,6 +1435,9 @@
       </Item>
       <Item Name="CineLatino">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="Cine Latino SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Cinelatino.png</File>
     </Channel>
@@ -1362,6 +1484,9 @@
       <Item Name="Cloo">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="Cloo SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>Cloo.png</File>
     </Channel>
     <Channel>
@@ -1374,12 +1499,14 @@
       <Item Name="CMT HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>CMT HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CMT Pure Country">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CMTP   CMT PURE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1389,6 +1516,9 @@
     <Channel>
       <Item Name="CMT">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="CMTV">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CMT    CMT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1402,6 +1532,7 @@
       <Item Name="CNBC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>CNBC HD.png</File>
     </Channel>
@@ -1417,6 +1548,7 @@
       </Item>
       <Item Name="CNBC">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CNBC   CNBC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1426,6 +1558,7 @@
     <Channel>
       <Item Name="CNN en Espanol">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CNNESP">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1438,6 +1571,7 @@
       </Item>
       <Item Name="CNN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CNNHD  CNN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1448,6 +1582,7 @@
       <Item Name="CNN International">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>CNN International.png</File>
     </Channel>
@@ -1457,6 +1592,7 @@
       </Item>
       <Item Name="CNN">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CNN    CNN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1535,6 +1671,7 @@
       </Item>
       <Item Name="Cooking Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Cooking Channel HD.png</File>
     </Channel>
@@ -1542,12 +1679,13 @@
       <Item Name="Cooking Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Cooking Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Corner Store TV">
-        <Provider />
+      <Item Name="CTV-USA">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Corner Store TV.png</File>
     </Channel>
@@ -1564,6 +1702,9 @@
       <File>Cox Sports Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cozi Television (COZI-TV)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="Cozi TV">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -1591,6 +1732,9 @@
       <Item Name="KAWB-DT4 - PBS (Create)">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="KRCB-C">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="KUHTDT2">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
@@ -1616,6 +1760,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Create.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KFTL-CD">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Creation TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Crime &amp; Investigation HD">
@@ -1761,6 +1911,10 @@
     <Channel>
       <Item Name="Daystar">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="Daystar HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DSTAR  Daystar">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1783,6 +1937,9 @@
       <Item Name="De Pelicula Clasico">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="De Pelicula Clasico SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>De Pelicula Clasico.png</File>
     </Channel>
     <Channel>
@@ -1798,6 +1955,9 @@
       <Item Name="De Pelicula">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="De Pelicula SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>De Pelicula.png</File>
     </Channel>
     <Channel>
@@ -1809,6 +1969,7 @@
       </Item>
       <Item Name="Destination America HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Destination America HD.png</File>
     </Channel>
@@ -1818,6 +1979,7 @@
       </Item>
       <Item Name="Destination America">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Destination America.png</File>
     </Channel>
@@ -1840,12 +2002,16 @@
       <Item Name="Discovery En Espanol">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="DISCOVERY ESPANOL">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>Discovery en Espanol.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Familia">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DSC Familia">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1853,6 +2019,9 @@
       <File>Discovery Familia.png</File>
     </Channel>
     <Channel>
+      <Item Name="DISCOVERY FIT &amp; HEALTH">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="Fit TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -1868,8 +2037,11 @@
       <Item Name="791 DSCHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
-      <Item Name="Discovery HD">
+      <Item Name="Discovery Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="Discovery HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="DSCHD  Discovery HD">
@@ -1887,6 +2059,10 @@
       <Item Name="Discovery">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="Discovery Channel">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <File>Discovery.png</File>
     </Channel>
     <Channel>
@@ -1896,8 +2072,11 @@
       <Item Name="DISHD  DISNEY CHANNEL HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Discovery Channel HD">
+      <Item Name="Disney Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="Disney HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>Disney Channel HD.png</File>
     </Channel>
@@ -1908,12 +2087,18 @@
       <Item Name="DIS    DISNEY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Discovery Channel">
+      <Item Name="Disney">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="Disney Channel">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Disney Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disney Jr. HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="Disney Junior HDTV (East)">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -1922,6 +2107,9 @@
     <Channel>
       <Item Name="DISJr   Disney Jr">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Disney Jr. SD">
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Disney Junior SD (East)">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -1934,6 +2122,7 @@
       </Item>
       <Item Name="Disney XD HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DISX HD DISNEY XD HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1943,6 +2132,7 @@
     <Channel>
       <Item Name="Disney XD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DISXD  Disney XD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1955,6 +2145,7 @@
       </Item>
       <Item Name="DIY HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DIYHD  DIY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1962,6 +2153,9 @@
       <File>DIY Network HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="DIY">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="DIY    DIY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -1974,7 +2168,16 @@
       <Item Name="Diya TV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="26 San Francisco, CA (KTSF-D2)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <File>DiyaTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Dom Kino">
+        <Provider />
+      </Item>
+      <File>Dom Kino.png</File>
     </Channel>
     <Channel>
       <Item Name="Dominican View">
@@ -2041,6 +2244,18 @@
         <Provider />
       </Item>
       <File>Ebru TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="EBS TV">
+        <Provider />
+      </Item>
+      <File>EBS TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ecuador TV">
+        <Provider />
+      </Item>
+      <File>Ecuador TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Ecuavisa">
@@ -2205,6 +2420,9 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Escape ">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="19-4 KUVS.4">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
@@ -2404,16 +2622,16 @@
       <Item Name="Estrella (WPIX -DT)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <Item Name="KTNC-SA">
-        <Provider>Sacramento, California OTA</Provider>
-      </Item>
-      <Item Name="KTNC-SF">
-        <Provider>Sacramento, California OTA</Provider>
-      </Item>
       <Item Name="WESV-LP">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>Estrella TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Estudio 5">
+        <Provider />
+      </Item>
+      <File>Estudio 5.png</File>
     </Channel>
     <Channel>
       <Item Name="ET China">
@@ -2502,6 +2720,9 @@
     <Channel>
       <Item Name="Exitos">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="Telemundo Exitos TV (EXITOS )">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Exitos TV.png</File>
     </Channel>
@@ -3041,8 +3262,8 @@
       <File>Fox.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24">
-        <Provider />
+      <Item Name="KCSMF24">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>France 24.png</File>
     </Channel>
@@ -3259,6 +3480,9 @@
       <Item Name="GetTV">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="getTV  ">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="GetTV (GetTV  )">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
@@ -3365,6 +3589,9 @@
       <Item Name="64-4 KTFK.4">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
+      <Item Name="Grit   ">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="KFTHDT3 (Grit SD)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
@@ -3393,6 +3620,12 @@
         <Provider />
       </Item>
       <File>Guangdong Southern TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Guangzhou TV">
+        <Provider />
+      </Item>
+      <File>Guangzhou TV.png</File>
     </Channel>
     <Channel>
       <Item Name="768 H2HD">
@@ -3729,6 +3962,12 @@
       <File>Hmong USA TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="HonVieTV">
+        <Provider />
+      </Item>
+      <File>HonVieTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Hope Channel">
         <Provider />
       </Item>
@@ -3755,9 +3994,13 @@
       <Item Name="HSN">
         <Provider>Chicago, Illinois OTA</Provider>
         <Provider>Sacramento, California OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="HSN    HSN">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="KFTL-CD2 (KFTL-CD)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>HSN.png</File>
     </Channel>
@@ -3808,6 +4051,24 @@
         <Provider />
       </Item>
       <File>Hustler TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTSF-D4">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>ICN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="iCABLE Financial Info News">
+        <Provider />
+      </Item>
+      <File>iCABLE Financial Info News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="iCABLE News">
+        <Provider />
+      </Item>
+      <File>iCABLE News.png</File>
     </Channel>
     <Channel>
       <Item Name="ICN">
@@ -3903,6 +4164,12 @@
       <File>In Demand.png</File>
     </Channel>
     <Channel>
+      <Item Name="INCTV">
+        <Provider />
+      </Item>
+      <File>INCTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="INDIE  INDIEPLEX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -3960,6 +4227,7 @@
       </Item>
       <Item Name="IONLife">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="KSPX ION Life">
         <Provider>Sacramento, California OTA</Provider>
@@ -3967,6 +4235,9 @@
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="KKPX Shop (Shop)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="KSPX Shop">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
@@ -3991,6 +4262,9 @@
       </Item>
       <Item Name="ION-WBPX HD">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="KKPX ION (ION)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="KPXBDT (ION)">
         <Provider>Houston, Texas OTA</Provider>
@@ -4069,6 +4343,7 @@
     <Channel>
       <Item Name="Jewelry">
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="JWLTV  JEWELRY TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -4192,8 +4467,14 @@
       <File>KBC TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="KBCW">
-        <Provider />
+      <Item Name="WhatsOn">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KAXT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KBCW-DT">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KBCW.png</File>
     </Channel>
@@ -4224,6 +4505,9 @@
     <Channel>
       <Item Name="KBS">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="KTSF-D3">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KBS World.png</File>
     </Channel>
@@ -4265,9 +4549,15 @@
     </Channel>
     <Channel>
       <Item Name="KCSM">
-        <Provider />
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KCSM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jazz-TV">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KCSM Jazz-TV.png</File>
     </Channel>
     <Channel>
       <Item Name="TLMD">
@@ -4291,8 +4581,8 @@
       <File>KDLH-DT2.png</File>
     </Channel>
     <Channel>
-      <Item Name="KDTV">
-        <Provider />
+      <Item Name="KDTV-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KDTV.png</File>
     </Channel>
@@ -4315,20 +4605,38 @@
       <File>KEMO.png</File>
     </Channel>
     <Channel>
+      <Item Name="KICU-SD">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KEMS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KEXT">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KEXT.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KEYC - CBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
-      <File>KCPM.png</File>
+      <File>KEYC.png</File>
     </Channel>
     <Channel>
-      <Item Name="KFSF">
-        <Provider />
+      <Item Name="Bounce ">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KFSF-DT3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KFSF-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KFSF.png</File>
     </Channel>
     <Channel>
-      <Item Name="KGO">
-        <Provider />
+      <Item Name="KGO-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KGO.png</File>
     </Channel>
@@ -4351,8 +4659,8 @@
       <File>KIAH.png</File>
     </Channel>
     <Channel>
-      <Item Name="KICU">
-        <Provider />
+      <Item Name="KICU-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KICU.png</File>
     </Channel>
@@ -4408,8 +4716,8 @@
       <File>KMSP.png</File>
     </Channel>
     <Channel>
-      <Item Name="KMTP">
-        <Provider />
+      <Item Name="KMTP Digital Television (KMTP-DT)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KMTP.png</File>
     </Channel>
@@ -4426,8 +4734,8 @@
       <File>KNBC.png</File>
     </Channel>
     <Channel>
-      <Item Name="KNTV">
-        <Provider />
+      <Item Name="KNTV HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KNTV.png</File>
     </Channel>
@@ -4444,8 +4752,8 @@
       <File>KOCE.png</File>
     </Channel>
     <Channel>
-      <Item Name="KOFY">
-        <Provider />
+      <Item Name="KOFY-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KOFY.png</File>
     </Channel>
@@ -4462,10 +4770,16 @@
       <File>KPRC.png</File>
     </Channel>
     <Channel>
-      <Item Name="KPIX">
-        <Provider />
+      <Item Name="KPIX-TV">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KPIX.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KMTP Digital Television (KPOP)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KPOP.png</File>
     </Channel>
     <Channel>
       <Item Name="KQCA">
@@ -4483,20 +4797,20 @@
       <File>KQDS.png</File>
     </Channel>
     <Channel>
-      <Item Name="KQED Plus">
-        <Provider />
+      <Item Name="KQED+">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KQED Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="KQED">
-        <Provider />
+      <Item Name="KQED-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KQED.png</File>
     </Channel>
     <Channel>
-      <Item Name="KRCB">
-        <Provider />
+      <Item Name="KRCB-DT">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KRCB.png</File>
     </Channel>
@@ -4510,10 +4824,22 @@
       <File>KRIV.png</File>
     </Channel>
     <Channel>
-      <Item Name="KRON">
-        <Provider />
+      <Item Name="KRON-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KRON.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KRON-SD">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KRON 4 247 Bay Area News Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KRONSD2">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>KRON Antenna TV.png</File>
     </Channel>
     <Channel>
       <Item Name="KSBW-DT2">
@@ -4570,8 +4896,8 @@
       <File>KSTP.png</File>
     </Channel>
     <Channel>
-      <Item Name="KSTS">
-        <Provider />
+      <Item Name="KSTS-HD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KSTS.png</File>
     </Channel>
@@ -4598,7 +4924,15 @@
     </Channel>
     <Channel>
       <Item Name="KTNC">
-        <Provider />
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="KTNC-SA">
+        <Provider>Sacramento, California OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="KTNC-SF">
+        <Provider>Sacramento, California OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KTNC.png</File>
     </Channel>
@@ -4609,8 +4943,8 @@
       <File>KTRK.png</File>
     </Channel>
     <Channel>
-      <Item Name="KTSF">
-        <Provider />
+      <Item Name="26 San Francisco, CA (KTSF-D1)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KTSF.png</File>
     </Channel>
@@ -4629,6 +4963,10 @@
     <Channel>
       <Item Name="KTVU-HD">
         <Provider>Sacramento, California OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="KTVU-HD 48">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>KTVU.png</File>
     </Channel>
@@ -4789,6 +5127,12 @@
       <File>Latele Novela.png</File>
     </Channel>
     <Channel>
+      <Item Name="KTVU-SD">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="KTVU-SD 48">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="LATV DT">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -4800,7 +5144,7 @@
     </Channel>
     <Channel>
       <Item Name="LCGTV Lee County Government">
-        <Provider>Sanford, North Carolina</Provider>
+        <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <File>LCGTV.png</File>
     </Channel>
@@ -4824,6 +5168,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>Life OK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Lifestyle Network">
+        <Provider />
+      </Item>
+      <File>Lifestyle Network.png</File>
     </Channel>
     <Channel>
       <Item Name="750 LifeHD">
@@ -4868,6 +5218,12 @@
       <File>Liquidation Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="ABC Live Well">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="ABC Live Well HD">
+        <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
       <Item Name="KSTP-DT2 - Live Well">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -4876,12 +5232,16 @@
       </Item>
       <Item Name="Livwell">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="KTRKDT2 (LIVWELL)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="LWN 7  WXYZ RETRO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="LWSD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="WLYH-DT2">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
@@ -5089,6 +5449,12 @@
       <File>Mega TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Mega TV HD">
+        <Provider />
+      </Item>
+      <File>Mega TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Mega">
         <Provider />
       </Item>
@@ -5103,6 +5469,9 @@
       </Item>
       <Item Name="ME TV">
         <Provider>Sacramento, California OTA</Provider>
+      </Item>
+      <Item Name="METV-SD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="WDIO DT2">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -5456,6 +5825,9 @@
       <Item Name="Mundo Fox (MundoFX)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
+      <Item Name="MundoFo">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <File>MundoFox.png</File>
     </Channel>
     <Channel>
@@ -5463,6 +5835,12 @@
         <Provider />
       </Item>
       <File>Murr TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Muzika Pervogo">
+        <Provider />
+      </Item>
+      <File>Muzika Pervogo.png</File>
     </Channel>
     <Channel>
       <Item Name="MCTV">
@@ -5700,14 +6078,20 @@
       <File>NESN.png</File>
     </Channel>
     <Channel>
+      <Item Name="NET V">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Net V.png</File>
+    </Channel>
+    <Channel>
       <Item Name="New Greek TV">
         <Provider />
       </Item>
       <File>New Greek TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="New Tang Dynasty Television">
-        <Provider />
+      <Item Name="KMTP Digital Television (NTD)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>New Tang Dynasty Television.png</File>
     </Channel>
@@ -5797,8 +6181,8 @@
       <File>NHK World Premium.png</File>
     </Channel>
     <Channel>
-      <Item Name="NHK World">
-        <Provider />
+      <Item Name="NHKWORL">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>NHK World.png</File>
     </Channel>
@@ -5918,6 +6302,12 @@
       <File>NJTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Northbay TV">
+        <Provider />
+      </Item>
+      <File>Northbay TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Northwest Cable News">
         <Provider />
       </Item>
@@ -5946,6 +6336,18 @@
         <Provider />
       </Item>
       <File>NRB Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NTD">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>NTDTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NTV America">
+        <Provider />
+      </Item>
+      <File>NTV America.png</File>
     </Channel>
     <Channel>
       <Item Name="NTV Bangla">
@@ -6232,7 +6634,7 @@
       <Item Name="local_PEG_47">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
-      <File>PEG TV.png</File>
+      <File>PEG TV.png</File><!-- Use for Public, educational, and government access television -->
     </Channel>
     <Channel>
       <Item Name="Pentagon Channel">
@@ -6245,6 +6647,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Penthouse TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Peru Magico">
+        <Provider />
+      </Item>
+      <File>Peru Magico.png</File>
     </Channel>
     <Channel>
       <Item Name="Pets.TV HD">
@@ -6388,6 +6796,12 @@
       <File>PTV Global.png</File>
     </Channel>
     <Channel>
+      <Item Name="Public Access Television">
+        <Provider />
+      </Item>
+      <File>Public Access Television.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Public TV of Armenia">
         <Provider />
       </Item>
@@ -6409,6 +6823,9 @@
       <Item Name="ION QUBO">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="KKPX qubo (qubo)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <Item Name="KSPX qubo">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
@@ -6416,6 +6833,12 @@
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>Qubo.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QHTV">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Que Huong TV.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC HD">
@@ -6433,6 +6856,7 @@
       <Item Name="QVC">
         <Provider>Chicago, Illinois OTA</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="QVC    QVC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -6539,8 +6963,8 @@
       <File>Retirement Living.png</File>
     </Channel>
     <Channel>
-      <Item Name="Retro TV">
-        <Provider />
+      <Item Name="RetroTV">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Retro TV.png</File>
     </Channel>
@@ -6584,6 +7008,12 @@
       <File>Root Sports.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rossiya 24">
+        <Provider />
+      </Item>
+      <File>Rossiya 24.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Rotana America">
         <Provider />
       </Item>
@@ -6612,6 +7042,12 @@
         <Provider />
       </Item>
       <File>RTV BN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RTVI">
+        <Provider />
+      </Item>
+      <File>RTVI.png</File>
     </Channel>
     <Channel>
       <Item Name="Russian Illuzion">
@@ -6654,6 +7090,12 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>SBS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SBS Plus">
+        <Provider />
+      </Item>
+      <File>SBS Plus.png</File>
     </Channel>
     <Channel>
       <Item Name="756 SCIHD">
@@ -6852,6 +7294,7 @@
     <Channel>
       <Item Name="Sino TV">
         <Provider>New York City, New York FiOS</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Sino TV.png</File>
     </Channel>
@@ -6962,8 +7405,8 @@
       <File>Sony Mix.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sony Sab">
-        <Provider />
+      <Item Name="KFTL-CD 10 (KFTL-CD)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Sony Sab.png</File>
     </Channel>
@@ -7301,6 +7744,12 @@
       <File>Tai Seng Sat TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="TAN TV">
+        <Provider />
+      </Item>
+      <File>TAN TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Tapesh TV">
         <Provider />
       </Item>
@@ -7437,6 +7886,12 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Telecare.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TeleCentro">
+        <Provider />
+      </Item>
+      <File>TeleCentro.png</File>
     </Channel>
     <Channel>
       <Item Name="Telefe">
@@ -7592,6 +8047,7 @@
       </Item>
       <Item Name="Works">
         <Provider>Sacramento, California OTA</Provider>
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>The Works.png</File>
     </Channel>
@@ -7763,6 +8219,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TNT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Tokyo">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Tokyo TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Total Living Network">
@@ -8155,6 +8617,12 @@
       <File>TVN International.png</File>
     </Channel>
     <Channel>
+      <Item Name="TVN Korea">
+        <Provider />
+      </Item>
+      <File>TVN Korea.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TVN24">
         <Provider />
       </Item>
@@ -8207,6 +8675,12 @@
         <Provider />
       </Item>
       <File>TXCN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TyC Sports">
+        <Provider />
+      </Item>
+      <File>TyC Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="UToo">
@@ -8387,6 +8861,12 @@
       <File>USA Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="U_Ch">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>U Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="VasalloVision">
         <Provider />
       </Item>
@@ -8480,10 +8960,52 @@
       <File>ViendoMovies.png</File>
     </Channel>
     <Channel>
+      <Item Name="VFTV">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Vietface TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTSF-D5">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Vietoday.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VIETOP">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>VieTop TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KFTL-CD/4 (KFTL-CD)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>VietStar TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="VIETV">
-        <Provider />
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>VIETV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VietBay">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>VietBay.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTSF-D6">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Viet Shopping TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vivid TV">
+        <Provider />
+      </Item>
+      <File>Vivid TV.png</File>
     </Channel>
     <Channel>
       <Item Name="VME Kids">
@@ -8511,6 +9033,12 @@
         <Provider />
       </Item>
       <File>Volksmusik TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Vremya">
+        <Provider />
+      </Item>
+      <File>Vremya.png</File>
     </Channel>
     <Channel>
       <Item Name="VSky Entertainment">
@@ -8869,6 +9397,12 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>WeatherNation TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KMTP Digital Television (WTV)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Wedding Television.png</File>
     </Channel>
     <Channel>
       <Item Name="WENH">
@@ -9543,6 +10077,12 @@
       <File>WOCK-CD.png</File>
     </Channel>
     <Channel>
+      <Item Name="KMTP Digital Television (WorldCh)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>World Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WFN    WORLD FISHING NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -9567,6 +10107,9 @@
       </Item>
       <Item Name="KFME-DT2 - PBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="WORLD">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <Item Name="WTVS2  WTVS 56 PBS SDTV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -10157,6 +10700,12 @@
       <File>Zee Kannada.png</File>
     </Channel>
     <Channel>
+      <Item Name="Zee Lamhe">
+        <Provider />
+      </Item>
+      <File>Zee Lamhe.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Zee Marathi">
         <Provider />
       </Item>
@@ -10208,11 +10757,14 @@
       <Item Name="WUCW DT3-Country">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="Zuus Country (KFTL-CD)">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
       <File>Zuus Country.png</File>
     </Channel>
     <Channel>
-      <Item Name="Zuus Latino">
-        <Provider />
+      <Item Name="Zuus Latino (KFTL-CD)">
+        <Provider>San Francisco, California OTA</Provider>
       </Item>
       <File>Zuus Latino.png</File>
     </Channel>
@@ -10238,6 +10790,12 @@
       <File>ART Zikr Radio.png</File>
     </Channel>
     <Channel>
+      <Item Name="KAXT-R1">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Brioso Recordings.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Dish CD">
         <Provider />
       </Item>
@@ -10260,6 +10818,24 @@
         <Provider />
       </Item>
       <File>DZBB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DZMM">
+        <Provider />
+      </Item>
+      <File>DZMM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Little Saigon Radio">
+        <Provider />
+      </Item>
+      <File>Little Saigon Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MOR 101.9">
+        <Provider />
+      </Item>
+      <File>MOR 101.9.png</File>
     </Channel>
     <Channel>
       <Item Name="MC930 70s">
@@ -10683,6 +11259,12 @@
         <Provider />
       </Item>
       <File>Radio France Internationale.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Radio Korea">
+        <Provider />
+      </Item>
+      <File>Radio Korea.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio Italia Anni 60">
@@ -11139,6 +11721,12 @@
         <Provider />
       </Item>
       <File>SiriusXM Willies Roadhouse.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SonicTap">
+        <Provider />
+      </Item>
+      <File>SonicTap.png</File>
     </Channel>
     <Channel>
       <Item Name="Super Sport FM">
