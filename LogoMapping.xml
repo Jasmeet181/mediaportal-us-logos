@@ -4914,6 +4914,12 @@
       <File>KAXT.png</File>
     </Channel>
     <Channel>
+      <Item Name="KAXT-R1">
+        <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <File>Brioso Recordings.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KBCW-DT">
         <Provider>San Francisco, California OTA</Provider>
       </Item>
@@ -6297,6 +6303,417 @@
         <Provider />
       </Item>
       <File>Murr TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC930 70s">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC70'S   --  MC70'S">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice 70s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC929 80s">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC80'S   --  MC 80'S">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice 80s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC928 90s">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC90'S   --  MC90'S">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice 90s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC918 Adult Alternative">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCADTAL  --  MC ADULT ALTERNATIVE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Adult Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC917 Alternative">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCALTER  --  MC ALTERNATIVE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC945 Blues">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCBLUES --  MC BLUES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Blues.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice Classic Alternative">
+        <Provider />
+      </Item>
+      <File>Music Choice Classic Alternative.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC935 Classic Country">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCCLASC --  MC CLASSIC COUNTRY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Classic Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC920 Classic Rock">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCCLROK  --  MC CLASSIC ROCK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Classic Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC942 Classical Masterpieces">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCCLSMA --  MC CLASSICAL MASTERP">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Classical Masterpieces.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC936 Contemporary Christian">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCCONTC --  MC CONTEMP CHRISTIAN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Contemporary Christian.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC905 Dance">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCDAN/EL  --  MC DANCE/ELECTRON">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Dance Electronica.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC947 Easy Listening">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCEASYL --  MC EASY LISTENING">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Easy Listening.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC913 Gospel">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Music Choice Gospel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC909 Hip Hop Classic">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCHIPHC  --  MC HIP-HOP CLASSIC">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Hip Hop Classics.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC907 Hip Hop &amp; R&amp;B">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCHIPHR  --  MC HIP-HOP/R&amp;B">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Hip Hop RB.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC903 Hit List">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCHITLS  --  MC HIT LIST">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Hitlist.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC944 Jazz">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCJAZZ  -- MC JAZZ">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC925 Kidz Only">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCKIDSZ --  MC KIDZ ONLY!">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Kidz Only.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC948 Light Classical">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCLTCLA --  MC LIGHT CLASSICAL">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Light Classical.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC916 Metal">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Music Choice Metal.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC939 Mexicana">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCMEXIC --  MC MEXICANA">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Mexicana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice MixTape">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice MixTape.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC938 Musica Urbana">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC944 Musica Urbana">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCMUSUR --  MC MUSICA URBANA">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Musica Urbana.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC923 Party Favorites">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCPARYF  --  MC PARTY FAVORITES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Party Favorites.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC922 Pop Hits">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC922 Pop Hitz">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCPOPHT  --  MC POP HITS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Pop Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC937 Pop Latino">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCPOPLA --  MC POP LATINO">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Pop Latino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC908 Rap">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCRAP   --  MC RAP">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Rap.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC912 R&amp;B Soul">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC911 R&amp;B Classic">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCR&amp;BCL --   MC R&amp;B CLASSICS">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice RB Souls.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC914 Reggae">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCREGAE  --  MC REGGAE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Reggae.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC915 Rock">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCROCK  -- MC ROCK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Retro Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC946 Singers &amp; Swing">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCSINGS --  MC SINGERS &amp;  SWING">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Singers and Swing.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC943 Smooth Jazz">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCSMTHJ --  MC SMOOTH JAZZ">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Smooth Jazz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC921 Soft Rock">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC SOFT ROCK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Soft Rock.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC931 Solid Gold Oldies">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC SOLID GOLD OLDIES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Solid Gold Oldies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC942 Soundscapes">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCSOUNS --  MC SOUNDSCAPE">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="MC: Soundscape">
+        <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <File>Music Choice Sound Scapes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC941 Sounds of the Season">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCSOUND --  MC SOUNDS OF THE SEASON">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Sounds of the Seasons.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MCSTASC --  MC STAGE &amp;  SCREEN">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Stage and Screen.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC910 Throwback Jamz">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCTHROW  --  MC THROWBACK">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="MC: Throwback Jamz">
+        <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <File>Music Choice Throw Back Jamz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC933 Today's Country">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCTODAC --  MC TODAYS COUNTRY">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Todays Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC926 Toddler Tunes">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCTODDL --  MCTODDLER TUNES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Toddler Tunes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC940 Tropicana">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MCTROPC -- MC TROPICALES">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <File>Music Choice Tropicales.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Music Choice True Country">
+        <Provider />
+      </Item>
+      <File>Music Choice True Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC906 MCU">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Music Choice University.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MC904 Pop Rhythmic">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC919 Rock Hits">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC924 Teen MC">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC927 Y2K">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC932 Pop Country">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="MC934 Country Hits">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <File>Music Choice.png</File>
     </Channel>
     <Channel>
       <Item Name="Muzika Pervogo">
@@ -11269,12 +11686,6 @@
       <File>ART Zikr Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="KAXT-R1">
-        <Provider>San Francisco, California OTA</Provider>
-      </Item>
-      <File>Brioso Recordings.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Dish CD">
         <Provider />
       </Item>
@@ -11315,417 +11726,6 @@
         <Provider />
       </Item>
       <File>MOR 101.9.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC930 70s">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC70'S   --  MC70'S">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice 70s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC929 80s">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC80'S   --  MC 80'S">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice 80s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC928 90s">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC90'S   --  MC90'S">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice 90s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC918 Adult Alternative">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCADTAL  --  MC ADULT ALTERNATIVE">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Adult Alternative.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC917 Alternative">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCALTER  --  MC ALTERNATIVE">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Alternative.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC945 Blues">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCBLUES --  MC BLUES">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Blues.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Music Choice Classic Alternative">
-        <Provider />
-      </Item>
-      <File>Music Choice Classic Alternative.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC935 Classic Country">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCCLASC --  MC CLASSIC COUNTRY">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Classic Country.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC920 Classic Rock">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCCLROK  --  MC CLASSIC ROCK">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Classic Rock.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC942 Classical Masterpieces">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCCLSMA --  MC CLASSICAL MASTERP">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Classical Masterpieces.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC936 Contemporary Christian">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCCONTC --  MC CONTEMP CHRISTIAN">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Contemporary Christian.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC905 Dance">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCDAN/EL  --  MC DANCE/ELECTRON">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Dance Electronica.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC947 Easy Listening">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCEASYL --  MC EASY LISTENING">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Easy Listening.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC913 Gospel">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Music Choice Gospel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC909 Hip Hop Classic">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCHIPHC  --  MC HIP-HOP CLASSIC">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Hip Hop Classics.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC907 Hip Hop &amp; R&amp;B">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCHIPHR  --  MC HIP-HOP/R&amp;B">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Hip Hop RB.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC903 Hit List">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCHITLS  --  MC HIT LIST">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Hitlist.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC944 Jazz">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCJAZZ  -- MC JAZZ">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Jazz.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC925 Kidz Only">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCKIDSZ --  MC KIDZ ONLY!">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Kidz Only.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC948 Light Classical">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCLTCLA --  MC LIGHT CLASSICAL">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Light Classical.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC916 Metal">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Music Choice Metal.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC939 Mexicana">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCMEXIC --  MC MEXICANA">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Mexicana.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Music Choice MixTape">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice MixTape.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC938 Musica Urbana">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC944 Musica Urbana">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCMUSUR --  MC MUSICA URBANA">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Musica Urbana.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC923 Party Favorites">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCPARYF  --  MC PARTY FAVORITES">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Party Favorites.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC922 Pop Hits">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC922 Pop Hitz">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCPOPHT  --  MC POP HITS">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Pop Hits.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC937 Pop Latino">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCPOPLA --  MC POP LATINO">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Pop Latino.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC908 Rap">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCRAP   --  MC RAP">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Rap.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC912 R&amp;B Soul">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC911 R&amp;B Classic">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCR&amp;BCL --   MC R&amp;B CLASSICS">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice RB Souls.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC914 Reggae">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCREGAE  --  MC REGGAE">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Reggae.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC915 Rock">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCROCK  -- MC ROCK">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Retro Rock.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC946 Singers &amp; Swing">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCSINGS --  MC SINGERS &amp;  SWING">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Singers and Swing.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC943 Smooth Jazz">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCSMTHJ --  MC SMOOTH JAZZ">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Smooth Jazz.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC921 Soft Rock">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC SOFT ROCK">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Soft Rock.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC931 Solid Gold Oldies">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC SOLID GOLD OLDIES">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Solid Gold Oldies.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC942 Soundscapes">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCSOUNS --  MC SOUNDSCAPE">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <Item Name="MC: Soundscape">
-        <Provider>New York City, New York FiOS</Provider>
-      </Item>
-      <File>Music Choice Sound Scapes.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC941 Sounds of the Season">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCSOUND --  MC SOUNDS OF THE SEASON">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Sounds of the Seasons.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MCSTASC --  MC STAGE &amp;  SCREEN">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Stage and Screen.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC910 Throwback Jamz">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCTHROW  --  MC THROWBACK">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <Item Name="MC: Throwback Jamz">
-        <Provider>New York City, New York FiOS</Provider>
-      </Item>
-      <File>Music Choice Throw Back Jamz.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC933 Today's Country">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCTODAC --  MC TODAYS COUNTRY">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Todays Country.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC926 Toddler Tunes">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCTODDL --  MCTODDLER TUNES">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Toddler Tunes.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC940 Tropicana">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MCTROPC -- MC TROPICALES">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Music Choice Tropicales.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Music Choice True Country">
-        <Provider />
-      </Item>
-      <File>Music Choice True Country.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC906 MCU">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Music Choice University.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MC904 Pop Rhythmic">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC919 Rock Hits">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC924 Teen MC">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC927 Y2K">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC932 Pop Country">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="MC934 Country Hits">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Music Choice.png</File>
     </Channel>
     <Channel>
       <Item Name="NOAA/WJON">
