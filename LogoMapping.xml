@@ -86,11 +86,20 @@
       <Item Name="A&amp;EHD  A&amp;E HD">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="AEHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="A&amp;E Network HD East">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>A and E HD.png</File>
     </Channel>
     <Channel>
       <Item Name="31 AETV">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="A &amp; E Network">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="A&amp;E">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -98,6 +107,9 @@
       </Item>
       <Item Name="A&amp;E    A&amp;E">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="AETV">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>A and E.png</File>
     </Channel>
@@ -139,6 +151,9 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="ABCFHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="FAMHD  ABC Family HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -149,7 +164,11 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ABC Family">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="ABCF">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="FAM    FAMILY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -344,8 +363,12 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="AMC HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="AMCHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="AMCHD  AMC HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -357,6 +380,8 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="AMC">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
@@ -433,11 +458,15 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Animal Planet HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="APHD   ANIMAL PLANET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="APLHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Animal Planet HD.png</File>
     </Channel>
@@ -446,11 +475,15 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Animal Planet">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="ANIMP  ANIMAL PLANET">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="APL">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Animal Planet.png</File>
     </Channel>
@@ -475,6 +508,9 @@
       </Item>
       <Item Name="Antenna">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="ANTV">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="KIAHDT2 (ATV)">
         <Provider>Houston, Texas OTA</Provider>
@@ -687,6 +723,9 @@
       <Item Name="BBC America HD">
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="BBCAHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>BBC America HD.png</File>
     </Channel>
     <Channel>
@@ -694,11 +733,15 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="BBC America">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="BBC    BBC America">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="BBCA">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>BBC America.png</File>
     </Channel>
@@ -760,8 +803,12 @@
     <Channel>
       <Item Name="BET HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="BETHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>BET HD.png</File>
     </Channel>
@@ -773,6 +820,8 @@
     </Channel>
     <Channel>
       <Item Name="BET">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
@@ -806,6 +855,9 @@
       <File>Blackbelt TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BLOOMHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Bloomberg HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
@@ -816,6 +868,12 @@
       <Item Name="Bloomberg">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="Bloomberg Business Television">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="BLOOM">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="BLOOM  BLOOMBERG">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -860,8 +918,8 @@
       <File>Bostel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bounce TV">
-        <Provider />
+      <Item Name="BNCE">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Bounce TV.png</File>
     </Channel>
@@ -871,8 +929,12 @@
       </Item>
       <Item Name="Bravo HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="BRAVOHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Bravo HD.png</File>
     </Channel>
@@ -881,6 +943,8 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Bravo">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Bravo - East">
@@ -913,6 +977,9 @@
       <Item Name="822 BIGNMHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="BIG10HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="B10HD  BIG TEN HI DEFINITION">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -920,16 +987,32 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
+      <Item Name="BTNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="WOW BIG10 HD ILL">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>BTN HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="BGTENO2">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="BGTENO3">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="BIG10  Big Ten Standard Definition">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Big 10 Network">
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="BIGTENO">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="BTN">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -945,6 +1028,9 @@
       </Item>
       <Item Name="BTN WI">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="WOW BIG10 ILL PRIMARY">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="XTRA1  BIG TEN XTRA 1">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -983,16 +1069,22 @@
     </Channel>
     <Channel>
       <Item Name="CSPAN HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CSPAN-1HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="CSPHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <File>C-SPAN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CSPAN">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="CSPAN1">
@@ -1011,8 +1103,12 @@
     </Channel>
     <Channel>
       <Item Name="CSPAN2">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="CSPN2">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="CSPN2  C-SPAN 2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1027,8 +1123,12 @@
     </Channel>
     <Channel>
       <Item Name="CSPAN 3">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="CSPN3">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="CSPN3  C-SPAN 3">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1271,8 +1371,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Centric">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="CTRC">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>Centric.png</File>
     </Channel>
@@ -1331,8 +1435,35 @@
       <File>Charter.png</File>
     </Channel>
     <Channel>
-      <Item Name="Chicago Access Network Television">
-        <Provider />
+      <Item Name="Can TV 19 Chicago">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Can TV 21 Chicago">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Can TV 27 Chicago">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Can TV 36">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Can TV42 Chicago">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="CANTV19">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="CANTV21">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="CANTV27">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="CANTV36">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="CANTV42">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Chicago Access Network Television.png</File>
     </Channel>
@@ -1344,6 +1475,7 @@
     </Channel>
     <Channel>
       <Item Name="Chiller">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Chiller.png</File>
@@ -1501,6 +1633,12 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="CMTHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="Country Music Television HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>CMT HD.png</File>
     </Channel>
     <Channel>
@@ -1511,6 +1649,9 @@
       <Item Name="CMTP   CMT PURE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="CMTPURE">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>CMT Pure Country.png</File>
     </Channel>
     <Channel>
@@ -1518,10 +1659,14 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="CMTV">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="CMT    CMT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Country Music Television">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>CMT.png</File>
     </Channel>
@@ -1533,6 +1678,12 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="CNBC HD WOW Chicago Blackout">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="CNBCD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>CNBC HD.png</File>
     </Channel>
@@ -1553,6 +1704,12 @@
       <Item Name="CNBC   CNBC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="CNBC WOW Chicago Blackout">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="CNBCCBO">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <File>CNBC.png</File>
     </Channel>
     <Channel>
@@ -1570,8 +1727,12 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNN HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="CNNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="CNNHD  CNN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -1587,10 +1748,14 @@
       <File>CNN International.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cable News Network">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="34 CNN">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="CNN">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
@@ -1624,10 +1789,20 @@
       <File>Comcast SportsNet Plus.png</File>
     </Channel>
     <Channel>
+      <Item Name="COMCAST">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="CSNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <File>Comcast SportsNet.png</File>
+    </Channel>
+    <Channel>
       <Item Name="754 CCHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Comedy Central HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Comedy Central HD (East)">
@@ -1636,13 +1811,20 @@
       <Item Name="COM HD  COMEDY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="COMHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
       <Item Name="53 Comedy">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="COMEDY">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="Comedy Central">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="COM    COMEDY CEN">
@@ -1666,6 +1848,9 @@
       <Item Name="761 CookHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="COOKHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="COOKD  COOKING CH HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -1676,8 +1861,12 @@
       <File>Cooking Channel HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="COOK">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="Cooking Channel">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
@@ -1716,12 +1905,16 @@
       </Item>
       <Item Name="Cozi">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="KTMDDT3 (COZI-TV)">
         <Provider>Houston, Texas OTA</Provider>
       </Item>
       <Item Name="WMFP">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WMAQDT2 (WMAQ-DT2)">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>Cozi TV.png</File>
     </Channel>
@@ -1801,6 +1994,9 @@
       <File>CSN California.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comcast SportsNet Chicago">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="CSNC    COMCAST SPORTS NET CHICAGO">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -1967,6 +2163,9 @@
       <Item Name="DAM HD DESTIONATION AMERICA HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="DESTHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Destination America HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
@@ -1976,6 +2175,9 @@
     <Channel>
       <Item Name="DAM    DESTIONATION AMERICA">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="DEST">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="Destination America">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2037,6 +2239,9 @@
       <Item Name="791 DSCHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="DSCHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="Discovery Channel HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
@@ -2047,11 +2252,17 @@
       <Item Name="DSCHD  Discovery HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="The Discovery Channel HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>Discovery HD.png</File>
     </Channel>
     <Channel>
       <Item Name="47 DSC">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="DSC">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="DSC    DISCOVERY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2063,6 +2274,9 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="The Discovery Channel">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>Discovery.png</File>
     </Channel>
     <Channel>
@@ -2073,16 +2287,23 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Disney Channel HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Disney HD">
         <Provider>Sanford, North Carolina Charter</Provider>
+      </Item>
+      <Item Name="DNYHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Disney Channel HD.png</File>
     </Channel>
     <Channel>
       <Item Name="58 DISN">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="DISN">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="DIS    DISNEY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2091,6 +2312,7 @@
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="Disney Channel">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Disney Channel.png</File>
@@ -2114,6 +2336,9 @@
       <Item Name="Disney Junior SD (East)">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="DJCH">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>Disney Junior.png</File>
     </Channel>
     <Channel>
@@ -2121,21 +2346,29 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="Disney XD HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DISX HD DISNEY XD HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="DXD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <File>Disney XD HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DISXD  Disney XD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="DXDHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Disney XD.png</File>
     </Channel>
@@ -2147,6 +2380,9 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
+      <Item Name="DIYHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="DIYHD  DIY HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -2154,6 +2390,7 @@
     </Channel>
     <Channel>
       <Item Name="DIY">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
       <Item Name="DIY    DIY">
@@ -2213,6 +2450,12 @@
       <Item Name="743 EHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="E!HD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="E! Entertainment Television HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="E! HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -2221,6 +2464,12 @@
     <Channel>
       <Item Name="54 E">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="E">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="E! Entertainment Television">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="E!     E!">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2441,6 +2690,9 @@
       <Item Name="ESPN Classic">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="ESPNCL">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="ESPNC  ESPN CLASSIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -2490,6 +2742,10 @@
       <Item Name="800 ESPNHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="ESPNHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="ESPN HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -2500,18 +2756,25 @@
     </Channel>
     <Channel>
       <Item Name="ESPNews">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="ESPNews HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="ESPNN  ESPNews">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <File>ESPN News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ESPNews HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name=">ESPNN HD ESPN NEWS HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <File>ESPN News.png</File>
+      <Item Name="ESPNWHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <File>ESPN News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN PPV1">
@@ -2556,11 +2819,17 @@
       <Item Name="ESPN U HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="ESPNUHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>ESPN U HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN U">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="ESPNU">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="ESPNU  ESPN U">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -2572,6 +2841,8 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="ESPN   ESPN">
@@ -2582,6 +2853,12 @@
     <Channel>
       <Item Name="801 ESPN2HD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="ES2HD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="ESPN2 HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="ESPN 2 HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2596,6 +2873,8 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="ESPN2">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="ESPN2  ESPN2">
@@ -2610,6 +2889,9 @@
       <File>Esquire Network HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="ESQTV">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Esquire">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -2706,7 +2988,11 @@
       <File>EWTN HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Eternal Word Television Network">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="EWTN">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="EWTN   EWTN">
@@ -2769,18 +3055,6 @@
       <File>Fashion TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fearnet HD">
-        <Provider />
-      </Item>
-      <File>Fearnet HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="FEAR   FEARNET ON-DEMAND">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Fearnet.png</File>
-    </Channel>
-    <Channel>
       <Item Name="FETV">
         <Provider />
       </Item>
@@ -2814,6 +3088,9 @@
       <Item Name="WYCC-SD">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="WYCCDT2">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>First Nations Experience.png</File>
     </Channel>
     <Channel>
@@ -2844,7 +3121,11 @@
       <Item Name="763 FoodHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="FOODHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="Food Network HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -2857,10 +3138,14 @@
       <Item Name="61 Food">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="FOOD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="FOOD   TV FOOD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Food Network">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Food Network.png</File>
@@ -2878,6 +3163,9 @@
       <File>FOROtv.png</File>
     </Channel>
     <Channel>
+      <Item Name="FBN">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Fox Business Channel">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -2887,24 +3175,45 @@
       <Item Name="FBN    FOX BUSINESS CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <File>Fox Business Channel.png</File>
+      <File>Fox Business Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="FBNHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Fox Business HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
-      <File>Fox Business HD.png</File>
+      <File>Fox Business Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="FCSA   FOX SP NET ATLANTIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="FCSA">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="FCSC">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="FCSP">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="FCSC   FOX SP NET CENTRAL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="FCSP   FOX SP NET PACIFIC">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Fox College Sports - Atlantic">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Fox College Sports - Central">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="Fox College Sports (Pacific)">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="Fox College Sports Atlantic">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2953,8 +3262,14 @@
       <Item Name="751 FNCHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="FNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="FNHD   Fox News HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Fox News Channel HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="FOX News HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -2965,10 +3280,14 @@
       <Item Name="26 FNC">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="FNC">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="FNC    FOX NEWS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="FOX News Channel">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Fox News Channel.png</File>
@@ -2989,6 +3308,12 @@
       <File>Fox Soccer Plus.png</File>
     </Channel>
     <Channel>
+      <Item Name="FS1">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="FS1HD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="FS1____Fox Sports 1">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -2996,9 +3321,11 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Fos Sports 1">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Fos Sports 1 HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Fox Sports 1.png</File>
@@ -3339,7 +3666,11 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FX HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="FXHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="FXHD   FX Network HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3351,6 +3682,8 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="FX">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="FX     F/X">
@@ -3361,6 +3694,18 @@
     <Channel>
       <Item Name="306 FXM">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="FX Movie Channel">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="FX Movie Channel HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="FXM">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="FXMHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="FXM    FX MOVIE CHANNEL">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3379,6 +3724,8 @@
     <Channel>
       <Item Name="FXX">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>FXX.png</File>
@@ -3393,11 +3740,14 @@
       <Item Name="844 G4HD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="G4HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>G4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="G4">
-        <Provider />
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>G4.png</File>
     </Channel>
@@ -3598,6 +3948,9 @@
       <File>Grit.png</File>
     </Channel>
     <Channel>
+      <Item Name="GSNHD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="GSNHD  GSN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -3607,6 +3960,9 @@
       <File>GSN HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="GSN">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="GSN    GAMESHOW NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -3635,11 +3991,15 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="H2HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <File>H2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="H2">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>H2.png</File>
@@ -3667,11 +4027,17 @@
       <Item Name="863 HallMHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="Hallmark Movie Channel HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="Hallmark Movie HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="HALLMARK MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="HMCHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Hallmark Movie Channel HD.png</File>
     </Channel>
@@ -3680,10 +4046,14 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Hallmark Movie Channel">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Hallmark Movie Channel SD">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="HMC">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Hallmark Movie Channel.png</File>
     </Channel>
@@ -3853,14 +4223,26 @@
       <File>Here TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="WWMELD2">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <File>Heroes and Icons.png</File>
+    </Channel>
+    <Channel>
       <Item Name="762 HGTVD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HGTV HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="HGTVD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="HGTVD  HGTV HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Home &amp; Garden Television HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="Home &amp; Garden TV HD">
         <Provider>New York City, New York FiOS</Provider>
@@ -3872,10 +4254,14 @@
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="HGTV">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="HGTV   HOME GARD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="Home &amp; Garden Television">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>HGTV.png</File>
     </Channel>
@@ -3899,10 +4285,14 @@
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="History HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="HISTD  History Channel HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="HSTRYHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>History HD.png</File>
     </Channel>
@@ -3912,6 +4302,10 @@
       </Item>
       <Item Name="HIST   HISTORY">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="HISTORY">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="History Channel">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3933,7 +4327,11 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="HLN HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="HLNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>HLN HD.png</File>
     </Channel>
@@ -3943,6 +4341,12 @@
       </Item>
       <Item Name="CNN Headline News">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="HLN">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="HLN (Formerly Headline News)">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="HN     CNN HEAD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -3974,12 +4378,19 @@
       <File>Hope Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Horse Racing TV">
-        <Provider />
+      <Item Name="HRTV">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Horse Racing TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home Shopping Network HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="HSNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="HSN HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -3989,10 +4400,12 @@
     </Channel>
     <Channel>
       <Item Name="Home Shopping Network">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="HSN">
         <Provider>Chicago, Illinois OTA</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Sacramento, California OTA</Provider>
         <Provider>San Francisco, California OTA</Provider>
       </Item>
@@ -4020,6 +4433,12 @@
       <Item Name="HUBHD  HUB HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="HUB HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="HUBHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="The Hub HD">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -4029,7 +4448,11 @@
       <Item Name="HUB   THE HUB">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
+      <Item Name="HUB">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="The HUB">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Hub Network.png</File>
@@ -4194,6 +4617,10 @@
       <Item Name="181 INSP">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="INSP">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="INSP   Inspiration Ntwk">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
@@ -4203,20 +4630,28 @@
       <File>INSP.png</File>
     </Channel>
     <Channel>
+      <Item Name="IDHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="Investigation Disc HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <Item Name="Investigation Discovery HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Investigation Discovery HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="DISID">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="ID     ID DISCOVERY INVESTIGAT">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Investigation Discovery">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Investigation Discovery.png</File>
@@ -4344,6 +4779,12 @@
       <Item Name="Jewelry">
         <Provider>New York City, New York FiOS</Provider>
         <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="JEWL">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
+      <Item Name="Jewelry Television">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="JWLTV  JEWELRY TV">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -5183,7 +5624,11 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Lifetime HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="LIFHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>Lifetime HD.png</File>
     </Channel>
@@ -5197,10 +5642,14 @@
       <Item Name="27 Life">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="LIFE">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="LIFE   LIFETIME">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Lifetime">
+        <Provider>Chicago, Illinois WOW!</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
       <File>Lifetime.png</File>
@@ -5227,6 +5676,9 @@
       <Item Name="KSTP-DT2 - Live Well">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="LIVHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="LiveWel">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
@@ -5243,6 +5695,9 @@
       <Item Name="LWSD">
         <Provider>San Francisco, California OTA</Provider>
       </Item>
+      <Item Name="WLSDT2 (WLS-DT2)">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="WLYH-DT2">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
@@ -5258,20 +5713,27 @@
       <Item Name="864 LMNHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="Lifetime Movie Network HD">
+        <Provider>Chicago, Illinois WOW!</Provider>
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="LMN HD LIFETIME MOVIES HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
-      <Item Name="Lifetime Movie Network HD">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
       <Item Name="LMN HD">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="LMNHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <File>LMN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Lifetime Movie Network">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="LMN">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="LMN    LIFETIME MOVIE NETWORK">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
@@ -6556,6 +7018,12 @@
       <File>Peace TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="GOAC023">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="GOAC049">
+        <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
       <Item Name="local_PEG_1980">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -6796,10 +7264,10 @@
       <File>PTV Global.png</File>
     </Channel>
     <Channel>
-      <Item Name="Public Access Television">
-        <Provider />
+      <Item Name="LOOR025">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
-      <File>Public Access Television.png</File>
+      <File>Public Access Television.png</File><!-- Use for local origination/public access television -->
     </Channel>
     <Channel>
       <Item Name="Public TV of Armenia">
@@ -7101,18 +7569,28 @@
       <Item Name="756 SCIHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
+      <Item Name="SCIHD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="SCIHD  Discovery Science HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <Item Name="Science Channel HD">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>Science Channel HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="DISCS">
+        <Provider>Chicago, Illinois WOW! SD</Provider>
+      </Item>
       <Item Name="SCI    DISCOVERY SCIENCE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="SCIENCE">
+        <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <Item Name="Science Channel">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -9240,7 +9718,8 @@
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>WCIU-DT5.png</File>
-    </Channel>    <Channel>
+    </Channel>
+    <Channel>
       <Item Name="WCMZ   28 PBS">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
