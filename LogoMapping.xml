@@ -206,8 +206,11 @@
       <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="AccuWeather Channel">
-        <Provider />
+      <Item Name="10-4 Weather">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WMVSDT4 (WMVS-DT4)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>AccuWeather Channel.png</File>
     </Channel>
@@ -389,6 +392,15 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>AMC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="52-5 43 WTASLP">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WTASLP">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>Andersen Tax.png</File>
     </Channel>
     <Channel>
       <Item Name="Amedia">
@@ -1524,12 +1536,18 @@
       <File>Chung Tien Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="52-2 WWRSDT2">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="CHRCH">
         <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
       <Item Name="Church Channel">
         <Provider>Minneapolis, Minnesota Charter</Provider>
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WWRSDT2 (WWRS-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WWTODT2 (WWTO-DT2)">
         <Provider>Chicago, Illinois WOW!</Provider>
@@ -1938,6 +1956,9 @@
       <File>Cozi TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="36-3 Create">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="GBX-CREAT-DT">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -1964,6 +1985,12 @@
       </Item>
       <Item Name="WGTE-C WGTE CREATE">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WHADT3">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WMVTDT3 (WMVT-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WLIW Create">
         <Provider>New York City, New York FiOS</Provider>
@@ -4676,6 +4703,9 @@
       <File>Investigation Discovery.png</File>
     </Channel>
     <Channel>
+      <Item Name="55-3 WPXEDT3">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="ION Life">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -4686,9 +4716,15 @@
       <Item Name="KSPX ION Life">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
+      <Item Name="WPXEDT3 (WPXE-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <File>Ion Life.png</File>
     </Channel>
     <Channel>
+      <Item Name="55-4 WPXE">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="KKPX Shop (Shop)">
         <Provider>San Francisco, California OTA</Provider>
       </Item>
@@ -4698,11 +4734,17 @@
       <Item Name="WCPX Shop (Shop)">
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
+      <Item Name="WPXEDT4 (WPXE-DT4)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <File>Ion Media Networks.png</File><!-- Use for Ion Shop -->
     </Channel>
     <Channel>
       <Item Name="13 KPXM">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="55-1 WPXEDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
       </Item>
       <Item Name="787 KPXMDT">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
@@ -4747,6 +4789,9 @@
       </Item>
       <Item Name="WPPX">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WPXEDT (WPXE-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WPXN">
         <Provider>New York City, New York FiOS</Provider>
@@ -4842,6 +4887,9 @@
       <File>JMovies.png</File>
     </Channel>
     <Channel>
+      <Item Name="52-3 WWRSDT3">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="JCTV">
         <Provider>Chicago, Illinois WOW! SD</Provider>
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -4849,6 +4897,9 @@
       </Item>
       <Item Name="KETHDT3 (JUCE)">
         <Provider>Houston, Texas OTA</Provider>
+      </Item>
+      <Item Name="WWRSDT3 (WWSR-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WWTODT3 (WWTO-DT3)">
         <Provider>Chicago, Illinois WOW!</Provider>
@@ -5706,6 +5757,9 @@
       <File>Liquidation Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="4-3 LWN">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="ABC Live Well">
         <Provider>Sanford, North Carolina Charter</Provider>
       </Item>
@@ -5742,6 +5796,9 @@
       </Item>
       <Item Name="WLYH-DT2">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
+      </Item>
+      <Item Name="WTMJDT3 (WTMJ-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>Live Well Network.png</File>
     </Channel>
@@ -6003,7 +6060,7 @@
     </Channel>
     <Channel>
       <Item Name="COMADS">
-        <Provider />
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>MGTV.png</File>
     </Channel>
@@ -6168,8 +6225,23 @@
       <File>Movies.png</File>
     </Channel>
     <Channel>
-      <Item Name="MPTV">
-        <Provider />
+      <Item Name="10-1 WMVS HD">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="36-1 WMVT HD">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="36-2 WMVS SD">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WMVSDT (WMVS-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WMVTDT (WMVT-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WMVTDT2 (WMVT-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>MPTV.png</File>
     </Channel>
@@ -6373,6 +6445,9 @@
       </Item>
       <Item Name="MundoFo">
         <Provider>San Francisco, California OTA</Provider>
+      </Item>
+      <Item Name="WBWTLP">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>MundoFox.png</File>
     </Channel>
@@ -7842,6 +7917,9 @@
       <File>Pursuit Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="55-2 WPXEDT2">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="ION QUBO">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -7853,6 +7931,9 @@
       </Item>
       <Item Name="WCPX qubo (qubo)">
         <Provider>Chicago, Illinois OTA</Provider>
+      </Item>
+      <Item Name="WPXEDT2 (WPXE-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>Qubo.png</File>
     </Channel>
@@ -8383,6 +8464,9 @@
       <Item Name="Smile of a Child">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="WWRSDT5">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <Item Name="WWTODT5 (WWTO-DT5)">
         <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
@@ -8833,8 +8917,14 @@
       <File>Tara Muzik.png</File>
     </Channel>
     <Channel>
+      <Item Name="52-4 WWRSDT4">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="TBN Enlace">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="WWRSDT4 (WWRS-DT4)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WWTO-D4">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -8854,6 +8944,9 @@
       <File>TBN Russia.png</File>
     </Channel>
     <Channel>
+      <Item Name="52-1 WWRSDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="TBN/Trinity Broadcasting">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
@@ -8871,6 +8964,9 @@
       </Item>
       <Item Name="WHRE (TBN)">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WWRSDT (WWRS-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WWTO-D1">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -9194,8 +9290,14 @@
       <File>TheCoolTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="27-3 WKOWDT3">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="385 KSTCDT4">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
+      </Item>
+      <Item Name="58-3 this">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
       </Item>
       <Item Name="KSTC DT4 -This TV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
@@ -9215,11 +9317,17 @@
       <Item Name="THIS-TV">
         <Provider>Sacramento, California OTA</Provider>
       </Item>
+      <Item Name="WDJTDT3 (WDJT-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <Item Name="WGAL-DT2">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <Item Name="WGNDT3 (This TV Chicago)">
         <Provider>Chicago, Illinois WOW!</Provider>
+      </Item>
+      <Item Name="WKOWDT3 (WKOW-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>This TV.png</File>
     </Channel>
@@ -9377,6 +9485,12 @@
       <File>Total Living Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="58-4 Shorewest TV">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WDJTDT4 (WDJT-DT4)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <Item Name="WMEUCD2">
         <Provider>Chicago, Illinois WOW! SD</Provider>
       </Item>
@@ -10210,6 +10324,9 @@
       <File>VME Kids.png</File>
     </Channel>
     <Channel>
+      <Item Name="10-3 Vme">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="13 VME">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -10218,6 +10335,9 @@
       </Item>
       <Item Name="WMPT V-me">
         <Provider>New York City, New York FiOS</Provider>
+      </Item>
+      <Item Name="WMVSDT3 (WMVS-DT3)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WTTW-VM">
         <Provider>Chicago, Illinois OTA</Provider>
@@ -10337,8 +10457,8 @@
       <File>WBIN-TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WBME-CD">
-        <Provider />
+      <Item Name="WDJTDT2">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>WBME-CD.png</File>
     </Channel>
@@ -10368,6 +10488,15 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>WBPH.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="57-1 WBUWDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WBUWDT (WBUW-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WBUW.png</File>
     </Channel>
     <Channel>
       <Item Name="WBZ">
@@ -10428,6 +10557,15 @@
         <Provider />
       </Item>
       <File>WCFE.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="24-1 My 24">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WCGVDT (WCGV-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WCGV.png</File>
     </Channel>
     <Channel>
       <Item Name="WCIU">
@@ -10549,8 +10687,11 @@
       <File>WDIV.png</File>
     </Channel>
     <Channel>
-      <Item Name="WDJT">
-        <Provider />
+      <Item Name="58-1 CBS 58">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WDJTDT (WDJT-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>WDJT.png</File>
     </Channel>
@@ -10616,6 +10757,9 @@
       <File>Weather Scan.png</File>
     </Channel>
     <Channel>
+      <Item Name="WMTVDT2">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <Item Name="WUSA Weather Radar - DTV">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -10685,6 +10829,24 @@
         <Provider>Chicago, Illinois WOW!</Provider>
       </Item>
       <File>WFLD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="36-4 Classic">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WMVTDT4 (WMVT-DT4)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WFMT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="36-5 Jazz">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WMVTDT5 (WMVT-DT5)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WFMT Jazz Network.png</File>
     </Channel>
     <Channel>
       <Item Name="WFMZ">
@@ -10916,10 +11078,25 @@
       <File>WHYY.png</File>
     </Channel>
     <Channel>
-      <Item Name="Wisconsin Channel">
-        <Provider />
+      <Item Name="36-6 Traffic">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WMVTDT6 (WMVT-DT6)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WISDOT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHADT2">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>Wisconsin Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WHADT">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>Wisconsin Public Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Wisconsin Eye">
@@ -10958,22 +11135,61 @@
       <File>WIN TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="3-1 WISCDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WISCDT (WISC-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WISC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="3-2 WISCDT2">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WISCDT2 (WISC-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WISC-DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="12-1 WISN 12">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WISNDT (WISN-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WISN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WITF-HD">
         <Provider>Harrisburg, Pennsylvania OTA</Provider>
       </Item>
       <File>WITF.png</File>
     </Channel>
     <Channel>
-      <Item Name="WITI">
-        <Provider />
+      <Item Name="6-1 Fox 6">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WITIDT (WITI-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>WITI.png</File>
     </Channel>
     <Channel>
-      <Item Name="WITI-DT2">
-        <Provider />
+      <Item Name="6-2 Retro TV">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WITIDT2 (WITI-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <File>WITI-DT2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WIWNDT">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WIWN.png</File>
     </Channel>
     <Channel>
       <Item Name="WIWU-CD">
@@ -11048,6 +11264,24 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>WKBD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="27-1 WKOWDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WKOWDT (WKOW-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WKOW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="27-2 WKOWDT2">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WKOWDT2 (WKOW-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WKOW-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="WLFL">
@@ -11184,6 +11418,21 @@
       <File>WMDT-DT2.png</File>
     </Channel>
     <Channel>
+      <Item Name="WMLWDT">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WMLWLP">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WMLW.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMLWDT2">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WMLW-DT2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WMDT">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -11206,6 +11455,18 @@
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <File>WMPT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMSNDT">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WMSN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMTVDT/15-1">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WMTV.png</File>
     </Channel>
     <Channel>
       <Item Name="WMUR Me">
@@ -11365,11 +11626,17 @@
       <File>World Harvest TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="10-2 World">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
       <Item Name="GBX-WORLD-DT">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
       <Item Name="KFME-DT2 - PBS">
         <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
+      <Item Name="WMVSDT2 (WMVS-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
       </Item>
       <Item Name="WORLD">
         <Provider>San Francisco, California OTA</Provider>
@@ -11604,6 +11871,24 @@
       <File>WTKR.png</File>
     </Channel>
     <Channel>
+      <Item Name="4-1 TMJ 4">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WTMJDT (WTMJ-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WTMJ.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="4-2 TMJ-Weather">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WTMJDT2 (WTMJ-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WTMJ-DT2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WTTG">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -11778,6 +12063,15 @@
       <File>WVBT.png</File>
     </Channel>
     <Channel>
+      <Item Name="30-1 WVCYDT">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WVCYDT (WVCY-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WVCY.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WVEC (ABC)">
         <Provider>New York City, New York FiOS</Provider>
       </Item>
@@ -11791,6 +12085,15 @@
         <Provider />
       </Item>
       <File>WVNY.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="18-1 CW 18">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WVTVDT (WVTV-DT)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WVTV.png</File>
     </Channel>
     <Channel>
       <Item Name="WVVH-50">
@@ -11914,6 +12217,15 @@
         <Provider>Chicago, Illinois OTA</Provider>
       </Item>
       <File>WYIN-D3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="WMLWDT4">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WYTULP">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <File>WYTU.png</File>
     </Channel>
     <Channel>
       <Item Name="WZDC">
@@ -12054,6 +12366,15 @@
       <File>Zoom.png</File>
     </Channel>
     <Channel>
+      <Item Name="24-2 TCN">
+        <Provider>Watertown, Wisconsin OTA SD</Provider>
+      </Item>
+      <Item Name="WCGVDT2 (WCGV-DT2)">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
+      <Item Name="WMSNDT3">
+        <Provider>Watertown, Wisconsin OTA</Provider>
+      </Item>
       <Item Name="WUCW DT3-Country">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
