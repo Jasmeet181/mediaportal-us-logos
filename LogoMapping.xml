@@ -394,15 +394,6 @@
       <File>AMC.png</File>
     </Channel>
     <Channel>
-      <Item Name="52-5 43 WTASLP">
-        <Provider>Watertown, Wisconsin OTA SD</Provider>
-      </Item>
-      <Item Name="WTASLP">
-        <Provider>Watertown, Wisconsin OTA</Provider>
-      </Item>
-      <File>Andersen Tax.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Amedia">
         <Provider />
       </Item>
