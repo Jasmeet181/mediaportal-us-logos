@@ -2247,15 +2247,10 @@
       <File>Discovery en Espanol.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery Familia">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-        <Provider>New York City, New York FiOS</Provider>
-        <Provider>Sanford, North Carolina Charter</Provider>
+      <Item Name="Discovery Family">
+        <Provider />
       </Item>
-      <Item Name="DSC Familia">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>Discovery Familia.png</File>
+      <File>Discovery Family.png</File>
     </Channel>
     <Channel>
       <Item Name="DISCOVERY FIT &amp; HEALTH">
@@ -4465,34 +4460,6 @@
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>HTV Musica.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="HUBHD  HUB HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <Item Name="HUB HD">
-        <Provider>Chicago, Illinois WOW!</Provider>
-      </Item>
-      <Item Name="HUBHD">
-        <Provider>Chicago, Illinois WOW! SD</Provider>
-      </Item>
-      <Item Name="The Hub HD">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Hub Network HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="HUB   THE HUB">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <Item Name="HUB">
-        <Provider>Chicago, Illinois WOW! SD</Provider>
-      </Item>
-      <Item Name="The HUB">
-        <Provider>Chicago, Illinois WOW!</Provider>
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <File>Hub Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Hunan Satellite TV">
@@ -9576,25 +9543,22 @@
       <File>Travel Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="772 TruTVHD">
+      <Item Name="37 TruTV">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
-      <Item Name="TruTV HD">
-        <Provider>Minneapolis, Minnesota Charter</Provider>
-      </Item>
-      <Item Name="TRU_TV EAST HD">
-        <Provider>Ann Arbor, Michigan Comcast</Provider>
-      </Item>
-      <File>TruTV HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="37 TruTV">
+      <Item Name="772 TruTVHD">
         <Provider>Minneapolis, Minnesota Charter SD</Provider>
       </Item>
       <Item Name="TruTV">
         <Provider>Minneapolis, Minnesota Charter</Provider>
       </Item>
+      <Item Name="TruTV HD">
+        <Provider>Minneapolis, Minnesota Charter</Provider>
+      </Item>
       <Item Name="truTV  TRUTV/COURT TV">
+        <Provider>Ann Arbor, Michigan Comcast</Provider>
+      </Item>
+      <Item Name="TRU_TV EAST HD">
         <Provider>Ann Arbor, Michigan Comcast</Provider>
       </Item>
       <File>TruTV.png</File>
