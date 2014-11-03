@@ -368,6 +368,12 @@
       <File>Altitude 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Altitude HD">
+        <Provider />
+      </Item>
+      <File>Altitude HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Amazing Facts TV">
         <Provider />
       </Item>
@@ -1639,10 +1645,10 @@
       <File>Church Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cin Estelar">
+      <Item Name="Cine Estelar">
         <Provider />
       </Item>
-      <File>Cin Estelar.png</File>
+      <File>Cine Estelar.png</File>
     </Channel>
     <Channel>
       <Item Name="Cine Nostalgia">
@@ -2359,6 +2365,12 @@
         <Provider />
       </Item>
       <File>DFH Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="DirecTV Cinema">
+        <Provider />
+      </Item>
+      <File>DirecTV Cinema.png</File>
     </Channel>
     <Channel>
       <Item Name="352 NEWSMIX">
@@ -4353,16 +4365,10 @@
       <Item Name="501 HBOHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
-      <Item Name="504 HBOHDP">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
       <Item Name="HBO HDTV East">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="HBOHD  HBO E HDTV">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="HBOW HD HBO WEST HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>HBO HD.png</File>
@@ -4405,6 +4411,15 @@
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>HBO Signature.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="504 HBOHDP">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="HBOW HD HBO WEST HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <File>HBO HD West.png</File>
     </Channel>
     <Channel>
       <Item Name="509 HBOZHD">
@@ -4653,6 +4668,12 @@
         <Provider />
       </Item>
       <File>Hmong USA TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hola TV">
+        <Provider />
+      </Item>
+      <File>Hola TV.png</File>
     </Channel>
     <Channel>
       <Item Name="HonVieTV">
@@ -6388,6 +6409,12 @@
       <File>MLB Network HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="MLB Network Strike Zone">
+        <Provider />
+      </Item>
+      <File>MLB Network Strike Zone.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MLBN   Major League Baseball Network">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -7720,6 +7747,12 @@
       <File>NTDTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="NTN24">
+        <Provider />
+      </Item>
+      <File>NTN24.png</File>
+    </Channel>
+    <Channel>
       <Item Name="NTV America">
         <Provider />
       </Item>
@@ -8372,6 +8405,12 @@
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>Reelz Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Regional Music TV">
+        <Provider />
+      </Item>
+      <File>Regional Music TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Religia TV">
