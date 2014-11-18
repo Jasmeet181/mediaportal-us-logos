@@ -2672,6 +2672,7 @@
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="E! HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>E! HD.png</File>
@@ -2682,6 +2683,9 @@
       </Item>
       <Item Name="E">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="E!">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="E! Entertainment Television">
         <Provider>WOW! (Illinois, Chicago)</Provider>
@@ -2924,6 +2928,7 @@
     </Channel>
     <Channel>
       <Item Name="ESPN Classic">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="ESPNCL">
@@ -2942,6 +2947,7 @@
     </Channel>
     <Channel>
       <Item Name="ESPN Deportes">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
@@ -2965,6 +2971,7 @@
     <Channel>
       <Item Name="ESPN Goal Line">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPN Goal Line HDTV">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -2987,6 +2994,7 @@
       </Item>
       <Item Name="ESPN HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPND  ESPN HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
@@ -2994,6 +3002,9 @@
       <File>ESPN HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="ESPN NEWS">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="ESPNews">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -3064,6 +3075,9 @@
       <Item Name="ESPN U HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
+      <Item Name="ESPNU HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="ESPNUHD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
@@ -3072,6 +3086,7 @@
     <Channel>
       <Item Name="ESPN U">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPNU">
         <Provider>WOW! (Illinois, Chicago)</Provider>
@@ -3092,6 +3107,7 @@
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPN   ESPN">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
@@ -3110,6 +3126,7 @@
       </Item>
       <Item Name="ESPN2 HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPN 2 HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -3130,6 +3147,7 @@
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="ESPN2  ESPN2">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
@@ -3143,6 +3161,12 @@
       <File>Esquire Network HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Esq HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Esq SD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="ESQTV">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
@@ -3154,6 +3178,9 @@
     <Channel>
       <Item Name="Estrella">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Estrella TV SD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="Estrella (WPIX -DT)">
         <Provider>FiOS (New York, New York City)</Provider>
@@ -3237,7 +3264,7 @@
     </Channel>
     <Channel>
       <Item Name="EWTN HD">
-        <Provider />
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>EWTN HD.png</File>
     </Channel>
@@ -3251,6 +3278,10 @@
       <Item Name="EWTN">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="EWTN en Esp">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="EWTN   EWTN">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
@@ -3282,6 +3313,12 @@
       <File>Express News.png</File>
     </Channel>
     <Channel>
+      <Item Name="Family Network">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Family Network HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FamilyNet">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -3354,6 +3391,9 @@
       <Item Name="556 FLIX">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="FLIX">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FLIX - E">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -3384,6 +3424,9 @@
       <Item Name="763 FoodHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="FOOD HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FOODHD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
@@ -3410,6 +3453,7 @@
       <Item Name="Food Network">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Food Network.png</File>
     </Channel>
@@ -3420,8 +3464,8 @@
       <File>Formosa TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="FOROtv">
-        <Provider />
+      <Item Name="FORO TV SD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>FOROtv.png</File>
     </Channel>
@@ -3435,6 +3479,9 @@
       <Item Name="Fox Business Network">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="FOX BUSINESS NEWS">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FBN    FOX BUSINESS CHANNEL">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -3447,6 +3494,9 @@
       <Item Name="Fox Business HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Fox Business Network HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox Business Network HD.png</File>
     </Channel>
@@ -3487,11 +3537,21 @@
       <Item Name="Fox College Sports Pacific">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="FOX SPORTS ATLANTIC">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="FOX SPORTS CENTRAL">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="FOX SPORTS PACIFIC">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <File>Fox College Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Deportes">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="Fox Deportes (English)">
         <Provider>FiOS (New York, New York City)</Provider>
@@ -3519,6 +3579,9 @@
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
+      <Item Name="Fox Life SD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <File>Fox Life.png</File>
     </Channel>
     <Channel>
@@ -3539,6 +3602,7 @@
       </Item>
       <Item Name="FOX News HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox News Channel HD.png</File>
     </Channel>
@@ -3551,6 +3615,9 @@
       </Item>
       <Item Name="FNC    FOX NEWS">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="FOX NEWS">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="FOX News Channel">
         <Provider>WOW! (Illinois, Chicago)</Provider>
@@ -3574,7 +3641,16 @@
       <File>Fox Soccer Plus.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fox Sports 1">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Fox Sports 1 HD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="FS1">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="FS1HD">
@@ -3586,19 +3662,20 @@
       <Item Name="FS1HD__Fox Sports 1 HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <Item Name="Fos Sports 1">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Fos Sports 1 HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      <Item Name="FS1 HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox Sports 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox Sports 2">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="FS2">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="FS2HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox Sports 2.png</File>
     </Channel>
@@ -3615,14 +3692,14 @@
       <File>Fox Sports Arizona.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports Carolinas HD">
-        <Provider />
+      <Item Name="Fox Sports Carolinas Rural HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox Sports Carolinas HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports Carolinas">
-        <Provider />
+      <Item Name="Fox Sports Carolinas Rural">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fox Sports Carolinas.png</File>
     </Channel>
@@ -3896,6 +3973,7 @@
       </Item>
       <Item Name="FUSE HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="FUSE (HD)">
         <Provider>FiOS (New York, New York City)</Provider>
@@ -3913,6 +3991,9 @@
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
+      <Item Name="FUSE TV">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FUSE   FUSE">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -3921,6 +4002,12 @@
     <Channel>
       <Item Name="Fusion">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Fusion HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Fusion SD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Fusion.png</File>
     </Channel>
@@ -3938,6 +4025,7 @@
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="FX HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -3954,6 +4042,7 @@
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="FX">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -3979,15 +4068,20 @@
       <Item Name="FXMHD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       <Item Name="FXM    FX MOVIE CHANNEL">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="FOX Movie Channel">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>FXM.png</File>
     </Channel>
     <Channel>
+      <Item Name="FXX HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="FXXHD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -3995,6 +4089,7 @@
     </Channel>
     <Channel>
       <Item Name="FXX">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
@@ -4004,7 +4099,10 @@
     </Channel>
     <Channel>
       <Item Name="FYI">
-        <Provider />
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="FYI HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>FYI.png</File>
     </Channel>
@@ -4024,12 +4122,6 @@
       <File>G4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Galavision HD">
-        <Provider />
-      </Item>
-      <File>Galavision HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="404 GALAHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -4038,6 +4130,7 @@
       </Item>
       <Item Name="Galavision">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Galavision.png</File>
     </Channel>
@@ -4153,6 +4246,9 @@
       <File>Gods Learning Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="GOLF">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="GOLF   GOLF">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -4164,6 +4260,7 @@
       </Item>
       <Item Name="Golf HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
       <File>Golf Channel.png</File>
@@ -4171,6 +4268,7 @@
     <Channel>
       <Item Name="Gol TV">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>GolTV.png</File>
     </Channel>
@@ -4199,11 +4297,15 @@
       <File>Great American Country HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="GAC HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="GAC    GAC">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="Great American Country">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Great American Country.png</File>
     </Channel>
@@ -4234,6 +4336,7 @@
       </Item>
       <Item Name="GSN HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>GSN HD.png</File>
     </Channel>
@@ -4242,6 +4345,7 @@
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="GSN">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="GSN    GAMESHOW NETWORK">
@@ -7222,12 +7326,6 @@
       <File>My Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="My Sports Germany">
-        <Provider />
-      </Item>
-      <File>My Sports Germany.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Myx TV">
         <Provider />
       </Item>
@@ -7339,6 +7437,12 @@
         <Provider />
       </Item>
       <File>NBC HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NBC Universo">
+        <Provider />
+      </Item>
+      <File>NBC Universo.png</File>
     </Channel>
     <Channel>
       <Item Name="NBC WeatherPlus">
@@ -11959,6 +12063,12 @@
       <File>WIWU-CD.png</File>
     </Channel>
     <Channel>
+      <Item Name="WizeBuys TV">
+        <Provider />
+      </Item>
+      <File>WizeBuys TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="WJAL">
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
@@ -13092,6 +13202,12 @@
         <Provider />
       </Item>
       <File>Zee Business.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee Bollywood">
+        <Provider />
+      </Item>
+      <File>Zee Bollywood.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Cinema">
