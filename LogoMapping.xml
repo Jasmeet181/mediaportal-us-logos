@@ -2421,12 +2421,6 @@
       <File>Discovery Fit and Health.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery HD Showcase">
-        <Provider />
-      </Item>
-      <File>Discovery HD Showcase.png</File>
-    </Channel>
-    <Channel>
       <Item Name="278 DSCHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -2450,6 +2444,12 @@
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <File>Discovery HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Showcase HD">
+        <Provider />
+      </Item>
+      <File>Discovery Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="47 DSC">
@@ -8083,8 +8083,8 @@
       <File>PBS.png</File>
     </Channel>
     <Channel>
-      <Item Name="Unknown 20-9">
-        <Provider>OTA (Illinois, Chicago)</Provider>
+      <Item Name="Peace TV">
+        <Provider />
       </Item>
       <File>Peace TV.png</File>
     </Channel>
