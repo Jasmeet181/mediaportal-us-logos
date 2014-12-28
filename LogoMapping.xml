@@ -5500,12 +5500,6 @@
       <File>KEMS.png</File>
     </Channel>
     <Channel>
-      <Item Name="KEXT">
-        <Provider>OTA (California, San Francisco)</Provider>
-      </Item>
-      <File>KEXT.png</File>
-    </Channel>
-    <Channel>
       <Item Name="KEYC - CBS">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -10287,6 +10281,9 @@
       <File>TNT.png</File>
     </Channel>
     <Channel>
+      <Item Name="KEXT">
+        <Provider>OTA (California, San Francisco)</Provider>
+      </Item>
       <Item Name="Tokyo">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
