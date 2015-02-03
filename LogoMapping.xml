@@ -3412,6 +3412,12 @@
       <File>Florida Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Food Food">
+        <Provider />
+      </Item>
+      <File>Food Food.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Food Network Asia">
         <Provider />
       </Item>
