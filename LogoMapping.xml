@@ -2326,6 +2326,12 @@
       <File>De Pelicula.png</File>
     </Channel>
     <Channel>
+      <Item Name="Decades">
+        <Provider />
+      </Item>
+      <File>Decades.png</File>
+    </Channel>
+    <Channel>
       <Item Name="760 DESTHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
