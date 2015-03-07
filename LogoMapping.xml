@@ -9390,6 +9390,9 @@
       <Item Name="241 SPIKEHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="33 SpikeTV">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="847 SpikeHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -9402,29 +9405,23 @@
       <Item Name="Spike HD (east)">
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
+      <Item Name="SPIKE  SPIKE TV">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="Spike TV">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="Spike TV HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="SPIKEHD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
-      <File>Spike HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="33 SpikeTV">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Spike TV">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="SPIKE  SPIKE TV">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
       <Item Name="SPIKETV">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
-      <File>Spike TV.png</File>
+      <File>Spike.png</File>
     </Channel>
     <Channel>
       <Item Name="SPCHN  Sportsman Channel">
