@@ -1137,6 +1137,12 @@
       <File>Buckeye Cable Sports Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Buzzr TV">
+        <Provider />
+      </Item>
+      <File>Buzzr TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="374 BYUTV">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -2335,26 +2341,23 @@
       <Item Name="760 DESTHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
-      <Item Name="DAM HD DESTIONATION AMERICA HD">
+      <Item Name="DAM    DESTIONATION AMERICA">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <Item Name="DESTHD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="Destination America HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>Destination America HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="DAM    DESTIONATION AMERICA">
+      <Item Name="DAM HD DESTIONATION AMERICA HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="DEST">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="DESTHD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
       <Item Name="Destination America">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Destination America HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
@@ -2418,15 +2421,6 @@
       <File>Discovery Family.png</File>
     </Channel>
     <Channel>
-      <Item Name="DISCOVERY FIT &amp; HEALTH">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="Fit TV">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <File>Discovery Fit and Health.png</File>
-    </Channel>
-    <Channel>
       <Item Name="278 DSCHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -2450,6 +2444,12 @@
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <File>Discovery HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Life">
+        <Provider />
+      </Item>
+      <File>Discovery Life.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Showcase HD">
@@ -6625,6 +6625,12 @@
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>MoreMax.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Movee4U">
+        <Provider />
+      </Item>
+      <File>Movee4U.png</File>
     </Channel>
     <Channel>
       <Item Name="521 MOVIEHD">
@@ -11318,12 +11324,15 @@
       <File>WBAL.png</File>
     </Channel>
     <Channel>
-      <Item Name="2 WBBMDT">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
       <Item Name="WBBM">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <File>WBBM.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="2 WBBMDT">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="WBBMDT">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
@@ -11334,7 +11343,7 @@
       <Item Name="WBBM-DT">
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
-      <File>WBBM.png</File>
+      <File>WBBM HD.png</File>
     </Channel>
     <Channel>
       <Item Name="WBFF">
@@ -13201,12 +13210,6 @@
       <File>Xcite.png</File>
     </Channel>
     <Channel>
-      <Item Name="XF3D    XFINITY 3D">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>Xfinity 3D.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Xiamen TV">
         <Provider />
       </Item>
@@ -13307,7 +13310,7 @@
     </Channel>
     <Channel>
       <Item Name="ZEETV  ZEETV">
-        <Provider />
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>Zee TV.png</File>
     </Channel>
