@@ -5397,6 +5397,12 @@
       <File>KARE.png</File>
     </Channel>
     <Channel>
+      <Item Name="Karmaloop TV">
+        <Provider />
+      </Item>
+      <File>Karmaloop TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KAWB - PBS">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -6071,6 +6077,12 @@
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <File>Latele Novela.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Laff">
+        <Provider />
+      </Item>
+      <File>Laff.png</File>
     </Channel>
     <Channel>
       <Item Name="KTVU-SD">
@@ -7957,6 +7969,12 @@
         <Provider />
       </Item>
       <File>NY1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NY1 Noticias">
+        <Provider />
+      </Item>
+      <File>NY1 Noticias.png</File>
     </Channel>
     <Channel>
       <Item Name="NYCTV">
