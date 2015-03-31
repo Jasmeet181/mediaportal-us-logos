@@ -3313,6 +3313,12 @@
       <File>Express Entertainment.png</File>
     </Channel>
     <Channel>
+      <Item Name="FAD Channel">
+        <Provider />
+      </Item>
+      <File>FAD Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Express News">
         <Provider />
       </Item>
@@ -8641,6 +8647,12 @@
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
       <File>Retroplex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rev'n">
+        <Provider />
+      </Item>
+      <File>Revn.png</File>
     </Channel>
     <Channel>
       <Item Name=" Revolt">
