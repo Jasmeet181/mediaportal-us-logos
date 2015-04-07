@@ -209,10 +209,10 @@
       <File>ABP News.png</File>
     </Channel>
     <Channel>
-      <Item Name="Abu Dhabi TV">
+      <Item Name="Abu Dhabi Channel">
         <Provider />
       </Item>
-      <File>Abu Dhabi TV.png</File>
+      <File>Abu Dhabi Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="10-4 Weather">
