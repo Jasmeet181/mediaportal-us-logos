@@ -726,6 +726,12 @@
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BabyTV HD">
+        <Provider />
+      </Item>
+      <File>BabyTV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="262 DT262">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
