@@ -3275,6 +3275,14 @@
       <File>Euronews.png</File>
     </Channel>
     <Channel>
+      <Item Name="Evine Live">
+        <Provider />
+      <Item Name="WWDP">
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <File>Evine Live.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EWTN HD">
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
@@ -8856,22 +8864,6 @@
         <Provider />
       </Item>
       <File>Shenzhen TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Shop NBC">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="SHOPHQ    SHOP HQ">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="SHOPNBC">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="WWDP">
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <File>ShopHQ.png</File>
     </Channel>
     <Channel>
       <Item Name="573 SHORTSH">
