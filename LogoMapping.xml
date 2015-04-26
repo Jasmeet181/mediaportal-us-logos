@@ -1632,31 +1632,6 @@
       <File>Chung Tien Television.png</File>
     </Channel>
     <Channel>
-      <Item Name="371 CHURCH">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="52-2 WWRSDT2">
-        <Provider>OTA SD (Wisconsin, Watertown)</Provider>
-      </Item>
-      <Item Name="CHRCH">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="Church Channel">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <Item Name="WWRSDT2 (WWRS-DT2)">
-        <Provider>OTA (Wisconsin, Watertown)</Provider>
-      </Item>
-      <Item Name="WWTODT2 (WWTO-DT2)">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="WWTO-D2">
-        <Provider>OTA (Illinois, Chicago)</Provider>
-      </Item>
-      <File>Church Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Cine Estelar">
         <Provider />
       </Item>
@@ -10074,6 +10049,31 @@
         <Provider />
       </Item>
       <File>The California Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="371 CHURCH">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="52-2 WWRSDT2">
+        <Provider>OTA SD (Wisconsin, Watertown)</Provider>
+      </Item>
+      <Item Name="CHRCH">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="Church Channel">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="WWRSDT2 (WWRS-DT2)">
+        <Provider>OTA (Wisconsin, Watertown)</Provider>
+      </Item>
+      <Item Name="WWTODT2 (WWTO-DT2)">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="WWTO-D2">
+        <Provider>OTA (Illinois, Chicago)</Provider>
+      </Item>
+      <File>The Church Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="PENT+    PENTHOUSE+ THE EROTIC NETWORK">
