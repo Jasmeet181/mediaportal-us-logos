@@ -11658,10 +11658,22 @@
       <File>WDSE-DT2.png</File>
     </Channel>
     <Channel>
+      <Item Name="260 WE">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="63 WE">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="739 WEHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="WEHD  WOMEN ENTERTAINMENT HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="WE">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="WE     WE">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="WE HD">
@@ -11669,21 +11681,6 @@
       </Item>
       <Item Name="WE TV (HD)">
         <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <File>WE tv HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="260 WE">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="63 WE">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="WE">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="WE     WE">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="WE/Women's Entertainment">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
