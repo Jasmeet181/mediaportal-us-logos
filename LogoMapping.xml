@@ -4608,12 +4608,6 @@
       <File>HDNet Movies.png</File>
     </Channel>
     <Channel>
-      <Item Name="Headlines Today">
-        <Provider />
-      </Item>
-      <File>Headlines Today.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Heartland">
         <Provider />
       </Item>
@@ -5013,6 +5007,12 @@
         <Provider />
       </Item>
       <File>INCTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="India Today">
+        <Provider />
+      </Item>
+      <File>India Today.png</File>
     </Channel>
     <Channel>
       <Item Name="INDIE  INDIEPLEX">
