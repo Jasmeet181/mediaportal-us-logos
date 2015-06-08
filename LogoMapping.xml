@@ -2538,6 +2538,11 @@
       <Item Name="734 DISNXDH">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="Disney XD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="Disney XD HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -2546,21 +2551,13 @@
       <Item Name="DISX HD DISNEY XD HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <Item Name="DXDHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <File>Disney XD HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Disney XD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
       <Item Name="DISXD  Disney XD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="DXD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="DXDHD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
       <File>Disney XD.png</File>
@@ -4335,19 +4332,6 @@
       <File>Grit.png</File>
     </Channel>
     <Channel>
-      <Item Name="GSNHD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="GSNHD  GSN HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="GSN HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>GSN HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="233 GSN">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -4358,8 +4342,18 @@
       <Item Name="GSN    GAMESHOW NETWORK">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
+      <Item Name="GSNHD  GSN HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="GSN HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
       <Item Name="GSN (Game Show)">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="GSNHD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <File>GSN.png</File>
     </Channel>
