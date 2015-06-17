@@ -1143,10 +1143,10 @@
       <File>Buckeye Cable Sports Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Buzzr TV">
+      <Item Name="Buzzr">
         <Provider />
       </Item>
-      <File>Buzzr TV.png</File>
+      <File>Buzzr.png</File>
     </Channel>
     <Channel>
       <Item Name="374 BYUTV">
