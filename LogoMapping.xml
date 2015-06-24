@@ -8085,21 +8085,18 @@
       <Item Name="742 OxygnHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="OXGN   OXYGEN">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="Oxygen">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="Oxygen HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="OXYGNHD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>Oxygen HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="OXGN   OXYGEN">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="Oxygen">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <File>Oxygen.png</File>
     </Channel>
