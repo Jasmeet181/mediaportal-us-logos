@@ -4686,30 +4686,16 @@
       <Item Name="269 HSTRYHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
-      <Item Name="796 HstryHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="History Channel HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="History HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <Item Name="HISTD  History Channel HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="HSTRYHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <File>History HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="48 History">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="796 HstryHD">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="HIST   HISTORY">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="HISTD  History Channel HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="HISTORY">
@@ -4719,6 +4705,17 @@
       <Item Name="History Channel">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="History Channel HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="History HD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="HSTRYHD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
       <File>History.png</File>
     </Channel>
@@ -10613,22 +10610,19 @@
       <Item Name="304 TVLNDHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="41 TVLand">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="731 TVLandH">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="731 TVLandHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
-      <Item Name="TV Land HD">
+      <Item Name="TV Land">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
-      <File>TV Land HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="41 TVLand">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="TV Land">
+      <Item Name="TV Land HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="TVLAND">
