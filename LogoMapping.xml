@@ -4683,19 +4683,10 @@
       <File>History en Espanol.png</File>
     </Channel>
     <Channel>
-      <Item Name="269 HSTRYHD">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
       <Item Name="48 History">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
-      <Item Name="796 HstryHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
       <Item Name="HIST   HISTORY">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="HISTD  History Channel HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="HISTORY">
@@ -4705,6 +4696,18 @@
       <Item Name="History Channel">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <File>History.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="269 HSTRYHD">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="796 HstryHD">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="HISTD  History Channel HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="History Channel HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -4717,7 +4720,7 @@
       <Item Name="HSTRYHD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
-      <File>History.png</File>
+      <File>History HD.png</File>
     </Channel>
     <Channel>
       <Item Name="449 HITN">
