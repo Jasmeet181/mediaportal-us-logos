@@ -831,7 +831,7 @@
       <Item Name="BBC World News HD">
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
-      <File>BBC World.png</File>
+      <File>BBC World News.png</File>
     </Channel>
     <Channel>
       <Item Name="Beijing TV">
