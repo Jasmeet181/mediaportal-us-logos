@@ -2601,6 +2601,12 @@
       <File>DiyaTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="DMX Music">
+        <Provider />
+      </Item>
+      <File>DMX Music.png</File>
+    </Channel>
+    <Channel>
       <Item Name="DogTV">
         <Provider />
       </Item>
@@ -2713,7 +2719,7 @@
       <Item Name="Ecuavisa">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <File>Ecuavisa.png</File>
+      <File>Ecuavisa Internacional.png</File>
     </Channel>
     <Channel>
       <Item Name="El Rey Network">
@@ -10774,6 +10780,12 @@
         <Provider />
       </Item>
       <File>Tvida Vision.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TViet Network">
+        <Provider />
+      </Item>
+      <File>TViet Network.png</File>
     </Channel>
     <Channel>
       <Item Name="TVK">
