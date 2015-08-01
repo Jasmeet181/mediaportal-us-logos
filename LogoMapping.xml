@@ -3294,6 +3294,7 @@
     <Channel>
       <Item Name="Evine Live">
         <Provider />
+      </Item>
       <Item Name="WWDP">
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
