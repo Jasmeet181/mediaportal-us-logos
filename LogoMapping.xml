@@ -6210,12 +6210,6 @@
       <File>KWGN.png</File>
     </Channel>
     <Channel>
-      <Item Name="KWHY">
-        <Provider />
-      </Item>
-      <File>KWHY.png</File>
-    </Channel>
-    <Channel>
       <Item Name="KXJB - CBS">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -7143,19 +7137,16 @@
       <File>Mun2.png</File>
     </Channel>
     <Channel>
-      <Item Name="Mundo Fox (MundoFX)">
-        <Provider>OTA (Texas, Houston)</Provider>
+      <Item Name="MundoMax">
+        <Provider />
       </Item>
-      <Item Name="MundoFo">
-        <Provider>OTA (California, San Francisco)</Provider>
-      </Item>
-      <Item Name="MundoFX">
-        <Provider>OTA (Illinois, Chicago)</Provider>
+      <Item Name="Mundo Max">
+        <Provider />
       </Item>
       <Item Name="WBWTLP">
         <Provider>OTA (Wisconsin, Watertown)</Provider>
       </Item>
-      <File>MundoFox.png</File>
+      <File>MundoMax.png</File>
     </Channel>
     <Channel>
       <Item Name="Murr TV">
