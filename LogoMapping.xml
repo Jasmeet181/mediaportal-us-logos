@@ -2938,7 +2938,7 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Escape ">
+      <Item Name="Escape">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
       <Item Name="19-4 KUVS.4">
@@ -4243,10 +4243,8 @@
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="GetTV">
-        <Provider>OTA (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="getTV  ">
         <Provider>OTA (California, San Francisco)</Provider>
+        <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="GetTV (GetTV  )">
         <Provider>OTA (Illinois, Chicago)</Provider>
