@@ -6968,11 +6968,22 @@
       <Item Name="356 MNBCHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="45 MSNBC">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="728 MSNBCHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="MSNBC">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="MSNBC  HD">
         <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="MSNBC  MSNBC">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="MSNBC HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
@@ -6981,20 +6992,6 @@
       </Item>
       <Item Name="MSNBD">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <File>MSNBC HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="45 MSNBC">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="MSNBC">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="MSNBC  MSNBC">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>MSNBC.png</File>
     </Channel>
