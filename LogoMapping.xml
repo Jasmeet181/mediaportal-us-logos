@@ -197,12 +197,6 @@
       <File>ABC.png</File>
     </Channel>
     <Channel>
-      <Item Name="African Broadcasting Network (ABN TV)">
-        <Provider>OTA (Texas, Houston)</Provider>
-      </Item>
-      <File>ABN TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="SNEWS  STAR INDIA NEWS">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -217,6 +211,12 @@
     <Channel>
       <Item Name="10-4 Weather">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
+      </Item>
+      <Item Name="8.2 WFAA2">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="WFAA2">
+        <Provider />
       </Item>
       <Item Name="WMVSDT4 (WMVS-DT4)">
         <Provider>OTA (Wisconsin, Watertown)</Provider>
@@ -263,6 +263,12 @@
       <File>Africa Box Office.png</File>
     </Channel>
     <Channel>
+      <Item Name="African Broadcasting Network (ABN TV)">
+        <Provider>OTA (Texas, Houston)</Provider>
+      </Item>
+      <File>African Broadcasting Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Afrotainment Music">
         <Provider />
       </Item>
@@ -273,6 +279,12 @@
         <Provider />
       </Item>
       <File>Afrotainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Airbox">
+        <Provider />
+      </Item>
+      <File>Airbox.png</File>
     </Channel>
     <Channel>
       <Item Name="2095 DARANG">
@@ -536,6 +548,9 @@
       <File>Antenna Satellite.png</File>
     </Channel>
     <Channel>
+      <Item Name="33.2 ANTEN">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="387 KSTCDT2">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -927,6 +942,9 @@
       <File>Big Screen Preview Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="55.6 BIZ-TV">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="BizTV">
         <Provider />
       </Item>
@@ -1158,6 +1176,9 @@
       <File>Buckeye Cable Sports Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="27.3 KDFI3">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Buzzr">
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
@@ -2059,6 +2080,9 @@
       <File>Cox Sports Television.png</File>
     </Channel>
     <Channel>
+      <Item Name="5.2 Cozi">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Cozi Television (COZI-TV)">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
@@ -2340,8 +2364,14 @@
       <File>De Pelicula.png</File>
     </Channel>
     <Channel>
+      <Item Name="11.2 KTVTD2">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Decades">
         <Provider>OTA (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="KTVTD2">
+        <Provider />
       </Item>
       <File>Decades.png</File>
     </Channel>
@@ -2938,11 +2968,14 @@
       <File>ESC-1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Escape">
-        <Provider>OTA (California, San Francisco)</Provider>
-      </Item>
       <Item Name="19-4 KUVS.4">
         <Provider>OTA (California, Sacramento)</Provider>
+      </Item>
+      <Item Name="23.3 Escape">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="Escape">
+        <Provider>OTA (California, San Francisco)</Provider>
       </Item>
       <Item Name="KXLNDT (ESCAPE )">
         <Provider>OTA (Texas, Houston)</Provider>
@@ -4239,6 +4272,9 @@
       <File>GET Punjabi.png</File>
     </Channel>
     <Channel>
+      <Item Name="49.2 getTV">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Get TV">
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
@@ -4358,6 +4394,9 @@
       <File>Greek Cinema.png</File>
     </Channel>
     <Channel>
+      <Item Name="49.3 GritTV">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="64-4 KTFK.4">
         <Provider>OTA (California, Sacramento)</Provider>
       </Item>
@@ -4869,6 +4908,18 @@
       <File>Horse Racing TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="31.2 K31GL-D2">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="31.3 K31GL-D3">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="Hot TV">
+        <Provider />
+      </Item>
+      <File>Hot TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Home Shopping Network HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
@@ -4989,6 +5040,12 @@
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <File>IFC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Iglesias Jemir">
+        <Provider />
+      </Item>
+      <File>Iglesias Jemir.png</File>
     </Channel>
     <Channel>
       <Item Name="ImaginAsian">
@@ -5161,6 +5218,9 @@
       <Item Name="55-3 WPXEDT3">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
       </Item>
+      <Item Name="68.3 IONL">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="ION Life">
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
@@ -5209,6 +5269,9 @@
       </Item>
       <Item Name="55-1 WPXEDT">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
+      </Item>
+      <Item Name="68.1 ION HD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
       </Item>
       <Item Name="787 KPXMDT">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
@@ -5407,6 +5470,18 @@
       <File>Justice Central.png</File>
     </Channel>
     <Channel>
+      <Item Name="8.3 JN">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="JN">
+        <Provider />
+      </Item>
+      <Item Name="Justice Network">
+        <Provider />
+      </Item>
+      <File>Justice Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KABC">
         <Provider />
       </Item>
@@ -5596,13 +5671,28 @@
       <File>KCSO-LD.png</File>
     </Channel>
     <Channel>
+      <Item Name="33.1 KDAFHD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KDAF">
+        <Provider />
+      </Item>
+      <Item Name="KDAFHD">
+        <Provider />
+      </Item>
+      <File>KDAF.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KDAY">
         <Provider />
       </Item>
       <File>KDAY.png</File>
     </Channel>
     <Channel>
-      <Item Name="KDFW">
+      <Item Name="4.1 KDFWD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KDFWD">
         <Provider />
       </Item>
       <File>KDFW.png</File>
@@ -5653,13 +5743,31 @@
       <File>KEMO.png</File>
     </Channel>
     <Channel>
+      <Item Name="27.1 KDFID">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KDFI">
+        <Provider />
+      </Item>
+      <Item Name="KDFID">
+        <Provider />
+      </Item>
+      <File>KDFI.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KICU-SD">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
       <File>KEMS.png</File>
     </Channel>
     <Channel>
+      <Item Name="13.1 KERAH">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="KERA">
+        <Provider />
+      </Item>
+      <Item Name="KERAH">
         <Provider />
       </Item>
       <File>KERA.png</File>
@@ -6069,6 +6177,18 @@
       <File>KTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="11.1 KTVTD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KTVT">
+        <Provider />
+      </Item>
+      <Item Name="KTVTD">
+        <Provider />
+      </Item>
+      <File>KTVT.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTVU-HD">
         <Provider>OTA (California, Sacramento)</Provider>
         <Provider>OTA (California, San Francisco)</Provider>
@@ -6079,7 +6199,13 @@
       <File>KTVU.png</File>
     </Channel>
     <Channel>
+      <Item Name="21.1 KTXAD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="KTXA">
+        <Provider />
+      </Item>
+      <Item Name="KTXAD">
         <Provider />
       </Item>
       <File>KTXA.png</File>
@@ -6125,6 +6251,21 @@
         <Provider />
       </Item>
       <File>KUSA.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KUVN">
+        <Provider />
+      </Item>
+      <File>KUVN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="23.2 Bounce">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KUVN-DT2">
+        <Provider />
+      </Item>
+      <File>KUVN-DT2.png</File>
     </Channel>
     <Channel>
       <Item Name="KUVS-DT">
@@ -6202,10 +6343,19 @@
       <File>KWCM.png</File>
     </Channel>
     <Channel>
-      <Item Name="KWGN">
+      <Item Name="5.1 NBC5HD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="KXAS">
         <Provider />
       </Item>
-      <File>KWGN.png</File>
+      <File>KXAS.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KXLA">
+        <Provider />
+      </Item>
+      <File>KXLA.png</File>
     </Channel>
     <Channel>
       <Item Name="KXJB - CBS">
@@ -6278,6 +6428,9 @@
       <File>Latele Novela.png</File>
     </Channel>
     <Channel>
+      <Item Name="23.4 Laff">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Laff">
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
@@ -6669,6 +6822,9 @@
       <File>Mega.png</File>
     </Channel>
     <Channel>
+      <Item Name="21.2 MeTV">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="23.3">
         <Provider>OTA (Illinois, Chicago)</Provider>
       </Item>
@@ -6880,6 +7036,9 @@
       <File>Movies Ok.png</File>
     </Channel>
     <Channel>
+      <Item Name="27.2 Movie">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="388 WFTCDT4">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -8074,6 +8233,12 @@
       <File>Nicktoons.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nicktoons HD">
+        <Provider />
+      </Item>
+      <File>Nicktoons HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nile Drama">
         <Provider />
       </Item>
@@ -8669,6 +8834,9 @@
       <Item Name="55-2 WPXEDT2">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
       </Item>
+      <Item Name="68.2 qubo">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="ION QUBO">
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
@@ -8836,6 +9004,9 @@
       <File>Retirement Living.png</File>
     </Channel>
     <Channel>
+      <Item Name="31.4 TV31.4">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="RetroTV">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
@@ -8851,7 +9022,13 @@
       <File>Retroplex.png</File>
     </Channel>
     <Channel>
+      <Item Name="26.4 Revn">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="Rev'n">
+        <Provider />
+      </Item>
+      <Item Name="Revn">
         <Provider />
       </Item>
       <File>Revn.png</File>
@@ -10331,6 +10508,12 @@
       <File>The Ski Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="The Splat">
+        <Provider />
+      </Item>
+      <File>The Splat.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Walk TV">
         <Provider />
       </Item>
@@ -10429,6 +10612,9 @@
       <Item Name="27-3 WKOWDT3">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
       </Item>
+      <Item Name="33.3 This">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="385 KSTCDT4">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -10504,29 +10690,16 @@
       <Item Name="280 TLCHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
-      <Item Name="764 TLCHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="The Learning Channel HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="TLC HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <Item Name="TLCHD  TLC HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="TLCHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <File>TLC HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="42 TLC">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
+      <Item Name="764 TLCHD">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="The Learning Channel">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="The Learning Channel HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="TLC">
@@ -10534,6 +10707,16 @@
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="TLC    TLC">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="TLC HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="TLCHD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="TLCHD  TLC HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>TLC.png</File>
@@ -11134,6 +11317,9 @@
       <File>U Too.png</File>
     </Channel>
     <Channel>
+      <Item Name="47.2 UAN">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="UANetwork TV">
         <Provider />
       </Item>
@@ -11990,6 +12176,18 @@
         <Provider />
       </Item>
       <File>WETK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="8.1 WFAAD">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
+      <Item Name="WFAA">
+        <Provider />
+      </Item>
+      <Item Name="WFAAD">
+        <Provider />
+      </Item>
+      <File>WFAA.png</File>
     </Channel>
     <Channel>
       <Item Name="WFDC">
@@ -12852,8 +13050,14 @@
       <Item Name="10-2 World">
         <Provider>OTA SD (Wisconsin, Watertown)</Provider>
       </Item>
+      <Item Name="13.2 KERAW">
+        <Provider>OTA XMLTV (Texas, Dallas–Fort Worth)</Provider>
+      </Item>
       <Item Name="GBX-WORLD-DT">
         <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="KERAW">
+        <Provider />
       </Item>
       <Item Name="KFME-DT2 - PBS">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
@@ -13520,7 +13724,7 @@
       <Item Name="American Life TV">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
-      <File>Youtoo TV.png</File>
+      <File>Youtoo America.png</File>
     </Channel>
     <Channel>
       <Item Name="Yoyo TV">
