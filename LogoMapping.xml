@@ -3480,6 +3480,12 @@
       <File>Florida Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="FM">
+        <Provider />
+      </Item>
+      <File>FM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Food Food">
         <Provider />
       </Item>
@@ -4042,28 +4048,25 @@
       <File>Funimation Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="339 FUSE">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
       <Item Name="878 FUSEHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="FUSE">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="FUSE (HD)">
+        <Provider>FiOS (New York, New York City)</Provider>
       </Item>
       <Item Name="FUSE HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
-      <Item Name="FUSE (HD)">
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
       <Item Name="FUSE HD FUSE HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>FUSE HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="339 FUSE">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="FUSE">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>FiOS (New York, New York City)</Provider>
       </Item>
       <Item Name="FUSE TV">
         <Provider>Charter (North Carolina, Sanford)</Provider>
@@ -4071,7 +4074,7 @@
       <Item Name="FUSE   FUSE">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <File>FUSE.png</File>
+      <File>Fuse.png</File>
     </Channel>
     <Channel>
       <Item Name="Fusion">
@@ -8327,12 +8330,6 @@
         <Provider />
       </Item>
       <File>Nuestra Tele.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="NuvoTV">
-        <Provider />
-      </Item>
-      <File>NuvoTV.png</File>
     </Channel>
     <Channel>
       <Item Name="NY1">
