@@ -4092,7 +4092,7 @@
       <Item Name="FUSE   FUSE">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <File>Fuse.png</File>
+      <File>FUSE.png</File>
     </Channel>
     <Channel>
       <Item Name="Fusion">
