@@ -918,6 +918,17 @@
       <File>BET Hip-Hop.png</File>
     </Channel>
     <Channel>
+      <Item Name="BET Jams">
+        <Provider />
+      <File>BET Jams.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BET Soul">
+        <Provider />
+      </Item>
+      <File>BET Soul.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BET">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
@@ -2023,6 +2034,11 @@
         <Provider>FiOS (New York, New York City)</Provider>
       </Item>
       <File>Comedy.TV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Comet">
+        <Provider />
+      <File>Comet.png</File>
     </Channel>
     <Channel>
       <Item Name="Concert TV">
@@ -3721,45 +3737,6 @@
       <File>Fox Soccer Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox Sports 1">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Fox Sports 1 HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="FS1">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="FS1HD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="FS1____Fox Sports 1">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="FS1HD__Fox Sports 1 HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="FS1 HD">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>Fox Sports 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Fox Sports 2">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="FS2">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="FS2HD">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>Fox Sports 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Fox Sports Arizona HD">
         <Provider />
       </Item>
@@ -4034,6 +4011,45 @@
         <Provider />
       </Item>
       <File>Frost Great Outdoors.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports 1">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Fox Sports 1 HD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="FS1">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="FS1HD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="FS1____Fox Sports 1">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="FS1HD__Fox Sports 1 HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="FS1 HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <File>FS1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fox Sports 2">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="FS2">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="FS2HD">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <File>FS2.png</File>
     </Channel>
     <Channel>
       <Item Name="Fujian Straits TV">
@@ -7201,21 +7217,6 @@
       <File>MTV Hits.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV India">
-        <Provider />
-      </Item>
-      <File>MTV India.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MTV Jams">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="MTVJ   MTV JAMS">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>MTV Jams.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MTV TR3S   MTV3">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -7250,6 +7251,9 @@
       </Item>
       <Item Name="MTV - Music Television">
         <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="MTV India">
+        <Provider />
       </Item>
       <File>MTV.png</File>
     </Channel>
@@ -10226,28 +10230,13 @@
       <File>TBN.png</File>
     </Channel>
     <Channel>
+      <Item Name="15 TBS">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="247 TBSHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
       <Item Name="767 TBSHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="TBS HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="TBSHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="TBSHD  TBS HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="WOW TBSHD Chicago B/O">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>TBS HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="15 TBS">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="TBS">
@@ -10256,10 +10245,22 @@
       <Item Name="TBS    TBS">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
+      <Item Name="TBS HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="TBSCHBO">
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
+      <Item Name="TBSHD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="TBSHD  TBS HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
       <Item Name="WOW TBS Chicago B/O">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="WOW TBSHD Chicago B/O">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <File>TBS.png</File>
@@ -11579,15 +11580,6 @@
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
       <File>VH1 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="VH1SO  VH1 Soul">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="VH-1 Soul">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <File>VH1 Soul.png</File>
     </Channel>
     <Channel>
       <Item Name="VH1">
