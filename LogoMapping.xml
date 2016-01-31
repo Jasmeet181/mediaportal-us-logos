@@ -920,6 +920,7 @@
     <Channel>
       <Item Name="BET Jams">
         <Provider />
+      </Item>
       <File>BET Jams.png</File>
     </Channel>
     <Channel>
@@ -2038,6 +2039,7 @@
     <Channel>
       <Item Name="Comet">
         <Provider />
+      </Item>
       <File>Comet.png</File>
     </Channel>
     <Channel>
