@@ -1473,25 +1473,22 @@
       <Item Name="221 CBSSNHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
-      <Item Name="CBS Sports Network HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
+      <Item Name="CBS C  CBS COLLEGE SPORTS TELEVISION">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <Item Name="CBS CS HD CBS COLLEGE SPORTS HD">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
-      <File>CBS Sports Network HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="CBS Sports Network">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="CBS Sports Network HD">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="CBS Sports Ntwk">
         <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <Item Name="CBS C  CBS COLLEGE SPORTS TELEVISION">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>CBS Sports Network.png</File>
     </Channel>
@@ -9917,10 +9914,10 @@
       <File>Star Chinese Movies.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star Chinese">
+      <Item Name="Star Chinese Channel">
         <Provider />
       </Item>
-      <File>Star Chinese.png</File>
+      <File>Star Chinese Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Gold HD">
