@@ -7216,6 +7216,12 @@
       <File>MTV Hits.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTV Live">
+        <Provider />
+      </Item>
+      <File>MTV Live.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MTV TR3S   MTV3">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -8495,19 +8501,6 @@
         <Provider />
       </Item>
       <File>Pacvia TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="572 PLDHD">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="Palladia">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Palladia HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <File>Palladia.png</File>
     </Channel>
     <Channel>
       <Item Name="Pasiones">
