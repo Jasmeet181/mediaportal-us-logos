@@ -10763,25 +10763,10 @@
       <Item Name="245 TNTHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
-      <Item Name="797 TNTHD">
+      <Item Name="40 TNT">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
-      <Item Name="TNTHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="TNTHD  TNT HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="TNT HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Turner Network TV HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>TNT HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="40 TNT">
+      <Item Name="797 TNTHD">
         <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
       </Item>
       <Item Name="TNT">
@@ -10791,7 +10776,19 @@
       <Item Name="TNT    TNT">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
+      <Item Name="TNT HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="TNTHD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="TNTHD  TNT HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
       <Item Name="Turner Network TV">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="Turner Network TV HD">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
       <File>TNT.png</File>
