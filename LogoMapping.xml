@@ -3991,7 +3991,13 @@
       <Item Name="KCSMF24">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
-      <File>France 24.png</File>
+      <File>France 24 English.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24 Francais">
+        <Provider />
+      </Item>
+      <File>France 24 Francais.png</File>
     </Channel>
     <Channel>
       <Item Name="348 FSTV">
