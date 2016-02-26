@@ -9084,6 +9084,12 @@
       <File>RT.png</File>
     </Channel>
     <Channel>
+      <Item Name="RT America">
+        <Provider />
+      </Item>
+      <File>RT America.png</File>
+    </Channel>
+    <Channel>
       <Item Name="RTP Internacional">
         <Provider />
       </Item>
