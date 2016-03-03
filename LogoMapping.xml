@@ -3349,12 +3349,6 @@
       <File>Evine Live.png</File>
     </Channel>
     <Channel>
-      <Item Name="EWTN HD">
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>EWTN HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="370 EWTN">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -3367,6 +3361,9 @@
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="EWTN en Esp">
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="EWTN HD">
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
       <Item Name="EWTN   EWTN">
