@@ -4484,29 +4484,6 @@
       <File>Guide US TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="768 H2HD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="H2 HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="H2HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>H2 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="H2">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <File>H2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="312 HALLHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -11594,6 +11571,12 @@
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
       <File>VH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viceland">
+        <Provider />
+      </Item>
+      <File>Viceland.png</File>
     </Channel>
     <Channel>
       <Item Name="Video Rola">
