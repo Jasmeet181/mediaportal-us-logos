@@ -4269,6 +4269,12 @@
       <File>Gemini TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Gemporia">
+        <Provider />
+      </Item>
+      <File>Gemporia.png</File>
+    </Channel>
+    <Channel>
       <Item Name="GEO News">
         <Provider />
       </Item>
@@ -9026,12 +9032,6 @@
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>Ritmoson Latino.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Rocks TV">
-        <Provider />
-      </Item>
-      <File>Rocks TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Root Sports">
