@@ -3562,6 +3562,12 @@
       <File>FOROtv.png</File>
     </Channel>
     <Channel>
+      <Item Name="FOROtv HD">
+        <Provider />
+      </Item>
+      <File>FOROtv HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FBN">
         <Provider>WOW! (Illinois, Chicago)</Provider>
       </Item>
