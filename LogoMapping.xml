@@ -1536,7 +1536,7 @@
       <Item Name="KICUSD2">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
-      <File>CCTV-News.png</File>
+      <File>CCTV News.png</File>
     </Channel>
     <Channel>
       <Item Name="BETJ (Centric)">
