@@ -329,15 +329,6 @@
       <File>Al Hayat.png</File>
     </Channel>
     <Channel>
-      <Item Name="347 AJAM">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="AJAM    Al Jazeera America">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>Al Jazeera America.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Al Jazeera">
         <Provider />
       </Item>
@@ -7180,6 +7171,12 @@
       <File>MSU Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTV Classic">
+        <Provider />
+      </Item>
+      <File>MTV Classic.png</File>
+    </Channel>
+    <Channel>
       <Item Name="331 MTVHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -11509,21 +11506,6 @@
       <File>Veria Living.png</File>
     </Channel>
     <Channel>
-      <Item Name="38 VH1">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="VH1CL">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="VH1CR  VH1 Classic">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="VH-1 Classic">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <File>VH1 Classic.png</File>
-    </Channel>
-    <Channel>
       <Item Name="335 VH1HD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -11544,6 +11526,9 @@
       <File>VH1 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="38 VH1">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
       <Item Name="VH1">
         <Provider>WOW! (Illinois, Chicago)</Provider>
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
