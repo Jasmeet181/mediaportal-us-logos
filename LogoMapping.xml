@@ -3550,13 +3550,7 @@
       <Item Name="FORO TV SD">
         <Provider>Charter (North Carolina, Sanford)</Provider>
       </Item>
-      <File>FOROtv.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="FOROtv HD">
-        <Provider />
-      </Item>
-      <File>FOROtv HD.png</File>
+      <File>ForoTV.png</File>
     </Channel>
     <Channel>
       <Item Name="FBN">
