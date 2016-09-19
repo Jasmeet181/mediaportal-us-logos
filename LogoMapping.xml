@@ -150,41 +150,6 @@
       <File>ABS-CBN News Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="311 ABCFHD">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="732 ABCFHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="ABC Family HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="ABCFHD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="FAMHD  ABC Family HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>ABC Family HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="36 ABCF">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="ABC Family">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="ABCF">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="FAM    FAMILY">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <File>ABC Family.png</File>
-    </Channel>
-    <Channel>
       <Item Name="ABC HD">
         <Provider />
       </Item>
@@ -1314,12 +1279,6 @@
         <Provider />
       </Item>
       <File>Canal 58.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Canal de las Estrellas">
-        <Provider />
-      </Item>
-      <File>Canal de las Estrellas.png</File>
     </Channel>
     <Channel>
       <Item Name="447 CANAL11">
@@ -3994,6 +3953,12 @@
       <File>Free Speech TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Freeform">
+        <Provider />
+      </Item>
+      <File>Freeform.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Fresh!">
         <Provider>Charter (Minnesota, Minneapolis)</Provider>
       </Item>
@@ -6438,6 +6403,12 @@
       <File>Laff.png</File>
     </Channel>
     <Channel>
+      <Item Name="Las Estrellas">
+        <Provider />
+      </Item>
+      <File>Las Estrellas.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTVU-SD">
         <Provider>OTA (California, San Francisco)</Provider>
       </Item>
@@ -7125,6 +7096,12 @@
       <File>MSG.png</File>
     </Channel>
     <Channel>
+      <Item Name="MSG Western New York">
+        <Provider />
+      </Item>
+      <File>MSG Western New York.png</File>
+    </Channel>
+    <Channel>
       <Item Name="356 MNBCHD">
         <Provider>DirectTV SD (Illinois, Chicago)</Provider>
       </Item>
@@ -7191,18 +7168,6 @@
         <Provider>WOW! SD (Illinois, Chicago)</Provider>
       </Item>
       <File>MTV HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MTV Hits">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="MTVH   MTV HITS">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="MTVHIT">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>MTV Hits.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Live">
@@ -8216,6 +8181,12 @@
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
       <File>Nickelodeon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NickMusic">
+        <Provider />
+      </Item>
+      <File>NickMusic.png</File>
     </Channel>
     <Channel>
       <Item Name="106 NIKTON">
