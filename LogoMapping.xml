@@ -2406,6 +2406,50 @@
       <File>DirecTV Sports Mix.png</File>
     </Channel>
     <Channel>
+      <Item Name="278 DSCHD">
+        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="47 DSC">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="791 DSCHD">
+        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="DSC">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="DSC    DISCOVERY">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="DSCHD">
+        <Provider>WOW! SD (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="DSCHD  Discovery HD">
+        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
+      </Item>
+      <Item Name="Discovery">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+      </Item>
+      <Item Name="Discovery Channel">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Discovery Channel HD">
+        <Provider>Charter (Minnesota, Minneapolis)</Provider>
+        <Provider>Charter (North Carolina, Sanford)</Provider>
+      </Item>
+      <Item Name="Discovery HD">
+        <Provider>FiOS (New York, New York City)</Provider>
+      </Item>
+      <Item Name="The Discovery Channel">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <Item Name="The Discovery Channel HD">
+        <Provider>WOW! (Illinois, Chicago)</Provider>
+      </Item>
+      <File>Discovery Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="DSCES  DISC ESPANOL">
         <Provider>Comcast (Michigan, Ann Arbor)</Provider>
       </Item>
@@ -2424,31 +2468,6 @@
       <File>Discovery Family.png</File>
     </Channel>
     <Channel>
-      <Item Name="278 DSCHD">
-        <Provider>DirectTV SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="791 DSCHD">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="DSCHD">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="Discovery Channel HD">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="Discovery HD">
-        <Provider>FiOS (New York, New York City)</Provider>
-      </Item>
-      <Item Name="DSCHD  Discovery HD">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="The Discovery Channel HD">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>Discovery HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Discovery Life">
         <Provider />
       </Item>
@@ -2459,28 +2478,6 @@
         <Provider />
       </Item>
       <File>Discovery Showcase HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="47 DSC">
-        <Provider>Charter SD (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="DSC">
-        <Provider>WOW! SD (Illinois, Chicago)</Provider>
-      </Item>
-      <Item Name="DSC    DISCOVERY">
-        <Provider>Comcast (Michigan, Ann Arbor)</Provider>
-      </Item>
-      <Item Name="Discovery">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-      </Item>
-      <Item Name="Discovery Channel">
-        <Provider>Charter (Minnesota, Minneapolis)</Provider>
-        <Provider>Charter (North Carolina, Sanford)</Provider>
-      </Item>
-      <Item Name="The Discovery Channel">
-        <Provider>WOW! (Illinois, Chicago)</Provider>
-      </Item>
-      <File>Discovery.png</File>
     </Channel>
     <Channel>
       <Item Name="290 DISNHD">
