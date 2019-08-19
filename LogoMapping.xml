@@ -1,0 +1,3482 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+<!-- ******************************************************************** -->
+	<TV>
+		<Channel>
+			<Item Name="3ABN Dare to Dream" />
+			<File>3ABN Dare to Dream.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Kids Network" />
+			<File>3ABN Kids Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Latino Network" />
+			<File>3ABN Latino Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Praise Him Music Network" />
+			<File>3ABN Praise Him Music Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Proclaim" />
+			<File>3ABN Proclaim.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN" />
+			<File>3ABN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="4KUniverse" />
+			<File>4KUniverse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="5StarMax" />
+			<File>5StarMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A&E HD" />
+			<File>AandE HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="A&E" />
+			<File>AandE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aapka Colors" />
+			<File>Aapka Colors.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC HD" />
+			<File>ABC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABC" />
+			<File>ABC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABS-CBN News Channel" />
+			<File>ABS-CBN News Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ABS-CBN S + A" />
+			<File>ABS-CBN S and A.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ACC Network Extra" />
+			<File>ACC Network Extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ACC Network" />
+			<File>ACC Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AccuWeather" />
+			<File>AccuWeather.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ActionMax" />
+			<File>ActionMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Adult Swim" />
+			<File>Adult Swim.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Africa Box Office" />
+			<File>Africa Box Office.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Afro" />
+			<File>Afro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Almavision" />
+			<File>Almavision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Altitude 2" />
+			<File>Altitude 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Altitude Sports and Entertainment" />
+			<File>Altitude Sports and Entertainment.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AMC" />
+			<File>AMC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="American Heroes Channel" />
+			<File>American Heroes Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AMG TV" />
+			<File>AMG TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet HD" />
+			<File>Animal Planet HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Animal Planet" />
+			<File>Animal Planet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ANT1" />
+			<File>ANT1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antena3" />
+			<File>Antena3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antenna TV" />
+			<File>Antenna TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arirang HD" />
+			<File>Arirang HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arirang" />
+			<File>Arirang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arizona NewsChannel" />
+			<File>Arizona NewsChannel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="As Seen On TV" />
+			<File>As Seen On TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aspire TV" />
+			<File>Aspire TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AT&T SportsNet" />
+			<File>ATandT SportsNet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Atreseries" />
+			<File>Atreseries.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Audience" />
+			<File>Audience.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AWE" />
+			<File>AWE.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Axs TV" />
+			<File>Axs TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="AYM Sports" />
+			<File>AYM Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Azteca America" />
+			<File>Azteca America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Baby First TV" />
+			<File>Baby First TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BabyTV Español" />
+			<File>BabyTV Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BabyTV" />
+			<File>BabyTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Band Internacional" />
+			<File>Band Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BandNews TV" />
+			<File>BandNews TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bang U" />
+			<File>Bang U.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC America HD" />
+			<File>BBC America HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC America" />
+			<File>BBC America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World News HD" />
+			<File>BBC World News HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World News" />
+			<File>BBC World News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BCAN" />
+			<File>BCAN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BCSN 2" />
+			<File>BCSN 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BCSN" />
+			<File>BCSN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Beauty iQ" />
+			<File>Beauty iQ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports Español" />
+			<File>Bein Sports Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bein Sports" />
+			<File>Bein Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Believers Voice of Victory Network" />
+			<File>Believers Voice of Victory Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET Gospel" />
+			<File>BET Gospel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET Her" />
+			<File>BET Her.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET Hip-Hop" />
+			<File>BET Hip-Hop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET Jams" />
+			<File>BET Jams.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET Soul" />
+			<File>BET Soul.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BET" />
+			<File>BET.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Big Ten Network" />
+			<File>Big Ten Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BizTV" />
+			<File>BizTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Blackbelt TV" />
+			<File>Blackbelt TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BlazeTV" />
+			<File>BlazeTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bloomberg Television" />
+			<File>Bloomberg Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bonjour America TV" />
+			<File>Bonjour America TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang HD" />
+			<File>Boomerang HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Boomerang" />
+			<File>Boomerang.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bounce TV" />
+			<File>Bounce TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bravo" />
+			<File>Bravo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Brazzers TV" />
+			<File>Brazzers TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Buzzr" />
+			<File>Buzzr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BYU TV" />
+			<File>BYU TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C-SPAN" />
+			<File>C-SPAN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C-SPAN2" />
+			<File>C-SPAN2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="C-SPAN3" />
+			<File>C-SPAN3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal 22" />
+			<File>Canal 22.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canal Once" />
+			<File>Canal Once.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Caracol Internacional" />
+			<File>Caracol Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cars.TV" />
+			<File>Cars.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network HD" />
+			<File>Cartoon Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cartoon Network" />
+			<File>Cartoon Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Catholic Faith Network" />
+			<File>Catholic Faith Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBN News Channel" />
+			<File>CBN News Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBS Sports Network" />
+			<File>CBS Sports Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBS" />
+			<File>CBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CCTV-4" />
+			<File>CCTV-4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CentroamericaTV" />
+			<File>CentroamericaTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN America" />
+			<File>CGTN America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CGTN Español" />
+			<File>CGTN Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Channel One Russia" />
+			<File>Channel One Russia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Charge" />
+			<File>Charge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cheddar" />
+			<File>Cheddar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Chicagoland Television" />
+			<File>Chicagoland Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Christian Television Network" />
+			<File>Christian Television Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine Estelar" />
+			<File>Cine Estelar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine Latino" />
+			<File>Cine Latino.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine Mexicano" />
+			<File>Cine Mexicano.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine Nostalgia" />
+			<File>Cine Nostalgia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cine Sony" />
+			<File>Cine Sony.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cinema One Global" />
+			<File>Cinema One Global.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cinemax HD" />
+			<File>Cinemax HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cinemax" />
+			<File>Cinemax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cinemoi North America" />
+			<File>Cinemoi North America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cinemáx" />
+			<File>Cinemáx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classic Arts Showcase" />
+			<File>Classic Arts Showcase.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cleo TV" />
+			<File>Cleo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CMT Music" />
+			<File>CMT Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CMT" />
+			<File>CMT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC HD" />
+			<File>CNBC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC World" />
+			<File>CNBC World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC" />
+			<File>CNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN Airport" />
+			<File>CNN Airport.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN en Español" />
+			<File>CNN en Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN HD" />
+			<File>CNN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN International" />
+			<File>CNN International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN" />
+			<File>CNN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central HD" />
+			<File>Comedy Central HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central" />
+			<File>Comedy Central.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy.TV" />
+			<File>Comedy.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comet" />
+			<File>Comet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cooking Channel HD" />
+			<File>Cooking Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cooking Channel" />
+			<File>Cooking Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cornerstone Television" />
+			<File>Cornerstone Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Court TV" />
+			<File>Court TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cowboy Channel" />
+			<File>Cowboy Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cox Sports Television" />
+			<File>Cox Sports Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Cozi TV" />
+			<File>Cozi TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Create and Craft" />
+			<File>Create and Craft.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Create" />
+			<File>Create.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Crime + Investigation HD" />
+			<File>Crime and Investigation HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Crime + Investigation" />
+			<File>Crime and Investigation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTi TV" />
+			<File>CTi TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTS" />
+			<File>CTS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Daystar HD" />
+			<File>Daystar HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Daystar" />
+			<File>Daystar.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="De Pelicula Clasico" />
+			<File>De Pelicula Clasico.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="De Pelicula" />
+			<File>De Pelicula.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Decades" />
+			<File>Decades.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Destination America" />
+			<File>Destination America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deutsche Welle" />
+			<File>Deutsche Welle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DirecTV Cinema" />
+			<File>DirecTV Cinema.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery en Español" />
+			<File>Discovery en Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Familia" />
+			<File>Discovery Familia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Family" />
+			<File>Discovery Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery Life" />
+			<File>Discovery Life.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery" />
+			<File>Discovery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dish Studio" />
+			<File>Dish Studio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel HD" />
+			<File>Disney Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Channel" />
+			<File>Disney Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Junior HD" />
+			<File>Disney Junior HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney Junior" />
+			<File>Disney Junior.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD HD" />
+			<File>Disney XD HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Disney XD" />
+			<File>Disney XD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DIY Network HD" />
+			<File>DIY Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DIY Network" />
+			<File>DIY Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Diya TV" />
+			<File>Diya TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Doctor Television Channel" />
+			<File>Doctor Television Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DogTV" />
+			<File>DogTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Dom Kino" />
+			<File>Dom Kino.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="DZMM" />
+			<File>DZMM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E HD" />
+			<File>E HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E" />
+			<File>E.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EBS" />
+			<File>EBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ecuador TV Internacional" />
+			<File>Ecuador TV Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ecuavisa" />
+			<File>Ecuavisa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="El Rey Network" />
+			<File>El Rey Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Eleven Sports" />
+			<File>Eleven Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Enlace" />
+			<File>Enlace.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Epix 2" />
+			<File>Epix 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Epix Drive-In" />
+			<File>Epix Drive-In.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Epix Hits" />
+			<File>Epix Hits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Epix" />
+			<File>Epix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Escape" />
+			<File>Escape.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN 2 HD" />
+			<File>ESPN 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN 2" />
+			<File>ESPN 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN 3" />
+			<File>ESPN 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Bases Loaded" />
+			<File>ESPN Bases Loaded.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Classic" />
+			<File>ESPN Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN College Extra" />
+			<File>ESPN College Extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Deportes" />
+			<File>ESPN Deportes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Goal Line" />
+			<File>ESPN Goal Line.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN HD" />
+			<File>ESPN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN U" />
+			<File>ESPN U.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN" />
+			<File>ESPN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPNews" />
+			<File>ESPNews.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Estrella TV" />
+			<File>Estrella TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Evine" />
+			<File>Evine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EWTN" />
+			<File>EWTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FETV" />
+			<File>FETV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="First Nations Experience" />
+			<File>First Nations Experience.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Flix" />
+			<File>Flix.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FM" />
+			<File>FM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Food Network" />
+			<File>Food Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ForoTV" />
+			<File>ForoTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Business Network" />
+			<File>Fox Business Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox College Sports" />
+			<File>Fox College Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Deportes" />
+			<File>Fox Deportes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox HD" />
+			<File>Fox HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Life" />
+			<File>Fox Life.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox News Channel" />
+			<File>Fox News Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox News HD" />
+			<File>Fox News HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Soccer Plus HD" />
+			<File>Fox Soccer Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Soccer Plus" />
+			<File>Fox Soccer Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Arizona HD" />
+			<File>Fox Sports Arizona HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Arizona" />
+			<File>Fox Sports Arizona.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Carolinas HD" />
+			<File>Fox Sports Carolinas HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Carolinas" />
+			<File>Fox Sports Carolinas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Detroit HD" />
+			<File>Fox Sports Detroit HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Detroit Plus" />
+			<File>Fox Sports Detroit Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Detroit" />
+			<File>Fox Sports Detroit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Florida HD" />
+			<File>Fox Sports Florida HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Florida Plus" />
+			<File>Fox Sports Florida Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Florida" />
+			<File>Fox Sports Florida.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Indiana HD" />
+			<File>Fox Sports Indiana HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Indiana" />
+			<File>Fox Sports Indiana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Kansas City HD" />
+			<File>Fox Sports Kansas City HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Kansas City" />
+			<File>Fox Sports Kansas City.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Midwest HD" />
+			<File>Fox Sports Midwest HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Midwest" />
+			<File>Fox Sports Midwest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports New Orleans Plus" />
+			<File>Fox Sports New Orleans Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports New Orleans" />
+			<File>Fox Sports New Orleans.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports North HD" />
+			<File>Fox Sports North HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports North Plus" />
+			<File>Fox Sports North Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports North" />
+			<File>Fox Sports North.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Ohio HD" />
+			<File>Fox Sports Ohio HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Ohio" />
+			<File>Fox Sports Ohio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Oklahoma HD" />
+			<File>Fox Sports Oklahoma HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Oklahoma" />
+			<File>Fox Sports Oklahoma.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Prime Ticket" />
+			<File>Fox Sports Prime Ticket.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports San Diego HD" />
+			<File>Fox Sports San Diego HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports San Diego" />
+			<File>Fox Sports San Diego.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports South HD" />
+			<File>Fox Sports South HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports South Plus" />
+			<File>Fox Sports South Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports South" />
+			<File>Fox Sports South.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Southeast" />
+			<File>Fox Sports Southeast.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Southwest HD" />
+			<File>Fox Sports Southwest HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Southwest Plus" />
+			<File>Fox Sports Southwest Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Southwest" />
+			<File>Fox Sports Southwest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Sun" />
+			<File>Fox Sports Sun.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Tennessee HD" />
+			<File>Fox Sports Tennessee HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Tennessee" />
+			<File>Fox Sports Tennessee.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports West HD" />
+			<File>Fox Sports West HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports West" />
+			<File>Fox Sports West.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Wisconsin HD" />
+			<File>Fox Sports Wisconsin HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports Wisconsin" />
+			<File>Fox Sports Wisconsin.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports" />
+			<File>Fox Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox" />
+			<File>Fox.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - English" />
+			<File>France 24 - English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Free Speech TV" />
+			<File>Free Speech TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Freeform HD" />
+			<File>Freeform HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Freeform" />
+			<File>Freeform.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Frost Great Outdoors" />
+			<File>Frost Great Outdoors.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FS1" />
+			<File>FS1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FS2" />
+			<File>FS2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fubo Cycling" />
+			<File>Fubo Cycling.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fuse" />
+			<File>Fuse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fusion" />
+			<File>Fusion.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FX HD" />
+			<File>FX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FX Movie Channel HD" />
+			<File>FX Movie Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FX Movie Channel" />
+			<File>FX Movie Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FX" />
+			<File>FX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FXM Retro" />
+			<File>FXM Retro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FXX HD" />
+			<File>FXX HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FXX" />
+			<File>FXX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FYI" />
+			<File>FYI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Galavision" />
+			<File>Galavision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Game Show Network" />
+			<File>Game Show Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GEB America" />
+			<File>GEB America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gem Shopping Network" />
+			<File>Gem Shopping Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GetTV" />
+			<File>GetTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Globo" />
+			<File>Globo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GMA Life TV" />
+			<File>GMA Life TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="GMA Pinoy TV" />
+			<File>GMA Pinoy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="God TV" />
+			<File>God TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gods Learning Channel" />
+			<File>Gods Learning Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Gol TV" />
+			<File>Gol TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Golf Channel HD" />
+			<File>Golf Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Golf Channel" />
+			<File>Golf Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Great American Country" />
+			<File>Great American Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Grit" />
+			<File>Grit.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hallmark Channel" />
+			<File>Hallmark Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hallmark Drama" />
+			<File>Hallmark Drama.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hallmark Movies & Mysteries" />
+			<File>Hallmark Movies and Mysteries.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO 2 HD" />
+			<File>HBO 2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO 2" />
+			<File>HBO 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Comedy" />
+			<File>HBO Comedy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Family" />
+			<File>HBO Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Latino" />
+			<File>HBO Latino.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Signature" />
+			<File>HBO Signature.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO Zone" />
+			<File>HBO Zone.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBO" />
+			<File>HBO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HDNet Movies" />
+			<File>HDNet Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heartland" />
+			<File>Heartland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Here TV" />
+			<File>Here TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heroes & Icons" />
+			<File>Heroes and Icons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV HD" />
+			<File>HGTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV" />
+			<File>HGTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hillsong Channel" />
+			<File>Hillsong Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History en Español" />
+			<File>History en Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History HD" />
+			<File>History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="History" />
+			<File>History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HITN" />
+			<File>HITN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HLN" />
+			<File>HLN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HolaTV" />
+			<File>HolaTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HonVietTV" />
+			<File>HonVietTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hope Channel" />
+			<File>Hope Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSN 2" />
+			<File>HSN 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HSN" />
+			<File>HSN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hustler TV HD" />
+			<File>Hustler TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hustler TV" />
+			<File>Hustler TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="I24 News English" />
+			<File>I24 News English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ICable News" />
+			<File>ICable News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Idahos Very Own 247" />
+			<File>Idahos Very Own 247.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IFC" />
+			<File>IFC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="In Demand" />
+			<File>In Demand.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="INC TV" />
+			<File>INC TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Indieplex" />
+			<File>Indieplex.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Inmigrante TV" />
+			<File>Inmigrante TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Insp" />
+			<File>Insp.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Investigation Discovery HD" />
+			<File>Investigation Discovery HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Investigation Discovery" />
+			<File>Investigation Discovery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ion Plus" />
+			<File>Ion Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ion Television" />
+			<File>Ion Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IVC Networks" />
+			<File>IVC Networks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jewelry Television" />
+			<File>Jewelry Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jewish Broadbasting Service" />
+			<File>Jewish Broadbasting Service.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jewish Life Television" />
+			<File>Jewish Life Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Juce TV" />
+			<File>Juce TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Justice Central" />
+			<File>Justice Central.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Justice Network" />
+			<File>Justice Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Karusel TV" />
+			<File>Karusel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KBS World HD" />
+			<File>KBS World HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KBS World" />
+			<File>KBS World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTLA" />
+			<File>KTLA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KWGN-TV" />
+			<File>KWGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Laff" />
+			<File>Laff.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LATV" />
+			<File>LATV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lifetime HD" />
+			<File>Lifetime HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lifetime Movies" />
+			<File>Lifetime Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lifetime" />
+			<File>Lifetime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Light TV" />
+			<File>Light TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LinkTV" />
+			<File>LinkTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Little Saigon Radio" />
+			<File>Little Saigon Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Live Well Network" />
+			<File>Live Well Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Local Now" />
+			<File>Local Now.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Logo TV" />
+			<File>Logo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Loma Linda Broadcasting Network" />
+			<File>Loma Linda Broadcasting Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Longhorn Network" />
+			<File>Longhorn Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LRW" />
+			<File>LRW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MASN" />
+			<File>MASN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MAVTV" />
+			<File>MAVTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MBC" />
+			<File>MBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MBN" />
+			<File>MBN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mega TV" />
+			<File>Mega TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MeTV" />
+			<File>MeTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mexicanal" />
+			<File>Mexicanal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MGM HD" />
+			<File>MGM HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MHz WorldView" />
+			<File>MHz WorldView.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MiCasa Network" />
+			<File>MiCasa Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Midco Sports Network" />
+			<File>Midco Sports Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Military History" />
+			<File>Military History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Minnesota Channel" />
+			<File>Minnesota Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLB Extra Innings" />
+			<File>MLB Extra Innings.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLB Network HD" />
+			<File>MLB Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLB Network Strike Zone" />
+			<File>MLB Network Strike Zone.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLB Network" />
+			<File>MLB Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLS Direct Kick" />
+			<File>MLS Direct Kick.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MoreMax" />
+			<File>MoreMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Motor Trend" />
+			<File>Motor Trend.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MovieMax" />
+			<File>MovieMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MoviePlex" />
+			<File>MoviePlex.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Movies" />
+			<File>Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSG Network HD" />
+			<File>MSG Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSG Network" />
+			<File>MSG Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSG Plus HD" />
+			<File>MSG Plus HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSG Plus" />
+			<File>MSG Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSG Western New York" />
+			<File>MSG Western New York.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSNBC" />
+			<File>MSNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Classic" />
+			<File>MTV Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV HD" />
+			<File>MTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV Live" />
+			<File>MTV Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV" />
+			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV2" />
+			<File>MTV2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTVU" />
+			<File>MTVU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Multimedios Television" />
+			<File>Multimedios Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Music Choice" />
+			<File>Music Choice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MyDestination.TV" />
+			<File>MyDestination.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MyNetworkTV" />
+			<File>MyNetworkTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Myx TV" />
+			<File>Myx TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NASA Television" />
+			<File>NASA Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nat Geo Mundo" />
+			<File>Nat Geo Mundo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic HD" />
+			<File>National Geographic HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic Wild HD" />
+			<File>National Geographic Wild HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic Wild" />
+			<File>National Geographic Wild.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="National Geographic" />
+			<File>National Geographic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBA League Pass" />
+			<File>NBA League Pass.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBA TV" />
+			<File>NBA TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC HD" />
+			<File>NBC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Bay Area" />
+			<File>NBC Sports Bay Area.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Boston" />
+			<File>NBC Sports Boston.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports California" />
+			<File>NBC Sports California.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Chicago Plus" />
+			<File>NBC Sports Chicago Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Chicago" />
+			<File>NBC Sports Chicago.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Northwest" />
+			<File>NBC Sports Northwest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Philadelphia Plus" />
+			<File>NBC Sports Philadelphia Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Philadelphia" />
+			<File>NBC Sports Philadelphia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Washington Plus" />
+			<File>NBC Sports Washington Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports Washington" />
+			<File>NBC Sports Washington.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC" />
+			<File>NBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBCSN HD" />
+			<File>NBCSN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBCSN" />
+			<File>NBCSN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NESN HD" />
+			<File>NESN HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NESN" />
+			<File>NESN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NESNPlus" />
+			<File>NESNPlus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="New England Cable News" />
+			<File>New England Cable News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Brooklyn" />
+			<File>News 12 Brooklyn.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Connecticut" />
+			<File>News 12 Connecticut.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Hudson Valley" />
+			<File>News 12 Hudson Valley.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Long Island" />
+			<File>News 12 Long Island.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 New Jersey" />
+			<File>News 12 New Jersey.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 The Bronx" />
+			<File>News 12 The Bronx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Traffic & Weather" />
+			<File>News 12 Traffic and Weather.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Varsity" />
+			<File>News 12 Varsity.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12 Westchester" />
+			<File>News 12 Westchester.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 12" />
+			<File>News 12.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News 9 Now" />
+			<File>News 9 Now.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News Channel Nebraska" />
+			<File>News Channel Nebraska.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="News on 6 Now" />
+			<File>News on 6 Now.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Newsmax TV" />
+			<File>Newsmax TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NewsNet" />
+			<File>NewsNet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NewsWatch 15" />
+			<File>NewsWatch 15.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NFL Network" />
+			<File>NFL Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NFL RedZone" />
+			<File>NFL RedZone.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NFL Sunday Ticket" />
+			<File>NFL Sunday Ticket.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHK World HD" />
+			<File>NHK World HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHK World" />
+			<File>NHK World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHL Center Ice" />
+			<File>NHL Center Ice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHL Network HD" />
+			<File>NHL Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NHL Network" />
+			<File>NHL Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr HD" />
+			<File>Nick Jr HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nick Jr" />
+			<File>Nick Jr.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon HD" />
+			<File>Nickelodeon HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nickelodeon" />
+			<File>Nickelodeon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NickMusic" />
+			<File>NickMusic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nicktoons" />
+			<File>Nicktoons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="North Carolina Channel" />
+			<File>North Carolina Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NRB TV" />
+			<File>NRB TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NTN24" />
+			<File>NTN24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nuestra Vision" />
+			<File>Nuestra Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Olympic Channel" />
+			<File>Olympic Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="One America News Network" />
+			<File>One America News Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OnTV4U" />
+			<File>OnTV4U.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oprah Winfrey Network" />
+			<File>Oprah Winfrey Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oregon Sports Network" />
+			<File>Oregon Sports Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outdoor Channel HD" />
+			<File>Outdoor Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outdoor Channel" />
+			<File>Outdoor Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="OuterMax" />
+			<File>OuterMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outside TV" />
+			<File>Outside TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ovation" />
+			<File>Ovation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Oxygen" />
+			<File>Oxygen.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Arizona" />
+			<File>Pac-12 Arizona.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Bay Area" />
+			<File>Pac-12 Bay Area.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Los Angeles" />
+			<File>Pac-12 Los Angeles.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Mountain" />
+			<File>Pac-12 Mountain.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Network" />
+			<File>Pac-12 Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Oregon" />
+			<File>Pac-12 Oregon.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pac-12 Washington" />
+			<File>Pac-12 Washington.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Paramount Network" />
+			<File>Paramount Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pasiones" />
+			<File>Pasiones.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBJ" />
+			<File>PBJ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS Kids" />
+			<File>PBS Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS" />
+			<File>PBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Peace TV English" />
+			<File>Peace TV English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Peachtree TV HD" />
+			<File>Peachtree TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Peachtree TV" />
+			<File>Peachtree TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Penthouse TV" />
+			<File>Penthouse TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Peru Magico" />
+			<File>Peru Magico.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pets.TV" />
+			<File>Pets.TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PFC" />
+			<File>PFC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Phoenix InfoNews Channel" />
+			<File>Phoenix InfoNews Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Phoenix North America Chinese Channel" />
+			<File>Phoenix North America Chinese Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pittsburgh Cable News Channel" />
+			<File>Pittsburgh Cable News Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pixl" />
+			<File>Pixl.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV en Español" />
+			<File>Playboy TV en Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV HD" />
+			<File>Playboy TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Playboy TV" />
+			<File>Playboy TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pop" />
+			<File>Pop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Primo TV" />
+			<File>Primo TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ProSiebenSat.1 Welt" />
+			<File>ProSiebenSat.1 Welt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pursuit Channel" />
+			<File>Pursuit Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Qubo" />
+			<File>Qubo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Quest" />
+			<File>Quest.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC" />
+			<File>QVC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC2" />
+			<File>QVC2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="QVC3" />
+			<File>QVC3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Korea" />
+			<File>Radio Korea.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Reality Kings TV" />
+			<File>Reality Kings TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Reelz" />
+			<File>Reelz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Retro TV" />
+			<File>Retro TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Retroplex" />
+			<File>Retroplex.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Revn" />
+			<File>Revn.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Revolt" />
+			<File>Revolt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RFD-TV" />
+			<File>RFD-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ride TV" />
+			<File>Ride TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Root Sports" />
+			<File>Root Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RT America" />
+			<File>RT America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTR Planeta" />
+			<File>RTR Planeta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="RTVi" />
+			<File>RTVi.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Russia 24" />
+			<File>Russia 24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SBS Plus" />
+			<File>SBS Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SBS" />
+			<File>SBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SBTN" />
+			<File>SBTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Science" />
+			<File>Science.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SEC Network Plus" />
+			<File>SEC Network Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SEC Network" />
+			<File>SEC Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Shop LC" />
+			<File>Shop LC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Shorts TV HD" />
+			<File>Shorts TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime 2" />
+			<File>Showtime 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Beyond" />
+			<File>Showtime Beyond.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Extreme" />
+			<File>Showtime Extreme.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Family Zone" />
+			<File>Showtime Family Zone.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime HD" />
+			<File>Showtime HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Next" />
+			<File>Showtime Next.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Showcase" />
+			<File>Showtime Showcase.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime Women" />
+			<File>Showtime Women.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Showtime" />
+			<File>Showtime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Smile" />
+			<File>Smile.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Smithsonian Channel HD" />
+			<File>Smithsonian Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Smithsonian Channel" />
+			<File>Smithsonian Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sonlife Broadcasting Network" />
+			<File>Sonlife Broadcasting Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Movie Channel" />
+			<File>Sony Movie Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sorpresa" />
+			<File>Sorpresa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Soul of the South Network" />
+			<File>Soul of the South Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum Bay News 9" />
+			<File>Spectrum Bay News 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum News 13" />
+			<File>Spectrum News 13.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum News NY1" />
+			<File>Spectrum News NY1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum News" />
+			<File>Spectrum News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum Noticias NY1" />
+			<File>Spectrum Noticias NY1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum OC16" />
+			<File>Spectrum OC16.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum Sports" />
+			<File>Spectrum Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spectrum SportsNet LA" />
+			<File>Spectrum SportsNet LA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spice" />
+			<File>Spice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sportsman Channel" />
+			<File>Sportsman Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SportsNet New York" />
+			<File>SportsNet New York.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SportsTime Ohio" />
+			<File>SportsTime Ohio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stadium" />
+			<File>Stadium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Start TV" />
+			<File>Start TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Cinema" />
+			<File>Starz Cinema.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Comedy" />
+			<File>Starz Comedy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Edge" />
+			<File>Starz Edge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Action" />
+			<File>Starz Encore Action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Black" />
+			<File>Starz Encore Black.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Classic" />
+			<File>Starz Encore Classic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Español" />
+			<File>Starz Encore Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Family" />
+			<File>Starz Encore Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Suspense" />
+			<File>Starz Encore Suspense.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore Westerns" />
+			<File>Starz Encore Westerns.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Encore" />
+			<File>Starz Encore.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz in Black" />
+			<File>Starz in Black.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz Kids & Family" />
+			<File>Starz Kids and Family.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Starz" />
+			<File>Starz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Stingray iConcerts" />
+			<File>Stingray iConcerts.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Suncoast News Network" />
+			<File>Suncoast News Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SundanceTV HD" />
+			<File>SundanceTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SundanceTV" />
+			<File>SundanceTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sur Peru" />
+			<File>Sur Peru.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SWX Right Now" />
+			<File>SWX Right Now.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy HD" />
+			<File>Syfy HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Syfy" />
+			<File>Syfy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TAN" />
+			<File>TAN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBD" />
+			<File>TBD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBN Salsa" />
+			<File>TBN Salsa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBN" />
+			<File>TBN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TBS" />
+			<File>TBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCM HD" />
+			<File>TCM HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCM" />
+			<File>TCM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCT Network HD" />
+			<File>TCT Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TCT Network" />
+			<File>TCT Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeenNick" />
+			<File>TeenNick.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tele N" />
+			<File>Tele N.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tele Vida Abundante" />
+			<File>Tele Vida Abundante.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeLe-Romantica" />
+			<File>TeLe-Romantica.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleCentro" />
+			<File>TeleCentro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telefe Internacional" />
+			<File>Telefe Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telemundo" />
+			<File>Telemundo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Television Dominicana" />
+			<File>Television Dominicana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Telexitos" />
+			<File>Telexitos.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tennis Channel HD" />
+			<File>Tennis Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tennis Channel" />
+			<File>Tennis Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TFC" />
+			<File>TFC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Action Channel" />
+			<File>The Action Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The California Channel" />
+			<File>The California Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Country Network" />
+			<File>The Country Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The CW Plus" />
+			<File>The CW Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The CW" />
+			<File>The CW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Erotic Networks" />
+			<File>The Erotic Networks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Explorer Channel" />
+			<File>The Explorer Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Family Channel" />
+			<File>The Family Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Impact Network" />
+			<File>The Impact Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Movie Channel Xtra" />
+			<File>The Movie Channel Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Movie Channel" />
+			<File>The Movie Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Walk TV" />
+			<File>The Walk TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Weather Channel HD" />
+			<File>The Weather Channel HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Weather Channel" />
+			<File>The Weather Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Word Network" />
+			<File>The Word Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Worship Network" />
+			<File>The Worship Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="This TV" />
+			<File>This TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ThrillerMax" />
+			<File>ThrillerMax.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC HD" />
+			<File>TLC HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TLC" />
+			<File>TLC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT HD" />
+			<File>TNT HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TNT" />
+			<File>TNT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toku" />
+			<File>Toku.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Toonami" />
+			<File>Toonami.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Total Living Network" />
+			<File>Total Living Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Travel Channel" />
+			<File>Travel Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tres" />
+			<File>Tres.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TruTV HD" />
+			<File>TruTV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TruTV" />
+			<File>TruTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TUDN" />
+			<File>TUDN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Asia HD" />
+			<File>TV Asia HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Chile" />
+			<File>TV Chile.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV Land" />
+			<File>TV Land.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV One" />
+			<File>TV One.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde Info" />
+			<File>TV5Monde Info.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TV5Monde USA" />
+			<File>TV5Monde USA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVE Internacional" />
+			<File>TVE Internacional.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVG" />
+			<File>TVG.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVG2" />
+			<File>TVG2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tvida Vision" />
+			<File>Tvida Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVN" />
+			<File>TVN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TyC Sports" />
+			<File>TyC Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Banda" />
+			<File>Ultra Banda.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Cine" />
+			<File>Ultra Cine.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Clasico" />
+			<File>Ultra Clasico.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Docu" />
+			<File>Ultra Docu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Familia" />
+			<File>Ultra Familia.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Fiesta" />
+			<File>Ultra Fiesta.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Film" />
+			<File>Ultra Film.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Kidz" />
+			<File>Ultra Kidz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Luna" />
+			<File>Ultra Luna.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Macho" />
+			<File>Ultra Macho.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Mex" />
+			<File>Ultra Mex.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ultra Tainment" />
+			<File>Ultra Tainment.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="UniMas" />
+			<File>UniMas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Unity Broadcasting Network" />
+			<File>Unity Broadcasting Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Universal Kids" />
+			<File>Universal Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Universo" />
+			<File>Universo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Univision Tlnovelas" />
+			<File>Univision Tlnovelas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Univision" />
+			<File>Univision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Untamed Sports TV" />
+			<File>Untamed Sports TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Upliftv" />
+			<File>Upliftv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="UPtv" />
+			<File>UPtv.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="USA Network HD" />
+			<File>USA Network HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="USA Network" />
+			<File>USA Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="V-me" />
+			<File>V-me.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1 HD" />
+			<File>VH1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VH1" />
+			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viceland HD" />
+			<File>Viceland HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viceland" />
+			<File>Viceland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Video Rola" />
+			<File>Video Rola.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vien Thao TV" />
+			<File>Vien Thao TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Viendo Movies" />
+			<File>Viendo Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vivid TV" />
+			<File>Vivid TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vme Kids" />
+			<File>Vme Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vremya" />
+			<File>Vremya.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WAPA America" />
+			<File>WAPA America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WAPA-TV" />
+			<File>WAPA-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WAUG-LD" />
+			<File>WAUG-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="We TV" />
+			<File>We TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WeatherNation" />
+			<File>WeatherNation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Weatherscan" />
+			<File>Weatherscan.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WGN America" />
+			<File>WGN America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WGN-TV" />
+			<File>WGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WHFL-TV" />
+			<File>WHFL-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WHIG-TV" />
+			<File>WHIG-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Willow HD" />
+			<File>Willow HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Willow Xtra" />
+			<File>Willow Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Willow" />
+			<File>Willow.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WJLA 247 News" />
+			<File>WJLA 247 News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WKAQ-TV" />
+			<File>WKAQ-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WLFL" />
+			<File>WLFL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNCN" />
+			<File>WNCN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="World Fishing Network" />
+			<File>World Fishing Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="World Harvest Television" />
+			<File>World Harvest Television.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="World" />
+			<File>World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WPIX" />
+			<File>WPIX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WRAL-TV" />
+			<File>WRAL-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WRAZ" />
+			<File>WRAZ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WRDC" />
+			<File>WRDC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WRTD-CD" />
+			<File>WRTD-CD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WSBK-TV" />
+			<File>WSBK-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTNC-LD" />
+			<File>WTNC-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTVD" />
+			<File>WTVD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUVC-DT" />
+			<File>WUVC-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WWOR-TV" />
+			<File>WWOR-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Xtsy" />
+			<File>Xtsy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YES HD" />
+			<File>YES HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YES" />
+			<File>YES.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Youtoo America" />
+			<File>Youtoo America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="YTN" />
+			<File>YTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Z Living" />
+			<File>Z Living.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zee Cinema HD" />
+			<File>Zee Cinema HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zee Cinemalu" />
+			<File>Zee Cinemalu.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zee TV HD" />
+			<File>Zee TV HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ZooMoo" />
+			<File>ZooMoo.png</File>
+		</Channel>
+	</TV>
+<!-- ******************************************************************** -->
+	<Radio>
+		<Channel>
+			<Item Name="1st Wave" />
+			<File>1st Wave.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Latino Radio Network" />
+			<File>3ABN Latino Radio Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="3ABN Radio Network" />
+			<File>3ABN Radio Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="40s Junction" />
+			<File>40s Junction.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="50s on 5" />
+			<File>50s on 5.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="60s on 6" />
+			<File>60s on 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="70s on 7" />
+			<File>70s on 7.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="80s on 8" />
+			<File>80s on 8.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="90s on 9" />
+			<File>90s on 9.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Alt Nation" />
+			<File>Alt Nation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="American Latino Radio" />
+			<File>American Latino Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BB Kings Bluesville" />
+			<File>BB Kings Bluesville.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC World Service" />
+			<File>BBC World Service.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bloomberg Radio" />
+			<File>Bloomberg Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Bluegrass Junction" />
+			<File>Bluegrass Junction.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BPM" />
+			<File>BPM.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Business Radio" />
+			<File>Business Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BYU Radio" />
+			<File>BYU Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Caliente" />
+			<File>Caliente.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canada Talks" />
+			<File>Canada Talks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Canadian Indigenous Peoples Radio" />
+			<File>Canadian Indigenous Peoples Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBC Country" />
+			<File>CBC Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBC Radio 3" />
+			<File>CBC Radio 3.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBC Radio One" />
+			<File>CBC Radio One.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classic Rewind" />
+			<File>Classic Rewind.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Classic Vinyl" />
+			<File>Classic Vinyl.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNBC" />
+			<File>CNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN en Español" />
+			<File>CNN en Espanol.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CNN" />
+			<File>CNN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Comedy Central Radio" />
+			<File>Comedy Central Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Deep Tracks" />
+			<File>Deep Tracks.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Diplos Revolution" />
+			<File>Diplos Revolution.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Doctor Radio" />
+			<File>Doctor Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="E Street Radio" />
+			<File>E Street Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Elvis Radio" />
+			<File>Elvis Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="En Vivo" />
+			<File>En Vivo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Enlighten" />
+			<File>Enlighten.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Escape Radio" />
+			<File>Escape Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Deportes Radio" />
+			<File>ESPN Deportes Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Radio" />
+			<File>ESPN Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPN Xtra" />
+			<File>ESPN Xtra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ESPNU Radio" />
+			<File>ESPNU Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="EWTN" />
+			<File>EWTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Faction Talk" />
+			<File>Faction Talk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Faction" />
+			<File>Faction.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Family Talk" />
+			<File>Family Talk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Business Network" />
+			<File>Fox Business Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox News Channel" />
+			<File>Fox News Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox News Headlines 247" />
+			<File>Fox News Headlines 247.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fox Sports" />
+			<File>Fox Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Grateful Dead Channel" />
+			<File>Grateful Dead Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hair Nation" />
+			<File>Hair Nation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HBCU" />
+			<File>HBCU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heart & Soul" />
+			<File>Heart and Soul.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Hip-Hop Nation" />
+			<File>Hip-Hop Nation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HLN" />
+			<File>HLN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Howard 100" />
+			<File>Howard 100.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Howard 101" />
+			<File>Howard 101.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HUR Voices" />
+			<File>HUR Voices.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ICI Musique Chansons" />
+			<File>ICI Musique Chansons.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ICI Musique Franco Country" />
+			<File>ICI Musique Franco Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ICI Premiere" />
+			<File>ICI Premiere.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Influence Franco" />
+			<File>Influence Franco.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jam On" />
+			<File>Jam On.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Jeff & Larrys Comedy Roundup" />
+			<File>Jeff and Larrys Comedy Roundup.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Joel Osteen Radio" />
+			<File>Joel Osteen Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Just For Laughs Canada" />
+			<File>Just For Laughs Canada.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kids Place Live" />
+			<File>Kids Place Live.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kidz Bop Radio" />
+			<File>Kidz Bop Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KIIS FM Los Angeles" />
+			<File>KIIS FM Los Angeles.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Kirk Franklins Praise" />
+			<File>Kirk Franklins Praise.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="La Politica Talk" />
+			<File>La Politica Talk.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Laugh USA" />
+			<File>Laugh USA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Liquid Metal" />
+			<File>Liquid Metal.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lithium" />
+			<File>Lithium.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LL Cool Js Rock the Bells Radio" />
+			<File>LL Cool Js Rock the Bells Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mad Dog Sports Radio" />
+			<File>Mad Dog Sports Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Met Opera Radio" />
+			<File>Met Opera Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MLB Network Radio" />
+			<File>MLB Network Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MSNBC" />
+			<File>MSNBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="No Shoes Radio" />
+			<File>No Shoes Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NOAA Weather Radio" />
+			<File>NOAA Weather Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NPR" />
+			<File>NPR.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Octane" />
+			<File>Octane.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="On Broadway" />
+			<File>On Broadway.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Outlaw Country" />
+			<File>Outlaw Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ozzy's Boneyard" />
+			<File>Ozzy's Boneyard.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pearl Jam Radio" />
+			<File>Pearl Jam Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pitbulls Globalization" />
+			<File>Pitbulls Globalization.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pop2K" />
+			<File>Pop2K.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="POTUS Politics" />
+			<File>POTUS Politics.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Prime Country" />
+			<File>Prime Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio 74 Internationale" />
+			<File>Radio 74 Internationale.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Andy" />
+			<File>Radio Andy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Classics" />
+			<File>Radio Classics.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Disney" />
+			<File>Radio Disney.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Radio Margaritaville" />
+			<File>Radio Margaritaville.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Raw Dog Comedy" />
+			<File>Raw Dog Comedy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Real Jazz" />
+			<File>Real Jazz.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Road Dog Trucking" />
+			<File>Road Dog Trucking.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rural Radio" />
+			<File>Rural Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Shade 45" />
+			<File>Shade 45.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Siriusly Sinatra" />
+			<File>Siriusly Sinatra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Chill" />
+			<File>SiriusXM Chill.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Comedy Greats" />
+			<File>SiriusXM Comedy Greats.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Fantasy Sports Radio" />
+			<File>SiriusXM Fantasy Sports Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM FC" />
+			<File>SiriusXM FC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Fight Nation" />
+			<File>SiriusXM Fight Nation.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Fly" />
+			<File>SiriusXM Fly.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Hits 1" />
+			<File>SiriusXM Hits 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Insight" />
+			<File>SiriusXM Insight.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Love" />
+			<File>SiriusXM Love.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM NASCAR Radio" />
+			<File>SiriusXM NASCAR Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM NBA Radio" />
+			<File>SiriusXM NBA Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM NFL Radio" />
+			<File>SiriusXM NFL Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM NHL Network Radio" />
+			<File>SiriusXM NHL Network Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Patriot" />
+			<File>SiriusXM Patriot.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM PGA Tour Radio" />
+			<File>SiriusXM PGA Tour Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Progress" />
+			<File>SiriusXM Progress.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Scoreboard" />
+			<File>SiriusXM Scoreboard.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Stars" />
+			<File>SiriusXM Stars.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Traffic & Weather" />
+			<File>SiriusXM Traffic and Weather.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXM Urban View" />
+			<File>SiriusXM Urban View.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SiriusXMU" />
+			<File>SiriusXMU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Soul Town" />
+			<File>Soul Town.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spa" />
+			<File>Spa.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Studio 54 Radio" />
+			<File>Studio 54 Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="SXM Limited Edition" />
+			<File>SXM Limited Edition.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Symphony Hall" />
+			<File>Symphony Hall.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Blend" />
+			<File>The Blend.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Bridge" />
+			<File>The Bridge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Catholic Channel" />
+			<File>The Catholic Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Coffee House" />
+			<File>The Coffee House.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Garth Channel" />
+			<File>The Garth Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Groove" />
+			<File>The Groove.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Heat" />
+			<File>The Heat.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Highway" />
+			<File>The Highway.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Joint" />
+			<File>The Joint.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Loft" />
+			<File>The Loft.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Message" />
+			<File>The Message.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Pulse" />
+			<File>The Pulse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Spectrum" />
+			<File>The Spectrum.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Verge" />
+			<File>The Verge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Today Show Radio" />
+			<File>Today Show Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tom Petty Radio" />
+			<File>Tom Petty Radio.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Underground Garage" />
+			<File>Underground Garage.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Velvet" />
+			<File>Velvet.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Venus" />
+			<File>Venus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Volume" />
+			<File>Volume.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Watercolors" />
+			<File>Watercolors.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Willies Roadhouse" />
+			<File>Willies Roadhouse.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Y2Kountry" />
+			<File>Y2Kountry.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Z100 New York" />
+			<File>Z100 New York.png</File>
+		</Channel>
+	</Radio>
+<!-- ******************************************************************** -->
+</Mappings>

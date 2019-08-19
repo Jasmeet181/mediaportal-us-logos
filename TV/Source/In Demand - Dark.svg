@@ -1,0 +1,32 @@
+<svg width="986.59" height="111.23" enable-background="new 0 0 1000.079 115.418" version="1.1" viewBox="0 0 986.59 111.23" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+		<defs>
+			<path id="SVGID_1_" d="m100.62 0v56.333l20.184 20.361v-59.334h36.604c33.522 0 46.425 12.448 46.425 38.111 0 27.564-14.532 38.406-46.425 38.406l-45.049 0.059-72.483-74.45 0.035 29.313 60.709 62.416h57.698c43.366 0 66.171-18.234 66.72-54.432v-2.634c-0.508-33.34-20.479-54.149-66.721-54.149z"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use width="100%" height="100%" overflow="visible" xlink:href="#SVGID_1_"/>
+		</clipPath>
+			<linearGradient id="SVGID_3_" x1="175.47" x2="187.55" y1="434.12" y2="434.12" gradientTransform="matrix(15.33 0 0 15.33 -2650.2 -6599.6)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#68C9D7" offset="0"/>
+			<stop stop-color="#38B4D6" offset=".4777"/>
+			<stop stop-color="#0099C8" offset="1"/>
+		</linearGradient>
+		<path d="m39.876 0h185.16v111.21h-185.16z" clip-path="url(#SVGID_2_)" fill="url(#SVGID_3_)"/>
+		<defs>
+			<polygon id="SVGID_4_" points="0 0 0 8.585 20.342 29.454 20.342 0"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use width="100%" height="100%" overflow="visible" xlink:href="#SVGID_4_"/>
+		</clipPath>
+			<linearGradient id="SVGID_6_" x1="-10.701" x2="1.3804" y1="249.05" y2="249.05" gradientTransform="matrix(1.6837 0 0 1.6837 18.077 -404.61)" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#68C9D7" offset="0"/>
+			<stop stop-color="#38B4D6" offset=".4777"/>
+			<stop stop-color="#0099C8" offset="1"/>
+		</linearGradient>
+		<path d="m0 0h20.342v29.454h-20.342z" clip-path="url(#SVGID_5_)" fill="url(#SVGID_6_)"/>
+	<path d="m270.88 94.61v-33.671h68.958v-14.373h-68.958v-29.808h80.52l-0.448-16.758h-100.1v111.21h103.66l0.437-16.604z" fill="#262262"/>
+	<path d="m378.71 111.21h18.234v-74.001l-0.141-11.999 0.301-0.153 5.922 10.534 45.522 75.619h14.249l45.663-76.363 6.082-10.534 0.29 0.153-0.29 12.011v74.733h18.241v-111.21h-22.097l-54.721 90.463-54.568-90.463h-22.687z" fill="#262262"/>
+	<path d="m615.66 24.033 5.326-10.841h0.461l5.196 10.841 24.009 46.413h-59.475zm-5.645-24.033-60.608 111.21h20.432l13.345-25.356h75.324l13.203 25.356h21.612l-60.917-111.21z" fill="#262262"/>
+	<path d="m728.05 25.214 0.449-0.153 8.456 8.609 80.508 77.544h13.334v-111.07h-18.234l0.165 71.036 0.283 11.869-0.283 0.296-8.468-8.609-76.657-74.734h-17.645v111.21h18.399v-74.001z" fill="#262262"/>
+	<path d="m919.87 111.23h-57.668v-111.23h57.668c46.873 0 66.726 21.364 66.726 55.459 0 37.083-22.817 55.767-66.726 55.767m-0.874-93.866h-36.623v76.505h36.623c31.862 0 46.413-10.818 46.413-38.406 0-25.663-12.909-38.099-46.413-38.099" fill="#262262"/>
+	<path d="m20.336 29.442-20.33-20.868v102.65h20.33z" fill="#262262"/>
+</svg>
