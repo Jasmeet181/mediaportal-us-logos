@@ -571,6 +571,10 @@
 			<File>CTS.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dabl" />
+			<File>Dabl.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Daystar HD" />
 			<File>Daystar HD.png</File>
 		</Channel>
