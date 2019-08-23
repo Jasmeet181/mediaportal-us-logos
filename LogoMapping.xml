@@ -371,6 +371,10 @@
 			<File>CBN News Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CBS News" />
+			<File>CBS News.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CBS Sports Network" />
 			<File>CBS Sports Network.png</File>
 		</Channel>
@@ -785,10 +789,6 @@
 		<Channel>
 			<Item Name="Estrella TV" />
 			<File>Estrella TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Evine" />
-			<File>Evine.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EWTN" />
@@ -2105,6 +2105,10 @@
 		<Channel>
 			<Item Name="Shop LC" />
 			<File>Shop LC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ShopHQ" />
+			<File>ShopHQ.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Shorts TV HD" />
