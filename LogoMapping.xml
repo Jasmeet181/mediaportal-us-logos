@@ -47,11 +47,11 @@
 			<File>5StarMax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A&E HD" />
+			<Item Name="A&amp;E HD" />
 			<File>AandE HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A&E" />
+			<Item Name="A&amp;E" />
 			<File>AandE.png</File>
 		</Channel>
 		<Channel>
@@ -174,7 +174,7 @@
 			<File>Aspire TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AT&T SportsNet" />
+			<Item Name="AT&amp;T SportsNet" />
 			<File>ATandT SportsNet.png</File>
 		</Channel>
 		<Channel>
@@ -1248,7 +1248,7 @@
 			<File>Hallmark Drama.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Hallmark Movies & Mysteries" />
+			<Item Name="Hallmark Movies &amp; Mysteries" />
 			<File>Hallmark Movies and Mysteries.png</File>
 		</Channel>
 		<Channel>
@@ -1296,7 +1296,8 @@
 			<File>Here TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Heroes & Icons" />
+			<Item Name="H&ampI" />
+			<Item Name="Heroes &amp; Icons" />
 			<File>Heroes and Icons.png</File>
 		</Channel>
 		<Channel>
@@ -1374,7 +1375,7 @@
 			<File>ICable News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Idahos Very Own 247" />
+			<Item Name="Idaho's Very Own 24/7" />
 			<File>Idahos Very Own 247.png</File>
 		</Channel>
 		<Channel>
@@ -1453,13 +1454,13 @@
 		</Channel>
 		<Channel>
 			<Item Name="Justice Central" />
-			<Item Name="Justice">
-				<Provider>OTA (North Carolina, Raleigh)</Provider>
-			</Item>
 			<File>Justice Central.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Justice Network" />
+			<Item Name="Justice">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Justice Network.png</File>
 		</Channel>
 		<Channel>
@@ -1842,7 +1843,7 @@
 			<File>News 12 The Bronx.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="News 12 Traffic & Weather" />
+			<Item Name="News 12 Traffic &amp; Weather" />
 			<File>News 12 Traffic and Weather.png</File>
 		</Channel>
 		<Channel>
@@ -2434,7 +2435,7 @@
 			<File>Starz in Black.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Starz Kids & Family" />
+			<Item Name="Starz Kids &amp; Family" />
 			<File>Starz Kids and Family.png</File>
 		</Channel>
 		<Channel>
@@ -2957,7 +2958,7 @@
 			<File>Willow.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WJLA 247 News" />
+			<Item Name="WJLA 24/7 News" />
 			<File>WJLA 247 News.png</File>
 		</Channel>
 		<Channel>
@@ -3118,23 +3119,23 @@
 			<File>40s Junction.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="50s on 5" />
+			<Item Name="'50s on 5" />
 			<File>50s on 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="60s on 6" />
+			<Item Name="'60s on 6" />
 			<File>60s on 6.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="70s on 7" />
+			<Item Name="'70s on 7" />
 			<File>70s on 7.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="80s on 8" />
+			<Item Name="'80s on 8" />
 			<File>80s on 8.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="90s on 9" />
+			<Item Name="'90s on 9" />
 			<File>90s on 9.png</File>
 		</Channel>
 		<Channel>
@@ -3146,7 +3147,7 @@
 			<File>American Latino Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BB Kings Bluesville" />
+			<Item Name="BB King's Bluesville" />
 			<File>BB Kings Bluesville.png</File>
 		</Channel>
 		<Channel>
@@ -3226,7 +3227,7 @@
 			<File>Deep Tracks.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Diplos Revolution" />
+			<Item Name="Diplo's Revolution" />
 			<File>Diplos Revolution.png</File>
 		</Channel>
 		<Channel>
@@ -3294,7 +3295,7 @@
 			<File>Fox News Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Fox News Headlines 247" />
+			<Item Name="Fox News Headlines 24/7" />
 			<File>Fox News Headlines 247.png</File>
 		</Channel>
 		<Channel>
@@ -3314,7 +3315,7 @@
 			<File>HBCU.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Heart & Soul" />
+			<Item Name="Heart &amp; Soul" />
 			<File>Heart and Soul.png</File>
 		</Channel>
 		<Channel>
@@ -3358,7 +3359,7 @@
 			<File>Jam On.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Jeff & Larrys Comedy Roundup" />
+			<Item Name="Jeff &amp; Larry's Comedy Roundup" />
 			<File>Jeff and Larrys Comedy Roundup.png</File>
 		</Channel>
 		<Channel>
@@ -3382,7 +3383,7 @@
 			<File>KIIS FM Los Angeles.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Kirk Franklins Praise" />
+			<Item Name="Kirk Franklin's Praise" />
 			<File>Kirk Franklins Praise.png</File>
 		</Channel>
 		<Channel>
@@ -3402,7 +3403,7 @@
 			<File>Lithium.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="LL Cool Js Rock the Bells Radio" />
+			<Item Name="LL Cool J's Rock the Bells Radio" />
 			<File>LL Cool Js Rock the Bells Radio.png</File>
 		</Channel>
 		<Channel>
@@ -3454,7 +3455,7 @@
 			<File>Pearl Jam Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Pitbulls Globalization" />
+			<Item Name="Pitbull's Globalization" />
 			<File>Pitbulls Globalization.png</File>
 		</Channel>
 		<Channel>
@@ -3589,7 +3590,7 @@
 			<File>SiriusXM Stars.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SiriusXM Traffic & Weather" />
+			<Item Name="SiriusXM Traffic &amp; Weather" />
 			<File>SiriusXM Traffic and Weather.png</File>
 		</Channel>
 		<Channel>
@@ -3705,7 +3706,7 @@
 			<File>Watercolors.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Willies Roadhouse" />
+			<Item Name="Willie's Roadhouse" />
 			<File>Willies Roadhouse.png</File>
 		</Channel>
 		<Channel>
