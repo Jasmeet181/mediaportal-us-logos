@@ -3,6 +3,9 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="3ABN-DD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="3ABN Dare to Dream" />
 			<File>3ABN Dare to Dream.png</File>
 		</Channel>
@@ -11,6 +14,9 @@
 			<File>3ABN Kids Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="3ABN-ES">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="3ABN Latino Network" />
 			<File>3ABN Latino Network.png</File>
 		</Channel>
@@ -19,11 +25,17 @@
 			<File>3ABN Praise Him Music Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="3ABN-PR">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="3ABN Proclaim" />
 			<File>3ABN Proclaim.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="3ABN" />
+			<Item Name="W24CP-D">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>3ABN.png</File>
 		</Channel>
 		<Channel>
@@ -95,6 +107,10 @@
 			<File>Almavision.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Altavision" />
+			<File>Altavision.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Altitude 2" />
 			<File>Altitude 2.png</File>
 		</Channel>
@@ -132,6 +148,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Antenna TV" />
+			<Item Name="Antenna">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Antenna TV.png</File>
 		</Channel>
 		<Channel>
@@ -308,6 +327,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Bounce TV" />
+			<Item Name="Bounce">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Bounce TV.png</File>
 		</Channel>
 		<Channel>
@@ -320,6 +342,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Buzzr" />
+			<Item Name="WNCB-LD Buzzr" />
 			<File>Buzzr.png</File>
 		</Channel>
 		<Channel>
@@ -403,6 +426,9 @@
 			<File>Channel One Russia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Charge!">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="Charge" />
 			<File>Charge.png</File>
 		</Channel>
@@ -519,7 +545,12 @@
 			<File>Comedy.TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Comet" />
+			<Item Name="CometTV">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="Comet">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Comet.png</File>
 		</Channel>
 		<Channel>
@@ -548,6 +579,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="Cozi TV" />
+			<Item Name="WRAL DT">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="WRAL-SD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Cozi TV.png</File>
 		</Channel>
 		<Channel>
@@ -555,7 +592,9 @@
 			<File>Create and Craft.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Create" />
+			<Item Name="Create">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Create.png</File>
 		</Channel>
 		<Channel>
@@ -567,6 +606,10 @@
 			<File>Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CRTV" />
+			<File>CRTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CTi TV" />
 			<File>CTi TV.png</File>
 		</Channel>
@@ -576,10 +619,19 @@
 		</Channel>
 		<Channel>
 			<Item Name="Dabl" />
+			<Item Name="WRAZ 3">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Dabl.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Daystar HD" />
+			<Item Name="WDRN-LD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="WWIW">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Daystar HD.png</File>
 		</Channel>
 		<Channel>
@@ -683,6 +735,11 @@
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="DTV America" />
+			<Item Name="WNCB-LD Infomercials" />
+			<File>DTV America.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="DZMM" />
 			<File>DZMM.png</File>
 		</Channel>
@@ -735,7 +792,9 @@
 			<File>Epix.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Escape" />
+			<Item Name="Escape">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Escape.png</File>
 		</Channel>
 		<Channel>
@@ -788,11 +847,22 @@
 		</Channel>
 		<Channel>
 			<Item Name="Estrella TV" />
+			<Item Name="WIRP-LD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="WNCB-LD Estrella TV" />
+			<Item Name="WNCB-LD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Estrella TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="EWTN" />
 			<File>EWTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Festiva Television" />
+			<File>Festiva Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FETV" />
@@ -1119,7 +1189,12 @@
 			<File>Gem Shopping Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="GetTV" />
+			<Item Name="GetTV (GetTV  )">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="GetTV">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>GetTV.png</File>
 		</Channel>
 		<Channel>
@@ -1159,7 +1234,9 @@
 			<File>Great American Country.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Grit" />
+			<Item Name="Grit">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Grit.png</File>
 		</Channel>
 		<Channel>
@@ -1255,6 +1332,10 @@
 			<File>HLN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hmong TV Network" />
+			<File>Hmong TV Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="HolaTV" />
 			<File>HolaTV.png</File>
 		</Channel>
@@ -1271,7 +1352,9 @@
 			<File>HSN 2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="HSN" />
+			<Item Name="HSN">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>HSN.png</File>
 		</Channel>
 		<Channel>
@@ -1327,11 +1410,25 @@
 			<File>Investigation Discovery.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ion Media" />
+			<Item Name="Ion Shop" />
+			<Item Name="Shop">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<File>Ion Media.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="IonPlus">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="Ion Plus" />
 			<File>Ion Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ion Television" />
+			<Item Name="Ion">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Ion Television.png</File>
 		</Channel>
 		<Channel>
@@ -1356,6 +1453,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Justice Central" />
+			<Item Name="Justice">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Justice Central.png</File>
 		</Channel>
 		<Channel>
@@ -1384,6 +1484,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Laff" />
+			<Item Name="WTVD-D3">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Laff.png</File>
 		</Channel>
 		<Channel>
@@ -1416,6 +1519,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Live Well Network" />
+			<Item Name="WTVD-D2">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Live Well Network.png</File>
 		</Channel>
 		<Channel>
@@ -1460,6 +1566,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="MeTV" />
+			<Item Name="Me TV">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>MeTV.png</File>
 		</Channel>
 		<Channel>
@@ -1591,7 +1700,13 @@
 			<File>MyDestination.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MNT">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="MyNetworkTV" />
+			<Item Name="MyTV">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>MyNetworkTV.png</File>
 		</Channel>
 		<Channel>
@@ -1823,6 +1938,9 @@
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NCCHL">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="North Carolina Channel" />
 			<File>North Carolina Channel.png</File>
 		</Channel>
@@ -1919,7 +2037,9 @@
 			<File>Pasiones.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PBJ" />
+			<Item Name="PBJ">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>PBJ.png</File>
 		</Channel>
 		<Channel>
@@ -2003,19 +2123,30 @@
 			<File>Pursuit Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Qubo" />
+			<Item Name="Qubo">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Qubo.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Quest" />
+			<Item Name="Quest (Quest  )">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="Quest">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Quest.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="QVC" />
+			<Item Name="QVC">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="WNCB-LD QVC" />
 			<File>QVC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="QVC2" />
+			<Item Name="WNCB-LD QVC2" />
 			<File>QVC2.png</File>
 		</Channel>
 		<Channel>
@@ -2036,11 +2167,18 @@
 		</Channel>
 		<Channel>
 			<Item Name="Retro TV" />
+			<Item Name="WARZ">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Retro TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Retroplex" />
 			<File>Retroplex.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Revenue Frontier" />
+			<File>Revenue Frontier.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Revn" />
@@ -2061,6 +2199,12 @@
 		<Channel>
 			<Item Name="Root Sports" />
 			<File>Root Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Rootle">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<File>Rootle.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RT America" />
@@ -2104,6 +2248,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Shop LC" />
+			<Item Name="WNCB-LD Shop LC" />
 			<File>Shop LC.png</File>
 		</Channel>
 		<Channel>
@@ -2164,6 +2309,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sonlife Broadcasting Network" />
+			<Item Name="WNCB-LD SonLife" />
 			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
@@ -2227,11 +2373,16 @@
 			<File>SportsTime Ohio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Stadium" />
+			<Item Name="Stadium">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Stadium.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Start TV" />
+			<Item Name="WRAL 3">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Start TV.png</File>
 		</Channel>
 		<Channel>
@@ -2327,7 +2478,9 @@
 			<File>TAN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="TBD" />
+			<Item Name="TBD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>TBD.png</File>
 		</Channel>
 		<Channel>
@@ -2352,6 +2505,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="TCT Network HD" />
+			<Item Name="WLXI">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<Item Name="WRAY">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>TCT Network HD.png</File>
 		</Channel>
 		<Channel>
@@ -2423,6 +2582,9 @@
 			<File>The CW Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CW">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="The CW" />
 			<File>The CW.png</File>
 		</Channel>
@@ -2432,10 +2594,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="The Explorer Channel" />
+			<Item Name="UNC-EX">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>The Explorer Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="The Family Channel" />
+			<Item Name="The Family Channel">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>The Family Channel.png</File>
 		</Channel>
 		<Channel>
@@ -2452,6 +2619,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="The Walk TV" />
+			<Item Name="WHFL-LX">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>The Walk TV.png</File>
 		</Channel>
 		<Channel>
@@ -2472,6 +2642,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="This TV" />
+			<Item Name="This">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>This TV.png</File>
 		</Channel>
 		<Channel>
@@ -2623,6 +2796,15 @@
 			<File>Ultra Tainment.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="UNC-TV">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
+			<File>UNC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TeleFutura">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="UniMas" />
 			<File>UniMas.png</File>
 		</Channel>
@@ -2667,6 +2849,9 @@
 			<File>USA Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="VME">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="V-me" />
 			<File>V-me.png</File>
 		</Channel>
@@ -2720,6 +2905,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="WAUG-LD" />
+			<Item Name="WAUG">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>WAUG-LD.png</File>
 		</Channel>
 		<Channel>
@@ -2743,7 +2931,13 @@
 			<File>WGN-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WDRN-CD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WHFL-TV" />
+			<Item Name="WDRN-MU">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>WHFL-TV.png</File>
 		</Channel>
 		<Channel>
@@ -2771,10 +2965,16 @@
 			<File>WKAQ-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CW22">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WLFL" />
 			<File>WLFL.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WNCN-HD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WNCN" />
 			<File>WNCN.png</File>
 		</Channel>
@@ -2787,7 +2987,9 @@
 			<File>World Harvest Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="World" />
+			<Item Name="World">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>World.png</File>
 		</Channel>
 		<Channel>
@@ -2795,19 +2997,34 @@
 			<File>WPIX.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WRAL_HD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WRAL-TV" />
+			<Item Name="WRAL HD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>WRAL-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WRAZ HD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WRAZ" />
 			<File>WRAZ.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WRDC-HD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WRDC" />
 			<File>WRDC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WRTD-CD" />
+			<Item Name="WRTD CD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>WRTD-CD.png</File>
 		</Channel>
 		<Channel>
@@ -2819,11 +3036,16 @@
 			<File>WTNC-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WTVD-D1">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="WTVD" />
 			<File>WTVD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WUVC-DT" />
+			<Item Name="WUVC-DT">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>WUVC-DT.png</File>
 		</Channel>
 		<Channel>
@@ -2878,10 +3100,16 @@
 			<File>1st Wave.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="3ABN-RL">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="3ABN Latino Radio Network" />
 			<File>3ABN Latino Radio Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="3ABN-RD">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<Item Name="3ABN Radio Network" />
 			<File>3ABN Radio Network.png</File>
 		</Channel>
@@ -3243,6 +3471,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Radio 74 Internationale" />
+			<Item Name="Radio74">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Radio 74 Internationale.png</File>
 		</Channel>
 		<Channel>
