@@ -1296,7 +1296,7 @@
 			<File>Here TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="H&ampI" />
+			<Item Name="H&amp;I" />
 			<Item Name="Heroes &amp; Icons" />
 			<File>Heroes and Icons.png</File>
 		</Channel>
