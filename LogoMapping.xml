@@ -861,6 +861,10 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="FaithUSA" />
+			<File>FaithUSA.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Festiva Television" />
 			<File>Festiva Television.png</File>
 		</Channel>
@@ -1437,6 +1441,10 @@
 			<File>IVC Networks.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="JBTV" />
+			<File>JBTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Jewelry Television" />
 			<File>Jewelry Television.png</File>
 		</Channel>
@@ -1464,8 +1472,24 @@
 			<File>Justice Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KARE" />
+			<File>KARE.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Karusel TV" />
 			<File>Karusel TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KASW" />
+			<File>KASW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KAZT-TV" />
+			<File>KAZT-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KBS World 24" />
+			<File>KBS World 24.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KBS World HD" />
@@ -1476,8 +1500,56 @@
 			<File>KBS World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KFBB-TV" />
+			<File>KFBB-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KFPH-DT" />
+			<File>KFPH-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KMGH-TV" />
+			<File>KMGH-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KNXV-TV" />
+			<File>KNXV-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KPHO-TV" />
+			<File>KPHO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KPNX" />
+			<File>KPNX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KRON-TV" />
+			<File>KRON-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSAZ-TV" />
+			<File>KSAZ-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTLA" />
 			<File>KTLA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTVK" />
+			<File>KTVK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTVW-DT" />
+			<File>KTVW-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KUSI-TV" />
+			<File>KUSI-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KUTP" />
+			<File>KUTP.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KWGN-TV" />
@@ -1621,6 +1693,10 @@
 			<File>MLS Direct Kick.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Montana PBS" />
+			<File>Montana PBS.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="MoreMax" />
 			<File>MoreMax.png</File>
 		</Channel>
@@ -1695,6 +1771,11 @@
 		<Channel>
 			<Item Name="Music Choice" />
 			<File>Music Choice.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MCTV" />
+			<Item Name="My Christian TV" />
+			<File>My Christian TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MyDestination.TV" />
@@ -2108,6 +2189,10 @@
 			<File>Playboy TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Polvision" />
+			<File>Polvision.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Pop" />
 			<File>Pop.png</File>
 		</Channel>
@@ -2234,6 +2319,10 @@
 		<Channel>
 			<Item Name="SBTN" />
 			<File>SBTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Scene Network" />
+			<File>Scene Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Science" />
@@ -2551,6 +2640,10 @@
 			<File>Television Dominicana.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Television Montana" />
+			<File>Television Montana.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Telexitos" />
 			<File>Telexitos.png</File>
 		</Channel>
@@ -2605,6 +2698,10 @@
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<File>The Family Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Florida Channel" />
+			<File>The Florida Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="The Impact Network" />
@@ -2912,6 +3009,18 @@
 			<File>WAUG-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WBBM-TV" />
+			<File>WBBM-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WCIU-TV" />
+			<File>WCIU-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WCVB" />
+			<File>WCVB.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="We TV" />
 			<File>We TV.png</File>
 		</Channel>
@@ -2922,6 +3031,26 @@
 		<Channel>
 			<Item Name="Weatherscan" />
 			<File>Weatherscan.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WEDQ" />
+			<File>WEDQ.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WEDU" />
+			<File>WEDU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WFLD" />
+			<File>WFLD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WFXT" />
+			<File>WFXT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WGBO-DT" />
+			<File>WGBO-DT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WGN America" />
@@ -2946,6 +3075,10 @@
 			<File>WHIG-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Win TV Chicago" />
+			<File>Win TV Chicago.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Willow HD" />
 			<File>Willow HD.png</File>
 		</Channel>
@@ -2962,6 +3095,10 @@
 			<File>WJLA 247 News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WJYS" />
+			<File>WJYS.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WKAQ-TV" />
 			<File>WKAQ-TV.png</File>
 		</Channel>
@@ -2971,6 +3108,22 @@
 			</Item>
 			<Item Name="WLFL" />
 			<File>WLFL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WLS-TV" />
+			<File>WLS-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMAQ-TV" />
+			<File>WMAQ-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMEU-CD" />
+			<File>WMEU-CD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMOR-TV" />
+			<File>WMOR-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WNCN-HD">
@@ -3033,6 +3186,30 @@
 			<File>WSBK-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WSNS-TV" />
+			<File>WSNS-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTNC-LD" />
+			<File>WTNC-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTTW Create World" />
+			<File>WTTW Create World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTTW Kids" />
+			<File>WTTW Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTTW Prime" />
+			<File>WTTW Prime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WTTW" />
+			<File>WTTW.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WTNC-LD" />
 			<File>WTNC-LD.png</File>
 		</Channel>
@@ -3052,6 +3229,14 @@
 		<Channel>
 			<Item Name="WWOR-TV" />
 			<File>WWOR-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WYCC" />
+			<File>WYCC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WYIN" />
+			<File>WYIN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Xtsy" />
