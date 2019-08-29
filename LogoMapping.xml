@@ -3,6 +3,10 @@
 <!-- ******************************************************************** -->
 	<TV>
 		<Channel>
+			<Item Name="360 North" />
+			<File>360 North.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="3ABN-DD">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -67,11 +71,17 @@
 			<File>ABC.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Aboriginal Peoples Television Network" />
+			<Item Name="APTN" />
+			<File>Aboriginal Peoples Television Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ABS-CBN News Channel" />
 			<File>ABS-CBN News Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ABS-CBN S + A" />
+			<Item Name="S + A" />
 			<File>ABS-CBN S and A.png</File>
 		</Channel>
 		<Channel>
@@ -91,6 +101,10 @@
 			<File>ActionMax.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ADN 40" />
+			<File>ADN 40.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Adult Swim" />
 			<File>Adult Swim.png</File>
 		</Channel>
@@ -101,6 +115,10 @@
 		<Channel>
 			<Item Name="Afro" />
 			<File>Afro.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Aliento Vision" />
+			<File>Aliento Vision.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Almavision" />
@@ -121,6 +139,10 @@
 		<Channel>
 			<Item Name="AMC" />
 			<File>AMC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="America TeVe" />
+			<File>América TeVé.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="American Heroes Channel" />
@@ -200,6 +222,10 @@
 		<Channel>
 			<Item Name="Azteca America" />
 			<File>Azteca America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Azteca Uno" />
+			<File>Azteca Uno.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Baby First TV" />
@@ -366,6 +392,10 @@
 			<File>Canal 22.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal 5" />
+			<File>Canal 5.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Canal Once" />
 			<File>Canal Once.png</File>
 		</Channel>
@@ -441,10 +471,6 @@
 			<File>Chicagoland Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Christian Television Network" />
-			<File>Christian Television Network.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Cine Estelar" />
 			<File>Cine Estelar.png</File>
 		</Channel>
@@ -483,6 +509,10 @@
 		<Channel>
 			<Item Name="Cinemáx" />
 			<File>Cinemáx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Citytv" />
+			<File>Citytv.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Classic Arts Showcase" />
@@ -614,8 +644,29 @@
 			<File>CTi TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CTNI" />
+			<Item Name="CTN International" />
+			<File>CTN International.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTN Lifestyle" />
+			<File>CTN Lifestyle.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTN" />
+			<File>CTN.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CTS" />
 			<File>CTS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTV 2" />
+			<File>CTV 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CTV" />
+			<File>CTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Dabl" />
@@ -798,6 +849,10 @@
 			<File>Escape.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ESNE TV" />
+			<File>ESNE TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ESPN 2 HD" />
 			<File>ESPN 2 HD.png</File>
 		</Channel>
@@ -863,6 +918,10 @@
 		<Channel>
 			<Item Name="FaithUSA" />
 			<File>FaithUSA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="FamilyNet" />
+			<File>FamilyNet.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Festiva Television" />
@@ -1202,6 +1261,14 @@
 			<File>GetTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Global HD" />
+			<File>Global HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Global" />
+			<File>Global.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Globo" />
 			<File>Globo.png</File>
 		</Channel>
@@ -1353,6 +1420,14 @@
 			<File>Hope Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hot TV" />
+			<File>Hot TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Houston Public Media" />
+			<File>Houston Public Media.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="HSN 2" />
 			<File>HSN 2.png</File>
 		</Channel>
@@ -1375,8 +1450,16 @@
 			<File>I24 News English.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="IBN Television" />
+			<File>IBN Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ICable News" />
 			<File>ICable News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ICI Radio-Canada Télé" />
+			<File>ICI Radio-Canada Tele.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Idaho's Very Own 24/7" />
@@ -1385,6 +1468,10 @@
 		<Channel>
 			<Item Name="IFC" />
 			<File>IFC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Imagen Television" />
+			<File>Imagen Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="In Demand" />
@@ -1484,6 +1571,10 @@
 			<File>KASW.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KAZA-TV" />
+			<File>KAZA-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KAZT-TV" />
 			<File>KAZT-TV.png</File>
 		</Channel>
@@ -1500,8 +1591,28 @@
 			<File>KBS World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KCSG-DT4" />
+			<File>KCSG-DT4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KERA" />
+			<File>KERA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KET KY" />
+			<File>KET KY.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KET" />
+			<File>KET.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KFBB-TV" />
 			<File>KFBB-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KFFV" />
+			<File>KFFV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KFPH-DT" />
@@ -1512,8 +1623,16 @@
 			<File>KMGH-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KNLC" />
+			<File>KNLC.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KNXV-TV" />
 			<File>KNXV-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KOCE-TV" />
+			<File>KOCE-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KPHO-TV" />
@@ -1534,6 +1653,14 @@
 		<Channel>
 			<Item Name="KTLA" />
 			<File>KTLA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTLN-DT2" />
+			<File>KTLN-DT2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KVOS-TV" />
+			<File>KVOS-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTVK" />
@@ -1563,8 +1690,20 @@
 			<File>Laff.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lakeland PBS" />
+			<File>Lakeland PBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Las Estrellas" />
+			<File>Las Estrellas.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="LATV" />
 			<File>LATV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lifehacks DRTV" />
+			<File>Lifehacks DRTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Lifetime HD" />
@@ -1665,12 +1804,12 @@
 			<File>Midco Sports Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Military History" />
-			<File>Military History.png</File>
+			<Item Name="Milenio Television" />
+			<File>Milenio Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Minnesota Channel" />
-			<File>Minnesota Channel.png</File>
+			<Item Name="Military History" />
+			<File>Military History.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MLB Extra Innings" />
@@ -2043,6 +2182,11 @@
 			<File>Olympic Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Omni Television" />
+			<Item Name="Omni" />
+			<File>Omni Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="One America News Network" />
 			<File>One America News Network.png</File>
 		</Channel>
@@ -2203,6 +2347,10 @@
 		<Channel>
 			<Item Name="ProSiebenSat.1 Welt" />
 			<File>ProSiebenSat.1 Welt.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Punch TV" />
+			<File>Punch TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Pursuit Channel" />
@@ -2620,6 +2768,10 @@
 			<File>Tele Vida Abundante.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Télé-Québec" />
+			<File>Tele-Quebec.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TeLe-Romantica" />
 			<File>TeLe-Romantica.png</File>
 		</Channel>
@@ -2632,8 +2784,16 @@
 			<File>Telefe Internacional.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Telemax" />
+			<File>Telemax.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Telemundo" />
 			<File>Telemundo.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televisa" />
+			<File>Televisa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Television Dominicana" />
@@ -2716,6 +2876,10 @@
 			<File>The Movie Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="The Ohio Channel" />
+			<File>The Ohio Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="The Walk TV" />
 			<Item Name="WHFL-LX">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
@@ -2778,6 +2942,26 @@
 			<File>Total Living Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TPT 2" />
+			<File>TPT 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPT Kids" />
+			<File>TPT Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPT Life" />
+			<File>TPT Life.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPT MN" />
+			<File>TPT MN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TPT Now" />
+			<File>TPT Now.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Travel Channel" />
 			<File>Travel Channel.png</File>
 		</Channel>
@@ -2796,6 +2980,10 @@
 		<Channel>
 			<Item Name="TUDN" />
 			<File>TUDN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Tuff TV" />
+			<File>Tuff TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TV Asia HD" />
@@ -2822,6 +3010,10 @@
 			<File>TV5Monde USA.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TVA" />
+			<File>TVA.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVE Internacional" />
 			<File>TVE Internacional.png</File>
 		</Channel>
@@ -2840,6 +3032,14 @@
 		<Channel>
 			<Item Name="TVN" />
 			<File>TVN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVOntario" />
+			<File>TVOntario.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Twin Cities PBS" />
+			<File>Twin Cities PBS.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TyC Sports" />
@@ -2947,6 +3147,10 @@
 			<File>USA Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="V" />
+			<File>V.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VME">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -2960,6 +3164,10 @@
 		<Channel>
 			<Item Name="VH1" />
 			<File>VH1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vibrant TV" />
+			<File>Vibrant TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Viceland HD" />
@@ -3013,12 +3221,24 @@
 			<File>WBBM-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WBND-LD" />
+			<File>WBND-LD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WCIU-TV" />
 			<File>WCIU-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WCVB" />
 			<File>WCVB.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WCWW-LD" />
+			<File>WCWW-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WDJT-TV" />
+			<File>WDJT-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="We TV" />
@@ -3079,6 +3299,10 @@
 			<File>Win TV Chicago.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Wisconsin Channel" />
+			<File>Wisconsin Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Willow HD" />
 			<File>Willow HD.png</File>
 		</Channel>
@@ -3122,8 +3346,16 @@
 			<File>WMEU-CD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WMLW-TV" />
+			<File>WMLW-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WMOR-TV" />
 			<File>WMOR-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMYS-LD" />
+			<File>WMYS-LD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WNCN-HD">
@@ -3239,12 +3471,20 @@
 			<File>WYIN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WYTU-LD" />
+			<File>WYTU-LD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Xtsy" />
 			<File>Xtsy.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="YES HD" />
 			<File>YES HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yes TV" />
+			<File>Yes TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="YES" />
