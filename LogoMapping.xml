@@ -176,6 +176,10 @@
 			<File>Antenna TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="A+" />
+			<File>APlus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Arirang HD" />
 			<File>Arirang HD.png</File>
 		</Channel>
@@ -340,6 +344,11 @@
 			<File>Bloomberg Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Blues Television Network" />
+			<Item Name="BTN" />
+			<File>Blues Television Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bonjour America TV" />
 			<File>Bonjour America TV.png</File>
 		</Channel>
@@ -420,6 +429,10 @@
 			<File>Catholic Faith Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CatholicTV Network" />
+			<File>CatholicTV Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CBN News Channel" />
 			<File>CBN News Channel.png</File>
 		</Channel>
@@ -461,6 +474,10 @@
 			</Item>
 			<Item Name="Charge" />
 			<File>Charge.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CHCH TV" />
+			<File>CHCH TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cheddar" />
@@ -916,6 +933,10 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Excelsior TV" />
+			<File>Excelsior TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="FaithUSA" />
 			<File>FaithUSA.png</File>
 		</Channel>
@@ -1263,6 +1284,10 @@
 		<Channel>
 			<Item Name="Global HD" />
 			<File>Global HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Global Mall TV" />
+			<File>Global Mall TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Global" />
@@ -1619,8 +1644,16 @@
 			<File>KFPH-DT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KJNK-LD" />
+			<File>KJNK-LD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KMGH-TV" />
 			<File>KMGH-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KMSP-TV" />
+			<File>KMSP-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KNLC" />
@@ -1649,6 +1682,14 @@
 		<Channel>
 			<Item Name="KSAZ-TV" />
 			<File>KSAZ-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSTC-TV" />
+			<File>KSTC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSTP-TV" />
+			<File>KSTP-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTLA" />
@@ -1690,8 +1731,20 @@
 			<File>Laff.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Lakeland Kids" />
+			<File>Lakeland Kids.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Lakeland PBS" />
 			<File>Lakeland PBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lakeland Plus" />
+			<File>Lakeland Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lakeland Prime" />
+			<File>Lakeland Prime.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Las Estrellas" />
@@ -2170,12 +2223,20 @@
 			<File>NRB TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NTD" />
+			<File>NTD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NTN24" />
 			<File>NTN24.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nuestra Vision" />
 			<File>Nuestra Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nueve" />
+			<File>Nueve.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Olympic Channel" />
@@ -2271,6 +2332,10 @@
 		<Channel>
 			<Item Name="PBS Kids" />
 			<File>PBS Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS HD" />
+			<File>PBS HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PBS" />
@@ -2792,6 +2857,10 @@
 			<File>Telemundo.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Teleritmo" />
+			<File>Teleritmo.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Televisa" />
 			<File>Televisa.png</File>
 		</Channel>
@@ -2866,6 +2935,10 @@
 		<Channel>
 			<Item Name="The Impact Network" />
 			<File>The Impact Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="The Israeli Network" />
+			<File>The Israeli Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="The Movie Channel Xtra" />
@@ -3225,6 +3298,10 @@
 			<File>WBND-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WCCO-TV" />
+			<File>WCCO-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WCIU-TV" />
 			<File>WCIU-TV.png</File>
 		</Channel>
@@ -3263,6 +3340,10 @@
 		<Channel>
 			<Item Name="WFLD" />
 			<File>WFLD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WFTC" />
+			<File>WFTC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WFXT" />
@@ -3451,6 +3532,14 @@
 			</Item>
 			<Item Name="WTVD" />
 			<File>WTVD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUCW" />
+			<File>WUCW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUMN-LP" />
+			<File>WUMN-LP.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUVC-DT">
