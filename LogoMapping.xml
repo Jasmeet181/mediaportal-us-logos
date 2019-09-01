@@ -149,8 +149,8 @@
 			<File>American Heroes Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMG TV" />
-			<File>AMG TV.png</File>
+			<Item Name="AMGTV" />
+			<File>AMGTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Animal Planet HD" />
@@ -526,6 +526,12 @@
 		<Channel>
 			<Item Name="Cinemáx" />
 			<File>Cinemáx.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CISA-DT" />
+			<Item Name="K24KU-D" />
+			<Item Name="K36DK-D" />
+			<File>CISA-DT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Citytv" />
@@ -1604,6 +1610,10 @@
 			<File>KAZT-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KBNT-DT" />
+			<File>KBNT-DT.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KBS World 24" />
 			<File>KBS World 24.png</File>
 		</Channel>
@@ -1640,8 +1650,20 @@
 			<File>KFFV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KFMB-DT2" />
+			<File>KFMB-DT2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KFMB-TV" />
+			<File>KFMB-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KFPH-DT" />
 			<File>KFPH-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KGTV" />
+			<File>KGTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KJNK-LD" />
@@ -1680,6 +1702,10 @@
 			<File>KRON-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KRTV" />
+			<File>KRTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KSAZ-TV" />
 			<File>KSAZ-TV.png</File>
 		</Channel>
@@ -1700,8 +1726,12 @@
 			<File>KTLN-DT2.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KVOS-TV" />
-			<File>KVOS-TV.png</File>
+			<Item Name="KTLN-TV" />
+			<File>KTLN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTVH" />
+			<File>KTVH.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTVK" />
@@ -1720,8 +1750,16 @@
 			<File>KUTP.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KVOS-TV" />
+			<File>KVOS-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KWGN-TV" />
 			<File>KWGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KXLH" />
+			<File>KXLH.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Laff" />
@@ -3462,6 +3500,10 @@
 		<Channel>
 			<Item Name="WPIX" />
 			<File>WPIX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WPWR-TV" />
+			<File>WPWR-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WRAL_HD">
