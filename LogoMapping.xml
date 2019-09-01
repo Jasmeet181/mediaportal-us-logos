@@ -137,6 +137,10 @@
 			<File>Altitude Sports and Entertainment.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Amazing Facts" />
+			<File>Amazing Facts.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="AMC" />
 			<File>AMC.png</File>
 		</Channel>
@@ -284,16 +288,20 @@
 			<File>BCSN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Beauty iQ" />
-			<File>Beauty iQ.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Bein Sports Español" />
 			<File>Bein Sports Espanol.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bein Sports" />
 			<File>Bein Sports.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BEK Sports Plus" />
+			<File>BEK Sports Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BEK Sports" />
+			<File>BEK Sports.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Believers Voice of Victory Network" />
@@ -613,6 +621,10 @@
 		<Channel>
 			<Item Name="Cooking Channel" />
 			<File>Cooking Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Corner Store TV" />
+			<File>Corner Store TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cornerstone Television" />
