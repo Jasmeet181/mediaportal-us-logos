@@ -145,8 +145,8 @@
 			<File>AMC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="America TeVe" />
-			<File>América TeVé.png</File>
+			<Item Name="América TeVé" />
+			<File>America TeVe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="American Heroes Channel" />
@@ -696,8 +696,8 @@
 			<File>CTS.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CTV 2" />
-			<File>CTV 2.png</File>
+			<Item Name="CTV2" />
+			<File>CTV2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CTV" />
