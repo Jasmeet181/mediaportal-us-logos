@@ -3843,12 +3843,12 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Faction Talk" />
-			<File>Faction Talk.png</File>
+			<Item Name="Faction Punk" />
+			<File>Faction Punk.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Faction" />
-			<File>Faction.png</File>
+			<Item Name="Faction Talk" />
+			<File>Faction Talk.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Family Talk" />
