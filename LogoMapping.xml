@@ -761,6 +761,10 @@
 			<File>Discovery Family.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Discovery HD" />
+			<File>Discovery HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Discovery Life" />
 			<File>Discovery Life.png</File>
 		</Channel>
