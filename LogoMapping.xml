@@ -1386,6 +1386,10 @@
 			<File>HBO Family.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="HBO HD" />
+			<File>HBO HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="HBO Latino" />
 			<File>HBO Latino.png</File>
 		</Channel>
