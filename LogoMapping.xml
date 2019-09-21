@@ -141,6 +141,10 @@
 			<File>Amazing Facts.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AMC HD" />
+			<File>AMC HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="AMC" />
 			<File>AMC.png</File>
 		</Channel>
