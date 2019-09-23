@@ -117,6 +117,10 @@
 			<File>Afro.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Aleluya TV" />
+			<File>Aleluya TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Aliento Vision" />
 			<File>Aliento Vision.png</File>
 		</Channel>
@@ -147,6 +151,10 @@
 		<Channel>
 			<Item Name="AMC" />
 			<File>AMC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Amen Network" />
+			<File>Amen Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="América TeVé" />
@@ -708,8 +716,7 @@
 			<File>CTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Dabl" />
-			<Item Name="WRAZ 3">
+			<Item Name="Dabl">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<File>Dabl.png</File>
@@ -1654,6 +1661,18 @@
 			<File>KCSG-DT4.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KDAF" />
+			<File>KDAF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KDFI" />
+			<File>KDFI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KDFW" />
+			<File>KDFW.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KERA" />
 			<File>KERA.png</File>
 		</Channel>
@@ -1690,6 +1709,18 @@
 			<File>KGTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KHLM-LD" />
+			<File>KHLM-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KHOU" />
+			<File>KHOU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KIAH" />
+			<File>KIAH.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KJNK-LD" />
 			<File>KJNK-LD.png</File>
 		</Channel>
@@ -1720,6 +1751,14 @@
 		<Channel>
 			<Item Name="KPNX" />
 			<File>KPNX.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KPRC-TV" />
+			<File>KPRC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KRIV" />
+			<File>KRIV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KRON-TV" />
@@ -1754,6 +1793,14 @@
 			<File>KTLN-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTMD" />
+			<File>KTMD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTRK-TV" />
+			<File>KTRK-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTVH" />
 			<File>KTVH.png</File>
 		</Channel>
@@ -1762,8 +1809,24 @@
 			<File>KTVK.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTVT" />
+			<File>KTVT.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTVW-DT" />
 			<File>KTVW-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTXA" />
+			<File>KTXA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTXH" />
+			<File>KTXH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KUBE-TV" />
+			<File>KUBE-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KUSI-TV" />
@@ -1774,6 +1837,10 @@
 			<File>KUTP.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KUVN-DT" />
+			<File>KUVN-DT.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KVOS-TV" />
 			<File>KVOS-TV.png</File>
 		</Channel>
@@ -1782,8 +1849,28 @@
 			<File>KWGN-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KXAS-TV" />
+			<File>KXAS-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KXLH" />
 			<File>KXLH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KXLN" />
+			<File>KXLN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTVK" />
+			<File>KTVK.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KXTX-TV" />
+			<File>KXTX-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KYAZ" />
+			<File>KYAZ.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Laff" />
@@ -1872,6 +1959,10 @@
 			<File>LRW.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Maria Vision" />
+			<File>Maria Vision.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="MASN" />
 			<File>MASN.png</File>
 		</Channel>
@@ -1909,6 +2000,10 @@
 		<Channel>
 			<Item Name="MHz WorldView" />
 			<File>MHz WorldView.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Mi Raza" />
+			<File>Mi Raza.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MiCasa Network" />
@@ -2048,6 +2143,10 @@
 		<Channel>
 			<Item Name="Myx TV" />
 			<File>Myx TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nacion TV Internacional" />
+			<File>Nacion TV Internacional.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NASA Television" />
@@ -2285,12 +2384,20 @@
 			<File>NRB TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NTA" />
+			<File>NTA.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NTD" />
 			<File>NTD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NTN24" />
 			<File>NTN24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Nudu" />
+			<File>Nudu.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nuestra Vision" />
@@ -2584,6 +2691,10 @@
 			<File>Russia 24.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Saigon Network TV" />
+			<File>Saigon Network TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SBS Plus" />
 			<File>SBS Plus.png</File>
 		</Channel>
@@ -2680,6 +2791,10 @@
 		<Channel>
 			<Item Name="Sony Movie Channel" />
 			<File>Sony Movie Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Sab" />
+			<File>Sony Sab.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sorpresa" />
@@ -2827,6 +2942,10 @@
 			<File>Sur Peru.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Swagat TV" />
+			<File>Swagat TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SWX Right Now" />
 			<File>SWX Right Now.png</File>
 		</Channel>
@@ -2933,6 +3052,10 @@
 		<Channel>
 			<Item Name="Television Montana" />
 			<File>Television Montana.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Televiva" />
+			<File>Televiva.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Telexitos" />
@@ -3242,6 +3365,10 @@
 			<File>UniMas.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="UniMax" />
+			<File>UniMax.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Unity Broadcasting Network" />
 			<File>Unity Broadcasting Network.png</File>
 		</Channel>
@@ -3270,6 +3397,10 @@
 			<File>Upliftv.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Urban Houston Network" />
+			<File>Urban Houston Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="UPtv" />
 			<File>UPtv.png</File>
 		</Channel>
@@ -3291,6 +3422,10 @@
 			</Item>
 			<Item Name="V-me" />
 			<File>V-me.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VAN-TV" />
+			<File>VAN-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VH1 HD" />
@@ -3323,6 +3458,18 @@
 		<Channel>
 			<Item Name="Viendo Movies" />
 			<File>Viendo Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vienevision" />
+			<File>Vienevision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="VieTV" />
+			<File>VieTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Vision Celestial" />
+			<File>Vision Celestial.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Vivid TV" />
@@ -3398,6 +3545,10 @@
 		<Channel>
 			<Item Name="WEDU" />
 			<File>WEDU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WFAA" />
+			<File>WFAA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WFLD" />
@@ -3915,6 +4066,18 @@
 			<File>Howard 101.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="HPM Classical" />
+			<File>HPM Classical.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HPM Mixtape" />
+			<File>HPM Mixtape.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HPM News 88.7" />
+			<File>HPM News 887.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="HUR Voices" />
 			<File>HUR Voices.png</File>
 		</Channel>
@@ -4092,6 +4255,10 @@
 		<Channel>
 			<Item Name="Shade 45" />
 			<File>Shade 45.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sight Into Sound" />
+			<File>Sight Into Sound.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Siriusly Sinatra" />
