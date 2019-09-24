@@ -177,8 +177,8 @@
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ANT1" />
-			<File>ANT1.png</File>
+			<Item Name="ANT1 Satellite" />
+			<File>ANT1 Satellite.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antena3" />
