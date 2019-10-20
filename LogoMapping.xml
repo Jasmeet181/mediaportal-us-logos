@@ -2237,10 +2237,6 @@
 			<File>NBCSN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="NESN HD" />
-			<File>NESN HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NESN" />
 			<File>NESN.png</File>
 		</Channel>
