@@ -3424,6 +3424,10 @@
 			<File>VAN-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ve Plus" />
+			<File>Ve Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="VH1 HD" />
 			<File>VH1 HD.png</File>
 		</Channel>
