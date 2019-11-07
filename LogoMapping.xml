@@ -1912,10 +1912,6 @@
 			<File>Lifetime HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lifetime Movies" />
-			<File>Lifetime Movies.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Lifetime" />
 			<File>Lifetime.png</File>
 		</Channel>
@@ -1937,6 +1933,10 @@
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<File>Live Well Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LMN" />
+			<File>LMN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Local Now" />
