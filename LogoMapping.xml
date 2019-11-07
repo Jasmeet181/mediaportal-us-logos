@@ -2499,10 +2499,6 @@
 			<File>PBS Kids.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="PBS HD" />
-			<File>PBS HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="PBS" />
 			<File>PBS.png</File>
 		</Channel>
