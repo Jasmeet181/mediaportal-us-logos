@@ -2249,6 +2249,10 @@
 			<File>New England Cable News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="News 12+" />
+			<File>News 12Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="News 12 Brooklyn" />
 			<File>News 12 Brooklyn.png</File>
 		</Channel>
@@ -2271,10 +2275,6 @@
 		<Channel>
 			<Item Name="News 12 The Bronx" />
 			<File>News 12 The Bronx.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="News 12 Traffic &amp; Weather" />
-			<File>News 12 Traffic and Weather.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="News 12 Varsity" />
