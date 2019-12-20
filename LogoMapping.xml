@@ -3184,10 +3184,6 @@
 			<File>Toku.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Toonami" />
-			<File>Toonami.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Total Living Network" />
 			<File>Total Living Network.png</File>
 		</Channel>
