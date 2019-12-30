@@ -62,6 +62,9 @@
 			<Item Name="Aapka Colors" />
 			<File>Aapka Colors.png</File>
 		</Channel>
+			<Item Name="AAT TV" />
+			<File>AAT TV.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="ABC HD" />
 			<File>ABC HD.png</File>
@@ -544,6 +547,12 @@
 			<File>Cinemoi North America.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Circle">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<File>Circle.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Cinemáx" />
 			<File>Cinemáx.png</File>
 		</Channel>
@@ -643,7 +652,17 @@
 			<File>Cornerstone Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Court TV Mystery" />
+			<Item Name="Mystery">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<File>Court TV Mystery.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Court TV" />
+			<Item Name="CourtTV">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Court TV.png</File>
 		</Channel>
 		<Channel>
@@ -671,6 +690,7 @@
 		<Channel>
 			<Item Name="Create">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Create.png</File>
 		</Channel>
@@ -718,6 +738,7 @@
 		<Channel>
 			<Item Name="Dabl">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Dabl.png</File>
 		</Channel>
@@ -744,7 +765,9 @@
 			<File>De Pelicula.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Decades" />
+			<Item Name="Decades">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Decades.png</File>
 		</Channel>
 		<Channel>
@@ -873,7 +896,9 @@
 			<File>Eleven Sports.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Enlace" />
+			<Item Name="Enlace">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Enlace.png</File>
 		</Channel>
 		<Channel>
@@ -891,12 +916,6 @@
 		<Channel>
 			<Item Name="Epix" />
 			<File>Epix.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Escape">
-				<Provider>OTA (North Carolina, Raleigh)</Provider>
-			</Item>
-			<File>Escape.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ESNE TV" />
@@ -1312,6 +1331,9 @@
 			<Item Name="GetTV">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
+			<Item Name="KIRO-SD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>GetTV.png</File>
 		</Channel>
 		<Channel>
@@ -1365,6 +1387,7 @@
 		<Channel>
 			<Item Name="Grit">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Grit.png</File>
 		</Channel>
@@ -1431,6 +1454,9 @@
 		<Channel>
 			<Item Name="H&amp;I" />
 			<Item Name="Heroes &amp; Icons" />
+			<Item Name="Heroes">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Heroes and Icons.png</File>
 		</Channel>
 		<Channel>
@@ -1443,6 +1469,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Hillsong Channel" />
+			<Item Name="Hillsong">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Hillsong Channel.png</File>
 		</Channel>
 		<Channel>
@@ -1606,6 +1635,13 @@
 			<File>Jewish Life Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Combo">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="Juce TV Smile TV" />
+			<File>Juce TV Smile TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Juce TV" />
 			<File>Juce TV.png</File>
 		</Channel>
@@ -1657,8 +1693,25 @@
 			<File>KBS World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KBTC-TV" />
+			<File>KBTC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCPQ">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<File>KCPQ.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KCSG-DT4" />
 			<File>KCSG-DT4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCTS-HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="KCTS-TV" />
+			<File>KCTS-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KDAF" />
@@ -1689,6 +1742,9 @@
 			<File>KFBB-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KFFV-HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="KFFV" />
 			<File>KFFV.png</File>
 		</Channel>
@@ -1721,6 +1777,17 @@
 			<File>KIAH.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KING-TV" />
+			<File>KING-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KIRO-DT">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="KIRO-TV" />
+			<File>KIRO-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KJNK-LD" />
 			<File>KJNK-LD.png</File>
 		</Channel>
@@ -1743,6 +1810,14 @@
 		<Channel>
 			<Item Name="KOCE-TV" />
 			<File>KOCE-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KOMO-TV" />
+			<File>KOMO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KONG" />
+			<File>KONG-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KPHO-TV" />
@@ -1779,6 +1854,13 @@
 		<Channel>
 			<Item Name="KSTP-TV" />
 			<File>KSTP-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSTW-HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="KSTW" />
+			<File>KSTW.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTLA" />
@@ -1829,6 +1911,10 @@
 			<File>KUBE-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KUNS-TV" />
+			<File>KUNS-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KUSI-TV" />
 			<File>KUSI-TV.png</File>
 		</Channel>
@@ -1847,6 +1933,10 @@
 		<Channel>
 			<Item Name="KWGN-TV" />
 			<File>KWGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KWPX-DT7" />
+			<File>KWPX-DT7.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KXAS-TV" />
@@ -1872,7 +1962,13 @@
 			<Item Name="KYAZ" />
 			<File>KYAZ.png</File>
 		</Channel>
+			<Item Name="KZJO" />
+			<File>KZJO.png</File>
+		</Channel>
 		<Channel>
+			<Item Name="KIRO 3">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="Laff" />
 			<Item Name="WTVD-D3">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
@@ -2063,6 +2159,8 @@
 		</Channel>
 		<Channel>
 			<Item Name="Movies" />
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Movies.png</File>
 		</Channel>
 		<Channel>
@@ -2495,6 +2593,9 @@
 			<File>PBJ.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Kids">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="PBS Kids" />
 			<File>PBS Kids.png</File>
 		</Channel>
@@ -2845,6 +2946,9 @@
 			<File>SportsTime Ohio.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KCPQ D4 (Stadium)">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="Stadium">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -2852,6 +2956,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Start TV" />
+			<Item Name="Start">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="WRAL 3">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -2964,6 +3071,12 @@
 			<File>TBN Salsa.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="TBN HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="TBN SD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="TBN" />
 			<File>TBN.png</File>
 		</Channel>
@@ -3282,6 +3395,10 @@
 		<Channel>
 			<Item Name="TVOntario" />
 			<File>TVOntario.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVW" />
+			<File>TVW.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Twin Cities PBS" />
@@ -3661,6 +3778,7 @@
 		<Channel>
 			<Item Name="World">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>World.png</File>
 		</Channel>
