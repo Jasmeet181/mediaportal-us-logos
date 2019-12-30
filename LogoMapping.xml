@@ -62,6 +62,7 @@
 			<Item Name="Aapka Colors" />
 			<File>Aapka Colors.png</File>
 		</Channel>
+		<Channel>
 			<Item Name="AAT TV" />
 			<File>AAT TV.png</File>
 		</Channel>
@@ -1962,6 +1963,7 @@
 			<Item Name="KYAZ" />
 			<File>KYAZ.png</File>
 		</Channel>
+		<Channel>
 			<Item Name="KZJO" />
 			<File>KZJO.png</File>
 		</Channel>
@@ -2158,7 +2160,7 @@
 			<File>MoviePlex.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Movies" />
+			<Item Name="Movies">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Movies.png</File>
