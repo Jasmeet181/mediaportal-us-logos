@@ -1818,7 +1818,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="KONG" />
-			<File>KONG-TV.png</File>
+			<File>KONG.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KPHO-TV" />
