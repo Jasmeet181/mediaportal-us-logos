@@ -36,7 +36,9 @@
 			<File>3ABN Proclaim.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="3ABN" />
+			<Item Name="3ABN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="W24CP-D">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -51,19 +53,27 @@
 			<File>5StarMax.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A&amp;E HD" />
+			<Item Name="A&amp;E HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>AandE HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A&amp;E" />
+			<Item Name="A&amp;E">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>AandE.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Aapka Colors" />
+			<Item Name="Aapka Colors">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Aapka Colors.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AAT TV" />
+			<Item Name="AAT TV">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>AAT TV.png</File>
 		</Channel>
 		<Channel>
@@ -93,15 +103,33 @@
 			<File>ACC Network Extra.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ACC Network HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="ACC Network" />
 			<File>ACC Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AccuWeather DC MD VA">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="AccuWeather HD DC MD VA">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="AccuWeather" />
 			<File>AccuWeather.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ActionMax" />
+			<Item Name="Action Max East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Action Max East HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Action Max West">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ActionMax.png</File>
 		</Channel>
 		<Channel>
@@ -149,10 +177,15 @@
 			<File>Amazing Facts.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMC HD" />
+			<Item Name="AMC HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>AMC HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="AMC East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="AMC" />
 			<File>AMC.png</File>
 		</Channel>
@@ -165,7 +198,12 @@
 			<File>America TeVe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="American Heroes Channel" />
+			<Item Name="American Heroes Channel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="American Heroes HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>American Heroes Channel.png</File>
 		</Channel>
 		<Channel>
@@ -173,16 +211,27 @@
 			<File>AMGTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Animal Planet HD" />
+			<Item Name="Animal Planet HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Animal Planet HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Animal Planet" />
+			<Item Name="Animal Planet">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Animal Planet.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ANT1 Satellite" />
 			<File>ANT1 Satellite.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Antena3 HD" />
+			<Item Name="Antena 3 Internacional HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<File>Antena3 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Antena3" />
@@ -192,6 +241,10 @@
 			<Item Name="Antenna TV" />
 			<Item Name="Antenna">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="AntTV">
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Antenna TV.png</File>
 		</Channel>
@@ -212,11 +265,24 @@
 			<File>Arizona NewsChannel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ART (Arabic)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ART America" />
+			<File>ART America.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="As Seen On TV" />
 			<File>As Seen On TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Aspire HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Aspire TV" />
+			<Item Name="Aspire">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Aspire TV.png</File>
 		</Channel>
 		<Channel>
@@ -232,15 +298,27 @@
 			<File>Audience.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AWE" />
+			<Item Name="AWE HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="AWE">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>AWE.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Axs TV" />
+			<Item Name="Axs TV HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Axs TV">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Axs TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AYM Sports" />
+			<Item Name="AYM Sports">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>AYM Sports.png</File>
 		</Channel>
 		<Channel>
@@ -252,6 +330,9 @@
 			<File>Azteca Uno.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BabyFirst HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Baby First TV" />
 			<File>Baby First TV.png</File>
 		</Channel>
@@ -268,27 +349,43 @@
 			<File>Band Internacional.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bandamax Estados Unidos">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Bandamax" />
+			<File>Bandamax.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BandNews TV" />
 			<File>BandNews TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bang U" />
-			<File>Bang U.png</File>
+			<Item Name="Bang U TV" />
+			<File>Bang U TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC America HD" />
+			<Item Name="BBC America HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BBC America HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC America" />
+			<Item Name="BBC America">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BBC America.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC World News HD" />
+			<Item Name="BBC World News HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BBC World News HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC World News" />
+			<Item Name="BBC World">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BBC World News.png</File>
 		</Channel>
 		<Channel>
@@ -304,10 +401,16 @@
 			<File>BCSN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein Sports en Espanol HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Bein Sports Español" />
 			<File>Bein Sports Espanol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein Sports HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Bein Sports" />
 			<File>Bein Sports.png</File>
 		</Channel>
@@ -324,11 +427,18 @@
 			<File>Believers Voice of Victory Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BET Gospel" />
+			<Item Name="BET Gospel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BET Gospel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BET Her" />
+			<Item Name="BET Her HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BET Her">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BET Her.png</File>
 		</Channel>
 		<Channel>
@@ -336,14 +446,24 @@
 			<File>BET Hip-Hop.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BET Jams" />
+			<Item Name="BET Jams">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BET Jams.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BET Soul" />
+			<Item Name="BET Soul">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BET Soul.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BET East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BET HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="BET" />
 			<File>BET.png</File>
 		</Channel>
@@ -369,8 +489,29 @@
 		</Channel>
 		<Channel>
 			<Item Name="Blues Television Network" />
-			<Item Name="BTN" />
+			<Item Name="BTN 1">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BTN 2">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BTN 3">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BTN HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="BTN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Blues Television Network.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BN Televizija" />
+			<Item Name="BN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<File>BN Televizija.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bonjour America TV" />
@@ -381,22 +522,33 @@
 			<File>Boomerang HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Boomerang" />
+			<Item Name="Boomerang">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Boomerang.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bounce TV" />
 			<Item Name="Bounce">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Bounce TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bravo" />
+			<Item Name="Bravo HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Bravo">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Bravo.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Brazzers TV" />
+			<Item Name="Brazzers">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Brazzers TV.png</File>
 		</Channel>
 		<Channel>
@@ -406,22 +558,35 @@
 		</Channel>
 		<Channel>
 			<Item Name="BYU TV" />
+			<Item Name="BYU">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>BYU TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="C-SPAN" />
+			<Item Name="C-SPAN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>C-SPAN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="C-SPAN2" />
+			<Item Name="C-SPAN 2">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>C-SPAN2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="C-SPAN3" />
+			<Item Name="C-SPAN 3">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>C-SPAN3.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal 22" />
+			<Item Name="Canal 22">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Canal 22.png</File>
 		</Channel>
 		<Channel>
@@ -429,22 +594,42 @@
 			<File>Canal 5.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Canal Once" />
+			<Item Name="Canal Once">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Canal Once.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Canal Sur">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<File>Canal Sur.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Caracol Internacional" />
+			<Item Name="Caracol">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Caracol Internacional.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cars.TV HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Cars.TV" />
 			<File>Cars.TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cartoon Network HD (East)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Cartoon Network HD" />
 			<File>Cartoon Network HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cartoon Network East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Cartoon Network" />
 			<File>Cartoon Network.png</File>
 		</Channel>
@@ -457,6 +642,13 @@
 			<File>CatholicTV Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BBC CBeebies">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="CBeebies" />
+			<File>CBeebies.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CBN News Channel" />
 			<File>CBN News Channel.png</File>
 		</Channel>
@@ -465,7 +657,12 @@
 			<File>CBS News.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CBS Sports Network" />
+			<Item Name="CBS Sports Network HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="CBS Sports Network">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CBS Sports Network.png</File>
 		</Channel>
 		<Channel>
@@ -473,15 +670,24 @@
 			<File>CBS.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CCTV-4 (Mandarin)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="CCTV-4" />
 			<File>CCTV-4.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CentroamericaTV" />
+			<Item Name="CentroAmerica TV">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CentroamericaTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN America" />
+			<Item Name="CGTN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CGTN America.png</File>
 		</Channel>
 		<Channel>
@@ -489,6 +695,9 @@
 			<File>CGTN Espanol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Channel 1 Russian">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Channel One Russia" />
 			<File>Channel One Russia.png</File>
 		</Channel>
@@ -496,7 +705,9 @@
 			<Item Name="Charge!">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
-			<Item Name="Charge" />
+			<Item Name="Charge">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>Charge.png</File>
 		</Channel>
 		<Channel>
@@ -512,19 +723,27 @@
 			<File>Chicagoland Television.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine Estelar" />
+			<Item Name="Cine Estelar">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cine Estelar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine Latino" />
+			<Item Name="Cine Latino">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cine Latino.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine Mexicano" />
+			<Item Name="Cine Mexicano">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cine Mexicano.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cine Nostalgia" />
+			<Item Name="Cine Nostalgia">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cine Nostalgia.png</File>
 		</Channel>
 		<Channel>
@@ -536,15 +755,29 @@
 			<File>Cinema One Global.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Cinemax HD East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Cinemax HD West">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Cinemax HD" />
 			<File>Cinemax HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cinemax" />
+			<Item Name="Cinemax West">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Cinemax">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cinemax.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cinemoi North America" />
+			<Item Name="Cinemoi">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cinemoi North America.png</File>
 		</Channel>
 		<Channel>
@@ -576,10 +809,18 @@
 			<File>Cleo TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CMT Music" />
+			<Item Name="CMT Music">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CMT Music.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CMT East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="CMT HD (East)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="CMT" />
 			<File>CMT.png</File>
 		</Channel>
@@ -588,11 +829,15 @@
 			<File>CNBC HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNBC World" />
+			<Item Name="CNBC World">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNBC World.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNBC" />
+			<Item Name="CNBC">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNBC.png</File>
 		</Channel>
 		<Channel>
@@ -601,29 +846,47 @@
 		</Channel>
 		<Channel>
 			<Item Name="CNN en Español" />
+			<Item Name="CNN Espanol">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNN en Espanol.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN HD" />
+			<Item Name="CNN HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNN HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN International" />
+			<Item Name="CNN International">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNN International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CNN" />
+			<Item Name="CNN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CNN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Comedy Central HD (East)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Comedy Central HD" />
 			<File>Comedy Central HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Comedy Central East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Comedy Central" />
 			<File>Comedy Central.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Comedy.TV HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Comedy.TV" />
 			<File>Comedy.TV.png</File>
 		</Channel>
@@ -631,17 +894,24 @@
 			<Item Name="CometTV">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
+			<Item Name="Comet is a channel dedicated to sci-fi entertainment offering popular favorites and cult classics. (Comet)">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="Comet">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<File>Comet.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cooking Channel HD" />
+			<Item Name="Cooking Channel HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cooking Channel HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cooking Channel" />
+			<Item Name="Cooking Channel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cooking Channel.png</File>
 		</Channel>
 		<Channel>
@@ -667,7 +937,9 @@
 			<File>Court TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cowboy Channel" />
+			<Item Name="Cowboy Channel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Cowboy Channel.png</File>
 		</Channel>
 		<Channel>
@@ -696,10 +968,16 @@
 			<File>Create.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Crime &amp; Investig HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Crime + Investigation HD" />
 			<File>Crime and Investigation HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Crime &amp; Investigation">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Crime + Investigation" />
 			<File>Crime and Investigation.png</File>
 		</Channel>
@@ -708,6 +986,9 @@
 			<File>CRTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CTI-Zhong Tian">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="CTi TV" />
 			<File>CTi TV.png</File>
 		</Channel>
@@ -721,7 +1002,9 @@
 			<File>CTN Lifestyle.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CTN" />
+			<Item Name="CTN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>CTN.png</File>
 		</Channel>
 		<Channel>
@@ -744,7 +1027,9 @@
 			<File>Dabl.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Daystar HD" />
+			<Item Name="Daystar HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="WDRN-LD">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -754,15 +1039,21 @@
 			<File>Daystar HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Daystar" />
+			<Item Name="Daystar">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Daystar.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="De Pelicula Clasico" />
+			<Item Name="De Pelicula Clasico">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>De Pelicula Clasico.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="De Pelicula" />
+			<Item Name="De Pelicula">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>De Pelicula.png</File>
 		</Channel>
 		<Channel>
@@ -772,11 +1063,20 @@
 			<File>Decades.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Destination America HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Destination America SD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Destination America" />
 			<File>Destination America.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Deutsche Welle" />
+			<Item Name="DW Amerika">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
@@ -784,26 +1084,53 @@
 			<File>DirecTV Cinema.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Discovery En Espanol HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Discovery en Español" />
+			<Item Name="Discovery Espanol">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Discovery en Espanol.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Familia" />
+			<Item Name="Discovery Familia HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Discovery Familia">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Discovery Familia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Discovery Family Channel HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Discovery Family Channel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Discovery Family" />
 			<File>Discovery Family.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery HD" />
+			<Item Name="Discovery HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Discovery HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Discovery Life" />
+			<Item Name="Discovery Life HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Discovery Life">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Discovery Life.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Discovery East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Discovery" />
 			<File>Discovery.png</File>
 		</Channel>
@@ -812,11 +1139,16 @@
 			<File>Dish Studio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney Channel HD" />
+			<Item Name="Disney Channel HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Disney Channel HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney Channel" />
+			<Item Name="Disney East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Disney Channel.png</File>
 		</Channel>
 		<Channel>
@@ -824,23 +1156,34 @@
 			<File>Disney Junior HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney Junior (East)">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Disney Junior" />
 			<File>Disney Junior.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney XD HD" />
+			<Item Name="Disney XD HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>Disney XD HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney XD East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Disney XD" />
 			<File>Disney XD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="DIY Network HD" />
-			<File>DIY Network HD.png</File>
+			<Item Name="DIY Network HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 		</Channel>
 		<Channel>
-			<Item Name="DIY Network" />
+			<Item Name="DIY Network">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>DIY Network.png</File>
 		</Channel>
 		<Channel>
@@ -860,6 +1203,12 @@
 			<File>Dom Kino.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dominican View">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<File>Dominican View.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="DTV America" />
 			<Item Name="WNCB-LD Infomercials" />
 			<File>DTV America.png</File>
@@ -870,10 +1219,16 @@
 		</Channel>
 		<Channel>
 			<Item Name="E HD" />
+			<Item Name="E! TV HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>E HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="E" />
+			<Item Name="E! TV East">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>E.png</File>
 		</Channel>
 		<Channel>
@@ -885,14 +1240,23 @@
 			<File>Ecuador TV Internacional.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Ecuavisa Internacional">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Ecuavisa" />
 			<File>Ecuavisa.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="El Rey Network" />
+			<Item Name="El Rey">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>El Rey Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eleven Sports HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Eleven Sports" />
 			<File>Eleven Sports.png</File>
 		</Channel>
@@ -903,6 +1267,9 @@
 			<File>Enlace.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Epix 2 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Epix 2" />
 			<File>Epix 2.png</File>
 		</Channel>
@@ -915,6 +1282,12 @@
 			<File>Epix Hits.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Epix HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Epix SD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Epix" />
 			<File>Epix.png</File>
 		</Channel>
@@ -923,11 +1296,15 @@
 			<File>ESNE TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPN 2 HD" />
+			<Item Name="ESPN 2 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPN 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPN 2" />
+			<Item Name="ESPN 2">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPN 2.png</File>
 		</Channel>
 		<Channel>
@@ -943,31 +1320,78 @@
 			<File>ESPN Classic.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ESPN College Extra 1 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 2 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 3 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 4 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 5 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 6 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 7 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN College Extra 8 HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="ESPN College Extra" />
 			<File>ESPN College Extra.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPN Deportes" />
+			<Item Name="ESPN Deportes HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPN Deportes">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPN Deportes.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ESPN Goal Line HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="ESPN Goal Line" />
 			<File>ESPN Goal Line.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPN HD" />
+			<Item Name="ESPN HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPN HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ESPNU HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPNU">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="ESPN U" />
 			<File>ESPN U.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPN" />
+			<Item Name="ESPN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPN.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ESPNews" />
+			<Item Name="ESPNews HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="ESPNews">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>ESPNews.png</File>
 		</Channel>
 		<Channel>
@@ -982,7 +1406,12 @@
 			<File>Estrella TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="EWTN" />
+			<Item Name="EWTN Espanol">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="EWTN">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
@@ -1492,6 +1921,9 @@
 			<File>HITN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNN Headline News">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="HLN" />
 			<File>HLN.png</File>
 		</Channel>
@@ -1654,6 +2086,7 @@
 			<Item Name="Justice Network" />
 			<Item Name="Justice">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Justice Network.png</File>
 		</Channel>
@@ -1662,8 +2095,8 @@
 			<File>KARE.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Karusel TV" />
-			<File>Karusel TV.png</File>
+			<Item Name="Karusel" />
+			<File>Karusel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KASW" />
@@ -1699,6 +2132,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="KCPQ">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="Q13FOX">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>KCPQ.png</File>
@@ -1778,6 +2214,9 @@
 			<File>KIAH.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KING-HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="KING-TV" />
 			<File>KING-TV.png</File>
 		</Channel>
@@ -1814,9 +2253,15 @@
 		</Channel>
 		<Channel>
 			<Item Name="KOMO-TV" />
+			<Item Name="KOMO">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>KOMO-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KONG-HD">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="KONG" />
 			<File>KONG.png</File>
 		</Channel>
@@ -1843,6 +2288,10 @@
 		<Channel>
 			<Item Name="KRTV" />
 			<File>KRTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KRUM-LD" />
+			<File>KRUM-LD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KSAZ-TV" />
@@ -1913,6 +2362,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="KUNS-TV" />
+			<Item Name="KUNS">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>KUNS-TV.png</File>
 		</Channel>
 		<Channel>
@@ -1964,7 +2416,9 @@
 			<File>KYAZ.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KZJO" />
+			<Item Name="KZJO">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<File>KZJO.png</File>
 		</Channel>
 		<Channel>
@@ -2218,6 +2672,156 @@
 			<File>Multimedios Television.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="MC: 70s">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: 80s">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: 90s">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Adult Alternative">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Alternative">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Blues">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Classic Country">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Classic Rock">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Classical Masterpieces">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Contemporary Christian">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Country Hits">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Dance/EDM">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Easy Listening">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Gospel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Hip-Hop and R&amp;B">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Hip-Hop Classics">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Hit List">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Indie">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Jazz">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Kidz Only">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Light Classical">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Love Songs">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Max">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Metal">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Mexicana">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Musica Urbana">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Party Favorites">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Pop &amp; Country">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Pop Hits">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Pop Latino">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: R&amp;B Classics">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: R&amp;B Soul">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Rap">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Reggae">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Rock">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Rock Hits">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Romances">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Singers &amp; Swing">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Smooth Jazz">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Soft Rock">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Solid Gold Oldies">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Sounds of the Seasons">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Soundscape">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Stage &amp; Screen">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Teen Beats">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Throwback Jamz">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Today's Country">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Toddler Tunes">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Tropicales">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="MC: Y2K">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
 			<Item Name="Music Choice" />
 			<File>Music Choice.png</File>
 		</Channel>
@@ -2697,6 +3301,7 @@
 			</Item>
 			<Item Name="Quest">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
+				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>Quest.png</File>
 		</Channel>
@@ -2951,6 +3556,9 @@
 			<Item Name="KCPQ D4 (Stadium)">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
+			<Item Name="Stadium is the ultimate destination for the modern day sports fan (Stadium)">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="Stadium">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -3063,6 +3671,12 @@
 			<File>TAN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="If it's what's new or what's next, it's on TBD. (TBD)">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="KZJO D4 (TBD    )">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
 			<Item Name="TBD">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
@@ -3537,6 +4151,25 @@
 		<Channel>
 			<Item Name="Ve Plus" />
 			<File>Ve Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Barker 1 - Premier Promo Channel">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Barker 3 - FIOS TV Info-Mercury">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Barker 4 - Mercury VOD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Barker 5 - Mercury Market Place">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Barker 6 - Quantum">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<Item Name="Verizon Fios" />
+			<File>Verizon Fios.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="VH1 HD" />
