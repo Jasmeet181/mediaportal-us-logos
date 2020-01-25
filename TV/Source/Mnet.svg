@@ -1,0 +1,16 @@
+<svg width="800" height="282.8" clip-rule="evenodd" fill-rule="evenodd" image-rendering="optimizeQuality" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" version="1.1" viewBox="0 0 1200 423.64" xml:space="preserve" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil3 {fill:none}
+    .fil2 {fill:#9C9EA1}
+    .fil0 {fill:#E3207C}
+    .fil1 {fill:white;fill-rule:nonzero}
+   ]]>
+  </style>
+  </defs>
+ <g transform="matrix(1.4235 0 0 1.4235 -438.43 -59.981)">
+    <path class="fil0" d="m389 42h275c44 0 80 37 80 81v137c0 44-36 80-80 80h-275c-44 0-81-36-81-80v-137c0-44 37-81 81-81zm394 228v-125c0-17 4-29 12-39 9-10 22-15 37-15h19c15 0 28 5 37 15 8 10 12 22 12 39v125h-37v-125c0-8-2-19-12-19h-19c-10 0-12 11-12 19v125zm318-155h50v32h-50v70c0 7 2 19 12 19h38v34h-38c-16 0-28-5-37-15-8-9-12-22-12-38v-126h37zm-120-24h8c16 0 28 5 37 15 8 10 12 22 12 39v40c0 17 0 21-20 21h-55v11c0 7 2 19 12 19h57v34h-57c-16 0-28-5-37-15-8-9-12-22-12-38v-72c0-17 4-29 12-39 9-10 21-15 37-15zm-18 78h38v-24c0-11-1-19-12-19h-14c-10 0-12 11-12 19z" fill="#e3207c"/>
+    <path class="fil1" d="m694 267v-134c0-29-19-46-50-50-18-2-36 3-48 14-10 9-15 22-19 35l-40 125c-2 6-5 9-11 10-6 0-10-4-12-10l-40-125c-4-13-9-26-18-35-12-11-31-16-49-14-30 4-50 21-50 50v134h50v-125c0-4 1-8 3-9 4-4 10-2 13 2 3 3 3 7 4 10l40 125c9 27 32 40 59 40 27-1 50-14 58-40l40-125c1-3 2-7 4-10 4-4 9-6 13-2 2 1 4 5 4 9v125z" fill="#fff" fill-rule="nonzero"/>
+   </g>
+</svg>
