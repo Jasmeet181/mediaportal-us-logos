@@ -3006,6 +3006,7 @@
 			<File>MGM HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 29/02/2020 -->
 			<Item Name="MHz WorldView" />
 			<File>MHz WorldView.png</File>
 		</Channel>
@@ -4779,7 +4780,7 @@
 			</Item>
 			<File>Syfy HD.png</File>
 		</Channel>
-		<Channel
+		<Channel>
 			<Item Name="Syfy (East)">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -6138,6 +6139,7 @@
 			<File>WXTV-DT.png</File>
 		</Channel>
 		<Channel>
+		<!-- MHz WorldView closes 29/02/2020 -->
 			<Item Name="WYCC" />
 			<File>WYCC.png</File>
 		</Channel>
