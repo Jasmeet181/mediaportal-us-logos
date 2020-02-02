@@ -856,6 +856,12 @@
 			<File>CNBC World.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNBC+ HD">
+				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
+			</Item>
+			<File>CNBCPlus HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CNBC">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -2418,6 +2424,10 @@
 			<File>Justice Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KABC-TV" />
+			<File>KABC-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KARE" />
 			<File>KARE.png</File>
 		</Channel>
@@ -2442,6 +2452,14 @@
 			<File>KAZT-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KBCW" />
+			<File>KBCW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KBEH" />
+			<File>KBEH.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KBNT-DT" />
 			<File>KBNT-DT.png</File>
 		</Channel>
@@ -2462,8 +2480,24 @@
 			<File>KBTC-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KCAL-TV" />
+			<File>KCAL-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCBS-TV" />
+			<File>KCBS-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KCDO-TV" />
 			<File>KCDO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCET" />
+			<File>KCET.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCOP" />
+			<File>KCOP.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KCPQ">
@@ -2496,6 +2530,22 @@
 		<Channel>
 			<Item Name="KDFW" />
 			<File>KDFW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KDOC-TV" />
+			<File>KDOC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KDTV-DT" />
+			<File>KDTV-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KEMO-TV" />
+			<File>KEMO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KEMS" />
+			<File>KEMS.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KERA" />
@@ -2544,6 +2594,10 @@
 			<File>KGLA-DT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KGO-TV" />
+			<File>KGO-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KGTV" />
 			<File>KGTV.png</File>
 		</Channel>
@@ -2560,6 +2614,10 @@
 			<File>KIAH.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KICU-TV" />
+			<File>KICU-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KING-HD">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
@@ -2574,8 +2632,20 @@
 			<File>KIRO-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KJLA" />
+			<File>KJLA.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KJNK-LD" />
 			<File>KJNK-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KLCS" />
+			<File>KLCS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KMEX-DT" />
+			<File>KMEX-DT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KMGH-TV" />
@@ -2586,8 +2656,24 @@
 			<File>KMSP-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KMTP-TV" />
+			<File>KMTP-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KNBC" />
+			<File>KNBC.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KNLC" />
 			<File>KNLC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KNSD" />
+			<File>KNSD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KNTV" />
+			<File>KNTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KNXV-TV" />
@@ -2607,6 +2693,10 @@
 			</Item>
 			<Item Name="KOCO-TV" />
 			<File>KOCO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KOFY-TV" />
+			<File>KOFY-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KOKH-HD">
@@ -2630,8 +2720,20 @@
 			<File>KONG.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KPBS" />
+			<File>KPBS.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KPHO-TV" />
 			<File>KPHO-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KPIX-TV" />
+			<File>KPIX-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KPJK" />
+			<File>KPJK.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KPNX" />
@@ -2640,6 +2742,30 @@
 		<Channel>
 			<Item Name="KPRC-TV" />
 			<File>KPRC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQED Kids" />
+			<File>KQED Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQED Plus" />
+			<File>KQED Plus.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQED World" />
+			<File>KQED World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQED" />
+			<File>KQED.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQSL" />
+			<File>KQSL.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KRCB" />
+			<File>KRCB.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KRIV" />
@@ -2666,6 +2792,18 @@
 			<File>KSBI.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KSCI" />
+			<File>KSCI.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSCZ-LD" />
+			<File>KSCZ-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSDY-LD" />
+			<File>KSDY-LD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KSTC-TV" />
 			<File>KSTC-TV.png</File>
 		</Channel>
@@ -2674,11 +2812,19 @@
 			<File>KSTP-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KSTS" />
+			<File>KSTS.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KSTW-HD">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<Item Name="KSTW" />
 			<File>KSTW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KSWB-TV" />
+			<File>KSWB-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTLA" />
@@ -2697,8 +2843,20 @@
 			<File>KTMD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTNC-TV" />
+			<File>KTNC-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTRK-TV" />
 			<File>KTRK-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTSF" />
+			<File>KTSF.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTTV" />
+			<File>KTTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTUZ-TV" />
@@ -2724,6 +2882,10 @@
 			<File>KTVT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTVU" />
+			<File>KTVU.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTVW-DT" />
 			<File>KTVW-DT.png</File>
 		</Channel>
@@ -2734,6 +2896,14 @@
 		<Channel>
 			<Item Name="KTXH" />
 			<File>KTXH.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KUAN-LD" />
+			<File>KUAN-LD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KTVU" />
+			<File>KTVU.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KUBE-TV" />
@@ -2763,12 +2933,28 @@
 			<File>KUVN-DT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KVCR-DT" />
+			<File>KVCR-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KVEA" />
+			<File>KVEA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KVMD" />
+			<File>KVMD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KVOS-TV" />
 			<File>KVOS-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KWGN-TV" />
 			<File>KWGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KWHY-TV" />
+			<File>KWHY-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KWPX-DT7" />
@@ -2784,6 +2970,10 @@
 		<Channel>
 			<Item Name="KXAS-TV" />
 			<File>KXAS-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KXLA" />
+			<File>KXLA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KXLH" />
@@ -2810,6 +3000,10 @@
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
 			<File>KZJO.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KZSD-LP" />
+			<File>KZSD-LP.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KIRO 3">
@@ -6331,12 +6525,6 @@
 		<Channel>
 			<Item Name="Classic Vinyl" />
 			<File>Classic Vinyl.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="CNBC+ HD">
-				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
-			</Item>
-			<File>CNBCPlus HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CNBC" />
