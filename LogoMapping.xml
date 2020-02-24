@@ -213,6 +213,10 @@
 			<File>American Heroes Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="American Uncensored News Network" />
+			<File>American Uncensored News Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="AMGTV" />
 			<File>AMGTV.png</File>
 		</Channel>
@@ -272,6 +276,10 @@
 		<Channel>
 			<Item Name="Arizona NewsChannel" />
 			<File>Arizona NewsChannel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Arkansas PBS" />
+			<File>Arkansas PBS.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ART (Arabic)">
@@ -576,6 +584,14 @@
 			<File>BYU TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="California Music Channel USA" />
+			<File>California Music Channel USA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="California Music Channel" />
+			<File>California Music Channel.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="C-SPAN">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -668,10 +684,6 @@
 			<File>CBN News Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CBS News" />
-			<File>CBS News.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CBS Sports Network HD">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -732,10 +744,6 @@
 		<Channel>
 			<Item Name="Cheddar" />
 			<File>Cheddar.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Chicagoland Television" />
-			<File>Chicagoland Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cine Estelar">
@@ -1015,6 +1023,10 @@
 			<File>Crime and Investigation.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Crossings TV" />
+			<File>Crossings TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CRTV" />
 			<File>CRTV.png</File>
 		</Channel>
@@ -1273,8 +1285,8 @@
 			<File>EBS.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Ecuador TV Internacional" />
-			<File>Ecuador TV Internacional.png</File>
+			<Item Name="Ecuador TV" />
+			<File>Ecuador TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ecuavisa Internacional">
@@ -2432,12 +2444,28 @@
 			<File>KARE.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KARK-TV" />
+			<File>KARK-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Karusel" />
 			<File>Karusel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KARZ-TV" />
+			<File>KARZ-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KASN" />
+			<File>KASN.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KASW" />
 			<File>KASW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KATV" />
+			<File>KATV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KAUT-TV" />
@@ -2509,8 +2537,16 @@
 			<File>KCPQ.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KCRA-TV" />
+			<File>KCRA-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KCSG-DT4" />
 			<File>KCSG-DT4.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KCSO-LD" />
+			<File>KCSO-LD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KCTS-HD">
@@ -2640,8 +2676,20 @@
 			<File>KJNK-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KKYK-CD" />
+			<File>KKYK-CD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KLCS" />
 			<File>KLCS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KLRT-TV" />
+			<File>KLRT-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KMAX-TV" />
+			<File>KMAX-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KMEX-DT" />
@@ -2658,6 +2706,10 @@
 		<Channel>
 			<Item Name="KMTP-TV" />
 			<File>KMTP-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KMYA-DT" />
+			<File>KMYA-DT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KNBC" />
@@ -2720,6 +2772,10 @@
 			<File>KONG.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KOVR" />
+			<File>KOVR.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KPBS" />
 			<File>KPBS.png</File>
 		</Channel>
@@ -2742,6 +2798,10 @@
 		<Channel>
 			<Item Name="KPRC-TV" />
 			<File>KPRC-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KQCA" />
+			<File>KQCA.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KQED Kids" />
@@ -2827,6 +2887,10 @@
 			<File>KSWB-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTHV" />
+			<File>KTHV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTLA" />
 			<File>KTLA.png</File>
 		</Channel>
@@ -2898,6 +2962,10 @@
 			<File>KTXH.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTXL" />
+			<File>KTXL.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KUAN-LD" />
 			<File>KUAN-LD.png</File>
 		</Channel>
@@ -2933,6 +3001,10 @@
 			<File>KUVN-DT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KUVS-DT" />
+			<File>KUVS-DT.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KVCR-DT" />
 			<File>KVCR-DT.png</File>
 		</Channel>
@@ -2941,12 +3013,28 @@
 			<File>KVEA.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KVIE" />
+			<File>KVIE.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KVMD" />
 			<File>KVMD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KVOS-TV" />
 			<File>KVOS-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KVTN" />
+			<File>KVTN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KWCM-MN" />
+			<File>KWCM-MN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KWCM-TV" />
+			<File>KWCM-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KWGN-TV" />
@@ -2982,6 +3070,10 @@
 		<Channel>
 			<Item Name="KXLN" />
 			<File>KXLN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KXTV" />
+			<File>KXTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KTVK" />
@@ -3066,13 +3158,6 @@
 			<File>Little Saigon Radio.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Live Well Network" />
-			<Item Name="WTVD-D2">
-				<Provider>OTA (North Carolina, Raleigh)</Provider>
-			</Item>
-			<File>Live Well Network.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="LMN HD">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -3080,6 +3165,10 @@
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
 			<File>LMN.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Localish" />
+			<File>Localish.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Local Now" />
@@ -3119,6 +3208,10 @@
 			</Item>
 			<Item Name="LRW" />
 			<File>LRW.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LX" />
+			<File>LX.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Maria Vision" />
@@ -3200,7 +3293,7 @@
 			<File>MGM HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 29/02/2020 -->
+		<!-- Closes 01/03/2020 -->
 			<Item Name="MHz WorldView" />
 			<File>MHz WorldView.png</File>
 		</Channel>
@@ -3229,6 +3322,10 @@
 			</Item>
 			<Item Name="Military History" />
 			<File>Military History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Minnesota Channel" />
+			<File>Minnesota Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MLB Extra Innings" />
@@ -3707,6 +3804,10 @@
 			<File>NBCSN.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NECN" />
+			<File>NECN.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NESN National">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -3718,8 +3819,24 @@
 			<File>NESNPlus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="New England Cable News" />
-			<File>New England Cable News.png</File>
+			<Item Name="New Hampshire Create" />
+			<File>New Hampshire Create.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="New Hampshire Explore" />
+			<File>New Hampshire Explore.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="New Hampshire PBS Kids" />
+			<File>New Hampshire PBS Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="New Hampshire PBS" />
+			<File>New Hampshire PBS.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="New Hampshire World" />
+			<File>New Hampshire World.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="News 12+" />
@@ -4104,6 +4221,10 @@
 			</Item>
 			<Item Name="PBS Kids" />
 			<File>PBS Kids.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS Wisconsin" />
+			<File>PBS Wisconsin.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PBS" />
@@ -4634,6 +4755,10 @@
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
 			<File>Sino TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Link TV" />
+			<File>Sky Link TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Smile of a Child">
@@ -5200,6 +5325,10 @@
 			<File>The CW.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="The Dove" />
+			<File>The Dove.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="The Erotic Networks" />
 			<File>The Erotic Networks.png</File>
 		</Channel>
@@ -5541,10 +5670,6 @@
 			<File>TVW.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Twin Cities PBS" />
-			<File>Twin Cities PBS.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TyC Sports">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -5865,6 +5990,14 @@
 			<File>WBND-LD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WBTS-CD" />
+			<File>WBTS-CD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WBZ-TV" />
+			<File>WBZ-TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WCBS-TV" />
 			<File>WCBS-TV.png</File>
 		</Channel>
@@ -5873,12 +6006,16 @@
 			<File>WCCO-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WCEA-LP" />
+			<File>WCEA-LP.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WCIU-TV" />
 			<File>WCIU-TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="WCVB" />
-			<File>WCVB.png</File>
+			<Item Name="WCVB-TV" />
+			<File>WCVB-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WCWW-LD" />
@@ -5947,8 +6084,16 @@
 			<File>WFXT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WGBH" />
+			<File>WGBH.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WGBO-DT" />
 			<File>WGBO-DT.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WGBX-TV" />
+			<File>WGBX-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WGNA HD">
@@ -5977,6 +6122,10 @@
 		<Channel>
 			<Item Name="WGN-TV" />
 			<File>WGN-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WHDH" />
+			<File>WHDH.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WDRN-CD">
@@ -6090,6 +6239,10 @@
 			<File>WLS-TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WLVI" />
+			<File>WLVI.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WMAQ-TV" />
 			<File>WMAQ-TV.png</File>
 		</Channel>
@@ -6108,6 +6261,10 @@
 		<Channel>
 			<Item Name="WMOR-TV" />
 			<File>WMOR-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WMUR-TV" />
+			<File>WMUR-TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WMYS-LD" />
@@ -6129,8 +6286,16 @@
 			<File>WNET.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WNEU" />
+			<File>WNEU.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WNJU" />
 			<File>WNJU.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WNNE" />
+			<File>WNNE.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WNOL-TV" />
@@ -6242,6 +6407,7 @@
 			<File>WTNO-LP.png</File>
 		</Channel>
 		<Channel>
+		<!-- Replace with WTTW Create on 01/03/2020 -->
 			<Item Name="WTTW Create World" />
 			<File>WTTW Create World.png</File>
 		</Channel>
@@ -6285,6 +6451,10 @@
 		<Channel>
 			<Item Name="WUMN-LP" />
 			<File>WUMN-LP.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="WUNI" />
+			<File>WUNI.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="WUPL" />
@@ -6333,7 +6503,7 @@
 			<File>WXTV-DT.png</File>
 		</Channel>
 		<Channel>
-		<!-- MHz WorldView closes 29/02/2020 -->
+		<!-- Replace with WYCC World on 01/03/2020 -->
 			<Item Name="WYCC" />
 			<File>WYCC.png</File>
 		</Channel>
