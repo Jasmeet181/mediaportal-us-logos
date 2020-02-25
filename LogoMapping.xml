@@ -742,8 +742,8 @@
 			<File>CHCH TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Cheddar" />
-			<File>Cheddar.png</File>
+			<Item Name="Cheddar Business" />
+			<File>Cheddar Business.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cine Estelar">
@@ -2399,17 +2399,6 @@
 		<Channel>
 			<Item Name="Jewish Life Television" />
 			<File>Jewish Life Television.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Combo">
-				<Provider>OTA (Washington, Seattle)</Provider>
-			</Item>
-			<Item Name="Juce TV Smile TV" />
-			<File>Juce TV Smile TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Juce TV" />
-			<File>Juce TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Jus Punjabi">
@@ -4365,6 +4354,17 @@
 			</Item>
 			<Item Name="Pop" />
 			<File>Pop.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Combo">
+				<Provider>OTA (Washington, Seattle)</Provider>
+			</Item>
+			<Item Name="Positiv Smile" />
+			<File>Positiv Smile.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Positiv" />
+			<File>Positiv.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Primo TV" />
