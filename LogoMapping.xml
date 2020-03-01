@@ -3282,11 +3282,6 @@
 			<File>MGM HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 01/03/2020 -->
-			<Item Name="MHz WorldView" />
-			<File>MHz WorldView.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Mi Raza" />
 			<File>Mi Raza.png</File>
 		</Channel>
@@ -6407,7 +6402,6 @@
 			<File>WTNO-LP.png</File>
 		</Channel>
 		<Channel>
-		<!-- Replace with WTTW Create on 01/03/2020 -->
 			<Item Name="WTTW Create World" />
 			<File>WTTW Create World.png</File>
 		</Channel>
@@ -6503,7 +6497,6 @@
 			<File>WXTV-DT.png</File>
 		</Channel>
 		<Channel>
-		<!-- Replace with WYCC World on 01/03/2020 -->
 			<Item Name="WYCC" />
 			<File>WYCC.png</File>
 		</Channel>
