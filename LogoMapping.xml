@@ -6083,6 +6083,10 @@
 			<File>WFXT.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="WGBH Kids" />
+			<File>WGBH Kids.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="WGBH" />
 			<File>WGBH.png</File>
 		</Channel>
