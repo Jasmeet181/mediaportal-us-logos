@@ -1478,6 +1478,10 @@
 			<File>Excelsior TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eyeconic Television" />
+			<File>Eyeconic Television.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="FaithUSA" />
 			<File>FaithUSA.png</File>
 		</Channel>
@@ -2235,10 +2239,6 @@
 			<File>Hot TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Houston Public Media" />
-			<File>Houston Public Media.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="HSN 2 HD">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -2959,12 +2959,12 @@
 			<File>KUAN-LD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="KTVU" />
-			<File>KTVU.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="KUBE-TV" />
 			<File>KUBE-TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="KUHT" />
+			<File>KUHT.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="KUNS-TV" />
@@ -4023,6 +4023,10 @@
 		<Channel>
 			<Item Name="NTN24" />
 			<File>NTN24.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NTV Houston" />
+			<File>NTV Houston.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Nudu" />
@@ -6816,18 +6820,6 @@
 		<Channel>
 			<Item Name="Howard 101" />
 			<File>Howard 101.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="HPM Classical" />
-			<File>HPM Classical.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="HPM Mixtape" />
-			<File>HPM Mixtape.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="HPM News 88.7" />
-			<File>HPM News 887.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HUR Voices" />
