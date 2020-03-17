@@ -3101,10 +3101,6 @@
 			<File>Lakeland Kids.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lakeland PBS" />
-			<File>Lakeland PBS.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Lakeland Plus" />
 			<File>Lakeland Plus.png</File>
 		</Channel>
