@@ -3714,12 +3714,20 @@
 			<File>NBC HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="NBC Sports Bay Area Plus" />
+			<File>NBC Sports Bay Area Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="NBC Sports Bay Area" />
 			<File>NBC Sports Bay Area.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NBC Sports Boston" />
 			<File>NBC Sports Boston.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="NBC Sports California Plus" />
+			<File>NBC Sports California Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NBC Sports California" />
