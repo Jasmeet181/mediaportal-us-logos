@@ -1100,6 +1100,10 @@
 			<File>De Pelicula Clasico.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="De Pelicula Plus" />
+			<File>De Pelicula Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="De Pelicula">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
