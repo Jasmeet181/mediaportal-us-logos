@@ -425,6 +425,10 @@
 			<File>Bein Sports Espanol.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bein Sports Xtra" />
+			<File>Bein Sports Xtra.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Bein Sports HD">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -491,6 +495,10 @@
 		<Channel>
 			<Item Name="BizTV" />
 			<File>BizTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Black News Channel" />
+			<File>Black News Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Blackbelt TV" />
@@ -2334,13 +2342,11 @@
 			<File>Insp.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Investigation Discovery HD">
+			<Item Name="ID" />
+			<Item Name="Investigation Discovery">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
-			<File>Investigation Discovery HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Investigation Discovery">
+			<Item Name="Investigation Discovery HD">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
 			<File>Investigation Discovery.png</File>
@@ -3205,6 +3211,10 @@
 		<Channel>
 			<Item Name="Maria Vision" />
 			<File>Maria Vision.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Marquee Sports Network" />
+			<File>Marquee Sports Network.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MASN 2 HD">
@@ -4850,6 +4860,10 @@
 			<File>Spectrum Sports.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Spectrum SportsNet" />
+			<File>Spectrum SportsNet.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Spectrum SportsNet LA" />
 			<File>Spectrum SportsNet LA.png</File>
 		</Channel>
@@ -5288,6 +5302,11 @@
 		<Channel>
 			<Item Name="Telexitos" />
 			<File>Telexitos.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Temple University Television" />
+			<Item Name="TUTV" />
+			<File>Temple University Television.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tennis Channel HD">
@@ -6531,6 +6550,10 @@
 		<Channel>
 			<Item Name="Xtsy" />
 			<File>Xtsy.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Yahoo Finance" />
+			<File>Yahoo Finance.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="YES HD (National)">
