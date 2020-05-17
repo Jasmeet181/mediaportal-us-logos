@@ -997,9 +997,6 @@
 			<Item Name="WRAL DT">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
-			<Item Name="WRAL-SD">
-				<Provider>OTA (North Carolina, Raleigh)</Provider>
-			</Item>
 			<File>Cozi TV.png</File>
 		</Channel>
 		<Channel>
@@ -2941,6 +2938,10 @@
 			<File>KTVK.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="KTVK-DT4" />
+			<File>KTVK-DT4.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="KTVT" />
 			<File>KTVT.png</File>
 		</Channel>
@@ -3100,8 +3101,7 @@
 			<Item Name="KIRO 3">
 				<Provider>OTA (Washington, Seattle)</Provider>
 			</Item>
-			<Item Name="Laff" />
-			<Item Name="WTVD-D3">
+			<Item Name="Laff">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<File>Laff.png</File>
@@ -3163,6 +3163,9 @@
 		</Channel>
 		<Channel>
 			<Item Name="Localish" />
+			<Item Name="Loclish">
+				<Provider>OTA (North Carolina, Raleigh)</Provider>
+			</Item>
 			<File>Localish.png</File>
 		</Channel>
 		<Channel>
@@ -3271,8 +3274,7 @@
 			<File>Mega TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MeTV" />
-			<Item Name="Me TV">
+			<Item Name="MeTV">
 				<Provider>OTA (North Carolina, Raleigh)</Provider>
 			</Item>
 			<Item Name="WVEC Me TV">
