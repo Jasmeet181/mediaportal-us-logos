@@ -3362,6 +3362,11 @@
 			<File>Montana PBS.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Montana Public Affairs Network" />
+			<Item Name="MPAN" />
+			<File>Montana Public Affairs Network.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="More Max HD (West)">
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
@@ -5292,10 +5297,6 @@
 				<Provider>Verizon Fios (Virginia, Norfolk)</Provider>
 			</Item>
 			<File>Television Dominicana.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Television Montana" />
-			<File>Television Montana.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Televiva" />
